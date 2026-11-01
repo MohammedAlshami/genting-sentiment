@@ -20,6 +20,8 @@ The website is the story. This repository is the evidence: every collector, ever
 
 Sources: i3investor, KLSE Screener, Moomoo Malaysia, YouTube, TikTok, Lowyat.NET, Cari, Reddit, Facebook public pages, Instagram, LinkedIn, i3 blogs, TradingView, and Malaysian news outlets.
 
+Full per-source counts, date ranges and usability notes: **[DATA_INVENTORY.md](DATA_INVENTORY.md)**.
+
 ## What is in the repository
 
 ```
