@@ -1,0 +1,37 @@
+symbol,event_date,event,horizon,end_date,return_pct
+GENTING,2025-10-13,RM2.35 privatisation offer,1d,2025-10-13,0.0
+GENTING,2025-10-13,RM2.35 privatisation offer,5d,2025-10-17,17.83
+GENTING,2025-10-13,RM2.35 privatisation offer,20d,2025-11-10,20.98
+GENTING,2025-12-01,Offer closes below 75%,1d,2025-12-01,2.75
+GENTING,2025-12-01,Offer closes below 75%,5d,2025-12-05,-0.61
+GENTING,2025-12-01,Offer closes below 75%,20d,2025-12-29,-8.26
+GENTING,2025-12-16,RWNYC licence awarded,1d,2025-12-16,0.99
+GENTING,2025-12-16,RWNYC licence awarded,5d,2025-12-22,0.0
+GENTING,2025-12-16,RWNYC licence awarded,20d,2026-01-14,-1.99
+GENTING,2026-05-01,RWNYC opens as full casino,1d,2026-05-04,0.39
+GENTING,2026-05-01,RWNYC opens as full casino,5d,2026-05-08,-1.95
+GENTING,2026-05-01,RWNYC opens as full casino,20d,2026-06-03,-10.51
+GENTING,2026-10-09,RM1.25b rights issue announced,1d,2026-10-09,2.17
+GENTING,2026-10-09,RM1.25b rights issue announced,5d,2026-10-15,-21.2
+GENTING,2026-10-09,RM1.25b rights issue announced,20d,2026-10-30,-16.3
+GENTING,2026-10-12,22.87% single-day fall,1d,2026-10-12,-22.87
+GENTING,2026-10-12,22.87% single-day fall,5d,2026-10-16,-22.87
+GENTING,2026-10-12,22.87% single-day fall,20d,2026-10-30,-18.09
+GENM,2025-10-13,RM2.35 privatisation offer,1d,2025-10-13,0.0
+GENM,2025-10-13,RM2.35 privatisation offer,5d,2025-10-17,9.35
+GENM,2025-10-13,RM2.35 privatisation offer,20d,2025-11-10,9.81
+GENM,2025-12-01,Offer closes below 75%,1d,2025-12-01,0.0
+GENM,2025-12-01,Offer closes below 75%,5d,2025-12-05,-6.38
+GENM,2025-12-01,Offer closes below 75%,20d,2025-12-29,-12.34
+GENM,2025-12-16,RWNYC licence awarded,1d,2025-12-16,0.98
+GENM,2025-12-16,RWNYC licence awarded,5d,2025-12-22,1.47
+GENM,2025-12-16,RWNYC licence awarded,20d,2026-01-14,0.98
+GENM,2026-05-01,RWNYC opens as full casino,1d,2026-05-04,-0.51
+GENM,2026-05-01,RWNYC opens as full casino,5d,2026-05-08,0.51
+GENM,2026-05-01,RWNYC opens as full casino,20d,2026-06-03,-3.03
+GENM,2026-10-09,RM1.25b rights issue announced,1d,2026-10-09,2.05
+GENM,2026-10-09,RM1.25b rights issue announced,5d,2026-10-15,-12.33
+GENM,2026-10-09,RM1.25b rights issue announced,20d,2026-10-30,-14.38
+GENM,2026-10-12,22.87% single-day fall,1d,2026-10-12,-17.45
+GENM,2026-10-12,22.87% single-day fall,5d,2026-10-16,-14.77
+GENM,2026-10-12,22.87% single-day fall,20d,2026-10-30,-16.11

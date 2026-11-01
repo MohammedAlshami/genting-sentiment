@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#111412"/>
+  <g stroke="#FFF7DD" stroke-opacity="0.06">
+    <path d="M0 200H800M0 400H800M0 600H800M0 800H800"/>
+  </g>
+  <text x="70" y="430" font-family="Syne, sans-serif" font-size="150" font-weight="800" fill="#FFF7DD">69,710</text>
+  <text x="74" y="480" font-family="JetBrains Mono, monospace" font-size="16" letter-spacing="4" fill="#FFF7DD" fill-opacity="0.4">POSTS + COMMENTS</text>
+  <text x="74" y="540" font-family="JetBrains Mono, monospace" font-size="14" letter-spacing="3" fill="#FFF7DD" fill-opacity="0.25">NINE PUBLIC SOURCES</text>
+</svg>

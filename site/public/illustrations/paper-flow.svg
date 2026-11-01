@@ -1,0 +1,29 @@
+<svg width="255" height="151" viewBox="0 0 255 151" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- trigger -->
+  <rect x="8" y="56" width="58" height="38" rx="8" stroke="#FFF7DD" stroke-width="2"/>
+  <path d="M20 70H54" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round"/>
+  <path d="M20 80H44" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round"/>
+  <!-- arrow -->
+  <path d="M66 75H90" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round"/>
+  <path d="M84 69L90 75L84 81" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- the run -->
+  <rect x="96" y="32" width="72" height="86" rx="10" stroke="#FFF7DD" stroke-width="2"/>
+  <circle cx="110" cy="50" r="5" stroke="#FFF7DD" stroke-width="2"/>
+  <path d="M108 50.3L109.6 51.9L112.3 48.6" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M122 50H156" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="110" cy="74" r="5" stroke="#FFF7DD" stroke-width="2"/>
+  <path d="M110 69.5A4.5 4.5 0 1 0 110 78.5" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round"/>
+  <path d="M122 74H150" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round"/>
+  <rect x="108" y="86" width="42" height="5" rx="2.5" fill="#FFF7DD" fill-opacity="0.45"/>
+  <circle cx="110" cy="104" r="5" stroke="#FFF7DD" stroke-width="2"/>
+  <path d="M108.2 102.2L111.8 105.8M111.8 102.2L108.2 105.8" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round"/>
+  <path d="M122 104H156" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round"/>
+  <!-- arrow -->
+  <path d="M168 75H192" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round"/>
+  <path d="M186 69L192 75L186 81" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- approval -->
+  <rect x="198" y="56" width="50" height="38" rx="8" stroke="#FFF7DD" stroke-width="2"/>
+  <path d="M212 75L218 81L232 66" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- baseline -->
+  <path d="M16 130H238" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round" stroke-opacity="0.25"/>
+</svg>

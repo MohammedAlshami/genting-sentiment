@@ -1,0 +1,3144 @@
+page,table_index,row,col,value_text,value_number,row_label,col_label,strategy
+1,1,1,1,UNAUDITED CUMULATIVE,,,,lines
+1,1,1,2,,,,,lines
+1,1,2,1,PERIOD,,,,lines
+1,1,2,2,,,,,lines
+1,1,3,1,Three months ended,,,,lines
+1,1,3,2,,,,,lines
+1,1,4,1,31 March,,,,lines
+1,1,4,2,,,,,lines
+1,1,5,1,2016,2016.0,31 March,,lines
+1,1,5,2,2015,2015.0,31 March,,lines
+1,1,6,1,RM’000,,,,lines
+1,1,6,2,RM’000,,,,lines
+1,1,7,1,,,,,lines
+1,1,7,2,,,,,lines
+1,1,8,1,"2,214,35",221435.0,,,lines
+1,1,8,2,"2,093,140",2093140.0,,,lines
+2,1,1,1,2016,2016.0,,UNAUDITED INDIVIDUAL / First quarter ended,words
+2,1,1,2,2015,2015.0,,UNAUDITED INDIVIDUAL / First quarter ended,words
+2,1,1,3,2016,2016.0,,UNAUDITED CUMULATIVE / Three months ended,words
+2,1,1,4,2015,2015.0,,UNAUDITED CUMULATIVE / Three months ended,words
+2,1,2,1,RM’000,,,,words
+2,1,2,2,RM’000,,,,words
+2,1,2,3,RM’000,,,,words
+2,1,2,4,RM’000,,,,words
+2,1,3,1,Profit for the financial period,,,,words
+2,1,3,2,"144,131",144131.0,Profit for the financial period,UNAUDITED INDIVIDUAL / QUARTER / First quarter ended / 31 March,words
+2,1,3,3,"358,257",358257.0,Profit for the financial period,UNAUDITED INDIVIDUAL / First quarter ended,words
+2,1,3,4,"144,131",144131.0,Profit for the financial period,UNAUDITED CUMULATIVE / PERIOD / Three months ended / 31 March,words
+2,1,3,5,"358,257",358257.0,Profit for the financial period,UNAUDITED CUMULATIVE / Three months ended,words
+2,2,1,1,- Fair value (loss)/gain,,,,words
+2,2,1,2,"(27,920)",-27920.0,- Fair value (loss)/gain,,words
+2,2,1,3,"71,118",71118.0,- Fair value (loss)/gain,,words
+2,2,1,4,"(27,920)",-27920.0,- Fair value (loss)/gain,,words
+2,2,1,5,"71,118",71118.0,- Fair value (loss)/gain,,words
+2,2,2,1,- Reclassification to profit or loss upon,,,,words
+2,2,3,1,-,,,,words
+2,2,3,2,"(3,732)",-3732.0,-,,words
+2,2,3,3,-,,,,words
+2,2,3,4,"(3,732)",-3732.0,-,,words
+2,2,4,1,disposal,,,,words
+2,2,5,1,Cash flow hedges,,,,words
+2,2,6,1,- Fair value loss,,,,words
+2,2,6,2,"(1,188)",-1188.0,- Fair value loss,,words
+2,2,6,3,"(1,688)",-1688.0,- Fair value loss,,words
+2,2,6,4,"(1,188)",-1188.0,- Fair value loss,,words
+2,2,6,5,"(1,688)",-1688.0,- Fair value loss,,words
+2,2,7,1,Foreign currency exchange differences,,,,words
+2,2,7,2,"(1,226,080)",-1226080.0,Foreign currency exchange differences,,words
+2,2,7,3,"547,230",547230.0,Foreign currency exchange differences,,words
+2,2,7,4,"(1,226,080)",-1226080.0,Foreign currency exchange differences,,words
+2,2,7,5,"547,230",547230.0,Foreign currency exchange differences,,words
+2,2,8,1,"Other comprehensive (loss)/income,",,,,words
+2,2,9,1,"(1,255,188)",-1255188.0,"Other comprehensive (loss)/income,",,words
+2,2,9,2,"612,928",612928.0,"Other comprehensive (loss)/income,",,words
+2,2,9,3,"(1,255,188)",-1255188.0,"Other comprehensive (loss)/income,",,words
+2,2,9,4,"612,928",612928.0,"Other comprehensive (loss)/income,",,words
+2,2,10,1,net of tax,,,,words
+2,2,11,1,Total comprehensive (loss)/income for,,,,words
+2,2,12,1,"(1,111,057)",-1111057.0,Total comprehensive (loss)/income for,,words
+2,2,12,2,"971,185",971185.0,Total comprehensive (loss)/income for,,words
+2,2,12,3,"(1,111,057)",-1111057.0,Total comprehensive (loss)/income for,,words
+2,2,12,4,"971,185",971185.0,Total comprehensive (loss)/income for,,words
+2,2,13,1,the financial period,,,,words
+2,2,14,1,Total comprehensive (loss)/income,,,,words
+2,2,15,1,attributable to:,,,,words
+2,2,16,1,Equity holders of the Company,,,,words
+2,2,16,2,"(1,092,228)",-1092228.0,Equity holders of the Company,,words
+2,2,16,3,"977,333",977333.0,Equity holders of the Company,,words
+2,2,16,4,"(1,092,228)",-1092228.0,Equity holders of the Company,,words
+2,2,16,5,"977,333",977333.0,Equity holders of the Company,,words
+2,2,17,1,Non-controlling interests,,,,words
+2,2,17,2,"(18,829)",-18829.0,Non-controlling interests,,words
+2,2,17,3,"(6,148)",-6148.0,Non-controlling interests,,words
+2,2,17,4,"(18,829)",-18829.0,Non-controlling interests,,words
+2,2,17,5,"(6,148)",-6148.0,Non-controlling interests,,words
+2,2,18,1,"(1,111,057)",-1111057.0,attributable to:,,words
+2,2,18,2,"971,185",971185.0,attributable to:,,words
+2,2,18,3,"(1,111,057)",-1111057.0,attributable to:,,words
+2,2,18,4,"971,185",971185.0,attributable to:,,words
+3,1,1,1,"Property, plant and equipment",,,,words
+3,1,1,2,"9,929,374",9929374.0,"Property, plant and equipment",UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,1,3,"10,475,088",10475088.0,"Property, plant and equipment",As at / 31.12.2015 / RM’000,words
+3,1,2,1,Land held for property development,,,,words
+3,1,2,2,"184,672",184672.0,Land held for property development,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,2,3,"184,672",184672.0,Land held for property development,As at / 31.12.2015 / RM’000,words
+3,1,3,1,Investment properties,,,,words
+3,1,3,2,"2,094,471",2094471.0,Investment properties,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,3,3,"2,293,363",2293363.0,Investment properties,As at / 31.12.2015 / RM’000,words
+3,1,4,1,Intangible assets,,,,words
+3,1,4,2,"4,773,980",4773980.0,Intangible assets,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,4,3,"5,367,250",5367250.0,Intangible assets,As at / 31.12.2015 / RM’000,words
+3,1,5,1,Available-for-sale financial assets,,,,words
+3,1,5,2,"89,955",89955.0,Available-for-sale financial assets,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,5,3,"99,150",99150.0,Available-for-sale financial assets,As at / 31.12.2015 / RM’000,words
+3,1,6,1,Other non-current assets,,,,words
+3,1,6,2,"1,235,402",1235402.0,Other non-current assets,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,6,3,"322,182",322182.0,Other non-current assets,As at / 31.12.2015 / RM’000,words
+3,1,7,1,Deferred tax assets,,,,words
+3,1,7,2,"151,803",151803.0,Deferred tax assets,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,7,3,"237,784",237784.0,Deferred tax assets,As at / 31.12.2015 / RM’000,words
+3,1,8,1,"18,459,657",18459657.0,,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,8,2,"18,979,489",18979489.0,,As at / 31.12.2015 / RM’000,words
+3,1,9,1,Current assets,,,,words
+3,1,10,1,Inventories,,,,words
+3,1,10,2,"101,048",101048.0,Inventories,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,10,3,"119,791",119791.0,Inventories,As at / 31.12.2015 / RM’000,words
+3,1,11,1,Trade and other receivables,,,,words
+3,1,11,2,"545,832",545832.0,Trade and other receivables,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,11,3,"1,242,809",1242809.0,Trade and other receivables,As at / 31.12.2015 / RM’000,words
+3,1,12,1,Amounts due from other related companies,,,,words
+3,1,12,2,"10,335",10335.0,Amounts due from other related companies,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,12,3,"24,910",24910.0,Amounts due from other related companies,As at / 31.12.2015 / RM’000,words
+3,1,13,1,Financial asset at fair value through profit or loss,,,,words
+3,1,13,2,"6,615",6615.0,Financial asset at fair value through profit or loss,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,13,3,"8,068",8068.0,Financial asset at fair value through profit or loss,As at / 31.12.2015 / RM’000,words
+3,1,14,1,Available-for-sale financial assets,,,,words
+3,1,14,2,"550,000",550000.0,Available-for-sale financial assets,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,14,3,"550,000",550000.0,Available-for-sale financial assets,As at / 31.12.2015 / RM’000,words
+3,1,15,1,Restricted cash,,,,words
+3,1,15,2,"33,166",33166.0,Restricted cash,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,15,3,"80,701",80701.0,Restricted cash,As at / 31.12.2015 / RM’000,words
+3,1,16,1,Cash and cash equivalents,,,,words
+3,1,16,2,"4,444,396",4444396.0,Cash and cash equivalents,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,16,3,"4,518,966",4518966.0,Cash and cash equivalents,As at / 31.12.2015 / RM’000,words
+3,1,17,1,"5,691,392",5691392.0,Current assets,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,17,2,"6,545,245",6545245.0,Current assets,As at / 31.12.2015 / RM’000,words
+3,1,18,1,Assets classified as held for sale,,,,words
+3,1,18,2,"1,781,100",1781100.0,Assets classified as held for sale,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,18,3,"1,995,996",1995996.0,Assets classified as held for sale,As at / 31.12.2015 / RM’000,words
+3,1,19,1,"7,472,492",7472492.0,Current assets,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,19,2,"8,541,241",8541241.0,Current assets,As at / 31.12.2015 / RM’000,words
+3,1,20,1,TOTAL ASSETS,,,,words
+3,1,20,2,"25,932,149",25932149.0,TOTAL ASSETS,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,20,3,"27,520,730",27520730.0,TOTAL ASSETS,As at / 31.12.2015 / RM’000,words
+3,1,21,1,EQUITY AND LIABILITIES,,,,words
+3,1,22,1,Equity attributable to equity holders of the Company,,,,words
+3,1,23,1,Share capital,,,,words
+3,1,23,2,"593,804",593804.0,Share capital,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,23,3,"593,804",593804.0,Share capital,As at / 31.12.2015 / RM’000,words
+3,1,24,1,Reserves,,,,words
+3,1,24,2,"18,360,133",18360133.0,Reserves,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,24,3,"19,450,580",19450580.0,Reserves,As at / 31.12.2015 / RM’000,words
+3,1,25,1,Treasury shares,,,,words
+3,1,25,2,"(906,707)",-906707.0,Treasury shares,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,25,3,"(906,707)",-906707.0,Treasury shares,As at / 31.12.2015 / RM’000,words
+3,1,26,1,Shares held for employee share scheme,,,,words
+3,1,26,2,"(45,769)",-45769.0,Shares held for employee share scheme,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,26,3,"(57,267)",-57267.0,Shares held for employee share scheme,As at / 31.12.2015 / RM’000,words
+3,1,27,1,"18,001,461",18001461.0,Equity attributable to equity holders of the Company,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,27,2,"19,080,410",19080410.0,Equity attributable to equity holders of the Company,As at / 31.12.2015 / RM’000,words
+3,1,28,1,Non-controlling interests,,,,words
+3,1,28,2,"(48,869)",-48869.0,Non-controlling interests,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,28,3,"25,944",25944.0,Non-controlling interests,As at / 31.12.2015 / RM’000,words
+3,1,29,1,TOTAL EQUITY,,,,words
+3,1,29,2,"17,952,592",17952592.0,TOTAL EQUITY,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,29,3,"19,106,354",19106354.0,TOTAL EQUITY,As at / 31.12.2015 / RM’000,words
+3,1,30,1,Non-current liabilities,,,,words
+3,1,31,1,Other long term liabilities,,,,words
+3,1,31,2,"196,023",196023.0,Other long term liabilities,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,31,3,"198,896",198896.0,Other long term liabilities,As at / 31.12.2015 / RM’000,words
+3,1,32,1,Long term borrowings,,,,words
+3,1,32,2,"3,643,509",3643509.0,Long term borrowings,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,32,3,"3,840,862",3840862.0,Long term borrowings,As at / 31.12.2015 / RM’000,words
+3,1,33,1,Deferred tax liabilities,,,,words
+3,1,33,2,"604,430",604430.0,Deferred tax liabilities,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,33,3,"706,477",706477.0,Deferred tax liabilities,As at / 31.12.2015 / RM’000,words
+3,1,34,1,Derivative financial instruments,,,,words
+3,1,34,2,"2,192",2192.0,Derivative financial instruments,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,34,3,"1,461",1461.0,Derivative financial instruments,As at / 31.12.2015 / RM’000,words
+3,1,35,1,"4,446,154",4446154.0,Non-current liabilities,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,35,2,"4,747,696",4747696.0,Non-current liabilities,As at / 31.12.2015 / RM’000,words
+3,1,36,1,Current liabilities,,,,words
+3,1,37,1,Trade and other payables,,,,words
+3,1,37,2,"2,273,179",2273179.0,Trade and other payables,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,37,3,"2,647,741",2647741.0,Trade and other payables,As at / 31.12.2015 / RM’000,words
+3,1,38,1,Amount due to holding company,,,,words
+3,1,38,2,"19,317",19317.0,Amount due to holding company,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,38,3,"21,844",21844.0,Amount due to holding company,As at / 31.12.2015 / RM’000,words
+3,1,39,1,Amounts due to other related companies,,,,words
+3,1,39,2,"156,091",156091.0,Amounts due to other related companies,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,39,3,"158,166",158166.0,Amounts due to other related companies,As at / 31.12.2015 / RM’000,words
+3,1,40,1,Short term borrowings,,,,words
+3,1,40,2,"1,029,190",1029190.0,Short term borrowings,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,40,3,"783,967",783967.0,Short term borrowings,As at / 31.12.2015 / RM’000,words
+3,1,41,1,Derivative financial instruments,,,,words
+3,1,41,2,"3,299",3299.0,Derivative financial instruments,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,41,3,"3,444",3444.0,Derivative financial instruments,As at / 31.12.2015 / RM’000,words
+3,1,42,1,Taxation,,,,words
+3,1,42,2,"52,327",52327.0,Taxation,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,42,3,"51,518",51518.0,Taxation,As at / 31.12.2015 / RM’000,words
+3,1,43,1,"3,533,403",3533403.0,Current liabilities,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,43,2,"3,666,680",3666680.0,Current liabilities,As at / 31.12.2015 / RM’000,words
+3,1,44,1,TOTAL LIABILITIES,,,,words
+3,1,44,2,"7,979,557",7979557.0,TOTAL LIABILITIES,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,44,3,"8,414,376",8414376.0,TOTAL LIABILITIES,As at / 31.12.2015 / RM’000,words
+3,1,45,1,TOTAL EQUITY AND LIABILITIES,,,,words
+3,1,45,2,"25,932,149",25932149.0,TOTAL EQUITY AND LIABILITIES,UNAUDITED / As at / 31.03.2016 / RM’000,words
+3,1,45,3,"27,520,730",27520730.0,TOTAL EQUITY AND LIABILITIES,As at / 31.12.2015 / RM’000,words
+3,1,46,1,NET ASSETS PER SHARE (RM),,,,words
+3,1,46,2,3.18,3.18,NET ASSETS PER SHARE (RM),UNAUDITED / 31.03.2016 / RM’000,words
+3,1,46,3,3.37,3.37,NET ASSETS PER SHARE (RM),31.12.2015 / RM’000,words
+4,1,1,1,,,,,lines
+4,1,1,2,,,,,lines
+4,1,1,3,RM'000,,,,lines
+4,1,1,4,RM'000,,,,lines
+4,1,1,5,RM'000,,,,lines
+4,1,1,6,RM'000,,,,lines
+4,1,1,7,RM'000,,,,lines
+4,1,1,8,RM'000,,,,lines
+4,1,1,9,RM'000,,,,lines
+4,1,1,10,RM'000,,,,lines
+4,1,1,11,RM'000,,,,lines
+4,1,1,12,RM'000,,,,lines
+4,1,1,13,RM'000,,,,lines
+4,1,2,1,,,,,lines
+4,1,2,2,,,,,lines
+4,1,2,3,,,,,lines
+4,1,2,4,,,,,lines
+4,1,2,5,,,,,lines
+4,1,2,6,,,,,lines
+4,1,2,7,,,,,lines
+4,1,2,8,,,,,lines
+4,1,2,9,,,,,lines
+4,1,2,10,,,,,lines
+4,1,2,11,,,,,lines
+4,1,2,12,,,,,lines
+4,1,2,13,,,,,lines
+4,1,3,1,At 1 January 2016,,,,lines
+4,1,3,2,,,,,lines
+4,1,3,3,"593,804",593804.0,At 1 January 2016,,lines
+4,1,3,4,"1,170,620",1170620.0,At 1 January 2016,,lines
+4,1,3,5,"1,077,734",1077734.0,At 1 January 2016,,lines
+4,1,3,6,"(4,006)",-4006.0,At 1 January 2016,,lines
+4,1,3,7,"2,857,714",2857714.0,At 1 January 2016,,lines
+4,1,3,8,"(906,707)",-906707.0,At 1 January 2016,,lines
+4,1,3,9,"(57,267)",-57267.0,At 1 January 2016,,lines
+4,1,3,10,"14,348,518",14348518.0,At 1 January 2016,,lines
+4,1,3,11,"19,080,410",19080410.0,At 1 January 2016,,lines
+4,1,3,12,"25,944",25944.0,At 1 January 2016,,lines
+4,1,3,13,"19,106,354",19106354.0,At 1 January 2016,,lines
+4,1,4,1,,,,,lines
+4,1,4,2,,,,,lines
+4,1,4,3,,,,,lines
+4,1,4,4,,,,,lines
+4,1,4,5,,,,,lines
+4,1,4,6,,,,,lines
+4,1,4,7,,,,,lines
+4,1,4,8,,,,,lines
+4,1,4,9,,,,,lines
+4,1,4,10,,,,,lines
+4,1,4,11,,,,,lines
+4,1,4,12,,,,,lines
+4,1,4,13,,,,,lines
+4,1,5,1,Total comprehensive (loss)/income for the,,,,lines
+4,1,5,2,,,,,lines
+4,1,5,3,,,,,lines
+4,1,5,4,,,,,lines
+4,1,5,5,,,,,lines
+4,1,5,6,,,,,lines
+4,1,5,7,,,,,lines
+4,1,5,8,,,,,lines
+4,1,5,9,,,,,lines
+4,1,5,10,,,,,lines
+4,1,5,11,,,,,lines
+4,1,5,12,,,,,lines
+4,1,5,13,,,,,lines
+4,1,6,1,,,,,lines
+4,1,6,2,period,,,,lines
+4,1,6,3,-,,,,lines
+4,1,6,4,-,,,,lines
+4,1,6,5,"(27,920",27920.0,period - -,,lines
+4,1,6,6,") (1,188)",,,,lines
+4,1,6,7,"(1,224,687)",-1224687.0,period - -,,lines
+4,1,6,8,-,,,,lines
+4,1,6,9,-,,,,lines
+4,1,6,10,"161,567",161567.0,period - -,,lines
+4,1,6,11,"(1,092,228)",-1092228.0,period - -,,lines
+4,1,6,12,"(18,829)",-18829.0,period - -,,lines
+4,1,6,13,"(1,111,057)",-1111057.0,period - -,,lines
+4,1,7,1,,,,,lines
+4,1,7,2,,,,,lines
+4,1,7,3,,,,,lines
+4,1,7,4,,,,,lines
+4,1,7,5,,,,,lines
+4,1,7,6,,,,,lines
+4,1,7,7,,,,,lines
+4,1,7,8,,,,,lines
+4,1,7,9,,,,,lines
+4,1,7,10,,,,,lines
+4,1,7,11,,,,,lines
+4,1,7,12,,,,,lines
+4,1,7,13,,,,,lines
+4,1,8,1,Transactions with owners:,,,,lines
+4,1,8,2,,,,,lines
+4,1,8,3,,,,,lines
+4,1,8,4,,,,,lines
+4,1,8,5,,,,,lines
+4,1,8,6,,,,,lines
+4,1,8,7,,,,,lines
+4,1,8,8,,,,,lines
+4,1,8,9,,,,,lines
+4,1,8,10,,,,,lines
+4,1,8,11,,,,,lines
+4,1,8,12,,,,,lines
+4,1,8,13,,,,,lines
+4,1,9,1,,,,,lines
+4,1,9,2,,,,,lines
+4,1,9,3,,,,,lines
+4,1,9,4,,,,,lines
+4,1,9,5,,,,,lines
+4,1,9,6,,,,,lines
+4,1,9,7,,,,,lines
+4,1,9,8,,,,,lines
+4,1,9,9,,,,,lines
+4,1,9,10,,,,,lines
+4,1,9,11,,,,,lines
+4,1,9,12,,,,,lines
+4,1,9,13,,,,,lines
+4,1,10,1,Changes in ownership interest in a subsidiary,,,,lines
+4,1,10,2,,,,,lines
+4,1,10,3,"- - - - - - - 5,551 5,551 (55,984) (50,433) - - - - 7,728 - - - 7,728 - 7,728",,,,lines
+4,1,10,4,,,,,lines
+4,1,10,5,,,,,lines
+4,1,10,6,,,,,lines
+4,1,10,7,,,,,lines
+4,1,10,8,,,,,lines
+4,1,10,9,,,,,lines
+4,1,10,10,,,,,lines
+4,1,10,11,,,,,lines
+4,1,10,12,,,,,lines
+4,1,10,13,,,,,lines
+4,1,11,1,upon finalisation of purchase price allocation,,,,lines
+4,1,11,2,,,,,lines
+4,1,11,3,-,,,,lines
+4,1,11,4,-,,,,lines
+4,1,11,5,-,,,,lines
+4,1,11,6,-,,,,lines
+4,1,11,7,,,,,lines
+4,1,11,8,-,,,,lines
+4,1,11,9,-,,,,lines
+4,1,11,10,"5,551",5551.0,upon finalisation of purchase price allocation  - - - -  - -,,lines
+4,1,11,11,"5,551",5551.0,upon finalisation of purchase price allocation  - - - -  - -,,lines
+4,1,11,12,"(55,984)",-55984.0,upon finalisation of purchase price allocation  - - - -  - -,,lines
+4,1,11,13,"(50,433)",-50433.0,upon finalisation of purchase price allocation  - - - -  - -,,lines
+4,1,12,1,Performance-based employee share scheme,,,,lines
+4,1,12,2,,,,,lines
+4,1,12,3,-,,,,lines
+4,1,12,4,-,,,,lines
+4,1,12,5,-,,,,lines
+4,1,12,6,-,,,,lines
+4,1,12,7,,,,,lines
+4,1,12,8,-,,,,lines
+4,1,12,9,-,,,,lines
+4,1,12,10,-,,,,lines
+4,1,12,11,"7,728",7728.0,Performance-based employee share scheme  - - - -  - - -,,lines
+4,1,12,12,-,,,,lines
+4,1,12,13,"7,728",7728.0,Performance-based employee share scheme  - - - -  - - -,,lines
+4,1,13,1,Employee share scheme shares vested to,,,,lines
+4,1,13,2,,,,,lines
+4,1,13,3,,,,,lines
+4,1,13,4,,,,,lines
+4,1,13,5,,,,,lines
+4,1,13,6,,,,,lines
+4,1,13,7,,,,,lines
+4,1,13,8,,,,,lines
+4,1,13,9,,,,,lines
+4,1,13,10,,,,,lines
+4,1,13,11,,,,,lines
+4,1,13,12,,,,,lines
+4,1,13,13,,,,,lines
+4,1,14,1,employees,,,,lines
+4,1,14,2,,,,,lines
+4,1,14,3,-,,,,lines
+4,1,14,4,-,,,,lines
+4,1,14,5,-,,,,lines
+4,1,14,6,-,,,,lines
+4,1,14,7,"(11,498)",-11498.0,employees  - - - -,,lines
+4,1,14,8,-,,,,lines
+4,1,14,9,"11,498",11498.0,employees  - - - -,,lines
+4,1,14,10,-,,,,lines
+4,1,14,11,-,,,,lines
+4,1,14,12,-,,,,lines
+4,1,14,13,-,,,,lines
+4,1,15,1,,,,,lines
+4,1,15,2,,,,,lines
+4,1,15,3,,,,,lines
+4,1,15,4,,,,,lines
+4,1,15,5,,,,,lines
+4,1,15,6,,,,,lines
+4,1,15,7,,,,,lines
+4,1,15,8,,,,,lines
+4,1,15,9,,,,,lines
+4,1,15,10,,,,,lines
+4,1,15,11,,,,,lines
+4,1,15,12,,,,,lines
+4,1,15,13,,,,,lines
+4,2,1,1,Total transactions with owners,,,,lines
+4,2,1,2,-,,,,lines
+4,2,1,3,-,,,,lines
+4,2,1,4,-,,,,lines
+4,2,1,5,-,,,,lines
+4,2,1,6,"(3,770)",-3770.0,Total transactions with owners - - - -,,lines
+4,2,1,7,-,,,,lines
+4,2,1,8,"11,498",11498.0,Total transactions with owners - - - -,,lines
+4,2,1,9,"5,551",5551.0,Total transactions with owners - - - -,,lines
+4,2,1,10,"13,279",13279.0,Total transactions with owners - - - -,,lines
+4,2,1,11,"(55,984)",-55984.0,Total transactions with owners - - - -,,lines
+4,2,1,12,"(42,705)",-42705.0,Total transactions with owners - - - -,,lines
+4,2,2,1,,,,,lines
+4,2,2,2,,,,,lines
+4,2,2,3,,,,,lines
+4,2,2,4,,,,,lines
+4,2,2,5,,,,,lines
+4,2,2,6,,,,,lines
+4,2,2,7,,,,,lines
+4,2,2,8,,,,,lines
+4,2,2,9,,,,,lines
+4,2,2,10,,,,,lines
+4,2,2,11,,,,,lines
+4,2,2,12,,,,,lines
+4,3,1,1,At 1 January 2015,,,,lines
+4,3,1,2,"593,804 1,170,620",5938041170620.0,At 1 January 2015,,lines
+4,3,1,3,,,,,lines
+4,3,1,4,"1,260,841",1260841.0,At 1 January 2015,,lines
+4,3,1,5,"(5,287)",-5287.0,At 1 January 2015,,lines
+4,3,1,6,"721,384",721384.0,At 1 January 2015,,lines
+4,3,1,7,"(902,412)",-902412.0,At 1 January 2015,,lines
+4,3,1,8,-,,,,lines
+4,3,1,9,"13,465,348",13465348.0,At 1 January 2015,,lines
+4,3,1,10,"16,304,298",16304298.0,At 1 January 2015,,lines
+4,3,1,11,"(30,662)",-30662.0,At 1 January 2015,,lines
+4,3,1,12,"16,273,636",16273636.0,At 1 January 2015,,lines
+4,3,2,1,,,,,lines
+4,3,2,2,,,,,lines
+4,3,2,3,,,,,lines
+4,3,2,4,,,,,lines
+4,3,2,5,,,,,lines
+4,3,2,6,,,,,lines
+4,3,2,7,,,,,lines
+4,3,2,8,,,,,lines
+4,3,2,9,,,,,lines
+4,3,2,10,,,,,lines
+4,3,2,11,,,,,lines
+4,3,2,12,,,,,lines
+4,4,1,1,,,,,lines
+4,4,1,2,,,,,lines
+4,4,1,3,,,,,lines
+4,4,1,4,"67,386",67386.0,,,lines
+4,4,1,5,"(1,688)",-1688.0,,,lines
+4,4,1,6,"549,533",549533.0,,,lines
+4,4,1,7,-,,,,lines
+4,4,1,8,-,,,,lines
+4,4,1,9,"362,102",362102.0,,,lines
+4,4,1,10,"977,333",977333.0,,,lines
+4,4,1,11,"(6,148)",-6148.0,,,lines
+4,4,1,12,"971,185",971185.0,,,lines
+4,4,2,1,,,,,lines
+4,4,2,2,,,,,lines
+4,4,2,3,,,,,lines
+4,4,2,4,,,,,lines
+4,4,2,5,,,,,lines
+4,4,2,6,,,,,lines
+4,4,2,7,,,,,lines
+4,4,2,8,,,,,lines
+4,4,2,9,,,,,lines
+4,4,2,10,,,,,lines
+4,4,2,11,,,,,lines
+4,4,2,12,,,,,lines
+4,5,1,1,Changes in ownership interest in a subsidiary that,,,,lines
+4,5,1,2,,,,,lines
+4,5,1,3,,,,,lines
+4,5,1,4,,,,,lines
+4,5,1,5,,,,,lines
+4,5,1,6,,,,,lines
+4,5,1,7,,,,,lines
+4,5,1,8,,,,,lines
+4,5,1,9,,,,,lines
+4,5,1,10,,,,,lines
+4,5,1,11,,,,,lines
+4,5,1,12,,,,,lines
+4,5,2,1,do not result in a loss of control,,,,lines
+4,5,2,2,-,,,,lines
+4,5,2,3,-,,,,lines
+4,5,2,4,-,,,,lines
+4,5,2,5,-,,,,lines
+4,5,2,6,-,,,,lines
+4,5,2,7,-,,,,lines
+4,5,2,8,-,,,,lines
+4,5,2,9,"(22,686)",-22686.0,do not result in a loss of control - - - - - - -,,lines
+4,5,2,10,"(22,686)",-22686.0,do not result in a loss of control - - - - - - -,,lines
+4,5,2,11,"69,507",69507.0,do not result in a loss of control - - - - - - -,,lines
+4,5,2,12,"46,821",46821.0,do not result in a loss of control - - - - - - -,,lines
+4,5,3,1,,,,,lines
+4,5,3,2,,,,,lines
+4,5,3,3,,,,,lines
+4,5,3,4,,,,,lines
+4,5,3,5,,,,,lines
+4,5,3,6,,,,,lines
+4,5,3,7,,,,,lines
+4,5,3,8,,,,,lines
+4,5,3,9,,,,,lines
+4,5,3,10,,,,,lines
+4,5,3,11,,,,,lines
+4,5,3,12,,,,,lines
+4,5,4,1,Performance-based employee share scheme,,,,lines
+4,5,4,2,-,,,,lines
+4,5,4,3,-,,,,lines
+4,5,4,4,-,,,,lines
+4,5,4,5,-,,,,lines
+4,5,4,6,770,770.0,Performance-based employee share scheme - - - -,,lines
+4,5,4,7,-,,,,lines
+4,5,4,8,-,,,,lines
+4,5,4,9,-,,,,lines
+4,5,4,10,770,770.0,Performance-based employee share scheme - - - -,,lines
+4,5,4,11,-,,,,lines
+4,5,4,12,770,770.0,Performance-based employee share scheme - - - -,,lines
+5,1,1,1,,,,,lines
+5,1,1,2,,,,,lines
+5,1,1,3,,,,,lines
+5,1,1,4,,,,,lines
+5,1,1,5,31 March,,,,lines
+5,1,1,6,,,,,lines
+5,1,1,7,,,,,lines
+5,1,1,8,,,,,lines
+5,1,1,9,,,,,lines
+5,1,2,1,,,,,lines
+5,1,2,2,,,,,lines
+5,1,2,3,,,,,lines
+5,1,2,4,,,,,lines
+5,1,2,5,2016,2016.0,31 March,,lines
+5,1,2,6,,,,,lines
+5,1,2,7,,,,,lines
+5,1,2,8,2015,2015.0,31 March,,lines
+5,1,2,9,,,,,lines
+5,1,3,1,,,,,lines
+5,1,3,2,,,,,lines
+5,1,3,3,,,,,lines
+5,1,3,4,,,,,lines
+5,1,3,5,RM’000,,,,lines
+5,1,3,6,,,,,lines
+5,1,3,7,,,,,lines
+5,1,3,8,RM’000,,,,lines
+5,1,3,9,,,,,lines
+5,1,4,1,CASH FLOWS FROM OPERATING ACTIVITIES,,,,lines
+5,1,4,2,,,,,lines
+5,1,4,3,,,,,lines
+5,1,4,4,,,,,lines
+5,1,4,5,,,,,lines
+5,1,4,6,,,,,lines
+5,1,4,7,,,,,lines
+5,1,4,8,,,,,lines
+5,1,4,9,,,,,lines
+5,1,5,1,Profit before taxation,,,,lines
+5,1,5,2,,,,,lines
+5,1,5,3,,,,,lines
+5,1,5,4,,,,,lines
+5,1,5,5,"262,116",262116.0,Profit before taxation,,lines
+5,1,5,6,,,,,lines
+5,1,5,7,,,,,lines
+5,1,5,8,"475,23",47523.0,Profit before taxation,,lines
+5,1,5,9,,,,,lines
+5,1,6,1,Adjustments for:,,,,lines
+5,1,6,2,,,,,lines
+5,1,6,3,,,,,lines
+5,1,6,4,,,,,lines
+5,1,6,5,,,,,lines
+5,1,6,6,,,,,lines
+5,1,6,7,,,,,lines
+5,1,6,8,,,,,lines
+5,1,6,9,,,,,lines
+5,1,7,1,,,,,lines
+5,1,7,2,,,,,lines
+5,1,7,3,Depreciation and amortisation,,,,lines
+5,1,7,4,,,,,lines
+5,1,7,5,"188,139",188139.0,Depreciation and amortisation,,lines
+5,1,7,6,,,,,lines
+5,1,7,7,"158,715 1,901 332 (3,732) 7,759 (21,405) (6,923) (22,678) 1,273",,,,lines
+5,1,7,8,"158,715",158715.0,Depreciation and amortisation,,lines
+5,1,7,9,,,,,lines
+5,1,8,1,,,,,lines
+5,1,8,2,,,,,lines
+5,1,8,3,"Property, plant and equipment written off",,,,lines
+5,1,8,4,,,,,lines
+5,1,8,5,"1,718",1718.0,"Property, plant and equipment written off",,lines
+5,1,8,6,,,,,lines
+5,1,8,7,,,,,lines
+5,1,8,8,"1,901",1901.0,"Property, plant and equipment written off",,lines
+5,1,8,9,,,,,lines
+5,1,9,1,,,,,lines
+5,1,9,2,,,,,lines
+5,1,9,3,"Net loss on disposal of property, plant and equipment",,,,lines
+5,1,9,4,,,,,lines
+5,1,9,5,"6,127",6127.0,"Net loss on disposal of property, plant and equipment",,lines
+5,1,9,6,,,,,lines
+5,1,9,7,,,,,lines
+5,1,9,8,332,332.0,"Net loss on disposal of property, plant and equipment",,lines
+5,1,9,9,,,,,lines
+5,1,10,1,,,,,lines
+5,1,10,2,,,,,lines
+5,1,10,3,Gain on disposal of available-for-sale financial assets,,,,lines
+5,1,10,4,,,,,lines
+5,1,10,5,-,,,,lines
+5,1,10,6,,,,,lines
+5,1,10,7,,,,,lines
+5,1,10,8,"(3,732)",-3732.0,Gain on disposal of available-for-sale financial assets  -,,lines
+5,1,10,9,,,,,lines
+5,1,11,1,,,,,lines
+5,1,11,2,,,,,lines
+5,1,11,3,Finance costs,,,,lines
+5,1,11,4,,,,,lines
+5,1,11,5,"14,296",14296.0,Finance costs,,lines
+5,1,11,6,,,,,lines
+5,1,11,7,,,,,lines
+5,1,11,8,"7,759",7759.0,Finance costs,,lines
+5,1,11,9,,,,,lines
+5,1,12,1,,,,,lines
+5,1,12,2,,,,,lines
+5,1,12,3,Interest income,,,,lines
+5,1,12,4,,,,,lines
+5,1,12,5,"(38,962)",-38962.0,Interest income,,lines
+5,1,12,6,,,,,lines
+5,1,12,7,,,,,lines
+5,1,12,8,"(21,405)",-21405.0,Interest income,,lines
+5,1,12,9,,,,,lines
+5,1,13,1,,,,,lines
+5,1,13,2,,,,,lines
+5,1,13,3,Investment income,,,,lines
+5,1,13,4,,,,,lines
+5,1,13,5,"(7,766)",-7766.0,Investment income,,lines
+5,1,13,6,,,,,lines
+5,1,13,7,,,,,lines
+5,1,13,8,"(6,923)",-6923.0,Investment income,,lines
+5,1,13,9,,,,,lines
+5,1,14,1,,,,,lines
+5,1,14,2,,,,,lines
+5,1,14,3,Net exchange loss/(gain) – unrealised,,,,lines
+5,1,14,4,,,,,lines
+5,1,14,5,"144,246",144246.0,Net exchange loss/(gain) – unrealised,,lines
+5,1,14,6,,,,,lines
+5,1,14,7,,,,,lines
+5,1,14,8,,,,,lines
+5,1,14,9,,,,,lines
+5,1,15,1,,,,,lines
+5,1,15,2,,,,,lines
+5,1,15,3,Other non-cash items and adjustments,,,,lines
+5,1,15,4,,,,,lines
+5,1,15,5,"12,811",12811.0,Other non-cash items and adjustments,,lines
+5,1,15,6,,,,,lines
+5,1,15,7,,,,,lines
+5,1,15,8,,,,,lines
+5,1,15,9,,,,,lines
+5,1,16,1,,,,,lines
+5,1,16,2,,,,,lines
+5,1,16,3,,,,,lines
+5,1,16,4,,,,,lines
+5,1,16,5,"320,609",320609.0,Adjustments for:,,lines
+5,1,16,6,,,,,lines
+5,1,16,7,,,,,lines
+5,1,16,8,"115,242",115242.0,Adjustments for:,,lines
+5,1,16,9,,,,,lines
+5,1,17,1,Operating profit before working capital changes,,,,lines
+5,1,17,2,,,,,lines
+5,1,17,3,,,,,lines
+5,1,17,4,,,,,lines
+5,1,17,5,"582,725",582725.0,Operating profit before working capital changes,,lines
+5,1,17,6,,,,,lines
+5,1,17,7,,,,,lines
+5,1,17,8,"590,474",590474.0,Operating profit before working capital changes,,lines
+5,1,17,9,,,,,lines
+5,1,18,1,,,,,lines
+5,1,18,2,,,,,lines
+5,1,18,3,,,,,lines
+5,1,18,4,,,,,lines
+5,1,18,5,,,,,lines
+5,1,18,6,,,,,lines
+5,1,18,7,,,,,lines
+5,1,18,8,,,,,lines
+5,1,18,9,,,,,lines
+5,1,19,1,,,,,lines
+5,1,19,2,,,,,lines
+5,1,19,3,Net change in current assets,,,,lines
+5,1,19,4,,,,,lines
+5,1,19,5,"(79,806)",-79806.0,Net change in current assets,,lines
+5,1,19,6,,,,,lines
+5,1,19,7,,,,,lines
+5,1,19,8,"(20,386)",-20386.0,Net change in current assets,,lines
+5,1,19,9,,,,,lines
+5,1,20,1,,,,,lines
+5,1,20,2,,,,,lines
+5,1,20,3,Net change in current liabilities,,,,lines
+5,1,20,4,,,,,lines
+5,1,20,5,"(108,018)",-108018.0,Net change in current liabilities,,lines
+5,1,20,6,,,,,lines
+5,1,20,7,,,,,lines
+5,1,20,8,"(46,625)",-46625.0,Net change in current liabilities,,lines
+5,1,20,9,,,,,lines
+5,1,21,1,,,,,lines
+5,1,21,2,,,,,lines
+5,1,21,3,,,,,lines
+5,1,21,4,,,,,lines
+5,1,21,5,"(187,824)",-187824.0,,,lines
+5,1,21,6,,,,,lines
+5,1,21,7,,,,,lines
+5,1,21,8,"(67,011)",-67011.0,,,lines
+5,1,21,9,,,,,lines
+5,1,22,1,Cash generated from operations,,,,lines
+5,1,22,2,,,,,lines
+5,1,22,3,,,,,lines
+5,1,22,4,,,,,lines
+5,1,22,5,"394,901",394901.0,Cash generated from operations,,lines
+5,1,22,6,,,,,lines
+5,1,22,7,,,,,lines
+5,1,22,8,"523,463",523463.0,Cash generated from operations,,lines
+5,1,22,9,,,,,lines
+5,1,23,1,,,,,lines
+5,1,23,2,,,,,lines
+5,1,23,3,,,,,lines
+5,1,23,4,,,,,lines
+5,1,23,5,,,,,lines
+5,1,23,6,,,,,lines
+5,1,23,7,,,,,lines
+5,1,23,8,,,,,lines
+5,1,23,9,,,,,lines
+5,1,24,1,,,,,lines
+5,1,24,2,,,,,lines
+5,1,24,3,Net tax paid,,,,lines
+5,1,24,4,,,,,lines
+5,1,24,5,"(63,935)",-63935.0,Net tax paid,,lines
+5,1,24,6,,,,,lines
+5,1,24,7,,,,,lines
+5,1,24,8,"(80,503)",-80503.0,Net tax paid,,lines
+5,1,24,9,,,,,lines
+5,1,25,1,,,,,lines
+5,1,25,2,,,,,lines
+5,1,25,3,Retirement gratuities paid,,,,lines
+5,1,25,4,,,,,lines
+5,1,25,5,(768),-768.0,Retirement gratuities paid,,lines
+5,1,25,6,,,,,lines
+5,1,25,7,,,,,lines
+5,1,25,8,"(1,655)",-1655.0,Retirement gratuities paid,,lines
+5,1,25,9,,,,,lines
+5,1,26,1,,,,,lines
+5,1,26,2,,,,,lines
+5,1,26,3,Other net operating payments,,,,lines
+5,1,26,4,,,,,lines
+5,1,26,5,"(1,706)",-1706.0,Other net operating payments,,lines
+5,1,26,6,,,,,lines
+5,1,26,7,,,,,lines
+5,1,26,8,"(3,455)",-3455.0,Other net operating payments,,lines
+5,1,26,9,,,,,lines
+5,1,27,1,,,,,lines
+5,1,27,2,,,,,lines
+5,1,27,3,,,,,lines
+5,1,27,4,,,,,lines
+5,1,27,5,"(66,409)",-66409.0,,,lines
+5,1,27,6,,,,,lines
+5,1,27,7,,,,,lines
+5,1,27,8,"(85,613)",-85613.0,,,lines
+5,1,27,9,,,,,lines
+5,1,28,1,Net Cash Flow From Operating Activities,,,,lines
+5,1,28,2,,,,,lines
+5,1,28,3,,,,,lines
+5,1,28,4,,,,,lines
+5,1,28,5,"328,492",328492.0,Net Cash Flow From Operating Activities,,lines
+5,1,28,6,,,,,lines
+5,1,28,7,,,,,lines
+5,1,28,8,"437,850",437850.0,Net Cash Flow From Operating Activities,,lines
+5,1,28,9,,,,,lines
+5,1,29,1,,,,,lines
+5,1,29,2,,,,,lines
+5,1,29,3,,,,,lines
+5,1,29,4,,,,,lines
+5,1,29,5,,,,,lines
+5,1,29,6,,,,,lines
+5,1,29,7,,,,,lines
+5,1,29,8,,,,,lines
+5,1,29,9,,,,,lines
+5,1,30,1,CASH FLOWS FROM INVESTING ACTIVITIES,,,,lines
+5,1,30,2,,,,,lines
+5,1,30,3,,,,,lines
+5,1,30,4,,,,,lines
+5,1,30,5,,,,,lines
+5,1,30,6,,,,,lines
+5,1,30,7,,,,,lines
+5,1,30,8,,,,,lines
+5,1,30,9,,,,,lines
+5,1,31,1,,,,,lines
+5,1,31,2,,,,,lines
+5,1,31,3,"Purchase of property, plant and equipment",,,,lines
+5,1,31,4,,,,,lines
+5,1,31,5,"(689,231)",-689231.0,"Purchase of property, plant and equipment",,lines
+5,1,31,6,,,,,lines
+5,1,31,7,,,,,lines
+5,1,31,8,"(537,616)",-537616.0,"Purchase of property, plant and equipment",,lines
+5,1,31,9,,,,,lines
+5,1,32,1,,,,,lines
+5,1,32,2,,,,,lines
+5,1,32,3,"Proceeds from disposal of property, plant and equipment",,,,lines
+5,1,32,4,,,,,lines
+5,1,32,5,"290,544",290544.0,"Proceeds from disposal of property, plant and equipment",,lines
+5,1,32,6,,,,,lines
+5,1,32,7,,,,,lines
+5,1,32,8,397,397.0,"Proceeds from disposal of property, plant and equipment",,lines
+5,1,32,9,,,,,lines
+5,1,33,1,,,,,lines
+5,1,33,2,,,,,lines
+5,1,33,3,Purchase of intangible asset,,,,lines
+5,1,33,4,,,,,lines
+5,1,33,5,"(5,929)",-5929.0,Purchase of intangible asset,,lines
+5,1,33,6,,,,,lines
+5,1,33,7,,,,,lines
+5,1,33,8,-,,,,lines
+5,1,33,9,,,,,lines
+5,1,34,1,,,,,lines
+5,1,34,2,,,,,lines
+5,1,34,3,Purchase of investments,,,,lines
+5,1,34,4,,,,,lines
+5,1,34,5,"(313,931)",-313931.0,Purchase of investments,,lines
+5,1,34,6,,,,,lines
+5,1,34,7,,,,,lines
+5,1,34,8,"(32,017)",-32017.0,Purchase of investments,,lines
+5,1,34,9,,,,,lines
+5,1,35,1,,,,,lines
+5,1,35,2,,,,,lines
+5,1,35,3,Proceeds from disposal of available-for-sale financial assets,,,,lines
+5,1,35,4,,,,,lines
+5,1,35,5,-,,,,lines
+5,1,35,6,,,,,lines
+5,1,35,7,,,,,lines
+5,1,35,8,"79,197",79197.0,Proceeds from disposal of available-for-sale financial assets  -,,lines
+5,1,35,9,,,,,lines
+5,1,36,1,,,,,lines
+5,1,36,2,,,,,lines
+5,1,36,3,Proceeds from redemption of unquoted preference shares in a Malaysian corporation,,,,lines
+5,1,36,4,,,,,lines
+5,1,36,5,"100,000",100000.0,Proceeds from redemption of unquoted preference shares in a Malaysian corporation,,lines
+5,1,36,6,,,,,lines
+5,1,36,7,,,,,lines
+5,1,36,8,-,,,,lines
+5,1,36,9,,,,,lines
+5,1,37,1,,,,,lines
+5,1,37,2,,,,,lines
+5,1,37,3,Other investing activities,,,,lines
+5,1,37,4,,,,,lines
+5,1,37,5,"41,851",41851.0,Other investing activities,,lines
+5,1,37,6,,,,,lines
+5,1,37,7,,,,,lines
+5,1,37,8,"17,364",17364.0,Other investing activities,,lines
+5,1,37,9,,,,,lines
+5,1,38,1,,,,,lines
+5,1,38,2,,,,,lines
+5,1,38,3,,,,,lines
+5,1,38,4,,,,,lines
+5,1,38,5,"(576,696)",-576696.0,CASH FLOWS FROM INVESTING ACTIVITIES,,lines
+5,1,38,6,,,,,lines
+5,1,38,7,,,,,lines
+5,1,38,8,"(472,675)",-472675.0,CASH FLOWS FROM INVESTING ACTIVITIES,,lines
+5,1,38,9,,,,,lines
+5,1,39,1,,,,,lines
+5,1,39,2,,,,,lines
+5,1,39,3,,,,,lines
+5,1,39,4,,,,,lines
+5,1,39,5,,,,,lines
+5,1,39,6,,,,,lines
+5,1,39,7,,,,,lines
+5,1,39,8,,,,,lines
+5,1,39,9,,,,,lines
+5,1,40,1,,,,,lines
+5,1,40,2,,,,,lines
+5,1,40,3,,,,,lines
+5,1,40,4,,,,,lines
+5,1,40,5,,,,,lines
+5,1,40,6,,,,,lines
+5,1,40,7,,,,,lines
+5,1,40,8,,,,,lines
+5,1,40,9,,,,,lines
+5,1,41,1,,,,,lines
+5,1,41,2,,,,,lines
+5,1,41,3,,,,,lines
+5,1,41,4,,,,,lines
+5,1,41,5,"(37,538)",-37538.0,,,lines
+5,1,41,6,,,,,lines
+5,1,41,7,,,,,lines
+5,1,41,8,"(34,941)",-34941.0,,,lines
+5,1,41,9,,,,,lines
+5,1,42,1,,,,,lines
+5,1,42,2,,,,,lines
+5,1,42,3,,,,,lines
+5,1,42,4,,,,,lines
+5,1,42,5,"327,768",327768.0,,,lines
+5,1,42,6,,,,,lines
+5,1,42,7,,,,,lines
+5,1,42,8,-,,,,lines
+5,1,42,9,,,,,lines
+5,1,43,1,,,,,lines
+5,1,43,2,,,,,lines
+5,1,43,3,,,,,lines
+5,1,43,4,,,,,lines
+5,1,43,5,"44,337",44337.0,,,lines
+5,1,43,6,,,,,lines
+5,1,43,7,,,,,lines
+5,1,43,8,"3,439",3439.0,,,lines
+5,1,43,9,,,,,lines
+5,1,44,1,,,,,lines
+5,1,44,2,,,,,lines
+5,1,44,3,,,,,lines
+5,1,44,4,,,,,lines
+5,1,44,5,"(67,607)",-67607.0,,,lines
+5,1,44,6,,,,,lines
+5,1,44,7,,,,,lines
+5,1,44,8,"(9,034)",-9034.0,,,lines
+5,1,44,9,,,,,lines
+5,1,45,1,,,,,lines
+5,1,45,2,,,,,lines
+5,1,45,3,,,,,lines
+5,1,45,4,,,,,lines
+5,1,45,5,"266,960",266960.0,,,lines
+5,1,45,6,,,,,lines
+5,1,45,7,,,,,lines
+5,1,45,8,"(40,536)",-40536.0,,,lines
+5,1,45,9,,,,,lines
+5,1,46,1,,,,,lines
+5,1,46,2,,,,,lines
+5,1,46,3,,,,,lines
+5,1,46,4,,,,,lines
+5,1,46,5,,,,,lines
+5,1,46,6,,,,,lines
+5,1,46,7,,,,,lines
+5,1,46,8,,,,,lines
+5,1,46,9,,,,,lines
+5,1,47,1,,,,,lines
+5,1,47,2,,,,,lines
+5,1,47,3,,,,,lines
+5,1,47,4,,,,,lines
+5,1,47,5,"18,756",18756.0,,,lines
+5,1,47,6,,,,,lines
+5,1,47,7,,,,,lines
+5,1,47,8,"(75,361)",-75361.0,,,lines
+5,1,47,9,,,,,lines
+5,1,48,1,,,,,lines
+5,1,48,2,,,,,lines
+5,1,48,3,,,,,lines
+5,1,48,4,,,,,lines
+5,1,48,5,"4,518,966",4518966.0,,,lines
+5,1,48,6,,,,,lines
+5,1,48,7,,,,,lines
+5,1,48,8,"2,770,256",2770256.0,,,lines
+5,1,48,9,,,,,lines
+5,1,49,1,,,,,lines
+5,1,49,2,,,,,lines
+5,1,49,3,,,,,lines
+5,1,49,4,,,,,lines
+5,1,49,5,"(93,326)",-93326.0,,,lines
+5,1,49,6,,,,,lines
+5,1,49,7,,,,,lines
+5,1,49,8,"80,397",80397.0,,,lines
+5,1,49,9,,,,,lines
+5,1,50,1,,,,,lines
+5,1,50,2,,,,,lines
+5,1,50,3,,,,,lines
+5,1,50,4,,,,,lines
+5,1,50,5,"4,444,396",4444396.0,,,lines
+5,1,50,6,,,,,lines
+5,1,50,7,,,,,lines
+5,1,50,8,"2,775,292",2775292.0,,,lines
+5,1,50,9,,,,,lines
+5,1,51,1,,,,,lines
+5,1,51,2,,,,,lines
+5,1,51,3,,,,,lines
+5,1,51,4,,,,,lines
+5,1,51,5,,,,,lines
+5,1,51,6,,,,,lines
+5,1,51,7,,,,,lines
+5,1,51,8,,,,,lines
+5,1,51,9,,,,,lines
+5,1,52,1,,,,,lines
+5,1,52,2,,,,,lines
+5,1,52,3,,,,,lines
+5,1,52,4,,,,,lines
+5,1,52,5,"2,406,941",2406941.0,,,lines
+5,1,52,6,,,,,lines
+5,1,52,7,,,,,lines
+5,1,52,8,"2,327,603",2327603.0,,,lines
+5,1,52,9,,,,,lines
+5,1,53,1,,,,,lines
+5,1,53,2,,,,,lines
+5,1,53,3,,,,,lines
+5,1,53,4,,,,,lines
+5,1,53,5,"2,037,455",2037455.0,,,lines
+5,1,53,6,,,,,lines
+5,1,53,7,,,,,lines
+5,1,53,8,"447,689",447689.0,,,lines
+5,1,53,9,,,,,lines
+5,1,54,1,,,,,lines
+5,1,54,2,,,,,lines
+5,1,54,3,,,,,lines
+5,1,54,4,,,,,lines
+5,1,54,5,"4,444,396",4444396.0,,,lines
+5,1,54,6,,,,,lines
+5,1,54,7,,,,,lines
+5,1,54,8,"2,775,292",2775292.0,,,lines
+5,1,54,9,,,,,lines
+7,1,1,1,"1,308,658",1308658.0,,,lines
+7,1,1,2,,,,,lines
+7,1,1,3,"528,909",528909.0,,,lines
+7,1,1,4,,,,,lines
+7,1,1,5,"350,434",350434.0,,,lines
+7,1,1,6,,,,,lines
+7,1,1,7,"21,075",21075.0,,,lines
+7,1,1,8,,,,,lines
+7,1,1,9,"36,544",36544.0,,,lines
+7,1,1,10,,,,,lines
+7,1,1,11,,,,,lines
+7,1,2,1,"(3,514",3514.0,,,lines
+7,1,2,2,,,,,lines
+7,1,2,3,-,,,,lines
+7,1,2,4,,,,,lines
+7,1,2,5,-,,,,lines
+7,1,2,6,,,,,lines
+7,1,2,7,"(3,296",3296.0,,,lines
+7,1,2,8,,,,,lines
+7,1,2,9,"(24,456)",-24456.0,,,lines
+7,1,2,10,,,,,lines
+7,1,2,11,"(31,266",31266.0,,,lines
+7,1,3,1,"1,305,144",1305144.0,,,lines
+7,1,3,2,,,,,lines
+7,1,3,3,"528,909",528909.0,,,lines
+7,1,3,4,,,,,lines
+7,1,3,5,"350,434",350434.0,,,lines
+7,1,3,6,,,,,lines
+7,1,3,7,"17,779",17779.0,,,lines
+7,1,3,8,,,,,lines
+7,1,3,9,"12,088",12088.0,,,lines
+7,1,3,10,,,,,lines
+7,1,3,11,"2,214,354",2214354.0,,,lines
+7,1,4,1,,,,,lines
+7,1,4,2,,,,,lines
+7,1,4,3,,,,,lines
+7,1,4,4,,,,,lines
+7,1,4,5,,,,,lines
+7,1,4,6,,,,,lines
+7,1,4,7,,,,,lines
+7,1,4,8,,,,,lines
+7,1,4,9,,,,,lines
+7,1,4,10,,,,,lines
+7,1,4,11,,,,,lines
+7,2,1,1,,,,,lines
+7,2,1,2,,,,,lines
+7,2,1,3,,,,,lines
+7,2,1,4,,,,,lines
+7,2,1,5,,,,,lines
+7,2,1,6,"451,518",451518.0,,,lines
+7,2,1,7,,,,,lines
+7,2,1,8,"98,633",98633.0,,,lines
+7,2,1,9,,,,,lines
+7,2,1,10,"23,238",23238.0,,,lines
+7,2,1,11,,,,,lines
+7,2,1,12,,,,,lines
+7,2,1,13,"1,598",1598.0,,,lines
+7,2,1,14,,,,,lines
+7,2,1,15,"(130,665)",-130665.0,,,lines
+7,2,1,16,,,,,lines
+7,2,1,17,"444,322",444322.0,,,lines
+7,2,2,1,,,,,lines
+7,2,2,2,,,,,lines
+7,2,2,3,,,,,lines
+7,2,2,4,,,,,lines
+7,2,2,5,,,,,lines
+7,2,2,6,,,,,lines
+7,2,2,7,,,,,lines
+7,2,2,8,,,,,lines
+7,2,2,9,,,,,lines
+7,2,2,10,,,,,lines
+7,2,2,11,,,,,lines
+7,2,2,12,,,,,lines
+7,2,2,13,,,,,lines
+7,2,2,14,,,,,lines
+7,2,2,15,,,,,lines
+7,2,2,16,,,,,lines
+7,2,2,17,,,,,lines
+7,2,3,1,,,,,lines
+7,2,3,2,,,,,lines
+7,2,3,3,,,,,lines
+7,2,3,4,Total Assets,,,,lines
+7,2,3,5,,,,,lines
+7,2,3,6,"6,911,993",6911993.0,Total Assets,,lines
+7,2,3,7,,,,,lines
+7,2,3,8,"4,856,087",4856087.0,Total Assets,,lines
+7,2,3,9,,,,,lines
+7,2,3,10,"5,093,712",5093712.0,Total Assets,,lines
+7,2,3,11,,,,,lines
+7,2,3,12,,,,,lines
+7,2,3,13,"2,473,699",2473699.0,Total Assets,,lines
+7,2,3,14,,,,,lines
+7,2,3,15,"6,596,658",6596658.0,Total Assets,,lines
+7,2,3,16,,,,,lines
+7,2,3,17,"25,932,149",25932149.0,Total Assets,,lines
+7,2,4,1,,,,,lines
+7,2,4,2,,,,,lines
+7,2,4,3,,,,,lines
+7,2,4,4,,,,,lines
+7,2,4,5,,,,,lines
+7,2,4,6,,,,,lines
+7,2,4,7,,,,,lines
+7,2,4,8,,,,,lines
+7,2,4,9,,,,,lines
+7,2,4,10,,,,,lines
+7,2,4,11,,,,,lines
+7,2,4,12,,,,,lines
+7,2,4,13,,,,,lines
+7,2,4,14,,,,,lines
+7,2,4,15,,,,,lines
+7,2,4,16,,,,,lines
+7,2,4,17,,,,,lines
+7,2,5,1,,,,,lines
+7,2,5,2,A reconciliation of adjusted EBITDA to profit before taxation is provided as follows:,,,,lines
+7,2,5,3,,,,,lines
+7,2,5,4,,,,,lines
+7,2,5,5,,,,,lines
+7,2,5,6,,,,,lines
+7,2,5,7,,,,,lines
+7,2,5,8,,,,,lines
+7,2,5,9,,,,,lines
+7,2,5,10,,,,,lines
+7,2,5,11,,,,,lines
+7,2,5,12,,,,,lines
+7,2,5,13,,,,,lines
+7,2,5,14,,,,,lines
+7,2,5,15,,,,,lines
+7,2,5,16,,,,,lines
+7,2,5,17,,,,,lines
+7,2,6,1,,,,,lines
+7,2,6,2,,,,,lines
+7,2,6,3,,,,,lines
+7,2,6,4,,,,,lines
+7,2,6,5,,,,,lines
+7,2,6,6,,,,,lines
+7,2,6,7,,,,,lines
+7,2,6,8,,,,,lines
+7,2,6,9,,,,,lines
+7,2,6,10,,,,,lines
+7,2,6,11,,,,,lines
+7,2,6,12,,,,,lines
+7,2,6,13,,,,,lines
+7,2,6,14,,,,,lines
+7,2,6,15,,,,,lines
+7,2,6,16,,,,,lines
+7,2,6,17,,,,,lines
+7,2,7,1,,,,,lines
+7,2,7,2,,,,,lines
+7,2,7,3,,,,,lines
+7,2,7,4,,,,,lines
+7,2,7,5,,,,,lines
+7,2,7,6,,,,,lines
+7,2,7,7,,,,,lines
+7,2,7,8,,,,,lines
+7,2,7,9,,,,,lines
+7,2,7,10,,,,,lines
+7,2,7,11,,,,,lines
+7,2,7,12,,,,,lines
+7,2,7,13,,,,,lines
+7,2,7,14,,,,,lines
+7,2,7,15,,,,,lines
+7,2,7,16,,,,,lines
+7,2,7,17,"RM’000 444,322",,,,lines
+7,2,8,1,,,,,lines
+7,2,8,2,Adjusted EBITDA for reportable segments,,,,lines
+7,2,8,3,,,,,lines
+7,2,8,4,,,,,lines
+7,2,8,5,,,,,lines
+7,2,8,6,,,,,lines
+7,2,8,7,,,,,lines
+7,2,8,8,,,,,lines
+7,2,8,9,,,,,lines
+7,2,8,10,,,,,lines
+7,2,8,11,,,,,lines
+7,2,8,12,,,,,lines
+7,2,8,13,,,,,lines
+7,2,8,14,,,,,lines
+7,2,8,15,,,,,lines
+7,2,8,16,,,,,lines
+7,2,8,17,,,,,lines
+7,2,9,1,,,,,lines
+7,2,9,2,,,,,lines
+7,2,9,3,,,,,lines
+7,2,9,4,,,,,lines
+7,2,9,5,,,,,lines
+7,2,9,6,,,,,lines
+7,2,9,7,,,,,lines
+7,2,9,8,,,,,lines
+7,2,9,9,,,,,lines
+7,2,9,10,,,,,lines
+7,2,9,11,,,,,lines
+7,2,9,12,,,,,lines
+7,2,9,13,,,,,lines
+7,2,9,14,,,,,lines
+7,2,9,15,,,,,lines
+7,2,9,16,,,,,lines
+7,2,9,17,"(10,660",10660.0,Adjusted EBITDA for reportable segments,,lines
+7,2,10,1,,,,,lines
+7,2,10,2,,,,,lines
+7,2,10,3,,,,,lines
+7,2,10,4,,,,,lines
+7,2,10,5,,,,,lines
+7,2,10,6,,,,,lines
+7,2,10,7,,,,,lines
+7,2,10,8,,,,,lines
+7,2,10,9,,,,,lines
+7,2,10,10,,,,,lines
+7,2,10,11,,,,,lines
+7,2,10,12,,,,,lines
+7,2,10,13,,,,,lines
+7,2,10,14,,,,,lines
+7,2,10,15,,,,,lines
+7,2,10,16,,,,,lines
+7,2,10,17,"(1,718",1718.0,Adjusted EBITDA for reportable segments,,lines
+8,1,1,1,,,,,lines
+8,1,1,2,RM’000,,,,lines
+8,1,2,1,"2,948,988",2948988.0,RM’000,,lines
+8,1,2,2,,,,,lines
+8,1,3,1,"6,935,424",6935424.0,RM’000,,lines
+8,1,3,2,,,,,lines
+8,1,4,1,"9,884,412",9884412.0,RM’000,,lines
+8,1,4,2,,,,,lines
+8,1,5,1,,,,,lines
+8,1,5,2,,,,,lines
+8,1,6,1,"9,555,348",9555348.0,,,lines
+8,1,6,2,,,,,lines
+8,1,7,1,"329,064",329064.0,,,lines
+8,1,7,2,,,,,lines
+8,1,8,1,"9,884,412",9884412.0,,,lines
+8,1,8,2,,,,,lines
+9,1,1,1,Level 1,,,,lines
+9,1,1,2,,,,,lines
+9,1,1,3,Level 2,,,,lines
+9,1,1,4,,,,,lines
+9,1,1,5,Level 3,,,,lines
+9,1,1,6,,,,,lines
+9,1,1,7,Total,,,,lines
+9,1,2,1,RM’000,,,,lines
+9,1,2,2,,,,,lines
+9,1,2,3,RM’000,,,,lines
+9,1,2,4,,,,,lines
+9,1,2,5,RM’000,,,,lines
+9,1,2,6,,,,,lines
+9,1,2,7,RM’000,,,,lines
+9,1,3,1,,,,,lines
+9,1,3,2,,,,,lines
+9,1,3,3,,,,,lines
+9,1,3,4,,,,,lines
+9,1,3,5,,,,,lines
+9,1,3,6,,,,,lines
+9,1,3,7,,,,,lines
+9,1,4,1,"6,615",6615.0,,,lines
+9,1,4,2,,,,,lines
+9,1,4,3,-,,,,lines
+9,1,4,4,,,,,lines
+9,1,4,5,-,,,,lines
+9,1,4,6,,,,,lines
+9,1,4,7,"6,615",6615.0,,,lines
+9,1,5,1,-,,,,lines
+9,1,5,2,,,,,lines
+9,1,5,3,"637,866",637866.0,-,,lines
+9,1,5,4,,,,,lines
+9,1,5,5,"2,089",2089.0,-,,lines
+9,1,5,6,,,,,lines
+9,1,5,7,"639,955",639955.0,-,,lines
+9,1,6,1,"1,758,958",1758958.0,,,lines
+9,1,6,2,,,,,lines
+9,1,6,3,-,,,,lines
+9,1,6,4,,,,,lines
+9,1,6,5,-,,,,lines
+9,1,6,6,,,,,lines
+9,1,6,7,"1,758,958",1758958.0,,,lines
+9,1,7,1,"1,765,573",1765573.0,,,lines
+9,1,7,2,,,,,lines
+9,1,7,3,"637,866",637866.0,,,lines
+9,1,7,4,,,,,lines
+9,1,7,5,"2,089",2089.0,,,lines
+9,1,7,6,,,,,lines
+9,1,7,7,"2,405,528",2405528.0,,,lines
+10,1,1,1,,,,,lines
+10,1,1,2,,,,,lines
+10,1,1,3,,,,,lines
+10,1,1,4,,,,,lines
+10,1,1,5,,,,,lines
+10,1,1,6,,,,,lines
+10,1,1,7,,,,,lines
+10,1,1,8,,,,,lines
+10,1,1,9,,,,,lines
+10,1,1,10,INDIVIDUAL,,,,lines
+10,1,1,11,,,,,lines
+10,1,1,12,,,,,lines
+10,1,1,13,,,,,lines
+10,1,1,14,,,,,lines
+10,1,1,15,,,,,lines
+10,1,1,16,,,,,lines
+10,1,1,17,,,,,lines
+10,1,1,18,,,,,lines
+10,1,1,19,,,,,lines
+10,1,1,20,,,,,lines
+10,1,1,21,,,,,lines
+10,1,1,22,,,,,lines
+10,1,1,23,,,,,lines
+10,1,1,24,,,,,lines
+10,1,1,25,PRECEDING,,,,lines
+10,1,1,26,,,,,lines
+10,1,1,27,,,,,lines
+10,1,1,28,,,,,lines
+10,1,1,29,,,,,lines
+10,1,1,30,,,,,lines
+10,1,1,31,,,,,lines
+10,1,2,1,,,,,lines
+10,1,2,2,,,,,lines
+10,1,2,3,,,,,lines
+10,1,2,4,,,,,lines
+10,1,2,5,,,,,lines
+10,1,2,6,,,,,lines
+10,1,2,7,,,,,lines
+10,1,2,8,,,,,lines
+10,1,2,9,,,,,lines
+10,1,2,10,QUARTER,,,,lines
+10,1,2,11,,,,,lines
+10,1,2,12,,,,,lines
+10,1,2,13,,,,,lines
+10,1,2,14,,,,,lines
+10,1,2,15,,,,,lines
+10,1,2,16,,,,,lines
+10,1,2,17,,,,,lines
+10,1,2,18,,,,,lines
+10,1,2,19,,,,,lines
+10,1,2,20,,,,,lines
+10,1,2,21,,,,,lines
+10,1,2,22,,,,,lines
+10,1,2,23,,,,,lines
+10,1,2,24,,,,,lines
+10,1,2,25,QUARTER,,,,lines
+10,1,2,26,,,,,lines
+10,1,2,27,,,,,lines
+10,1,2,28,,,,,lines
+10,1,2,29,,,,,lines
+10,1,2,30,,,,,lines
+10,1,2,31,,,,,lines
+10,1,3,1,,,,,lines
+10,1,3,2,,,,,lines
+10,1,3,3,,,,,lines
+10,1,3,4,,,,,lines
+10,1,3,5,,,,,lines
+10,1,3,6,,,,,lines
+10,1,3,7,,,,,lines
+10,1,3,8,,,,,lines
+10,1,3,9,,,,,lines
+10,1,3,10,1Q2016,,,,lines
+10,1,3,11,,,,,lines
+10,1,3,12,,,,,lines
+10,1,3,13,,,,,lines
+10,1,3,14,1Q2015,,,,lines
+10,1,3,15,,,,,lines
+10,1,3,16,,,,,lines
+10,1,3,17,,,,,lines
+10,1,3,18,,,,,lines
+10,1,3,19,Var,,,,lines
+10,1,3,20,,,,,lines
+10,1,3,21,,,,,lines
+10,1,3,22,,,,,lines
+10,1,3,23,,,,,lines
+10,1,3,24,,,,,lines
+10,1,3,25,4Q2015,,,,lines
+10,1,3,26,,,,,lines
+10,1,3,27,,,,,lines
+10,1,3,28,Var,,,,lines
+10,1,3,29,,,,,lines
+10,1,3,30,,,,,lines
+10,1,3,31,,,,,lines
+10,1,4,1,,,,,lines
+10,1,4,2,,,,,lines
+10,1,4,3,,,,,lines
+10,1,4,4,,,,,lines
+10,1,4,5,,,,,lines
+10,1,4,6,,,,,lines
+10,1,4,7,,,,,lines
+10,1,4,8,,,,,lines
+10,1,4,9,,,,,lines
+10,1,4,10,RM’Mil,,,,lines
+10,1,4,11,,,,,lines
+10,1,4,12,,,,,lines
+10,1,4,13,,,,,lines
+10,1,4,14,RM’Mil,,,,lines
+10,1,4,15,,,,,lines
+10,1,4,16,,,,,lines
+10,1,4,17,,,,,lines
+10,1,4,18,,,,,lines
+10,1,4,19,%,,,,lines
+10,1,4,20,,,,,lines
+10,1,4,21,,,,,lines
+10,1,4,22,,,,,lines
+10,1,4,23,,,,,lines
+10,1,4,24,,,,,lines
+10,1,4,25,RM’Mil,,,,lines
+10,1,4,26,,,,,lines
+10,1,4,27,,,,,lines
+10,1,4,28,%,,,,lines
+10,1,4,29,,,,,lines
+10,1,4,30,,,,,lines
+10,1,4,31,,,,,lines
+10,1,5,1,Revenue,,,,lines
+10,1,5,2,,,,,lines
+10,1,5,3,,,,,lines
+10,1,5,4,,,,,lines
+10,1,5,5,,,,,lines
+10,1,5,6,,,,,lines
+10,1,5,7,,,,,lines
+10,1,5,8,,,,,lines
+10,1,5,9,,,,,lines
+10,1,5,10,,,,,lines
+10,1,5,11,,,,,lines
+10,1,5,12,,,,,lines
+10,1,5,13,,,,,lines
+10,1,5,14,,,,,lines
+10,1,5,15,,,,,lines
+10,1,5,16,,,,,lines
+10,1,5,17,,,,,lines
+10,1,5,18,,,,,lines
+10,1,5,19,,,,,lines
+10,1,5,20,,,,,lines
+10,1,5,21,,,,,lines
+10,1,5,22,,,,,lines
+10,1,5,23,,,,,lines
+10,1,5,24,,,,,lines
+10,1,5,25,,,,,lines
+10,1,5,26,,,,,lines
+10,1,5,27,,,,,lines
+10,1,5,28,,,,,lines
+10,1,5,29,,,,,lines
+10,1,5,30,,,,,lines
+10,1,5,31,,,,,lines
+10,1,6,1,,,,,lines
+10,1,6,2,,,,,lines
+10,1,6,3,Leisure & Hospitality,,,,lines
+10,1,6,4,,,,,lines
+10,1,6,5,,,,,lines
+10,1,6,6,,,,,lines
+10,1,6,7,,,,,lines
+10,1,6,8,,,,,lines
+10,1,6,9,,,,,lines
+10,1,6,10,,,,,lines
+10,1,6,11,,,,,lines
+10,1,6,12,,,,,lines
+10,1,6,13,,,,,lines
+10,1,6,14,,,,,lines
+10,1,6,15,,,,,lines
+10,1,6,16,,,,,lines
+10,1,6,17,,,,,lines
+10,1,6,18,,,,,lines
+10,1,6,19,,,,,lines
+10,1,6,20,,,,,lines
+10,1,6,21,,,,,lines
+10,1,6,22,,,,,lines
+10,1,6,23,,,,,lines
+10,1,6,24,,,,,lines
+10,1,6,25,,,,,lines
+10,1,6,26,,,,,lines
+10,1,6,27,,,,,lines
+10,1,6,28,,,,,lines
+10,1,6,29,,,,,lines
+10,1,6,30,,,,,lines
+10,1,6,31,,,,,lines
+10,1,7,1,,,,,lines
+10,1,7,2,,,,,lines
+10,1,7,3,- Malaysia,,,,lines
+10,1,7,4,,,,,lines
+10,1,7,5,,,,,lines
+10,1,7,6,,,,,lines
+10,1,7,7,,,,,lines
+10,1,7,8,,,,,lines
+10,1,7,9,,,,,lines
+10,1,7,10,,,,,lines
+10,1,7,11,"1,305.1",1305.1,- Malaysia,,lines
+10,1,7,12,,,,,lines
+10,1,7,13,,,,,lines
+10,1,7,14,,,,,lines
+10,1,7,15,"1,392.5",1392.5,- Malaysia,,lines
+10,1,7,16,,,,,lines
+10,1,7,17,,,,,lines
+10,1,7,18,,,,,lines
+10,1,7,19,,,,,lines
+10,1,7,20,,,,,lines
+10,1,7,21,,,,,lines
+10,1,7,22,,,,,lines
+10,1,7,23,-6%,-6.0,- Malaysia,,lines
+10,1,7,24,,,,,lines
+10,1,7,25,,,,,lines
+10,1,7,26,"1,480.8",1480.8,- Malaysia,,lines
+10,1,7,27,,,,,lines
+10,1,7,28,,,,,lines
+10,1,7,29,-12%,-12.0,- Malaysia,,lines
+10,1,7,30,,,,,lines
+10,1,7,31,,,,,lines
+10,1,8,1,,,,,lines
+10,1,8,2,,,,,lines
+10,1,8,3,- United Kingdom,,,,lines
+10,1,8,4,,,,,lines
+10,1,8,5,,,,,lines
+10,1,8,6,,,,,lines
+10,1,8,7,,,,,lines
+10,1,8,8,,,,,lines
+10,1,8,9,,,,,lines
+10,1,8,10,5,5.0,- United Kingdom,,lines
+10,1,8,11,,,,,lines
+10,1,8,12,28.9,28.9,- United Kingdom,,lines
+10,1,8,13,,,,,lines
+10,1,8,14,3,3.0,- United Kingdom,,lines
+10,1,8,15,,,,,lines
+10,1,8,16,,,,,lines
+10,1,8,17,55.7,55.7,- United Kingdom,,lines
+10,1,8,18,,,,,lines
+10,1,8,19,,,,,lines
+10,1,8,20,,,,,lines
+10,1,8,21,,,,,lines
+10,1,8,22,,,,,lines
+10,1,8,23,49%,49.0,- United Kingdom,,lines
+10,1,8,24,,,,,lines
+10,1,8,25,4,4.0,- United Kingdom,,lines
+10,1,8,26,,,,,lines
+10,1,8,27,30.4,30.4,- United Kingdom,,lines
+10,1,8,28,,,,,lines
+10,1,8,29,23%,23.0,- United Kingdom,,lines
+10,1,8,30,,,,,lines
+10,1,8,31,,,,,lines
+10,1,9,1,,,,,lines
+10,1,9,2,,,,,lines
+10,1,9,3,- United States of America and Bahamas,,,,lines
+10,1,9,4,,,,,lines
+10,1,9,5,,,,,lines
+10,1,9,6,,,,,lines
+10,1,9,7,,,,,lines
+10,1,9,8,,,,,lines
+10,1,9,9,,,,,lines
+10,1,9,10,3,3.0,- United States of America and Bahamas,,lines
+10,1,9,11,,,,,lines
+10,1,9,12,50.4,50.4,- United States of America and Bahamas,,lines
+10,1,9,13,,,,,lines
+10,1,9,14,3,3.0,- United States of America and Bahamas,,lines
+10,1,9,15,,,,,lines
+10,1,9,16,,,,,lines
+10,1,9,17,13.8,13.8,- United States of America and Bahamas,,lines
+10,1,9,18,,,,,lines
+10,1,9,19,,,,,lines
+10,1,9,20,,,,,lines
+10,1,9,21,,,,,lines
+10,1,9,22,,,,,lines
+10,1,9,23,12%,12.0,- United States of America and Bahamas,,lines
+10,1,9,24,,,,,lines
+10,1,9,25,3,3.0,- United States of America and Bahamas,,lines
+10,1,9,26,,,,,lines
+10,1,9,27,50.9,50.9,- United States of America and Bahamas,,lines
+10,1,9,28,,,,,lines
+10,1,9,29,,,,,lines
+10,1,9,30,-,,,,lines
+10,1,9,31,,,,,lines
+10,1,10,1,,,,,lines
+10,1,10,2,,,,,lines
+10,1,10,3,,,,,lines
+10,1,10,4,,,,,lines
+10,1,10,5,,,,,lines
+10,1,10,6,,,,,lines
+10,1,10,7,,,,,lines
+10,1,10,8,,,,,lines
+10,1,10,9,,,,,lines
+10,1,10,10,,,,,lines
+10,1,10,11,"2,184.4",2184.4,Leisure & Hospitality,,lines
+10,1,10,12,,,,,lines
+10,1,10,13,,,,,lines
+10,1,10,14,,,,,lines
+10,1,10,15,"2,062.0",2062.0,Leisure & Hospitality,,lines
+10,1,10,16,,,,,lines
+10,1,10,17,,,,,lines
+10,1,10,18,,,,,lines
+10,1,10,19,,,,,lines
+10,1,10,20,,,,,lines
+10,1,10,21,,,,,lines
+10,1,10,22,,,,,lines
+10,1,10,23,6%,6.0,Leisure & Hospitality,,lines
+10,1,10,24,,,,,lines
+10,1,10,25,,,,,lines
+10,1,10,26,"2,262.1",2262.1,Leisure & Hospitality,,lines
+10,1,10,27,,,,,lines
+10,1,10,28,,,,,lines
+10,1,10,29,-3%,-3.0,Leisure & Hospitality,,lines
+10,1,10,30,,,,,lines
+10,1,10,31,,,,,lines
+10,1,11,1,,,,,lines
+10,1,11,2,,,,,lines
+10,1,11,3,Property,,,,lines
+10,1,11,4,,,,,lines
+10,1,11,5,,,,,lines
+10,1,11,6,,,,,lines
+10,1,11,7,,,,,lines
+10,1,11,8,,,,,lines
+10,1,11,9,,,,,lines
+10,1,11,10,,,,,lines
+10,1,11,11,,,,,lines
+10,1,11,12,17.8,17.8,Property,,lines
+10,1,11,13,,,,,lines
+10,1,11,14,,,,,lines
+10,1,11,15,,,,,lines
+10,1,11,16,,,,,lines
+10,1,11,17,19.0,19.0,Property,,lines
+10,1,11,18,,,,,lines
+10,1,11,19,,,,,lines
+10,1,11,20,,,,,lines
+10,1,11,21,,,,,lines
+10,1,11,22,,,,,lines
+10,1,11,23,-6%,-6.0,Property,,lines
+10,1,11,24,,,,,lines
+10,1,11,25,,,,,lines
+10,1,11,26,,,,,lines
+10,1,11,27,18.9,18.9,Property,,lines
+10,1,11,28,,,,,lines
+10,1,11,29,-6%,-6.0,Property,,lines
+10,1,11,30,,,,,lines
+10,1,11,31,,,,,lines
+10,1,12,1,,,,,lines
+10,1,12,2,,,,,lines
+10,1,12,3,Investments & others,,,,lines
+10,1,12,4,,,,,lines
+10,1,12,5,,,,,lines
+10,1,12,6,,,,,lines
+10,1,12,7,,,,,lines
+10,1,12,8,,,,,lines
+10,1,12,9,,,,,lines
+10,1,12,10,,,,,lines
+10,1,12,11,,,,,lines
+10,1,12,12,12.1,12.1,Investments & others,,lines
+10,1,12,13,,,,,lines
+10,1,12,14,,,,,lines
+10,1,12,15,,,,,lines
+10,1,12,16,,,,,lines
+10,1,12,17,12.1,12.1,Investments & others,,lines
+10,1,12,18,,,,,lines
+10,1,12,19,,,,,lines
+10,1,12,20,,,,,lines
+10,1,12,21,,,,,lines
+10,1,12,22,,,,,lines
+10,1,12,23,,,,,lines
+10,1,12,24,-,,,,lines
+10,1,12,25,,,,,lines
+10,1,12,26,,,,,lines
+10,1,12,27,10.9,10.9,Investments & others,,lines
+10,1,12,28,,,,,lines
+10,1,12,29,11%,11.0,Investments & others,,lines
+10,1,12,30,,,,,lines
+10,1,12,31,,,,,lines
+10,1,13,1,,,,,lines
+10,1,13,2,,,,,lines
+10,1,13,3,,,,,lines
+10,1,13,4,,,,,lines
+10,1,13,5,,,,,lines
+10,1,13,6,,,,,lines
+10,1,13,7,,,,,lines
+10,1,13,8,,,,,lines
+10,1,13,9,,,,,lines
+10,1,13,10,,,,,lines
+10,1,13,11,"2,214.3",2214.3,Leisure & Hospitality,,lines
+10,1,13,12,,,,,lines
+10,1,13,13,,,,,lines
+10,1,13,14,,,,,lines
+10,1,13,15,"2,093.1",2093.1,Leisure & Hospitality,,lines
+10,1,13,16,,,,,lines
+10,1,13,17,,,,,lines
+10,1,13,18,,,,,lines
+10,1,13,19,,,,,lines
+10,1,13,20,,,,,lines
+10,1,13,21,,,,,lines
+10,1,13,22,,,,,lines
+10,1,13,23,6%,6.0,Leisure & Hospitality,,lines
+10,1,13,24,,,,,lines
+10,1,13,25,,,,,lines
+10,1,13,26,"2,291.9",2291.9,Leisure & Hospitality,,lines
+10,1,13,27,,,,,lines
+10,1,13,28,,,,,lines
+10,1,13,29,-3%,-3.0,Leisure & Hospitality,,lines
+10,1,13,30,,,,,lines
+10,1,13,31,,,,,lines
+10,1,14,1,,,,,lines
+10,1,14,2,,,,,lines
+10,1,14,3,,,,,lines
+10,1,14,4,,,,,lines
+10,1,14,5,,,,,lines
+10,1,14,6,,,,,lines
+10,1,14,7,,,,,lines
+10,1,14,8,,,,,lines
+10,1,14,9,,,,,lines
+10,1,14,10,,,,,lines
+10,1,14,11,,,,,lines
+10,1,14,12,,,,,lines
+10,1,14,13,,,,,lines
+10,1,14,14,,,,,lines
+10,1,14,15,,,,,lines
+10,1,14,16,,,,,lines
+10,1,14,17,,,,,lines
+10,1,14,18,,,,,lines
+10,1,14,19,,,,,lines
+10,1,14,20,,,,,lines
+10,1,14,21,,,,,lines
+10,1,14,22,,,,,lines
+10,1,14,23,,,,,lines
+10,1,14,24,,,,,lines
+10,1,14,25,,,,,lines
+10,1,14,26,,,,,lines
+10,1,14,27,,,,,lines
+10,1,14,28,,,,,lines
+10,1,14,29,,,,,lines
+10,1,14,30,,,,,lines
+10,1,14,31,,,,,lines
+10,1,15,1,,,,,lines
+10,1,15,2,,,,,lines
+10,1,15,3,Adjusted EBITDA,,,,lines
+10,1,15,4,,,,,lines
+10,1,15,5,,,,,lines
+10,1,15,6,,,,,lines
+10,1,15,7,,,,,lines
+10,1,15,8,,,,,lines
+10,1,15,9,,,,,lines
+10,1,15,10,,,,,lines
+10,1,15,11,,,,,lines
+10,1,15,12,,,,,lines
+10,1,15,13,,,,,lines
+10,1,15,14,,,,,lines
+10,1,15,15,,,,,lines
+10,1,15,16,,,,,lines
+10,1,15,17,,,,,lines
+10,1,15,18,,,,,lines
+10,1,15,19,,,,,lines
+10,1,15,20,,,,,lines
+10,1,15,21,,,,,lines
+10,1,15,22,,,,,lines
+10,1,15,23,,,,,lines
+10,1,15,24,,,,,lines
+10,1,15,25,,,,,lines
+10,1,15,26,,,,,lines
+10,1,15,27,,,,,lines
+10,1,15,28,,,,,lines
+10,1,15,29,,,,,lines
+10,1,15,30,,,,,lines
+10,1,15,31,,,,,lines
+10,1,16,1,,,,,lines
+10,1,16,2,,,,,lines
+10,1,16,3,Leisure & Hospitality,,,,lines
+10,1,16,4,,,,,lines
+10,1,16,5,,,,,lines
+10,1,16,6,,,,,lines
+10,1,16,7,,,,,lines
+10,1,16,8,,,,,lines
+10,1,16,9,,,,,lines
+10,1,16,10,,,,,lines
+10,1,16,11,,,,,lines
+10,1,16,12,,,,,lines
+10,1,16,13,,,,,lines
+10,1,16,14,,,,,lines
+10,1,16,15,,,,,lines
+10,1,16,16,,,,,lines
+10,1,16,17,,,,,lines
+10,1,16,18,,,,,lines
+10,1,16,19,,,,,lines
+10,1,16,20,,,,,lines
+10,1,16,21,,,,,lines
+10,1,16,22,,,,,lines
+10,1,16,23,,,,,lines
+10,1,16,24,,,,,lines
+10,1,16,25,,,,,lines
+10,1,16,26,,,,,lines
+10,1,16,27,,,,,lines
+10,1,16,28,,,,,lines
+10,1,16,29,,,,,lines
+10,1,16,30,,,,,lines
+10,1,16,31,,,,,lines
+10,1,17,1,,,,,lines
+10,1,17,2,,,,,lines
+10,1,17,3,- Malaysia,,,,lines
+10,1,17,4,,,,,lines
+10,1,17,5,,,,,lines
+10,1,17,6,,,,,lines
+10,1,17,7,,,,,lines
+10,1,17,8,,,,,lines
+10,1,17,9,,,,,lines
+10,1,17,10,4,4.0,- Malaysia,,lines
+10,1,17,11,,,,,lines
+10,1,17,12,51.5,51.5,- Malaysia,,lines
+10,1,17,13,,,,,lines
+10,1,17,14,4,4.0,- Malaysia,,lines
+10,1,17,15,,,,,lines
+10,1,17,16,,,,,lines
+10,1,17,17,84.6,84.6,- Malaysia,,lines
+10,1,17,18,,,,,lines
+10,1,17,19,,,,,lines
+10,1,17,20,,,,,lines
+10,1,17,21,,,,,lines
+10,1,17,22,,,,,lines
+10,1,17,23,-7%,-7.0,- Malaysia,,lines
+10,1,17,24,,,,,lines
+10,1,17,25,5,5.0,- Malaysia,,lines
+10,1,17,26,,,,,lines
+10,1,17,27,04.8,4.8,- Malaysia,,lines
+10,1,17,28,,,,,lines
+10,1,17,29,-11%,-11.0,- Malaysia,,lines
+10,1,17,30,,,,,lines
+10,1,17,31,,,,,lines
+10,1,18,1,,,,,lines
+10,1,18,2,,,,,lines
+10,1,18,3,- United Kingdom,,,,lines
+10,1,18,4,,,,,lines
+10,1,18,5,,,,,lines
+10,1,18,6,,,,,lines
+10,1,18,7,,,,,lines
+10,1,18,8,,,,,lines
+10,1,18,9,,,,,lines
+10,1,18,10,,,,,lines
+10,1,18,11,,,,,lines
+10,1,18,12,98.7,98.7,- United Kingdom,,lines
+10,1,18,13,,,,,lines
+10,1,18,14,,,,,lines
+10,1,18,15,,,,,lines
+10,1,18,16,,,,,lines
+10,1,18,17,38.3,38.3,- United Kingdom,,lines
+10,1,18,18,,,,,lines
+10,1,18,19,,,,,lines
+10,1,18,20,,,,,lines
+10,1,18,21,>100%,,,,lines
+10,1,18,22,,,,,lines
+10,1,18,23,,,,,lines
+10,1,18,24,,,,,lines
+10,1,18,25,,,,,lines
+10,1,18,26,,,,,lines
+10,1,18,27,24.3,24.3,- United Kingdom,,lines
+10,1,18,28,>,,,,lines
+10,1,18,29,100%,100.0,- United Kingdom,,lines
+10,1,18,30,,,,,lines
+10,1,18,31,,,,,lines
+10,1,19,1,,,,,lines
+10,1,19,2,,,,,lines
+10,1,19,3,- United States of America and Bahamas,,,,lines
+10,1,19,4,,,,,lines
+10,1,19,5,,,,,lines
+10,1,19,6,,,,,lines
+10,1,19,7,,,,,lines
+10,1,19,8,,,,,lines
+10,1,19,9,,,,,lines
+10,1,19,10,,,,,lines
+10,1,19,11,,,,,lines
+10,1,19,12,23.2,23.2,- United States of America and Bahamas,,lines
+10,1,19,13,,,,,lines
+10,1,19,14,,,,,lines
+10,1,19,15,,,,,lines
+10,1,19,16,,,,,lines
+10,1,19,17,47.1,47.1,- United States of America and Bahamas,,lines
+10,1,19,18,,,,,lines
+10,1,19,19,,,,,lines
+10,1,19,20,,,,,lines
+10,1,19,21,,,,,lines
+10,1,19,22,-51%,-51.0,- United States of America and Bahamas,,lines
+10,1,19,23,,,,,lines
+10,1,19,24,,,,,lines
+10,1,19,25,,,,,lines
+10,1,19,26,,,,,lines
+10,1,19,27,23.2,23.2,- United States of America and Bahamas,,lines
+10,1,19,28,,,,,lines
+10,1,19,29,,,,,lines
+10,1,19,30,-,,,,lines
+10,1,19,31,,,,,lines
+10,1,20,1,,,,,lines
+10,1,20,2,,,,,lines
+10,1,20,3,,,,,lines
+10,1,20,4,,,,,lines
+10,1,20,5,,,,,lines
+10,1,20,6,,,,,lines
+10,1,20,7,,,,,lines
+10,1,20,8,,,,,lines
+10,1,20,9,,,,,lines
+10,1,20,10,5,5.0,Leisure & Hospitality,,lines
+10,1,20,11,,,,,lines
+10,1,20,12,73.4,73.4,Leisure & Hospitality,,lines
+10,1,20,13,,,,,lines
+10,1,20,14,5,5.0,Leisure & Hospitality,,lines
+10,1,20,15,,,,,lines
+10,1,20,16,,,,,lines
+10,1,20,17,70.0,70.0,Leisure & Hospitality,,lines
+10,1,20,18,,,,,lines
+10,1,20,19,,,,,lines
+10,1,20,20,,,,,lines
+10,1,20,21,,,,,lines
+10,1,20,22,,,,,lines
+10,1,20,23,1%,1.0,Leisure & Hospitality,,lines
+10,1,20,24,,,,,lines
+10,1,20,25,5,5.0,Leisure & Hospitality,,lines
+10,1,20,26,,,,,lines
+10,1,20,27,52.3,52.3,Leisure & Hospitality,,lines
+10,1,20,28,,,,,lines
+10,1,20,29,4%,4.0,Leisure & Hospitality,,lines
+10,1,20,30,,,,,lines
+10,1,20,31,,,,,lines
+10,1,21,1,,,,,lines
+10,1,21,2,,,,,lines
+10,1,21,3,Property,,,,lines
+10,1,21,4,,,,,lines
+10,1,21,5,,,,,lines
+10,1,21,6,,,,,lines
+10,1,21,7,,,,,lines
+10,1,21,8,,,,,lines
+10,1,21,9,,,,,lines
+10,1,21,10,,,,,lines
+10,1,21,11,,,,,lines
+10,1,21,12,1.6,1.6,Property,,lines
+10,1,21,13,,,,,lines
+10,1,21,14,,,,,lines
+10,1,21,15,,,,,lines
+10,1,21,16,,,,,lines
+10,1,21,17,6.3,6.3,Property,,lines
+10,1,21,18,,,,,lines
+10,1,21,19,,,,,lines
+10,1,21,20,,,,,lines
+10,1,21,21,,,,,lines
+10,1,21,22,-75%,-75.0,Property,,lines
+10,1,21,23,,,,,lines
+10,1,21,24,,,,,lines
+10,1,21,25,,,,,lines
+10,1,21,26,,,,,lines
+10,1,21,27,3.3,3.3,Property,,lines
+10,1,21,28,,,,,lines
+10,1,21,29,-52%,-52.0,Property,,lines
+10,1,21,30,,,,,lines
+10,1,21,31,,,,,lines
+10,1,22,1,,,,,lines
+10,1,22,2,,,,,lines
+10,1,22,3,Investments & others,,,,lines
+10,1,22,4,,,,,lines
+10,1,22,5,,,,,lines
+10,1,22,6,,,,,lines
+10,1,22,7,,,,,lines
+10,1,22,8,,,,,lines
+10,1,22,9,,,,,lines
+10,1,22,10,(,,,,lines
+10,1,22,11,,,,,lines
+10,1,22,12,130.7),130.7,Investments & others       (,,lines
+10,1,22,13,,,,,lines
+10,1,22,14,,,,,lines
+10,1,22,15,,,,,lines
+10,1,22,16,,,,,lines
+10,1,22,17,32.0,32.0,Investments & others       (,,lines
+10,1,22,18,,,,,lines
+10,1,22,19,,,,,lines
+10,1,22,20,->100%,,,,lines
+10,1,22,21,,,,,lines
+10,1,22,22,,,,,lines
+10,1,22,23,,,,,lines
+10,1,22,24,,,,,lines
+10,1,22,25,,,,,lines
+10,1,22,26,,,,,lines
+10,1,22,27,(33.4),-33.4,Investments & others       (,,lines
+10,1,22,28,->,,,,lines
+10,1,22,29,100%,100.0,Investments & others       (,,lines
+10,1,22,30,,,,,lines
+10,1,22,31,,,,,lines
+10,1,23,1,,,,,lines
+10,1,23,2,,,,,lines
+10,1,23,3,,,,,lines
+10,1,23,4,,,,,lines
+10,1,23,5,,,,,lines
+10,1,23,6,,,,,lines
+10,1,23,7,,,,,lines
+10,1,23,8,,,,,lines
+10,1,23,9,,,,,lines
+10,1,23,10,,,,,lines
+10,1,23,11,,,,,lines
+10,1,23,12,,,,,lines
+10,1,23,13,,,,,lines
+10,1,23,14,,,,,lines
+10,1,23,15,,,,,lines
+10,1,23,16,,,,,lines
+10,1,23,17,,,,,lines
+10,1,23,18,,,,,lines
+10,1,23,19,,,,,lines
+10,1,23,20,,,,,lines
+10,1,23,21,,,,,lines
+10,1,23,22,,,,,lines
+10,1,23,23,,,,,lines
+10,1,23,24,,,,,lines
+10,1,23,25,,,,,lines
+10,1,23,26,,,,,lines
+10,1,23,27,,,,,lines
+10,1,23,28,,,,,lines
+10,1,23,29,,,,,lines
+10,1,23,30,,,,,lines
+10,1,23,31,,,,,lines
+10,1,24,1,,,,,lines
+10,1,24,2,,,,,lines
+10,1,24,3,,,,,lines
+10,1,24,4,,,,,lines
+10,1,24,5,,,,,lines
+10,1,24,6,,,,,lines
+10,1,24,7,,,,,lines
+10,1,24,8,,,,,lines
+10,1,24,9,,,,,lines
+10,1,24,10,4,4.0,,,lines
+10,1,24,11,,,,,lines
+10,1,24,12,44.3,44.3,,,lines
+10,1,24,13,,,,,lines
+10,1,24,14,6,6.0,,,lines
+10,1,24,15,,,,,lines
+10,1,24,16,,,,,lines
+10,1,24,17,08.3,8.3,,,lines
+10,1,24,18,,,,,lines
+10,1,24,19,,,,,lines
+10,1,24,20,-27%,-27.0,,,lines
+10,1,24,21,,,,,lines
+10,1,24,22,,,,,lines
+10,1,24,23,,,,,lines
+10,1,24,24,,,,,lines
+10,1,24,25,5,5.0,,,lines
+10,1,24,26,,,,,lines
+10,1,24,27,22.2,22.2,,,lines
+10,1,24,28,,,,,lines
+10,1,24,29,-15%,-15.0,,,lines
+10,1,24,30,,,,,lines
+10,1,24,31,,,,,lines
+10,1,25,1,,,,,lines
+10,1,25,2,,,,,lines
+10,1,25,3,,,,,lines
+10,1,25,4,,,,,lines
+10,1,25,5,,,,,lines
+10,1,25,6,,,,,lines
+10,1,25,7,,,,,lines
+10,1,25,8,,,,,lines
+10,1,25,9,,,,,lines
+10,1,25,10,,,,,lines
+10,1,25,11,,,,,lines
+10,1,25,12,,,,,lines
+10,1,25,13,,,,,lines
+10,1,25,14,,,,,lines
+10,1,25,15,,,,,lines
+10,1,25,16,,,,,lines
+10,1,25,17,,,,,lines
+10,1,25,18,,,,,lines
+10,1,25,19,,,,,lines
+10,1,25,20,,,,,lines
+10,1,25,21,,,,,lines
+10,1,25,22,,,,,lines
+10,1,25,23,,,,,lines
+10,1,25,24,,,,,lines
+10,1,25,25,,,,,lines
+10,1,25,26,,,,,lines
+10,1,25,27,,,,,lines
+10,1,25,28,,,,,lines
+10,1,25,29,,,,,lines
+10,1,25,30,,,,,lines
+10,1,25,31,,,,,lines
+10,1,26,1,,,,,lines
+10,1,26,2,Pre-opening expenses,,,,lines
+10,1,26,3,,,,,lines
+10,1,26,4,,,,,lines
+10,1,26,5,,,,,lines
+10,1,26,6,,,,,lines
+10,1,26,7,,,,,lines
+10,1,26,8,,,,,lines
+10,1,26,9,,,,,lines
+10,1,26,10,,,,,lines
+10,1,26,11,,,,,lines
+10,1,26,12,(10.7),-10.7,Pre-opening expenses,,lines
+10,1,26,13,,,,,lines
+10,1,26,14,,,,,lines
+10,1,26,15,,,,,lines
+10,1,26,16,,,,,lines
+10,1,26,17,(14.5),-14.5,Pre-opening expenses,,lines
+10,1,26,18,,,,,lines
+10,1,26,19,,,,,lines
+10,1,26,20,,,,,lines
+10,1,26,21,,,,,lines
+10,1,26,22,,,,,lines
+10,1,26,23,26%,26.0,Pre-opening expenses,,lines
+10,1,26,24,,,,,lines
+10,1,26,25,,,,,lines
+10,1,26,26,,,,,lines
+10,1,26,27,(25.7),-25.7,Pre-opening expenses,,lines
+10,1,26,28,,,,,lines
+10,1,26,29,58%,58.0,Pre-opening expenses,,lines
+10,1,26,30,,,,,lines
+10,1,26,31,,,,,lines
+10,1,27,1,,,,,lines
+10,1,27,2,,,,,lines
+10,1,27,3,"Property, plant and equipment written off",,,,lines
+10,1,27,4,,,,,lines
+10,1,27,5,,,,,lines
+10,1,27,6,,,,,lines
+10,1,27,7,,,,,lines
+10,1,27,8,,,,,lines
+10,1,27,9,,,,,lines
+10,1,27,10,,,,,lines
+10,1,27,11,,,,,lines
+10,1,27,12,(1.7),-1.7,"Property, plant and equipment written off",,lines
+10,1,27,13,,,,,lines
+10,1,27,14,,,,,lines
+10,1,27,15,,,,,lines
+10,1,27,16,,,,,lines
+10,1,27,17,(1.9),-1.9,"Property, plant and equipment written off",,lines
+10,1,27,18,,,,,lines
+10,1,27,19,,,,,lines
+10,1,27,20,,,,,lines
+10,1,27,21,,,,,lines
+10,1,27,22,,,,,lines
+10,1,27,23,11%,11.0,"Property, plant and equipment written off",,lines
+10,1,27,24,,,,,lines
+10,1,27,25,,,,,lines
+10,1,27,26,,,,,lines
+10,1,27,27,(3.7),-3.7,"Property, plant and equipment written off",,lines
+10,1,27,28,,,,,lines
+10,1,27,29,54%,54.0,"Property, plant and equipment written off",,lines
+10,1,27,30,,,,,lines
+10,1,27,31,,,,,lines
+10,1,28,1,,,,,lines
+10,1,28,2,,,,,lines
+10,1,28,3,"Loss on disposal of property, plant and",,,,lines
+10,1,28,4,,,,,lines
+10,1,28,5,,,,,lines
+10,1,28,6,,,,,lines
+10,1,28,7,,,,,lines
+10,1,28,8,,,,,lines
+10,1,28,9,,,,,lines
+10,1,28,10,,,,,lines
+10,1,28,11,,,,,lines
+10,1,28,12,,,,,lines
+10,1,28,13,,,,,lines
+10,1,28,14,,,,,lines
+10,1,28,15,,,,,lines
+10,1,28,16,,,,,lines
+10,1,28,17,,,,,lines
+10,1,28,18,,,,,lines
+10,1,28,19,,,,,lines
+10,1,28,20,,,,,lines
+10,1,28,21,,,,,lines
+10,1,28,22,,,,,lines
+10,1,28,23,,,,,lines
+10,1,28,24,,,,,lines
+10,1,28,25,,,,,lines
+10,1,28,26,,,,,lines
+10,1,28,27,,,,,lines
+10,1,28,28,,,,,lines
+10,1,28,29,,,,,lines
+10,1,28,30,,,,,lines
+10,1,28,31,,,,,lines
+10,1,29,1,,,,,lines
+10,1,29,2,,,,,lines
+10,1,29,3,equipment,,,,lines
+10,1,29,4,,,,,lines
+10,1,29,5,,,,,lines
+10,1,29,6,,,,,lines
+10,1,29,7,,,,,lines
+10,1,29,8,,,,,lines
+10,1,29,9,,,,,lines
+10,1,29,10,,,,,lines
+10,1,29,11,,,,,lines
+10,1,29,12,(6.1),-6.1,equipment,,lines
+10,1,29,13,,,,,lines
+10,1,29,14,,,,,lines
+10,1,29,15,,,,,lines
+10,1,29,16,,,,,lines
+10,1,29,17,(0.3),-0.3,equipment,,lines
+10,1,29,18,,,,,lines
+10,1,29,19,,,,,lines
+10,1,29,20,->100%,,,,lines
+10,1,29,21,,,,,lines
+10,1,29,22,,,,,lines
+10,1,29,23,,,,,lines
+10,1,29,24,,,,,lines
+10,1,29,25,,,,,lines
+10,1,29,26,,,,,lines
+10,1,29,27,(0.9),-0.9,equipment,,lines
+10,1,29,28,->,,,,lines
+10,1,29,29,100%,100.0,equipment,,lines
+10,1,29,30,,,,,lines
+10,1,29,31,,,,,lines
+10,1,30,1,,,,,lines
+10,1,30,2,,,,,lines
+10,1,30,3,,,,,lines
+10,1,30,4,,,,,lines
+10,1,30,5,,,,,lines
+10,1,30,6,,,,,lines
+10,1,30,7,,,,,lines
+10,1,30,8,,,,,lines
+10,1,30,9,,,,,lines
+10,1,30,10,,,,,lines
+10,1,30,11,,,,,lines
+10,1,30,12,(0.2),-0.2,"Loss on disposal of property, plant and",,lines
+10,1,30,13,,,,,lines
+10,1,30,14,,,,,lines
+10,1,30,15,,,,,lines
+10,1,30,16,,,,,lines
+10,1,30,17,,,,,lines
+10,1,30,18,-,,,,lines
+10,1,30,19,,,,,lines
+10,1,30,20,,,,,lines
+10,1,30,21,,,,,lines
+10,1,30,22,,,,,lines
+10,1,30,23,NC,,,,lines
+10,1,30,24,,,,,lines
+10,1,30,25,,,,,lines
+10,1,30,26,,,,,lines
+10,1,30,27,(27.3),-27.3,"Loss on disposal of property, plant and",,lines
+10,1,30,28,,,,,lines
+10,1,30,29,99%,99.0,"Loss on disposal of property, plant and",,lines
+10,1,30,30,,,,,lines
+10,1,30,31,,,,,lines
+10,1,31,1,,,,,lines
+10,1,31,2,,,,,lines
+10,1,31,3,Others,,,,lines
+10,1,31,4,,,,,lines
+10,1,31,5,,,,,lines
+10,1,31,6,,,,,lines
+10,1,31,7,,,,,lines
+10,1,31,8,,,,,lines
+10,1,31,9,,,,,lines
+10,1,31,10,,,,,lines
+10,1,31,11,,,,,lines
+10,1,31,12,,,,,lines
+10,1,31,13,-,,,,lines
+10,1,31,14,,,,,lines
+10,1,31,15,,,,,lines
+10,1,31,16,,,,,lines
+10,1,31,17,28.7,28.7,Others          -,,lines
+10,1,31,18,,,,,lines
+10,1,31,19,,,,,lines
+10,1,31,20,,,,,lines
+10,1,31,21,,,,,lines
+10,1,31,22,,,,,lines
+10,1,31,23,NC,,,,lines
+10,1,31,24,,,,,lines
+10,1,31,25,,,,,lines
+10,1,31,26,,,,,lines
+10,1,31,27,52.4,52.4,Others          -,,lines
+10,1,31,28,,,,,lines
+10,1,31,29,NC,,,,lines
+10,1,31,30,,,,,lines
+10,1,31,31,,,,,lines
+10,1,32,1,,,,,lines
+10,1,32,2,,,,,lines
+10,1,32,3,EBITDA,,,,lines
+10,1,32,4,,,,,lines
+10,1,32,5,,,,,lines
+10,1,32,6,,,,,lines
+10,1,32,7,,,,,lines
+10,1,32,8,,,,,lines
+10,1,32,9,,,,,lines
+10,1,32,10,4,4.0,EBITDA,,lines
+10,1,32,11,,,,,lines
+10,1,32,12,25.6,25.6,EBITDA,,lines
+10,1,32,13,,,,,lines
+10,1,32,14,6,6.0,EBITDA,,lines
+10,1,32,15,,,,,lines
+10,1,32,16,,,,,lines
+10,1,32,17,20.3,20.3,EBITDA,,lines
+10,1,32,18,,,,,lines
+10,1,32,19,,,,,lines
+10,1,32,20,,,,,lines
+10,1,32,21,,,,,lines
+10,1,32,22,-31%,-31.0,EBITDA,,lines
+10,1,32,23,,,,,lines
+10,1,32,24,,,,,lines
+10,1,32,25,5,5.0,EBITDA,,lines
+10,1,32,26,,,,,lines
+10,1,32,27,17.0,17.0,EBITDA,,lines
+10,1,32,28,,,,,lines
+10,1,32,29,-18%,-18.0,EBITDA,,lines
+10,1,32,30,,,,,lines
+10,1,32,31,,,,,lines
+10,1,33,1,,,,,lines
+10,1,33,2,,,,,lines
+10,1,33,3,,,,,lines
+10,1,33,4,,,,,lines
+10,1,33,5,,,,,lines
+10,1,33,6,,,,,lines
+10,1,33,7,,,,,lines
+10,1,33,8,,,,,lines
+10,1,33,9,,,,,lines
+10,1,33,10,,,,,lines
+10,1,33,11,,,,,lines
+10,1,33,12,,,,,lines
+10,1,33,13,,,,,lines
+10,1,33,14,,,,,lines
+10,1,33,15,,,,,lines
+10,1,33,16,,,,,lines
+10,1,33,17,,,,,lines
+10,1,33,18,,,,,lines
+10,1,33,19,,,,,lines
+10,1,33,20,,,,,lines
+10,1,33,21,,,,,lines
+10,1,33,22,,,,,lines
+10,1,33,23,,,,,lines
+10,1,33,24,,,,,lines
+10,1,33,25,,,,,lines
+10,1,33,26,,,,,lines
+10,1,33,27,,,,,lines
+10,1,33,28,,,,,lines
+10,1,33,29,,,,,lines
+10,1,33,30,,,,,lines
+10,1,33,31,,,,,lines
+10,1,34,1,,,,,lines
+10,1,34,2,Depreciation and amortisation,,,,lines
+10,1,34,3,,,,,lines
+10,1,34,4,,,,,lines
+10,1,34,5,,,,,lines
+10,1,34,6,,,,,lines
+10,1,34,7,,,,,lines
+10,1,34,8,,,,,lines
+10,1,34,9,,,,,lines
+10,1,34,10,(,,,,lines
+10,1,34,11,,,,,lines
+10,1,34,12,188.1),188.1,Depreciation and amortisation        (,,lines
+10,1,34,13,,,,,lines
+10,1,34,14,,,,,lines
+10,1,34,15,,,,,lines
+10,1,34,16,(158.7),-158.7,Depreciation and amortisation        (,,lines
+10,1,34,17,,,,,lines
+10,1,34,18,,,,,lines
+10,1,34,19,,,,,lines
+10,1,34,20,,,,,lines
+10,1,34,21,,,,,lines
+10,1,34,22,-19%,-19.0,Depreciation and amortisation        (,,lines
+10,1,34,23,,,,,lines
+10,1,34,24,,,,,lines
+10,1,34,25,(,,,,lines
+10,1,34,26,,,,,lines
+10,1,34,27,186.4),186.4,Depreciation and amortisation        (,,lines
+10,1,34,28,,,,,lines
+10,1,34,29,-1%,-1.0,Depreciation and amortisation        (,,lines
+10,1,34,30,,,,,lines
+10,1,34,31,,,,,lines
+10,1,35,1,,,,,lines
+10,1,35,2,Interest income,,,,lines
+10,1,35,3,,,,,lines
+10,1,35,4,,,,,lines
+10,1,35,5,,,,,lines
+10,1,35,6,,,,,lines
+10,1,35,7,,,,,lines
+10,1,35,8,,,,,lines
+10,1,35,9,,,,,lines
+10,1,35,10,,,,,lines
+10,1,35,11,,,,,lines
+10,1,35,12,38.9,38.9,Interest income,,lines
+10,1,35,13,,,,,lines
+10,1,35,14,,,,,lines
+10,1,35,15,,,,,lines
+10,1,35,16,,,,,lines
+10,1,35,17,21.4,21.4,Interest income,,lines
+10,1,35,18,,,,,lines
+10,1,35,19,,,,,lines
+10,1,35,20,,,,,lines
+10,1,35,21,,,,,lines
+10,1,35,22,,,,,lines
+10,1,35,23,82%,82.0,Interest income,,lines
+10,1,35,24,,,,,lines
+10,1,35,25,,,,,lines
+10,1,35,26,,,,,lines
+10,1,35,27,40.1,40.1,Interest income,,lines
+10,1,35,28,,,,,lines
+10,1,35,29,-3%,-3.0,Interest income,,lines
+10,1,35,30,,,,,lines
+10,1,35,31,,,,,lines
+10,1,36,1,,,,,lines
+10,1,36,2,,,,,lines
+10,1,36,3,Finance costs,,,,lines
+10,1,36,4,,,,,lines
+10,1,36,5,,,,,lines
+10,1,36,6,,,,,lines
+10,1,36,7,,,,,lines
+10,1,36,8,,,,,lines
+10,1,36,9,,,,,lines
+10,1,36,10,,,,,lines
+10,1,36,11,,,,,lines
+10,1,36,12,(14.3),-14.3,Finance costs,,lines
+10,1,36,13,,,,,lines
+10,1,36,14,,,,,lines
+10,1,36,15,,,,,lines
+10,1,36,16,,,,,lines
+10,1,36,17,(7.8),-7.8,Finance costs,,lines
+10,1,36,18,,,,,lines
+10,1,36,19,,,,,lines
+10,1,36,20,,,,,lines
+10,1,36,21,,,,,lines
+10,1,36,22,-83%,-83.0,Finance costs,,lines
+10,1,36,23,,,,,lines
+10,1,36,24,,,,,lines
+10,1,36,25,,,,,lines
+10,1,36,26,,,,,lines
+10,1,36,27,(12.8),-12.8,Finance costs,,lines
+10,1,36,28,,,,,lines
+10,1,36,29,-12%,-12.0,Finance costs,,lines
+10,1,36,30,,,,,lines
+10,1,36,31,,,,,lines
+10,1,37,1,Profit before taxation,,,,lines
+10,1,37,2,,,,,lines
+10,1,37,3,,,,,lines
+10,1,37,4,,,,,lines
+10,1,37,5,,,,,lines
+10,1,37,6,,,,,lines
+10,1,37,7,,,,,lines
+10,1,37,8,,,,,lines
+10,1,37,9,,,,,lines
+10,1,37,10,2,2.0,Profit before taxation,,lines
+10,1,37,11,,,,,lines
+10,1,37,12,62.1,62.1,Profit before taxation,,lines
+10,1,37,13,,,,,lines
+10,1,37,14,4,4.0,Profit before taxation,,lines
+10,1,37,15,,,,,lines
+10,1,37,16,,,,,lines
+10,1,37,17,75.2,75.2,Profit before taxation,,lines
+10,1,37,18,,,,,lines
+10,1,37,19,,,,,lines
+10,1,37,20,,,,,lines
+10,1,37,21,,,,,lines
+10,1,37,22,-45%,-45.0,Profit before taxation,,lines
+10,1,37,23,,,,,lines
+10,1,37,24,,,,,lines
+10,1,37,25,3,3.0,Profit before taxation,,lines
+10,1,37,26,,,,,lines
+10,1,37,27,57.9,57.9,Profit before taxation,,lines
+10,1,37,28,,,,,lines
+10,1,37,29,-27%,-27.0,Profit before taxation,,lines
+10,1,37,30,,,,,lines
+10,1,37,31,,,,,lines
+14,1,1,1,8) Outstanding derivatives,,,,lines
+14,1,1,2,,,,,lines
+14,1,1,3,,,,,lines
+14,1,1,4,,,,,lines
+14,1,1,5,,,,,lines
+14,1,1,6,,,,,lines
+14,1,1,7,,,,,lines
+14,1,1,8,,,,,lines
+14,1,1,9,,,,,lines
+14,1,2,1,,,,,lines
+14,1,2,2,,,,,lines
+14,1,2,3,,,,,lines
+14,1,2,4,,,,,lines
+14,1,2,5,,,,,lines
+14,1,2,6,,,,,lines
+14,1,2,7,,,,,lines
+14,1,2,8,,,,,lines
+14,1,2,9,,,,,lines
+14,1,3,1,,,,,lines
+14,1,3,2,"As at 31 March 2016, the values and maturity analysis of the outstanding derivatives of the Group are as",,,,lines
+14,1,3,3,,,,,lines
+14,1,3,4,,,,,lines
+14,1,3,5,,,,,lines
+14,1,3,6,,,,,lines
+14,1,3,7,,,,,lines
+14,1,3,8,,,,,lines
+14,1,3,9,,,,,lines
+14,1,4,1,,,,,lines
+14,1,4,2,follows:,,,,lines
+14,1,4,3,,,,,lines
+14,1,4,4,,,,,lines
+14,1,4,5,,,,,lines
+14,1,4,6,,,,,lines
+14,1,4,7,,,,,lines
+14,1,4,8,,,,,lines
+14,1,4,9,,,,,lines
+14,1,5,1,,,,,lines
+14,1,5,2,,,,,lines
+14,1,5,3,,,,,lines
+14,1,5,4,,,,,lines
+14,1,5,5,,,,,lines
+14,1,5,6,,,,,lines
+14,1,5,7,,,,,lines
+14,1,5,8,,,,,lines
+14,1,5,9,,,,,lines
+14,1,6,1,,,,,lines
+14,1,6,2,Types of Derivative,,,,lines
+14,1,6,3,,,,,lines
+14,1,6,4,,,,,lines
+14,1,6,5,,,,,lines
+14,1,6,6,Contract/Notional Value,,,,lines
+14,1,6,7,,,,,lines
+14,1,6,8,,,,,lines
+14,1,6,9,Fair Value Liabilities RM’000,,,,lines
+14,1,7,1,,,,,lines
+14,1,7,2,,,,,lines
+14,1,7,3,,,,,lines
+14,1,7,4,,,,,lines
+14,1,7,5,,,,,lines
+14,1,7,6,RM’000,,,,lines
+14,1,7,7,,,,,lines
+14,1,7,8,,,,,lines
+14,1,7,9,,,,,lines
+14,1,8,1,,,,,lines
+14,1,8,2,Interest Rate Swaps GBP - Less than 1 year - 1 year to 3 years,,,,lines
+14,1,8,3,,,,,lines
+14,1,8,4,,,,,lines
+14,1,8,5,"370,318",370318.0,Interest Rate Swaps GBP - Less than 1 year - 1 year to 3 years,,lines
+14,1,8,6,,,,,lines
+14,1,8,7,,,,,lines
+14,1,8,8,"3,299 2,192",32992192.0,Interest Rate Swaps GBP - Less than 1 year - 1 year to 3 years,,lines
+14,1,8,9,,,,,lines
+14,1,9,1,,,,,lines
+14,1,9,2,,,,,lines
+14,1,9,3,,,,,lines
+14,1,9,4,,,,,lines
+14,1,9,5,,,,,lines
+14,1,9,6,"370,318",370318.0,RM’000,,lines
+14,1,9,7,,,,,lines
+14,1,9,8,,,,,lines
+14,1,9,9,,,,,lines
+14,1,10,1,,,,,lines
+14,1,10,2,,,,,lines
+14,1,10,3,,,,,lines
+14,1,10,4,,,,,lines
+14,1,10,5,,,,,lines
+14,1,10,6,,,,,lines
+14,1,10,7,,,,,lines
+14,1,10,8,,,,,lines
+14,1,10,9,,,,,lines
+14,1,11,1,,,,,lines
+14,1,11,2,,,,,lines
+14,1,11,3,,,,,lines
+14,1,11,4,,,,,lines
+14,1,11,5,,,,,lines
+14,1,11,6,,,,,lines
+14,1,11,7,,,,,lines
+14,1,11,8,,,,,lines
+14,1,11,9,,,,,lines
+14,1,12,1,,,,,lines
+14,1,12,2,,,,,lines
+14,1,12,3,,,,,lines
+14,1,12,4,,,,,lines
+14,1,12,5,,,,,lines
+14,1,12,6,,,,,lines
+14,1,12,7,,,,,lines
+14,1,12,8,,,,,lines
+14,1,12,9,,,,,lines
+14,1,13,1,,,,,lines
+14,1,13,2,"Other that the above, there is no significant change for the financial derivatives in respect of the following since",,,,lines
+14,1,13,3,,,,,lines
+14,1,13,4,,,,,lines
+14,1,13,5,,,,,lines
+14,1,13,6,,,,,lines
+14,1,13,7,,,,,lines
+14,1,13,8,,,,,lines
+14,1,13,9,,,,,lines
+14,1,14,1,,,,,lines
+14,1,14,2,the last financial year ended 31 December 2015:,,,,lines
+14,1,14,3,,,,,lines
+14,1,14,4,,,,,lines
+14,1,14,5,,,,,lines
+14,1,14,6,,,,,lines
+14,1,14,7,,,,,lines
+14,1,14,8,,,,,lines
+14,1,14,9,,,,,lines
+14,1,15,1,,,,,lines
+14,1,15,2,,,,,lines
+14,1,15,3,,,,,lines
+14,1,15,4,,,,,lines
+14,1,15,5,,,,,lines
+14,1,15,6,,,,,lines
+14,1,15,7,,,,,lines
+14,1,15,8,,,,,lines
+14,1,15,9,,,,,lines
+14,1,16,1,,,,,lines
+14,1,16,2,"(a) the credit risk, market risk and liquidity risk associated with these financial derivatives;",,,,lines
+14,1,16,3,,,,,lines
+14,1,16,4,,,,,lines
+14,1,16,5,,,,,lines
+14,1,16,6,,,,,lines
+14,1,16,7,,,,,lines
+14,1,16,8,,,,,lines
+14,1,16,9,,,,,lines
+14,1,17,1,,,,,lines
+14,1,17,2,,,,,lines
+14,1,17,3,,,,,lines
+14,1,17,4,,,,,lines
+14,1,17,5,,,,,lines
+14,1,17,6,,,,,lines
+14,1,17,7,,,,,lines
+14,1,17,8,,,,,lines
+14,1,17,9,,,,,lines
+14,1,18,1,,,,,lines
+14,1,18,2,(b) the cash requirements of the financial derivatives; and,,,,lines
+14,1,18,3,,,,,lines
+14,1,18,4,,,,,lines
+14,1,18,5,,,,,lines
+14,1,18,6,,,,,lines
+14,1,18,7,,,,,lines
+14,1,18,8,,,,,lines
+14,1,18,9,,,,,lines
+14,1,19,1,,,,,lines
+14,1,19,2,,,,,lines
+14,1,19,3,,,,,lines
+14,1,19,4,,,,,lines
+14,1,19,5,,,,,lines
+14,1,19,6,,,,,lines
+14,1,19,7,,,,,lines
+14,1,19,8,,,,,lines
+14,1,19,9,,,,,lines
+14,1,20,1,,,,,lines
+14,1,20,2,(c) the policy in place for mitigating or controlling the risks associated with these financial derivatives.,,,,lines
+14,1,20,3,,,,,lines
+14,1,20,4,,,,,lines
+14,1,20,5,,,,,lines
+14,1,20,6,,,,,lines
+14,1,20,7,,,,,lines
+14,1,20,8,,,,,lines
+14,1,20,9,,,,,lines
+14,1,21,1,,,,,lines
+14,1,21,2,,,,,lines
+14,1,21,3,,,,,lines
+14,1,21,4,,,,,lines
+14,1,21,5,,,,,lines
+14,1,21,6,,,,,lines
+14,1,21,7,,,,,lines
+14,1,21,8,,,,,lines
+14,1,21,9,,,,,lines
+14,1,22,1,,,,,lines
+14,1,22,2,,,,,lines
+14,1,22,3,,,,,lines
+14,1,22,4,,,,,lines
+14,1,22,5,,,,,lines
+14,1,22,6,,,,,lines
+14,1,22,7,,,,,lines
+14,1,22,8,,,,,lines
+14,1,22,9,,,,,lines
+14,1,23,1,9) Fair Value Changes of Financial Liabilities,,,,lines
+14,1,23,2,,,,,lines
+14,1,23,3,,,,,lines
+14,1,23,4,,,,,lines
+14,1,23,5,,,,,lines
+14,1,23,6,,,,,lines
+14,1,23,7,,,,,lines
+14,1,23,8,,,,,lines
+14,1,23,9,,,,,lines
+14,1,24,1,,,,,lines
+14,1,24,2,,,,,lines
+14,1,24,3,,,,,lines
+14,1,24,4,,,,,lines
+14,1,24,5,,,,,lines
+14,1,24,6,,,,,lines
+14,1,24,7,,,,,lines
+14,1,24,8,,,,,lines
+14,1,24,9,,,,,lines
+14,1,25,1,,,,,lines
+14,1,25,2,"As at 31 March 2016, the Group does not have any financial liabilities measured at fair value through profit or",,,,lines
+14,1,25,3,,,,,lines
+14,1,25,4,,,,,lines
+14,1,25,5,,,,,lines
+14,1,25,6,,,,,lines
+14,1,25,7,,,,,lines
+14,1,25,8,,,,,lines
+14,1,25,9,,,,,lines
+14,1,26,1,,,,,lines
+14,1,26,2,loss.,,,,lines
+14,1,26,3,,,,,lines
+14,1,26,4,,,,,lines
+14,1,26,5,,,,,lines
+14,1,26,6,,,,,lines
+14,1,26,7,,,,,lines
+14,1,26,8,,,,,lines
+14,1,26,9,,,,,lines
+14,1,27,1,,,,,lines
+14,1,27,2,,,,,lines
+14,1,27,3,,,,,lines
+14,1,27,4,,,,,lines
+14,1,27,5,,,,,lines
+14,1,27,6,,,,,lines
+14,1,27,7,,,,,lines
+14,1,27,8,,,,,lines
+14,1,27,9,,,,,lines
+14,1,28,1,,,,,lines
+14,1,28,2,,,,,lines
+14,1,28,3,,,,,lines
+14,1,28,4,,,,,lines
+14,1,28,5,,,,,lines
+14,1,28,6,,,,,lines
+14,1,28,7,,,,,lines
+14,1,28,8,,,,,lines
+14,1,28,9,,,,,lines
+14,1,29,1,10) Changes in Material Litigation,,,,lines
+14,1,29,2,,,,,lines
+14,1,29,3,,,,,lines
+14,1,29,4,,,,,lines
+14,1,29,5,,,,,lines
+14,1,29,6,,,,,lines
+14,1,29,7,,,,,lines
+14,1,29,8,,,,,lines
+14,1,29,9,,,,,lines
+14,1,30,1,,,,,lines
+14,1,30,2,,,,,lines
+14,1,30,3,,,,,lines
+14,1,30,4,,,,,lines
+14,1,30,5,,,,,lines
+14,1,30,6,,,,,lines
+14,1,30,7,,,,,lines
+14,1,30,8,,,,,lines
+14,1,30,9,,,,,lines
+14,1,31,1,,,,,lines
+14,1,31,2,There are no pending material litigations as at 17 May 2016.,,,,lines
+14,1,31,3,,,,,lines
+14,1,31,4,,,,,lines
+14,1,31,5,,,,,lines
+14,1,31,6,,,,,lines
+14,1,31,7,,,,,lines
+14,1,31,8,,,,,lines
+14,1,31,9,,,,,lines
+14,1,32,1,,,,,lines
+14,1,32,2,,,,,lines
+14,1,32,3,,,,,lines
+14,1,32,4,,,,,lines
+14,1,32,5,,,,,lines
+14,1,32,6,,,,,lines
+14,1,32,7,,,,,lines
+14,1,32,8,,,,,lines
+14,1,32,9,,,,,lines
+14,1,33,1,,,,,lines
+14,1,33,2,,,,,lines
+14,1,33,3,,,,,lines
+14,1,33,4,,,,,lines
+14,1,33,5,,,,,lines
+14,1,33,6,,,,,lines
+14,1,33,7,,,,,lines
+14,1,33,8,,,,,lines
+14,1,33,9,,,,,lines
+14,1,34,1,11) Dividend Proposed or Declared,,,,lines
+14,1,34,2,,,,,lines
+14,1,34,3,,,,,lines
+14,1,34,4,,,,,lines
+14,1,34,5,,,,,lines
+14,1,34,6,,,,,lines
+14,1,34,7,,,,,lines
+14,1,34,8,,,,,lines
+14,1,34,9,,,,,lines
+14,1,35,1,,,,,lines
+14,1,35,2,,,,,lines
+14,1,35,3,,,,,lines
+14,1,35,4,,,,,lines
+14,1,35,5,,,,,lines
+14,1,35,6,,,,,lines
+14,1,35,7,,,,,lines
+14,1,35,8,,,,,lines
+14,1,35,9,,,,,lines
+14,2,1,1,,,,,lines
+14,2,1,2,,,,,lines
+14,2,1,3,,,,,lines
+14,2,1,4,,,,,lines
+14,2,1,5,,,,,lines
+14,2,1,6,,,,,lines
+14,2,1,7,,,,,lines
+14,2,1,8,,,,,lines
+14,2,1,9,,,,,lines
+14,2,1,10,,,,,lines
+14,2,1,11,,,,,lines
+14,2,1,12,,,,,lines
+14,2,1,13,,,,,lines
+14,2,1,14,,,,,lines
+14,2,1,15,,,,,lines
+14,2,1,16,,,,,lines
+14,2,1,17,,,,,lines
+14,2,1,18,,,,,lines
+14,2,1,19,,,,,lines
+14,2,1,20,,,,,lines
+14,2,2,1,,,,,lines
+14,2,2,2,,,,,lines
+14,2,2,3,,,,,lines
+14,2,2,4,,,,,lines
+14,2,2,5,,,,,lines
+14,2,2,6,,,,,lines
+14,2,2,7,,,,,lines
+14,2,2,8,,,,,lines
+14,2,2,9,,,,,lines
+14,2,2,10,,,,,lines
+14,2,2,11,,,,,lines
+14,2,2,12,,,,,lines
+14,2,2,13,,,,,lines
+14,2,2,14,,,,,lines
+14,2,2,15,,,,,lines
+14,2,2,16,,,,,lines
+14,2,2,17,,,,,lines
+14,2,2,18,,,,,lines
+14,2,2,19,,,,,lines
+14,2,2,20,,,,,lines
+14,2,3,1,,,,,lines
+14,2,3,2,,,,,lines
+14,2,3,3,,,,,lines
+14,2,3,4,,,,,lines
+14,2,3,5,,,,,lines
+14,2,3,6,,,,,lines
+14,2,3,7,,,,,lines
+14,2,3,8,,,,,lines
+14,2,3,9,,,,,lines
+14,2,3,10,,,,,lines
+14,2,3,11,,,,,lines
+14,2,3,12,,,,,lines
+14,2,3,13,,,,,lines
+14,2,3,14,,,,,lines
+14,2,3,15,,,,,lines
+14,2,3,16,,,,,lines
+14,2,3,17,,,,,lines
+14,2,3,18,,,,,lines
+14,2,3,19,,,,,lines
+14,2,3,20,,,,,lines
+14,2,4,1,Charges:,,,,lines
+14,2,4,2,,,,,lines
+14,2,4,3,,,,,lines
+14,2,4,4,,,,,lines
+14,2,4,5,,,,,lines
+14,2,4,6,,,,,lines
+14,2,4,7,,,,,lines
+14,2,4,8,,,,,lines
+14,2,4,9,,,,,lines
+14,2,4,10,,,,,lines
+14,2,4,11,,,,,lines
+14,2,4,12,,,,,lines
+14,2,4,13,,,,,lines
+14,2,4,14,,,,,lines
+14,2,4,15,,,,,lines
+14,2,4,16,,,,,lines
+14,2,4,17,,,,,lines
+14,2,4,18,,,,,lines
+14,2,4,19,,,,,lines
+14,2,4,20,,,,,lines
+14,2,5,1,Depreciation and amortisation,,,,lines
+14,2,5,2,,,,,lines
+14,2,5,3,,,,,lines
+14,2,5,4,,,,,lines
+14,2,5,5,,,,,lines
+14,2,5,6,,,,,lines
+14,2,5,7,,,,,lines
+14,2,5,8,,,,,lines
+14,2,5,9,,,,,lines
+14,2,5,10,,,,,lines
+14,2,5,11,,,,,lines
+14,2,5,12,,,,,lines
+14,2,5,13,"188,139",188139.0,Depreciation and amortisation,,lines
+14,2,5,14,,,,,lines
+14,2,5,15,,,,,lines
+14,2,5,16,,,,,lines
+14,2,5,17,,,,,lines
+14,2,5,18,,,,,lines
+14,2,5,19,,,,,lines
+14,2,5,20,,,,,lines
+14,2,6,1,Impairment losses,,,,lines
+14,2,6,2,,,,,lines
+14,2,6,3,,,,,lines
+14,2,6,4,,,,,lines
+14,2,6,5,,,,,lines
+14,2,6,6,,,,,lines
+14,2,6,7,,,,,lines
+14,2,6,8,,,,,lines
+14,2,6,9,,,,,lines
+14,2,6,10,,,,,lines
+14,2,6,11,,,,,lines
+14,2,6,12,,,,,lines
+14,2,6,13,228,228.0,Impairment losses,,lines
+14,2,6,14,,,,,lines
+14,2,6,15,,,,,lines
+14,2,6,16,,,,,lines
+14,2,6,17,,,,,lines
+14,2,6,18,,,,,lines
+14,2,6,19,,,,,lines
+14,2,6,20,,,,,lines
+14,2,7,1,"Property, plant and equipment written off",,,,lines
+14,2,7,2,,,,,lines
+14,2,7,3,,,,,lines
+14,2,7,4,,,,,lines
+14,2,7,5,,,,,lines
+14,2,7,6,,,,,lines
+14,2,7,7,,,,,lines
+14,2,7,8,,,,,lines
+14,2,7,9,,,,,lines
+14,2,7,10,,,,,lines
+14,2,7,11,,,,,lines
+14,2,7,12,,,,,lines
+14,2,7,13,"1,718",1718.0,"Property, plant and equipment written off",,lines
+14,2,7,14,,,,,lines
+14,2,7,15,,,,,lines
+14,2,7,16,,,,,lines
+14,2,7,17,,,,,lines
+14,2,7,18,,,,,lines
+14,2,7,19,,,,,lines
+14,2,7,20,,,,,lines
+14,2,8,1,"Net loss on disposal of property, plant and equipment",,,,lines
+14,2,8,2,,,,,lines
+14,2,8,3,,,,,lines
+14,2,8,4,,,,,lines
+14,2,8,5,,,,,lines
+14,2,8,6,,,,,lines
+14,2,8,7,,,,,lines
+14,2,8,8,,,,,lines
+14,2,8,9,,,,,lines
+14,2,8,10,,,,,lines
+14,2,8,11,,,,,lines
+14,2,8,12,,,,,lines
+14,2,8,13,"6,127",6127.0,"Net loss on disposal of property, plant and equipment",,lines
+14,2,8,14,,,,,lines
+14,2,8,15,,,,,lines
+14,2,8,16,,,,,lines
+14,2,8,17,,,,,lines
+14,2,8,18,,,,,lines
+14,2,8,19,,,,,lines
+14,2,8,20,,,,,lines
+14,2,9,1,Net foreign currency exchange losses,,,,lines
+14,2,9,2,,,,,lines
+14,2,9,3,,,,,lines
+14,2,9,4,,,,,lines
+14,2,9,5,,,,,lines
+14,2,9,6,,,,,lines
+14,2,9,7,,,,,lines
+14,2,9,8,,,,,lines
+14,2,9,9,,,,,lines
+14,2,9,10,,,,,lines
+14,2,9,11,,,,,lines
+14,2,9,12,,,,,lines
+14,2,9,13,,,,,lines
+14,2,9,14,"140,443",140443.0,Net foreign currency exchange losses,,lines
+14,2,9,15,,,,,lines
+14,2,9,16,,,,,lines
+14,2,9,17,,,,,lines
+14,2,9,18,,,,,lines
+14,2,9,19,,,,,lines
+14,2,9,20,,,,,lines
+14,2,10,1,Finance costs:,,,,lines
+14,2,10,2,,,,,lines
+14,2,10,3,,,,,lines
+14,2,10,4,,,,,lines
+14,2,10,5,,,,,lines
+14,2,10,6,,,,,lines
+14,2,10,7,,,,,lines
+14,2,10,8,,,,,lines
+14,2,10,9,,,,,lines
+14,2,10,10,,,,,lines
+14,2,10,11,,,,,lines
+14,2,10,12,,,,,lines
+14,2,10,13,,,,,lines
+14,2,10,14,,,,,lines
+14,2,10,15,,,,,lines
+14,2,10,16,,,,,lines
+14,2,10,17,,,,,lines
+14,2,10,18,,,,,lines
+14,2,10,19,,,,,lines
+14,2,10,20,,,,,lines
+14,2,11,1,- Interest on borrowings,,,,lines
+14,2,11,2,,,,,lines
+14,2,11,3,,,,,lines
+14,2,11,4,,,,,lines
+14,2,11,5,,,,,lines
+14,2,11,6,,,,,lines
+14,2,11,7,,,,,lines
+14,2,11,8,,,,,lines
+14,2,11,9,,,,,lines
+14,2,11,10,,,,,lines
+14,2,11,11,,,,,lines
+14,2,11,12,,,,,lines
+14,2,11,13,,,,,lines
+14,2,11,14,"40,121",40121.0,- Interest on borrowings,,lines
+14,2,11,15,,,,,lines
+14,2,11,16,,,,,lines
+14,2,11,17,,,,,lines
+14,2,11,18,,,,,lines
+14,2,11,19,,,,,lines
+14,2,11,20,,,,,lines
+14,2,12,1,- Other finance costs,,,,lines
+14,2,12,2,,,,,lines
+14,2,12,3,,,,,lines
+14,2,12,4,,,,,lines
+14,2,12,5,,,,,lines
+14,2,12,6,,,,,lines
+14,2,12,7,,,,,lines
+14,2,12,8,,,,,lines
+14,2,12,9,,,,,lines
+14,2,12,10,,,,,lines
+14,2,12,11,,,,,lines
+14,2,12,12,,,,,lines
+14,2,12,13,,,,,lines
+14,2,12,14,"2,223",2223.0,- Other finance costs,,lines
+14,2,12,15,,,,,lines
+14,2,12,16,,,,,lines
+14,2,12,17,,,,,lines
+14,2,12,18,,,,,lines
+14,2,12,19,,,,,lines
+14,2,12,20,,,,,lines
+14,2,13,1,- Less: capitalised costs,,,,lines
+14,2,13,2,,,,,lines
+14,2,13,3,,,,,lines
+14,2,13,4,,,,,lines
+14,2,13,5,,,,,lines
+14,2,13,6,,,,,lines
+14,2,13,7,,,,,lines
+14,2,13,8,,,,,lines
+14,2,13,9,,,,,lines
+14,2,13,10,,,,,lines
+14,2,13,11,,,,,lines
+14,2,13,12,,,,,lines
+14,2,13,13,,,,,lines
+14,2,13,14,"(16,872)",-16872.0,- Less: capitalised costs,,lines
+14,2,13,15,,,,,lines
+14,2,13,16,,,,,lines
+14,2,13,17,,,,,lines
+14,2,13,18,,,,,lines
+14,2,13,19,,,,,lines
+14,2,13,20,,,,,lines
+14,2,14,1,- Less: interest income earned,,,,lines
+14,2,14,2,,,,,lines
+14,2,14,3,,,,,lines
+14,2,14,4,,,,,lines
+14,2,14,5,,,,,lines
+14,2,14,6,,,,,lines
+14,2,14,7,,,,,lines
+14,2,14,8,,,,,lines
+14,2,14,9,,,,,lines
+14,2,14,10,,,,,lines
+14,2,14,11,,,,,lines
+14,2,14,12,,,,,lines
+14,2,14,13,,,,,lines
+14,2,14,14,"(11,176)",-11176.0,- Less: interest income earned,,lines
+14,2,14,15,,,,,lines
+14,2,14,16,,,,,lines
+14,2,14,17,,,,,lines
+14,2,14,18,,,,,lines
+14,2,14,19,,,,,lines
+14,2,14,20,,,,,lines
+14,2,15,1,Finance costs charged to income statements,,,,lines
+14,2,15,2,,,,,lines
+14,2,15,3,,,,,lines
+14,2,15,4,,,,,lines
+14,2,15,5,,,,,lines
+14,2,15,6,,,,,lines
+14,2,15,7,,,,,lines
+14,2,15,8,,,,,lines
+14,2,15,9,,,,,lines
+14,2,15,10,,,,,lines
+14,2,15,11,,,,,lines
+14,2,15,12,,,,,lines
+14,2,15,13,,,,,lines
+14,2,15,14,"14,296",14296.0,Finance costs charged to income statements,,lines
+14,2,15,15,,,,,lines
+14,2,15,16,,,,,lines
+14,2,15,17,,,,,lines
+14,2,15,18,,,,,lines
+14,2,15,19,,,,,lines
+14,2,15,20,,,,,lines
+14,2,16,1,,,,,lines
+14,2,16,2,,,,,lines
+14,2,16,3,,,,,lines
+14,2,16,4,,,,,lines
+14,2,16,5,,,,,lines
+14,2,16,6,,,,,lines
+14,2,16,7,,,,,lines
+14,2,16,8,,,,,lines
+14,2,16,9,,,,,lines
+14,2,16,10,,,,,lines
+14,2,16,11,,,,,lines
+14,2,16,12,,,,,lines
+14,2,16,13,,,,,lines
+14,2,16,14,,,,,lines
+14,2,16,15,,,,,lines
+14,2,16,16,,,,,lines
+14,2,16,17,,,,,lines
+14,2,16,18,,,,,lines
+14,2,16,19,,,,,lines
+14,2,16,20,,,,,lines
+14,2,17,1,Credits:,,,,lines
+14,2,17,2,,,,,lines
+14,2,17,3,,,,,lines
+14,2,17,4,,,,,lines
+14,2,17,5,,,,,lines
+14,2,17,6,,,,,lines
+14,2,17,7,,,,,lines
+14,2,17,8,,,,,lines
+14,2,17,9,,,,,lines
+14,2,17,10,,,,,lines
+14,2,17,11,,,,,lines
+14,2,17,12,,,,,lines
+14,2,17,13,,,,,lines
+14,2,17,14,,,,,lines
+14,2,17,15,,,,,lines
+14,2,17,16,,,,,lines
+14,2,17,17,,,,,lines
+14,2,17,18,,,,,lines
+14,2,17,19,,,,,lines
+14,2,17,20,,,,,lines
+14,2,18,1,Interest income,,,,lines
+14,2,18,2,,,,,lines
+14,2,18,3,,,,,lines
+14,2,18,4,,,,,lines
+14,2,18,5,,,,,lines
+14,2,18,6,,,,,lines
+14,2,18,7,,,,,lines
+14,2,18,8,,,,,lines
+14,2,18,9,,,,,lines
+14,2,18,10,,,,,lines
+14,2,18,11,,,,,lines
+14,2,18,12,,,,,lines
+14,2,18,13,,,,,lines
+14,2,18,14,"38,962",38962.0,Interest income,,lines
+14,2,18,15,,,,,lines
+14,2,18,16,,,,,lines
+14,2,18,17,,,,,lines
+14,2,18,18,,,,,lines
+14,2,18,19,,,,,lines
+14,2,18,20,,,,,lines
+14,2,19,1,Investment income,,,,lines
+14,2,19,2,,,,,lines
+14,2,19,3,,,,,lines
+14,2,19,4,,,,,lines
+14,2,19,5,,,,,lines
+14,2,19,6,,,,,lines
+14,2,19,7,,,,,lines
+14,2,19,8,,,,,lines
+14,2,19,9,,,,,lines
+14,2,19,10,,,,,lines
+14,2,19,11,,,,,lines
+14,2,19,12,,,,,lines
+14,2,19,13,,,,,lines
+14,2,19,14,"7,766",7766.0,Investment income,,lines
+14,2,19,15,,,,,lines
+14,2,19,16,,,,,lines
+14,2,19,17,,,,,lines
+14,2,19,18,,,,,lines
+14,2,19,19,,,,,lines
+14,2,19,20,,,,,lines
+15,1,1,1,- Realised,,,,words
+15,1,1,2,"14,662,757",14662757.0,- Realised,As at the end of / current quarter / RM’000,words
+15,1,1,3,"14,189,547",14189547.0,- Realised,As at the end of / last financial year / RM’000,words
+15,1,2,1,- Unrealised,,,,words
+15,1,2,2,"(630,865)",-630865.0,- Unrealised,As at the end of / current quarter / RM’000,words
+15,1,2,3,"(370,359)",-370359.0,- Unrealised,As at the end of / last financial year / RM’000,words
+15,1,3,1,"14,031,892",14031892.0,,As at the end of / current quarter / RM’000,words
+15,1,3,2,"13,819,188",13819188.0,,As at the end of / last financial year / RM’000,words
+15,1,4,1,Total share of accumulated losses from joint ventures:,,,,words
+15,1,5,1,- Realised,,,,words
+15,1,5,2,"(10,456)",-10456.0,- Realised,As at the end of / current quarter / RM’000,words
+15,1,5,3,"(10,456)",-10456.0,- Realised,As at the end of / last financial year / RM’000,words
+15,1,6,1,"14,021,436",14021436.0,Total share of accumulated losses from joint ventures:,As at the end of / current quarter / RM’000,words
+15,1,6,2,"13,808,732",13808732.0,Total share of accumulated losses from joint ventures:,As at the end of / last financial year / RM’000,words
+15,1,7,1,Add: Consolidation adjustments,,,,words
+15,1,7,2,"494,200",494200.0,Add: Consolidation adjustments,As at the end of / current quarter / RM’000,words
+15,1,7,3,"539,786",539786.0,Add: Consolidation adjustments,As at the end of / last financial year / RM’000,words
+15,1,8,1,Total Group retained profits as per consolidated accounts,,,,words
+15,1,8,2,"14,515,636",14515636.0,Total Group retained profits as per consolidated accounts,As at the end of / current quarter / RM’000,words
+15,1,8,3,"14,348,518",14348518.0,Total Group retained profits as per consolidated accounts,As at the end of / last financial year / RM’000,words

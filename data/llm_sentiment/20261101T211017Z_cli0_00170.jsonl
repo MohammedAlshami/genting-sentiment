@@ -1,0 +1,15 @@
+{"reply_id": "moomoo_my:115218683986326", "score": 0.5, "label": "neutral", "confidence": 0.92, "ticker": "GENTING", "context_used": 1, "raw_json": "{\"i\": 1, \"l\": 5, \"c\": 0.92}"}
+{"reply_id": "i3investor:9591293", "score": 0.6, "label": "bullish", "confidence": 0.66, "ticker": "GENTING", "context_used": 1, "raw_json": "{\"i\": 2, \"l\": 6, \"c\": 0.66}"}
+{"reply_id": "klse_screener:8019427", "score": 0.8, "label": "bullish", "confidence": 0.82, "ticker": "GENTING", "context_used": 1, "raw_json": "{\"i\": 3, \"l\": 8, \"c\": 0.82}"}
+{"reply_id": "klse_screener:7869221", "score": 0.4, "label": "bearish", "confidence": 0.5, "ticker": "GENTING", "context_used": 1, "raw_json": "{\"i\": 4, \"l\": 4, \"c\": 0.5}"}
+{"reply_id": "klse_screener:8159931", "score": 0.4, "label": "bearish", "confidence": 0.45, "ticker": "GENM", "context_used": 1, "raw_json": "{\"i\": 5, \"l\": 4, \"c\": 0.45}"}
+{"reply_id": "i3investor:9843696", "score": 0.5, "label": "neutral", "confidence": 0.82, "ticker": "GENM", "context_used": 1, "raw_json": "{\"i\": 6, \"l\": 5, \"c\": 0.82}"}
+{"reply_id": "tiktok:7659869788370207506", "score": 0.5, "label": "neutral", "confidence": 0.88, "ticker": "UNKNOWN", "context_used": 1, "raw_json": "{\"i\": 7, \"l\": 5, \"c\": 0.88}"}
+{"reply_id": "klse_screener:7945763", "score": 0.6, "label": "bullish", "confidence": 0.45, "ticker": "GENM", "context_used": 1, "raw_json": "{\"i\": 8, \"l\": 6, \"c\": 0.45}"}
+{"reply_id": "klse_screener:7964711", "score": 0.6, "label": "bullish", "confidence": 0.6, "ticker": "GENM", "context_used": 1, "raw_json": "{\"i\": 9, \"l\": 6, \"c\": 0.6}"}
+{"reply_id": "youtube:UgwQe2RBPd3IRHvObUp4AaABAg", "score": 0.5, "label": "neutral", "confidence": 0.8, "ticker": "UNKNOWN", "context_used": 1, "raw_json": "{\"i\": 10, \"l\": 5, \"c\": 0.8}"}
+{"reply_id": "klse_screener:7656863", "score": 0.9, "label": "bullish", "confidence": 0.85, "ticker": "GENTING", "context_used": 1, "raw_json": "{\"i\": 11, \"l\": 9, \"c\": 0.85}"}
+{"reply_id": "youtube:UgwXUKxP_wuP4zTPn5R4AaABAg", "score": 0.5, "label": "neutral", "confidence": 0.6, "ticker": "UNKNOWN", "context_used": 1, "raw_json": "{\"i\": 12, \"l\": 5, \"c\": 0.6}"}
+{"reply_id": "klse_screener:8018235", "score": 0.6, "label": "bullish", "confidence": 0.75, "ticker": "GENM", "context_used": 1, "raw_json": "{\"i\": 13, \"l\": 6, \"c\": 0.75}"}
+{"reply_id": "moomoo_my:116457591537670", "score": 0.6, "label": "bullish", "confidence": 0.6, "ticker": "GENM", "context_used": 1, "raw_json": "{\"i\": 14, \"l\": 6, \"c\": 0.6}"}
+{"reply_id": "i3investor:9954714", "score": 0.1, "label": "bearish", "confidence": 0.72, "ticker": "GENM", "context_used": 1, "raw_json": "{\"i\": 15, \"l\": 1, \"c\": 0.72}"}

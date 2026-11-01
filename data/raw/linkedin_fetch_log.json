@@ -1,0 +1,25 @@
+{
+ "window_start_utc": 1730505600,
+ "window_end_utc": 1793663999,
+ "posts_written": 16,
+ "replies_written": 0,
+ "min_created_utc": 1767196819,
+ "max_created_utc": 1793246436,
+ "fetch_log": [
+  {
+   "url": "https://www.linkedin.com/company/genting-berhad/",
+   "status": 200,
+   "ld_posts": 5
+  },
+  {
+   "url": "https://www.linkedin.com/company/resorts-world-genting/",
+   "status": 200,
+   "ld_posts": 10
+  },
+  {
+   "url": "https://www.linkedin.com/posts/pirginezra_genting-shares-tumble-most-since-1998-on-activity-7515309138923491330-g4Rn",
+   "status": 200,
+   "ld_posts": 1
+  }
+ ]
+}

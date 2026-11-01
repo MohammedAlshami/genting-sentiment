@@ -1,0 +1,415 @@
+company,ticker,fiscal_year,statement,line_item,value,unit,page,source_pages,source_pdf,source_pdfs,basis,source_line_item,source_value_text,source_unit
+Genting Malaysia Berhad,GENM,2015,income,revenue,8395.9,RM million,67,67,GENM_AR_2015.pdf,GENM_AR_2015.pdf,reported,Revenue 5 &,"8,395.9",RM million
+Genting Malaysia Berhad,GENM,2015,income,PBT,1530.0,RM million,67,67,GENM_AR_2015.pdf,GENM_AR_2015.pdf,reported,"Profit before taxation 5, 8, 9 &","1,530.0",RM million
+Genting Malaysia Berhad,GENM,2015,income,net_profit,1243.0,RM million,67,67,GENM_AR_2015.pdf,GENM_AR_2015.pdf,reported,Profit for the financial year,"1,243.0",RM million
+Genting Malaysia Berhad,GENM,2015,income,net_profit_attributable,1257.9,RM million,67,67,GENM_AR_2015.pdf,GENM_AR_2015.pdf,reported,Equity holders of the Company,"1,257.9",RM million
+Genting Malaysia Berhad,GENM,2015,income,net_profit_nci,-14.9,RM million,67,67,GENM_AR_2015.pdf,GENM_AR_2015.pdf,reported,Non-controlling interests,(14.9),RM million
+Genting Malaysia Berhad,GENM,2015,income,finance_cost,-35.9,RM million,67,67,GENM_AR_2015.pdf,GENM_AR_2015.pdf,reported,Finance costs,(35.9),RM million
+Genting Malaysia Berhad,GENM,2015,income,EPS,22.21,sen,67,67,GENM_AR_2015.pdf,GENM_AR_2015.pdf,reported,Basic earnings per share (sen),22.21,RM million
+Genting Malaysia Berhad,GENM,2015,balance,total_assets,27520.8,RM million,69,69,GENM_AR_2015.pdf,GENM_AR_2015.pdf,reported,Total Assets,"27,520.8",RM million
+Genting Malaysia Berhad,GENM,2015,balance,total_liabilities,8414.4,RM million,69,69,GENM_AR_2015.pdf,GENM_AR_2015.pdf,reported,Total Liabilities,"8,414.4",RM million
+Genting Malaysia Berhad,GENM,2015,balance,equity,19106.4,RM million,69,69,GENM_AR_2015.pdf,GENM_AR_2015.pdf,reported,Total Equity,"19,106.4",RM million
+Genting Malaysia Berhad,GENM,2015,balance,total_debt,4624.9,RM million,69,69,GENM_AR_2015.pdf,GENM_AR_2015.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Malaysia Berhad,GENM,2015,balance,cash,4519.0,RM million,69,69,GENM_AR_2015.pdf,GENM_AR_2015.pdf,reported,Cash and cash equivalents,"4,519.0",RM million
+Genting Malaysia Berhad,GENM,2015,balance,net_debt,105.9,RM million,69,69;69,GENM_AR_2015.pdf,GENM_AR_2015.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Malaysia Berhad,GENM,2015,cashflow,operating_cash_flow,1857.0,RM million,73,73,GENM_AR_2015.pdf,GENM_AR_2015.pdf,reported,NET CASH FLOW FROM OPERATING ACTIVITIES,"1,857.0",RM million
+Genting Malaysia Berhad,GENM,2015,cashflow,capex,-2530.5,RM million,74,74,GENM_AR_2015.pdf,GENM_AR_2015.pdf,reported,"Property, plant and equipment","(2,530.5)",RM million
+Genting Malaysia Berhad,GENM,2015,cashflow,depreciation_amortisation,684.1,RM million,73,73,GENM_AR_2015.pdf,GENM_AR_2015.pdf,computed: sum of depreciation/amortisation lines,Depreciation and amortisation,,
+Genting Malaysia Berhad,GENM,2015,income,EBITDA,2250.0,RM million,67,67;67;73,GENM_AR_2015.pdf,GENM_AR_2015.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Malaysia Berhad,GENM,2015,income,DPS,7.1,sen,20,20,GENM_AR_2016.pdf,GENM_AR_2016.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                                   16.5#            7. 1         6.5           7. 1         6.6,
+Genting Malaysia Berhad,GENM,2016,income,revenue,8931.6,RM million,57,57,GENM_AR_2016.pdf,GENM_AR_2016.pdf,reported,Revenue 5 &,"8,931.6",RM million
+Genting Malaysia Berhad,GENM,2016,income,PBT,3090.6,RM million,57,57,GENM_AR_2016.pdf,GENM_AR_2016.pdf,reported,"Profit before taxation 5, 8, 9 &","3,090.6",RM million
+Genting Malaysia Berhad,GENM,2016,income,net_profit,2800.7,RM million,57,57,GENM_AR_2016.pdf,GENM_AR_2016.pdf,reported,Profit for the financial year,"2,800.7",RM million
+Genting Malaysia Berhad,GENM,2016,income,net_profit_attributable,2880.1,RM million,57,57,GENM_AR_2016.pdf,GENM_AR_2016.pdf,reported,Equity holders of the Company,"2,880.1",RM million
+Genting Malaysia Berhad,GENM,2016,income,net_profit_nci,-79.4,RM million,57,57,GENM_AR_2016.pdf,GENM_AR_2016.pdf,reported,Non-controlling interests,(79.4),RM million
+Genting Malaysia Berhad,GENM,2016,income,finance_cost,-70.4,RM million,57,57,GENM_AR_2016.pdf,GENM_AR_2016.pdf,reported,Finance costs,(70.4),RM million
+Genting Malaysia Berhad,GENM,2016,income,EPS,50.91,sen,57,57,GENM_AR_2016.pdf,GENM_AR_2016.pdf,reported,Basic earnings per share (sen),50.91,RM million
+Genting Malaysia Berhad,GENM,2016,balance,total_assets,27894.4,RM million,59,59,GENM_AR_2016.pdf,GENM_AR_2016.pdf,reported,Total Assets,"27,894.4",RM million
+Genting Malaysia Berhad,GENM,2016,balance,total_liabilities,8149.0,RM million,59,59,GENM_AR_2016.pdf,GENM_AR_2016.pdf,reported,Total Liabilities,"8,149.0",RM million
+Genting Malaysia Berhad,GENM,2016,balance,equity,19745.4,RM million,59,59,GENM_AR_2016.pdf,GENM_AR_2016.pdf,reported,Total Equity,"19,745.4",RM million
+Genting Malaysia Berhad,GENM,2016,balance,total_debt,4326.6,RM million,59,59,GENM_AR_2016.pdf,GENM_AR_2016.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Malaysia Berhad,GENM,2016,balance,cash,4855.7,RM million,59,59,GENM_AR_2016.pdf,GENM_AR_2016.pdf,reported,Cash and cash equivalents,"4,855.7",RM million
+Genting Malaysia Berhad,GENM,2016,balance,net_debt,-529.1,RM million,59,59;59,GENM_AR_2016.pdf,GENM_AR_2016.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Malaysia Berhad,GENM,2016,cashflow,operating_cash_flow,2409.4,RM million,63,63,GENM_AR_2016.pdf,GENM_AR_2016.pdf,reported,NET CASH FLOW FROM OPERATING ACTIVITIES,"2,409.4",RM million
+Genting Malaysia Berhad,GENM,2016,cashflow,capex,-3117.3,RM million,64,64,GENM_AR_2016.pdf,GENM_AR_2016.pdf,reported,"Property, plant and equipment","(3,117.3)",RM million
+Genting Malaysia Berhad,GENM,2016,cashflow,depreciation_amortisation,800.7,RM million,63,63,GENM_AR_2016.pdf,GENM_AR_2016.pdf,computed: sum of depreciation/amortisation lines,Depreciation and amortisation,,
+Genting Malaysia Berhad,GENM,2016,income,EBITDA,3961.7,RM million,57,57;57;63,GENM_AR_2016.pdf,GENM_AR_2016.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Malaysia Berhad,GENM,2016,income,DPS,16.5,sen,20,20,GENM_AR_2016.pdf,GENM_AR_2016.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                                   16.5#            7. 1         6.5           7. 1         6.6,
+Genting Malaysia Berhad,GENM,2017,income,revenue,9328.7,RM million,81,81,GENM_AR_2017.pdf,GENM_AR_2017.pdf,reported,Revenue 5 &,"9,328.7",RM million
+Genting Malaysia Berhad,GENM,2017,income,PBT,1318.2,RM million,81,81,GENM_AR_2017.pdf,GENM_AR_2017.pdf,reported,"Profit before taxation 5, 8, 9 &","1,318.2",RM million
+Genting Malaysia Berhad,GENM,2017,income,net_profit,1071.0,RM million,81,81,GENM_AR_2017.pdf,GENM_AR_2017.pdf,reported,Profit for the financial year,"1,071.0",RM million
+Genting Malaysia Berhad,GENM,2017,income,net_profit_attributable,1159.7,RM million,81,81,GENM_AR_2017.pdf,GENM_AR_2017.pdf,reported,Equity holders of the Company,"1,159.7",RM million
+Genting Malaysia Berhad,GENM,2017,income,net_profit_nci,-88.7,RM million,81,81,GENM_AR_2017.pdf,GENM_AR_2017.pdf,reported,Non-controlling interests,(88.7),RM million
+Genting Malaysia Berhad,GENM,2017,income,finance_cost,-114.9,RM million,81,81,GENM_AR_2017.pdf,GENM_AR_2017.pdf,reported,Finance costs,(114.9),RM million
+Genting Malaysia Berhad,GENM,2017,income,EPS,20.48,sen,81,81,GENM_AR_2017.pdf,GENM_AR_2017.pdf,reported,Basic earnings per share (sen),20.48,RM million
+Genting Malaysia Berhad,GENM,2017,balance,total_assets,29968.4,RM million,83,83,GENM_AR_2017.pdf,GENM_AR_2017.pdf,reported,Total Assets,"29,968.4",RM million
+Genting Malaysia Berhad,GENM,2017,balance,total_liabilities,10826.6,RM million,83,83,GENM_AR_2017.pdf,GENM_AR_2017.pdf,reported,Total Liabilities,"10,826.6",RM million
+Genting Malaysia Berhad,GENM,2017,balance,equity,19141.8,RM million,83,83,GENM_AR_2017.pdf,GENM_AR_2017.pdf,reported,Total Equity,"19,141.8",RM million
+Genting Malaysia Berhad,GENM,2017,balance,total_debt,6900.3,RM million,83,83,GENM_AR_2017.pdf,GENM_AR_2017.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Malaysia Berhad,GENM,2017,balance,cash,5996.6,RM million,83,83,GENM_AR_2017.pdf,GENM_AR_2017.pdf,reported,Cash and cash equivalents,"5,996.6",RM million
+Genting Malaysia Berhad,GENM,2017,balance,net_debt,903.7,RM million,83,83;83,GENM_AR_2017.pdf,GENM_AR_2017.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Malaysia Berhad,GENM,2017,cashflow,operating_cash_flow,2154.8,RM million,87,87,GENM_AR_2017.pdf,GENM_AR_2017.pdf,reported,NET CASH FLOW FROM OPERATING ACTIVITIES,"2,154.8",RM million
+Genting Malaysia Berhad,GENM,2017,cashflow,capex,-2659.0,RM million,88,88,GENM_AR_2017.pdf,GENM_AR_2017.pdf,reported,"Property, plant and equipment","(2,659.0)",RM million
+Genting Malaysia Berhad,GENM,2017,cashflow,depreciation_amortisation,939.9,RM million,87,87,GENM_AR_2017.pdf,GENM_AR_2017.pdf,computed: sum of depreciation/amortisation lines,Depreciation and amortisation,,
+Genting Malaysia Berhad,GENM,2017,income,EBITDA,2373.0,RM million,81,81;81;87,GENM_AR_2017.pdf,GENM_AR_2017.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Malaysia Berhad,GENM,2017,income,DPS,17.0,sen,30,30,GENM_AR_2017.pdf,GENM_AR_2017.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                                  17.0#,
+Genting Malaysia Berhad,GENM,2018,income,revenue,9927.6,RM million,81,81,GENM_AR_2018.pdf,GENM_AR_2018.pdf,reported,Revenue 5 &,"9,927.6",RM million
+Genting Malaysia Berhad,GENM,2018,income,PBT,-4.0,RM million,81,81,GENM_AR_2018.pdf,GENM_AR_2018.pdf,reported,(Loss)/profit before taxation 10 &,(4.0),RM million
+Genting Malaysia Berhad,GENM,2018,income,net_profit,-86.3,RM million,81,81,GENM_AR_2018.pdf,GENM_AR_2018.pdf,reported,(Loss)/profit for the financial year,(86.3),RM million
+Genting Malaysia Berhad,GENM,2018,income,net_profit_attributable,-19.5,RM million,81,81,GENM_AR_2018.pdf,GENM_AR_2018.pdf,reported,Equity holders of the Company,(19.5),RM million
+Genting Malaysia Berhad,GENM,2018,income,net_profit_nci,-66.8,RM million,81,81,GENM_AR_2018.pdf,GENM_AR_2018.pdf,reported,Non-controlling interests,(66.8),RM million
+Genting Malaysia Berhad,GENM,2018,income,finance_cost,-155.8,RM million,81,81,GENM_AR_2018.pdf,GENM_AR_2018.pdf,reported,Finance costs,(155.8),RM million
+Genting Malaysia Berhad,GENM,2018,income,EPS,-0.35,sen,81,81,GENM_AR_2018.pdf,GENM_AR_2018.pdf,reported,Basic (loss)/earnings per share (sen),(0.35),RM million
+Genting Malaysia Berhad,GENM,2018,balance,total_assets,31717.9,RM million,83,83,GENM_AR_2018.pdf,GENM_AR_2018.pdf,reported,Total Assets,"31,717.9",RM million
+Genting Malaysia Berhad,GENM,2018,balance,total_liabilities,13764.6,RM million,84,84,GENM_AR_2018.pdf,GENM_AR_2018.pdf,reported,Total Liabilities,"13,764.6",RM million
+Genting Malaysia Berhad,GENM,2018,balance,equity,17953.3,RM million,84,84,GENM_AR_2018.pdf,GENM_AR_2018.pdf,reported,Total Equity,"17,953.3",RM million
+Genting Malaysia Berhad,GENM,2018,balance,total_debt,9760.3,RM million,84,84,GENM_AR_2018.pdf,GENM_AR_2018.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Malaysia Berhad,GENM,2018,balance,cash,7999.7,RM million,83,83,GENM_AR_2018.pdf,GENM_AR_2018.pdf,reported,Cash and cash equivalents,"7,999.7",RM million
+Genting Malaysia Berhad,GENM,2018,balance,net_debt,1760.6,RM million,84,84;83,GENM_AR_2018.pdf,GENM_AR_2018.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Malaysia Berhad,GENM,2018,cashflow,operating_cash_flow,2610.5,RM million,89,89,GENM_AR_2018.pdf,GENM_AR_2018.pdf,reported,NET CASH FLOW FROM OPERATING ACTIVITIES,"2,610.5",RM million
+Genting Malaysia Berhad,GENM,2018,cashflow,capex,-1853.5,RM million,90,90,GENM_AR_2018.pdf,GENM_AR_2018.pdf,reported,"Property, plant and equipment","(1,853.5)",RM million
+Genting Malaysia Berhad,GENM,2018,cashflow,depreciation_amortisation,954.8,RM million,89,89,GENM_AR_2018.pdf,GENM_AR_2018.pdf,computed: sum of depreciation/amortisation lines,Depreciation and amortisation,,
+Genting Malaysia Berhad,GENM,2018,income,EBITDA,1106.6,RM million,81,81;81;89,GENM_AR_2018.pdf,GENM_AR_2018.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Malaysia Berhad,GENM,2018,income,DPS,19.0,sen,28,28,GENM_AR_2018.pdf,GENM_AR_2018.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                                  19.0#        17.0         16.5          7.1          6.5,
+Genting Malaysia Berhad,GENM,2019,income,revenue,10406.9,RM million,76,76,GENM_AR_2019.pdf,GENM_AR_2019.pdf,reported,Revenue 5 &,"10,406.9",RM million
+Genting Malaysia Berhad,GENM,2019,income,PBT,1489.4,RM million,76,76,GENM_AR_2019.pdf,GENM_AR_2019.pdf,reported,Profit/(loss) before taxation 10 &,"1,489.4",RM million
+Genting Malaysia Berhad,GENM,2019,income,net_profit,1332.2,RM million,76,76,GENM_AR_2019.pdf,GENM_AR_2019.pdf,reported,Profit/(loss) for the financial year,"1,332.2",RM million
+Genting Malaysia Berhad,GENM,2019,income,net_profit_attributable,1395.3,RM million,76,76,GENM_AR_2019.pdf,GENM_AR_2019.pdf,reported,Equity holders of the Company,"1,395.3",RM million
+Genting Malaysia Berhad,GENM,2019,income,net_profit_nci,-63.1,RM million,76,76,GENM_AR_2019.pdf,GENM_AR_2019.pdf,reported,Non-controlling interests,(63.1),RM million
+Genting Malaysia Berhad,GENM,2019,income,finance_cost,-250.3,RM million,76,76,GENM_AR_2019.pdf,GENM_AR_2019.pdf,reported,Finance costs,(250.3),RM million
+Genting Malaysia Berhad,GENM,2019,income,EPS,24.68,sen,76,76,GENM_AR_2019.pdf,GENM_AR_2019.pdf,reported,Basic earnings/(loss) per share (sen),24.68,RM million
+Genting Malaysia Berhad,GENM,2019,balance,total_assets,33312.7,RM million,78,78,GENM_AR_2019.pdf,GENM_AR_2019.pdf,reported,Total Assets,"33,312.7",RM million
+Genting Malaysia Berhad,GENM,2019,balance,total_liabilities,15142.7,RM million,79,79,GENM_AR_2019.pdf,GENM_AR_2019.pdf,reported,Total Liabilities,"15,142.7",RM million
+Genting Malaysia Berhad,GENM,2019,balance,equity,18170.0,RM million,79,79,GENM_AR_2019.pdf,GENM_AR_2019.pdf,reported,Total Equity,"18,170.0",RM million
+Genting Malaysia Berhad,GENM,2019,balance,total_debt,10007.5,RM million,79,79,GENM_AR_2019.pdf,GENM_AR_2019.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Malaysia Berhad,GENM,2019,balance,cash,6476.4,RM million,78,78,GENM_AR_2019.pdf,GENM_AR_2019.pdf,reported,Cash and cash equivalents,"6,476.4",RM million
+Genting Malaysia Berhad,GENM,2019,balance,total_debt_incl_leases,10786.6,RM million,79,79,GENM_AR_2019.pdf,GENM_AR_2019.pdf,computed: total_debt + lease liabilities,Total debt + Lease liabilities,,
+Genting Malaysia Berhad,GENM,2019,balance,net_debt,3531.1,RM million,79,79;78,GENM_AR_2019.pdf,GENM_AR_2019.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Malaysia Berhad,GENM,2019,cashflow,operating_cash_flow,2577.2,RM million,83,83,GENM_AR_2019.pdf,GENM_AR_2019.pdf,reported,NET CASH FLOW FROM OPERATING ACTIVITIES,"2,577.2",RM million
+Genting Malaysia Berhad,GENM,2019,cashflow,capex,-2517.9,RM million,84,84,GENM_AR_2019.pdf,GENM_AR_2019.pdf,reported,"Property, plant and equipment","(2,517.9)",RM million
+Genting Malaysia Berhad,GENM,2019,cashflow,depreciation_amortisation,1070.6,RM million,83,83,GENM_AR_2019.pdf,GENM_AR_2019.pdf,reported: depreciation and amortisation,Depreciation and amortisation,,
+Genting Malaysia Berhad,GENM,2019,income,EBITDA,2810.3,RM million,76,76;76;83,GENM_AR_2019.pdf,GENM_AR_2019.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Malaysia Berhad,GENM,2019,income,DPS,20.0,sen,29,29,GENM_AR_2019.pdf,GENM_AR_2019.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                                  20.0#          19.0          17.0         16.5          7.1,
+Genting Malaysia Berhad,GENM,2020,income,revenue,4528.8,RM million,73,73,GENM_AR_2020.pdf,GENM_AR_2020.pdf,reported,Revenue 5 &,"4,528.8",RM million
+Genting Malaysia Berhad,GENM,2020,income,PBT,-2137.5,RM million,73,73,GENM_AR_2020.pdf,GENM_AR_2020.pdf,reported,(Loss)/profit before taxation 10 &,"(2,137.5)",RM million
+Genting Malaysia Berhad,GENM,2020,income,net_profit,-2361.5,RM million,73,73,GENM_AR_2020.pdf,GENM_AR_2020.pdf,reported,(Loss)/profit for the financial year,"(2,361.5)",RM million
+Genting Malaysia Berhad,GENM,2020,income,net_profit_attributable,-2263.8,RM million,73,73,GENM_AR_2020.pdf,GENM_AR_2020.pdf,reported,Equity holders of the Company,"(2,263.8)",RM million
+Genting Malaysia Berhad,GENM,2020,income,net_profit_nci,-97.7,RM million,73,73,GENM_AR_2020.pdf,GENM_AR_2020.pdf,reported,Non-controlling interests,(97.7),RM million
+Genting Malaysia Berhad,GENM,2020,income,finance_cost,-331.9,RM million,73,73,GENM_AR_2020.pdf,GENM_AR_2020.pdf,reported,Finance costs,(331.9),RM million
+Genting Malaysia Berhad,GENM,2020,income,EPS,-40.05,sen,73,73,GENM_AR_2020.pdf,GENM_AR_2020.pdf,reported,Basic (loss)/earnings per share (sen),(40.05),RM million
+Genting Malaysia Berhad,GENM,2020,balance,total_assets,28287.1,RM million,75,75,GENM_AR_2020.pdf,GENM_AR_2020.pdf,reported,Total Assets,"28,287.1",RM million
+Genting Malaysia Berhad,GENM,2020,balance,total_liabilities,13786.5,RM million,76,76,GENM_AR_2020.pdf,GENM_AR_2020.pdf,reported,Total Liabilities,"13,786.5",RM million
+Genting Malaysia Berhad,GENM,2020,balance,equity,14500.6,RM million,76,76,GENM_AR_2020.pdf,GENM_AR_2020.pdf,reported,Total Equity,"14,500.6",RM million
+Genting Malaysia Berhad,GENM,2020,balance,total_debt,9389.2,RM million,76,76,GENM_AR_2020.pdf,GENM_AR_2020.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Malaysia Berhad,GENM,2020,balance,cash,2452.9,RM million,75,75,GENM_AR_2020.pdf,GENM_AR_2020.pdf,reported,Cash and cash equivalents,"2,452.9",RM million
+Genting Malaysia Berhad,GENM,2020,balance,total_debt_incl_leases,10094.3,RM million,76,76,GENM_AR_2020.pdf,GENM_AR_2020.pdf,computed: total_debt + lease liabilities,Total debt + Lease liabilities,,
+Genting Malaysia Berhad,GENM,2020,balance,net_debt,6936.3,RM million,76,76;75,GENM_AR_2020.pdf,GENM_AR_2020.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Malaysia Berhad,GENM,2020,cashflow,operating_cash_flow,-481.2,RM million,80,80,GENM_AR_2020.pdf,GENM_AR_2020.pdf,reported,NET CASH FLOW FROM OPERATING ACTIVITIES,(481.2),RM million
+Genting Malaysia Berhad,GENM,2020,cashflow,capex,-1070.5,RM million,81,81,GENM_AR_2020.pdf,GENM_AR_2020.pdf,reported,"Property, plant and equipment","(1,070.5)",RM million
+Genting Malaysia Berhad,GENM,2020,cashflow,depreciation_amortisation,1118.7,RM million,80,80,GENM_AR_2020.pdf,GENM_AR_2020.pdf,reported: depreciation and amortisation,Depreciation and amortisation,,
+Genting Malaysia Berhad,GENM,2020,income,EBITDA,-686.9,RM million,73,73;73;80,GENM_AR_2020.pdf,GENM_AR_2020.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Malaysia Berhad,GENM,2020,income,DPS,14.5,sen,29,29,GENM_AR_2020.pdf,GENM_AR_2020.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                                    14.5#        20.0         19.0           17.0         16.5,
+Genting Malaysia Berhad,GENM,2021,income,revenue,4156.7,RM million,87,87,GENM_AR_2021.pdf,GENM_AR_2021.pdf,reported,Revenue 5 &,"4,156.7",RM million
+Genting Malaysia Berhad,GENM,2021,income,PBT,-1147.7,RM million,87,87,GENM_AR_2021.pdf,GENM_AR_2021.pdf,reported,"Loss before taxation 5, 9, 10 &","(1,147.7)",RM million
+Genting Malaysia Berhad,GENM,2021,income,net_profit,-1051.0,RM million,87,87,GENM_AR_2021.pdf,GENM_AR_2021.pdf,reported,Loss for the financial year,"(1,051.0)",RM million
+Genting Malaysia Berhad,GENM,2021,income,net_profit_attributable,-946.8,RM million,87,87,GENM_AR_2021.pdf,GENM_AR_2021.pdf,reported,Equity holders of the Company,(946.8),RM million
+Genting Malaysia Berhad,GENM,2021,income,net_profit_nci,-104.2,RM million,87,87,GENM_AR_2021.pdf,GENM_AR_2021.pdf,reported,Non-controlling interests,(104.2),RM million
+Genting Malaysia Berhad,GENM,2021,income,finance_cost,-381.9,RM million,87,87,GENM_AR_2021.pdf,GENM_AR_2021.pdf,reported,Finance costs,(381.9),RM million
+Genting Malaysia Berhad,GENM,2021,income,EPS,-16.75,sen,87,87,GENM_AR_2021.pdf,GENM_AR_2021.pdf,reported,Basic loss per share (sen),(16.75),RM million
+Genting Malaysia Berhad,GENM,2021,balance,total_assets,30410.3,RM million,89,89,GENM_AR_2021.pdf,GENM_AR_2021.pdf,reported,Total Assets,"30,410.3",RM million
+Genting Malaysia Berhad,GENM,2021,balance,total_liabilities,17157.7,RM million,90,90,GENM_AR_2021.pdf,GENM_AR_2021.pdf,reported,Total Liabilities,"17,157.7",RM million
+Genting Malaysia Berhad,GENM,2021,balance,equity,13252.6,RM million,90,90,GENM_AR_2021.pdf,GENM_AR_2021.pdf,reported,Total Equity,"13,252.6",RM million
+Genting Malaysia Berhad,GENM,2021,balance,total_debt,13035.8,RM million,90,90,GENM_AR_2021.pdf,GENM_AR_2021.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Malaysia Berhad,GENM,2021,balance,cash,4641.0,RM million,89,89,GENM_AR_2021.pdf,GENM_AR_2021.pdf,reported,Cash and cash equivalents,"4,641.0",RM million
+Genting Malaysia Berhad,GENM,2021,balance,total_debt_incl_leases,13682.3,RM million,90,90,GENM_AR_2021.pdf,GENM_AR_2021.pdf,computed: total_debt + lease liabilities,Total debt + Lease liabilities,,
+Genting Malaysia Berhad,GENM,2021,balance,net_debt,8394.8,RM million,90,90;89,GENM_AR_2021.pdf,GENM_AR_2021.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Malaysia Berhad,GENM,2021,cashflow,operating_cash_flow,471.0,RM million,94,94,GENM_AR_2021.pdf,GENM_AR_2021.pdf,reported,NET CASH FLOW FROM OPERATING ACTIVITIES,471.0,RM million
+Genting Malaysia Berhad,GENM,2021,cashflow,capex,-864.8,RM million,95,95,GENM_AR_2021.pdf,GENM_AR_2021.pdf,reported,"Property, plant and equipment",(864.8),RM million
+Genting Malaysia Berhad,GENM,2021,cashflow,depreciation_amortisation,1106.3,RM million,94,94,GENM_AR_2021.pdf,GENM_AR_2021.pdf,reported: depreciation and amortisation,Depreciation and amortisation,,
+Genting Malaysia Berhad,GENM,2021,income,EBITDA,340.5,RM million,87,87;87;94,GENM_AR_2021.pdf,GENM_AR_2021.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Malaysia Berhad,GENM,2021,income,DPS,9.0,sen,30,30,GENM_AR_2021.pdf,GENM_AR_2021.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                                 9.0#       14.5        20.0        19.0           17.0,
+Genting Malaysia Berhad,GENM,2022,income,revenue,8603.0,RM million,90,90,GENM_AR_2022.pdf,GENM_AR_2022.pdf,reported,Revenue 5 &,"8,603.0",RM million
+Genting Malaysia Berhad,GENM,2022,income,PBT,-342.2,RM million,90,90,GENM_AR_2022.pdf,GENM_AR_2022.pdf,reported,"(Loss)/profit before taxation 5, 9, 10 &11",(342.2),RM million
+Genting Malaysia Berhad,GENM,2022,income,net_profit,-667.4,RM million,90,90,GENM_AR_2022.pdf,GENM_AR_2022.pdf,reported,(Loss)/profit for the financial year,(667.4),RM million
+Genting Malaysia Berhad,GENM,2022,income,net_profit_attributable,-520.0,RM million,90,90,GENM_AR_2022.pdf,GENM_AR_2022.pdf,reported,Equity holders of the Company,(520.0),RM million
+Genting Malaysia Berhad,GENM,2022,income,net_profit_nci,-147.4,RM million,90,90,GENM_AR_2022.pdf,GENM_AR_2022.pdf,reported,Non-controlling interests,(147.4),RM million
+Genting Malaysia Berhad,GENM,2022,income,finance_cost,-596.7,RM million,90,90,GENM_AR_2022.pdf,GENM_AR_2022.pdf,reported,Finance costs,(596.7),RM million
+Genting Malaysia Berhad,GENM,2022,income,EPS,-9.18,sen,90,90,GENM_AR_2022.pdf,GENM_AR_2022.pdf,reported,Basic loss per share (sen),(9.18),RM million
+Genting Malaysia Berhad,GENM,2022,balance,total_assets,28631.0,RM million,92,92,GENM_AR_2022.pdf,GENM_AR_2022.pdf,reported,Total Assets,"28,631.0",RM million
+Genting Malaysia Berhad,GENM,2022,balance,total_liabilities,16702.0,RM million,93,93,GENM_AR_2022.pdf,GENM_AR_2022.pdf,reported,Total Liabilities,"16,702.0",RM million
+Genting Malaysia Berhad,GENM,2022,balance,equity,11929.0,RM million,93,93,GENM_AR_2022.pdf,GENM_AR_2022.pdf,reported,Total Equity,"11,929.0",RM million
+Genting Malaysia Berhad,GENM,2022,balance,total_debt,12117.1,RM million,93,93,GENM_AR_2022.pdf,GENM_AR_2022.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Malaysia Berhad,GENM,2022,balance,cash,3043.7,RM million,92,92,GENM_AR_2022.pdf,GENM_AR_2022.pdf,reported,Cash and cash equivalents,"3,043.7",RM million
+Genting Malaysia Berhad,GENM,2022,balance,total_debt_incl_leases,12820.2,RM million,93,93,GENM_AR_2022.pdf,GENM_AR_2022.pdf,computed: total_debt + lease liabilities,Total debt + Lease liabilities,,
+Genting Malaysia Berhad,GENM,2022,balance,net_debt,9073.4,RM million,93,93;92,GENM_AR_2022.pdf,GENM_AR_2022.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Malaysia Berhad,GENM,2022,cashflow,operating_cash_flow,2362.9,RM million,97,97,GENM_AR_2022.pdf,GENM_AR_2022.pdf,reported,NET CASH FLOW FROM/(USED IN) OPERATING ACTIVITIES,"2,362.9",RM million
+Genting Malaysia Berhad,GENM,2022,cashflow,capex,-653.1,RM million,98,98,GENM_AR_2022.pdf,GENM_AR_2022.pdf,reported,"Property, plant and equipment",(653.1),RM million
+Genting Malaysia Berhad,GENM,2022,cashflow,depreciation_amortisation,1238.8,RM million,97,97,GENM_AR_2022.pdf,GENM_AR_2022.pdf,reported: depreciation and amortisation,Depreciation and amortisation,,
+Genting Malaysia Berhad,GENM,2022,income,EBITDA,1493.3,RM million,90,90;90;97,GENM_AR_2022.pdf,GENM_AR_2022.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Malaysia Berhad,GENM,2022,income,DPS,15.0,sen,35,35,GENM_AR_2022.pdf,GENM_AR_2022.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                                      15.0#            9.0         14.5            20.0        19.0,
+Genting Malaysia Berhad,GENM,2023,income,revenue,10189.4,RM million,95,95,GENM_AR_2023.pdf,GENM_AR_2023.pdf,reported,Revenue 5 &,"10,189.4",RM million
+Genting Malaysia Berhad,GENM,2023,income,PBT,674.2,RM million,95,95,GENM_AR_2023.pdf,GENM_AR_2023.pdf,reported,"Profit/(loss) before taxation 5, 9, 10 &",674.2,RM million
+Genting Malaysia Berhad,GENM,2023,income,net_profit,360.9,RM million,95,95,GENM_AR_2023.pdf,GENM_AR_2023.pdf,reported,Profit/(loss) for the financial year,360.9,RM million
+Genting Malaysia Berhad,GENM,2023,income,net_profit_attributable,436.8,RM million,95,95,GENM_AR_2023.pdf,GENM_AR_2023.pdf,reported,Equity holders of the Company,436.8,RM million
+Genting Malaysia Berhad,GENM,2023,income,net_profit_nci,-75.9,RM million,95,95,GENM_AR_2023.pdf,GENM_AR_2023.pdf,reported,Non-controlling interests,(75.9),RM million
+Genting Malaysia Berhad,GENM,2023,income,finance_cost,-635.3,RM million,95,95,GENM_AR_2023.pdf,GENM_AR_2023.pdf,reported,Finance costs,(635.3),RM million
+Genting Malaysia Berhad,GENM,2023,income,EPS,7.71,sen,95,95,GENM_AR_2023.pdf,GENM_AR_2023.pdf,reported,Basic earnings/(loss) per share (sen),7.71,RM million
+Genting Malaysia Berhad,GENM,2023,balance,total_assets,29116.0,RM million,97,97,GENM_AR_2023.pdf,GENM_AR_2023.pdf,reported,Total Assets,"29,116.0",RM million
+Genting Malaysia Berhad,GENM,2023,balance,total_liabilities,17103.9,RM million,98,98,GENM_AR_2023.pdf,GENM_AR_2023.pdf,reported,Total Liabilities,"17,103.9",RM million
+Genting Malaysia Berhad,GENM,2023,balance,equity,12012.1,RM million,98,98,GENM_AR_2023.pdf,GENM_AR_2023.pdf,reported,Total Equity,"12,012.1",RM million
+Genting Malaysia Berhad,GENM,2023,balance,total_debt,12216.6,RM million,98,98,GENM_AR_2023.pdf,GENM_AR_2023.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Malaysia Berhad,GENM,2023,balance,cash,3884.9,RM million,97,97,GENM_AR_2023.pdf,GENM_AR_2023.pdf,reported,Cash and cash equivalents,"3,884.9",RM million
+Genting Malaysia Berhad,GENM,2023,balance,total_debt_incl_leases,12906.7,RM million,98,98,GENM_AR_2023.pdf,GENM_AR_2023.pdf,computed: total_debt + lease liabilities,Total debt + Lease liabilities,,
+Genting Malaysia Berhad,GENM,2023,balance,net_debt,8331.7,RM million,98,98;97,GENM_AR_2023.pdf,GENM_AR_2023.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Malaysia Berhad,GENM,2023,cashflow,operating_cash_flow,2321.9,RM million,103,103,GENM_AR_2023.pdf,GENM_AR_2023.pdf,reported,NET CASH FLOW FROM OPERATING ACTIVITIES,"2,321.9",RM million
+Genting Malaysia Berhad,GENM,2023,cashflow,capex,-695.7,RM million,103,103,GENM_AR_2023.pdf,GENM_AR_2023.pdf,reported,"Property, plant and equipment",(695.7),RM million
+Genting Malaysia Berhad,GENM,2023,cashflow,depreciation_amortisation,1241.1,RM million,102,102,GENM_AR_2023.pdf,GENM_AR_2023.pdf,reported: depreciation and amortisation,Depreciation and amortisation,,
+Genting Malaysia Berhad,GENM,2023,income,EBITDA,2550.6,RM million,95,95;95;102,GENM_AR_2023.pdf,GENM_AR_2023.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Malaysia Berhad,GENM,2023,income,DPS,15.0,sen,58,58,GENM_AR_2023.pdf,GENM_AR_2023.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                                          15.0#        15.0         9.0            14.5        20.0,
+Genting Malaysia Berhad,GENM,2024,income,revenue,10911.8,RM million,93,93,GENM_AR_2024.pdf,GENM_AR_2024.pdf,reported,Revenue 5 &,"10,911.8",RM million
+Genting Malaysia Berhad,GENM,2024,income,PBT,486.7,RM million,93,93,GENM_AR_2024.pdf,GENM_AR_2024.pdf,reported,"Profit before taxation 5, 9, 10 &",486.7,RM million
+Genting Malaysia Berhad,GENM,2024,income,net_profit,162.1,RM million,93,93,GENM_AR_2024.pdf,GENM_AR_2024.pdf,reported,Profit for the financial year,162.1,RM million
+Genting Malaysia Berhad,GENM,2024,income,net_profit_attributable,251.2,RM million,93,93,GENM_AR_2024.pdf,GENM_AR_2024.pdf,reported,Equity holders of the Company,251.2,RM million
+Genting Malaysia Berhad,GENM,2024,income,net_profit_nci,-89.1,RM million,93,93,GENM_AR_2024.pdf,GENM_AR_2024.pdf,reported,Non-controlling interests,(89.1),RM million
+Genting Malaysia Berhad,GENM,2024,income,finance_cost,-691.0,RM million,93,93,GENM_AR_2024.pdf,GENM_AR_2024.pdf,reported,Finance costs,(691.0),RM million
+Genting Malaysia Berhad,GENM,2024,income,EPS,4.43,sen,93,93,GENM_AR_2024.pdf,GENM_AR_2024.pdf,reported,Basic earnings per share (sen),4.43,RM million
+Genting Malaysia Berhad,GENM,2024,balance,total_assets,28567.4,RM million,95,95,GENM_AR_2024.pdf,GENM_AR_2024.pdf,reported,Total Assets,"28,567.4",RM million
+Genting Malaysia Berhad,GENM,2024,balance,total_liabilities,17528.4,RM million,96,96,GENM_AR_2024.pdf,GENM_AR_2024.pdf,reported,Total Liabilities,"17,528.4",RM million
+Genting Malaysia Berhad,GENM,2024,balance,equity,11039.0,RM million,96,96,GENM_AR_2024.pdf,GENM_AR_2024.pdf,reported,Total Equity,"11,039.0",RM million
+Genting Malaysia Berhad,GENM,2024,balance,total_debt,12220.8,RM million,96,96,GENM_AR_2024.pdf,GENM_AR_2024.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Malaysia Berhad,GENM,2024,balance,cash,3536.6,RM million,95,95,GENM_AR_2024.pdf,GENM_AR_2024.pdf,reported,Cash and cash equivalents,"3,536.6",RM million
+Genting Malaysia Berhad,GENM,2024,balance,total_debt_incl_leases,13245.9,RM million,96,96,GENM_AR_2024.pdf,GENM_AR_2024.pdf,computed: total_debt + lease liabilities,Total debt + Lease liabilities,,
+Genting Malaysia Berhad,GENM,2024,balance,net_debt,8684.2,RM million,96,96;95,GENM_AR_2024.pdf,GENM_AR_2024.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Malaysia Berhad,GENM,2024,cashflow,operating_cash_flow,2323.1,RM million,101,101,GENM_AR_2024.pdf,GENM_AR_2024.pdf,reported,NET CASH FLOW FROM OPERATING ACTIVITIES,"2,323.1",RM million
+Genting Malaysia Berhad,GENM,2024,cashflow,capex,-566.8,RM million,101,101,GENM_AR_2024.pdf,GENM_AR_2024.pdf,reported,"Property, plant and equipment",(566.8),RM million
+Genting Malaysia Berhad,GENM,2024,cashflow,depreciation_amortisation,1240.3,RM million,100,100,GENM_AR_2024.pdf,GENM_AR_2024.pdf,reported: depreciation and amortisation,Depreciation and amortisation,,
+Genting Malaysia Berhad,GENM,2024,income,EBITDA,2418.0,RM million,93,93;93;100,GENM_AR_2024.pdf,GENM_AR_2024.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Malaysia Berhad,GENM,2024,income,DPS,10.0,sen,58,58,GENM_AR_2024.pdf,GENM_AR_2024.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                                           10.0#        15.0        15.0         9.0        14.5,
+Genting Malaysia Berhad,GENM,2025,income,revenue,11884.3,RM million,101,101,GENM_AR_2025.pdf,GENM_AR_2025.pdf,reported,Revenue 5 &,"11,884.3",RM million
+Genting Malaysia Berhad,GENM,2025,income,PBT,985.0,RM million,101,101,GENM_AR_2025.pdf,GENM_AR_2025.pdf,reported,"Profit before taxation 5, 9, 10 &11",985.0,RM million
+Genting Malaysia Berhad,GENM,2025,income,net_profit,670.7,RM million,101,101,GENM_AR_2025.pdf,GENM_AR_2025.pdf,reported,Profit for the financial year,670.7,RM million
+Genting Malaysia Berhad,GENM,2025,income,net_profit_attributable,754.8,RM million,101,101,GENM_AR_2025.pdf,GENM_AR_2025.pdf,reported,Equity holders of the Company,754.8,RM million
+Genting Malaysia Berhad,GENM,2025,income,net_profit_nci,-84.1,RM million,101,101,GENM_AR_2025.pdf,GENM_AR_2025.pdf,reported,Non-controlling interests,(84.1),RM million
+Genting Malaysia Berhad,GENM,2025,income,finance_cost,-828.2,RM million,101,101,GENM_AR_2025.pdf,GENM_AR_2025.pdf,reported,Finance costs,(828.2),RM million
+Genting Malaysia Berhad,GENM,2025,income,EPS,13.32,sen,101,101,GENM_AR_2025.pdf,GENM_AR_2025.pdf,reported,Basic earnings per share (sen),13.32,RM million
+Genting Malaysia Berhad,GENM,2025,balance,total_assets,29525.0,RM million,103,103,GENM_AR_2025.pdf,GENM_AR_2025.pdf,reported,Total Assets,"29,525.0",RM million
+Genting Malaysia Berhad,GENM,2025,balance,total_liabilities,18771.3,RM million,104,104,GENM_AR_2025.pdf,GENM_AR_2025.pdf,reported,Total Liabilities,"18,771.3",RM million
+Genting Malaysia Berhad,GENM,2025,balance,equity,10753.7,RM million,104,104,GENM_AR_2025.pdf,GENM_AR_2025.pdf,reported,Total Equity,"10,753.7",RM million
+Genting Malaysia Berhad,GENM,2025,balance,total_debt,12716.0,RM million,104,104,GENM_AR_2025.pdf,GENM_AR_2025.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Malaysia Berhad,GENM,2025,balance,cash,2847.2,RM million,103,103,GENM_AR_2025.pdf,GENM_AR_2025.pdf,reported,Cash and cash equivalents,"2,847.2",RM million
+Genting Malaysia Berhad,GENM,2025,balance,total_debt_incl_leases,14078.8,RM million,104,104,GENM_AR_2025.pdf,GENM_AR_2025.pdf,computed: total_debt + lease liabilities,Total debt + Lease liabilities,,
+Genting Malaysia Berhad,GENM,2025,balance,net_debt,9868.8,RM million,104,104;103,GENM_AR_2025.pdf,GENM_AR_2025.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Malaysia Berhad,GENM,2025,cashflow,operating_cash_flow,2029.2,RM million,109,109,GENM_AR_2025.pdf,GENM_AR_2025.pdf,reported,NET CASH FLOW FROM OPERATING ACTIVITIES,"2,029.2",RM million
+Genting Malaysia Berhad,GENM,2025,cashflow,capex,-907.6,RM million,109,109,GENM_AR_2025.pdf,GENM_AR_2025.pdf,reported,"Property, plant and equipment",(907.6),RM million
+Genting Malaysia Berhad,GENM,2025,cashflow,depreciation_amortisation,1314.5,RM million,108,108,GENM_AR_2025.pdf,GENM_AR_2025.pdf,reported: depreciation and amortisation,Depreciation and amortisation,,
+Genting Malaysia Berhad,GENM,2025,income,EBITDA,3127.7,RM million,101,101;101;108,GENM_AR_2025.pdf,GENM_AR_2025.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Malaysia Berhad,GENM,2025,income,DPS,7.0,sen,64,64,GENM_AR_2025.pdf,GENM_AR_2025.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                                               7.0        10.0        15.0        15.0         9.0,
+Genting Berhad,GENTING,2015,income,revenue,18100.4,RM million,87,87,GENTING_AR_2015.pdf,GENTING_AR_2015.pdf,reported,Revenue 5 &,"18,100.4",RM million
+Genting Berhad,GENTING,2015,income,PBT,3446.0,RM million,87,87,GENTING_AR_2015.pdf,GENTING_AR_2015.pdf,reported,Profit before taxation,"3,446.0",RM million
+Genting Berhad,GENTING,2015,income,net_profit,2597.7,RM million,87,87,GENTING_AR_2015.pdf,GENTING_AR_2015.pdf,reported,Profit for the financial year,"2,597.7",RM million
+Genting Berhad,GENTING,2015,income,net_profit_attributable,1388.0,RM million,87,87,GENTING_AR_2015.pdf,GENTING_AR_2015.pdf,reported,Equity holders of the Company,"1,388.0",RM million
+Genting Berhad,GENTING,2015,income,net_profit_nci,848.6,RM million,87,87,GENTING_AR_2015.pdf,GENTING_AR_2015.pdf,reported,Non-controlling interests,848.6,RM million
+Genting Berhad,GENTING,2015,income,net_profit_perpetual,361.1,RM million,87,87,GENTING_AR_2015.pdf,GENTING_AR_2015.pdf,reported,Holders of perpetual capital securities of a subsidiary,361.1,RM million
+Genting Berhad,GENTING,2015,income,finance_cost,-558.9,RM million,87,87,GENTING_AR_2015.pdf,GENTING_AR_2015.pdf,reported,Finance cost,(558.9),RM million
+Genting Berhad,GENTING,2015,income,EPS,37.34,sen,87,87,GENTING_AR_2015.pdf,GENTING_AR_2015.pdf,reported,Basic (sen),37.34,RM million
+Genting Berhad,GENTING,2015,balance,total_assets,89432.5,RM million,89,89,GENTING_AR_2015.pdf,GENTING_AR_2015.pdf,reported,Total Assets,"89,432.5",RM million
+Genting Berhad,GENTING,2015,balance,total_liabilities,26641.4,RM million,89,89,GENTING_AR_2015.pdf,GENTING_AR_2015.pdf,reported,Total Liabilities,"26,641.4",RM million
+Genting Berhad,GENTING,2015,balance,equity,62791.1,RM million,89,89,GENTING_AR_2015.pdf,GENTING_AR_2015.pdf,reported,Total Equity,"62,791.1",RM million
+Genting Berhad,GENTING,2015,balance,total_debt,18504.7,RM million,89,89,GENTING_AR_2015.pdf,GENTING_AR_2015.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Berhad,GENTING,2015,balance,cash,23612.9,RM million,89,89,GENTING_AR_2015.pdf,GENTING_AR_2015.pdf,reported,Cash and cash equivalents,"23,612.9",RM million
+Genting Berhad,GENTING,2015,balance,net_debt,-5108.2,RM million,89,89;89,GENTING_AR_2015.pdf,GENTING_AR_2015.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Berhad,GENTING,2015,cashflow,operating_cash_flow,4743.5,RM million,93,93,GENTING_AR_2015.pdf,GENTING_AR_2015.pdf,reported,NET CASH FLOW FROM OPERATING ACTIVITIES,"4,743.5",RM million
+Genting Berhad,GENTING,2015,cashflow,capex,-3468.4,RM million,94,94,GENTING_AR_2015.pdf,GENTING_AR_2015.pdf,reported,Purchase of PPE,"(3,468.4)",RM million
+Genting Berhad,GENTING,2015,cashflow,depreciation_amortisation,1904.6,RM million,93,93,GENTING_AR_2015.pdf,GENTING_AR_2015.pdf,reported: depreciation and amortisation,Depreciation and amortisation,,
+Genting Berhad,GENTING,2015,income,EBITDA,5909.5,RM million,87,87;87;93,GENTING_AR_2015.pdf,GENTING_AR_2015.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Berhad,GENTING,2015,income,DPS,3.5,sen,29,29,GENTING_AR_2015.pdf,GENTING_AR_2015.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                                       3.50         4.00        37.50         6.00         6.00,
+Genting Berhad,GENTING,2016,income,revenue,18365.8,RM million,63,63,GENTING_AR_2016.pdf,GENTING_AR_2016.pdf,reported,Revenue 5 &,"18,365.8",RM million
+Genting Berhad,GENTING,2016,income,PBT,5522.8,RM million,63,63,GENTING_AR_2016.pdf,GENTING_AR_2016.pdf,reported,Profit before taxation,"5,522.8",RM million
+Genting Berhad,GENTING,2016,income,net_profit,4531.4,RM million,63,63,GENTING_AR_2016.pdf,GENTING_AR_2016.pdf,reported,Profit for the financial year,"4,531.4",RM million
+Genting Berhad,GENTING,2016,income,net_profit_attributable,2146.5,RM million,63,63,GENTING_AR_2016.pdf,GENTING_AR_2016.pdf,reported,Equity holders of the Company,"2,146.5",RM million
+Genting Berhad,GENTING,2016,income,net_profit_nci,2019.1,RM million,63,63,GENTING_AR_2016.pdf,GENTING_AR_2016.pdf,reported,Non-controlling interests,"2,019.1",RM million
+Genting Berhad,GENTING,2016,income,net_profit_perpetual,365.8,RM million,63,63,GENTING_AR_2016.pdf,GENTING_AR_2016.pdf,reported,Holders of perpetual capital securities of a subsidiary,365.8,RM million
+Genting Berhad,GENTING,2016,income,finance_cost,-678.8,RM million,63,63,GENTING_AR_2016.pdf,GENTING_AR_2016.pdf,reported,Finance cost,(678.8),RM million
+Genting Berhad,GENTING,2016,income,EPS,57.69,sen,63,63,GENTING_AR_2016.pdf,GENTING_AR_2016.pdf,reported,Basic (sen),57.69,RM million
+Genting Berhad,GENTING,2016,balance,total_assets,92545.8,RM million,65,65,GENTING_AR_2016.pdf,GENTING_AR_2016.pdf,reported,Total Assets,"92,545.8",RM million
+Genting Berhad,GENTING,2016,balance,total_liabilities,26792.5,RM million,65,65,GENTING_AR_2016.pdf,GENTING_AR_2016.pdf,reported,Total Liabilities,"26,792.5",RM million
+Genting Berhad,GENTING,2016,balance,equity,65753.3,RM million,65,65,GENTING_AR_2016.pdf,GENTING_AR_2016.pdf,reported,Total Equity,"65,753.3",RM million
+Genting Berhad,GENTING,2016,balance,total_debt,17964.6,RM million,65,65,GENTING_AR_2016.pdf,GENTING_AR_2016.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Berhad,GENTING,2016,balance,cash,25318.5,RM million,65,65,GENTING_AR_2016.pdf,GENTING_AR_2016.pdf,reported,Cash and cash equivalents,"25,318.5",RM million
+Genting Berhad,GENTING,2016,balance,net_debt,-7353.9,RM million,65,65;65,GENTING_AR_2016.pdf,GENTING_AR_2016.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Berhad,GENTING,2016,cashflow,operating_cash_flow,6277.4,RM million,69,69,GENTING_AR_2016.pdf,GENTING_AR_2016.pdf,reported,NET CASH FLOW FROM OPERATING ACTIVITIES,"6,277.4",RM million
+Genting Berhad,GENTING,2016,cashflow,capex,-3782.4,RM million,70,70,GENTING_AR_2016.pdf,GENTING_AR_2016.pdf,reported,Purchase of PPE,"(3,782.4)",RM million
+Genting Berhad,GENTING,2016,cashflow,depreciation_amortisation,1923.3,RM million,69,69,GENTING_AR_2016.pdf,GENTING_AR_2016.pdf,reported: depreciation and amortisation,Depreciation and amortisation,,
+Genting Berhad,GENTING,2016,income,EBITDA,8124.9,RM million,63,63;63;69,GENTING_AR_2016.pdf,GENTING_AR_2016.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Berhad,GENTING,2016,income,DPS,12.5,sen,18,18,GENTING_AR_2016.pdf,GENTING_AR_2016.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                                          12.50          3.50           4.00          37.50          6.00,
+Genting Berhad,GENTING,2017,income,revenue,20019.6,RM million,93,93,GENTING_AR_2017.pdf,GENTING_AR_2017.pdf,reported,Revenue 5 &,"20,019.6",RM million
+Genting Berhad,GENTING,2017,income,PBT,4312.2,RM million,93,93,GENTING_AR_2017.pdf,GENTING_AR_2017.pdf,reported,Profit before taxation,"4,312.2",RM million
+Genting Berhad,GENTING,2017,income,net_profit,3242.8,RM million,93,93,GENTING_AR_2017.pdf,GENTING_AR_2017.pdf,reported,Profit for the financial year,"3,242.8",RM million
+Genting Berhad,GENTING,2017,income,net_profit_attributable,1445.3,RM million,93,93,GENTING_AR_2017.pdf,GENTING_AR_2017.pdf,reported,Equity holders of the Company,"1,445.3",RM million
+Genting Berhad,GENTING,2017,income,net_profit_nci,1541.0,RM million,93,93,GENTING_AR_2017.pdf,GENTING_AR_2017.pdf,reported,Non-controlling interests,"1,541.0",RM million
+Genting Berhad,GENTING,2017,income,net_profit_perpetual,256.5,RM million,93,93,GENTING_AR_2017.pdf,GENTING_AR_2017.pdf,reported,Holders of perpetual capital securities of a subsidiary,256.5,RM million
+Genting Berhad,GENTING,2017,income,finance_cost,-950.1,RM million,93,93,GENTING_AR_2017.pdf,GENTING_AR_2017.pdf,reported,Finance cost,(950.1),RM million
+Genting Berhad,GENTING,2017,income,EPS,38.28,sen,93,93,GENTING_AR_2017.pdf,GENTING_AR_2017.pdf,reported,Basic (sen),38.28,RM million
+Genting Berhad,GENTING,2017,balance,total_assets,93608.5,RM million,95,95,GENTING_AR_2017.pdf,GENTING_AR_2017.pdf,reported,Total Assets,"93,608.5",RM million
+Genting Berhad,GENTING,2017,balance,total_liabilities,36499.6,RM million,95,95,GENTING_AR_2017.pdf,GENTING_AR_2017.pdf,reported,Total Liabilities,"36,499.6",RM million
+Genting Berhad,GENTING,2017,balance,equity,57108.9,RM million,95,95,GENTING_AR_2017.pdf,GENTING_AR_2017.pdf,reported,Total Equity,"57,108.9",RM million
+Genting Berhad,GENTING,2017,balance,total_debt,26969.3,RM million,95,95,GENTING_AR_2017.pdf,GENTING_AR_2017.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Berhad,GENTING,2017,balance,cash,29491.9,RM million,95,95,GENTING_AR_2017.pdf,GENTING_AR_2017.pdf,reported,Cash and cash equivalents,"29,491.9",RM million
+Genting Berhad,GENTING,2017,balance,net_debt,-2522.6,RM million,95,95;95,GENTING_AR_2017.pdf,GENTING_AR_2017.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Berhad,GENTING,2017,cashflow,operating_cash_flow,6835.4,RM million,99,99,GENTING_AR_2017.pdf,GENTING_AR_2017.pdf,reported,NET CASH FLOW FROM OPERATING ACTIVITIES,"6,835.4",RM million
+Genting Berhad,GENTING,2017,cashflow,capex,-3399.9,RM million,100,100,GENTING_AR_2017.pdf,GENTING_AR_2017.pdf,reported,Purchase of PPE,"(3,399.9)",RM million
+Genting Berhad,GENTING,2017,cashflow,depreciation_amortisation,2127.0,RM million,99,99,GENTING_AR_2017.pdf,GENTING_AR_2017.pdf,reported: depreciation and amortisation,Depreciation and amortisation,,
+Genting Berhad,GENTING,2017,income,EBITDA,7389.3,RM million,93,93;93;99,GENTING_AR_2017.pdf,GENTING_AR_2017.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Berhad,GENTING,2017,income,DPS,21.5,sen,32,32,GENTING_AR_2017.pdf,GENTING_AR_2017.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                                    21.50        12.50         3.50          4.00        37.50,
+Genting Berhad,GENTING,2018,income,revenue,20853.0,RM million,93,93,GENTING_AR_2018.pdf,GENTING_AR_2018.pdf,reported,Revenue 5 &,"20,853.0",RM million
+Genting Berhad,GENTING,2018,income,PBT,3418.4,RM million,93,93,GENTING_AR_2018.pdf,GENTING_AR_2018.pdf,reported,Profit before taxation 5 &,"3,418.4",RM million
+Genting Berhad,GENTING,2018,income,net_profit,2443.9,RM million,93,93,GENTING_AR_2018.pdf,GENTING_AR_2018.pdf,reported,Profit for the financial year,"2,443.9",RM million
+Genting Berhad,GENTING,2018,income,net_profit_attributable,1365.6,RM million,93,93,GENTING_AR_2018.pdf,GENTING_AR_2018.pdf,reported,Equity holders of the Company,"1,365.6",RM million
+Genting Berhad,GENTING,2018,income,net_profit_nci,1078.3,RM million,93,93,GENTING_AR_2018.pdf,GENTING_AR_2018.pdf,reported,Non-controlling interests,"1,078.3",RM million
+Genting Berhad,GENTING,2018,income,net_profit_perpetual,0.0,RM million,93,93,GENTING_AR_2018.pdf,GENTING_AR_2018.pdf,reported,Holders of perpetual capital securities of a subsidiary,-,RM million
+Genting Berhad,GENTING,2018,income,finance_cost,-1013.1,RM million,93,93,GENTING_AR_2018.pdf,GENTING_AR_2018.pdf,reported,Finance cost,"(1,013.1)",RM million
+Genting Berhad,GENTING,2018,income,EPS,35.58,sen,93,93,GENTING_AR_2018.pdf,GENTING_AR_2018.pdf,reported,Basic (sen),35.58,RM million
+Genting Berhad,GENTING,2018,balance,total_assets,96141.4,RM million,95,95,GENTING_AR_2018.pdf,GENTING_AR_2018.pdf,reported,Total Assets,"96,141.4",RM million
+Genting Berhad,GENTING,2018,balance,total_liabilities,38753.2,RM million,95,95,GENTING_AR_2018.pdf,GENTING_AR_2018.pdf,reported,Total Liabilities,"38,753.2",RM million
+Genting Berhad,GENTING,2018,balance,equity,57388.2,RM million,95,95,GENTING_AR_2018.pdf,GENTING_AR_2018.pdf,reported,Total Equity,"57,388.2",RM million
+Genting Berhad,GENTING,2018,balance,total_debt,29224.5,RM million,95,95,GENTING_AR_2018.pdf,GENTING_AR_2018.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Berhad,GENTING,2018,balance,cash,30987.9,RM million,95,95,GENTING_AR_2018.pdf,GENTING_AR_2018.pdf,reported,Cash and cash equivalents,"30,987.9",RM million
+Genting Berhad,GENTING,2018,balance,net_debt,-1763.4,RM million,95,95;95,GENTING_AR_2018.pdf,GENTING_AR_2018.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Berhad,GENTING,2018,cashflow,operating_cash_flow,6830.3,RM million,99,99,GENTING_AR_2018.pdf,GENTING_AR_2018.pdf,reported,NET CASH FLOW FROM OPERATING ACTIVITIES,"6,830.3",RM million
+Genting Berhad,GENTING,2018,cashflow,capex,-4502.1,RM million,100,100,GENTING_AR_2018.pdf,GENTING_AR_2018.pdf,reported,Purchase of PPE,"(4,502.1)",RM million
+Genting Berhad,GENTING,2018,cashflow,depreciation_amortisation,2223.7,RM million,99,99,GENTING_AR_2018.pdf,GENTING_AR_2018.pdf,reported: depreciation and amortisation,Depreciation and amortisation,,
+Genting Berhad,GENTING,2018,income,EBITDA,6655.2,RM million,93,93;93;99,GENTING_AR_2018.pdf,GENTING_AR_2018.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Berhad,GENTING,2018,income,DPS,21.5,sen,31,31,GENTING_AR_2018.pdf,GENTING_AR_2018.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                                    21.50        21.50        12.50          3.50         4.00,
+Genting Berhad,GENTING,2019,income,revenue,21616.5,RM million,86,86,GENTING_AR_2019.pdf,GENTING_AR_2019.pdf,reported,Revenue 5 &,"21,616.5",RM million
+Genting Berhad,GENTING,2019,income,PBT,4582.6,RM million,86,86,GENTING_AR_2019.pdf,GENTING_AR_2019.pdf,reported,Profit before taxation 5 &,"4,582.6",RM million
+Genting Berhad,GENTING,2019,income,net_profit,3681.1,RM million,86,86,GENTING_AR_2019.pdf,GENTING_AR_2019.pdf,reported,Profit for the financial year,"3,681.1",RM million
+Genting Berhad,GENTING,2019,income,net_profit_attributable,1995.8,RM million,86,86,GENTING_AR_2019.pdf,GENTING_AR_2019.pdf,reported,Equity holders of the Company,"1,995.8",RM million
+Genting Berhad,GENTING,2019,income,net_profit_nci,1685.3,RM million,86,86,GENTING_AR_2019.pdf,GENTING_AR_2019.pdf,reported,Non-controlling interests,"1,685.3",RM million
+Genting Berhad,GENTING,2019,income,finance_cost,-1097.0,RM million,86,86,GENTING_AR_2019.pdf,GENTING_AR_2019.pdf,reported,Finance cost,"(1,097.0)",RM million
+Genting Berhad,GENTING,2019,income,EPS,51.83,sen,86,86,GENTING_AR_2019.pdf,GENTING_AR_2019.pdf,reported,Basic (sen),51.83,RM million
+Genting Berhad,GENTING,2019,balance,total_assets,102016.4,RM million,88,88,GENTING_AR_2019.pdf,GENTING_AR_2019.pdf,reported,Total Assets,"102,016.4",RM million
+Genting Berhad,GENTING,2019,balance,total_liabilities,42742.4,RM million,88,88,GENTING_AR_2019.pdf,GENTING_AR_2019.pdf,reported,Total Liabilities,"42,742.4",RM million
+Genting Berhad,GENTING,2019,balance,equity,59274.0,RM million,88,88,GENTING_AR_2019.pdf,GENTING_AR_2019.pdf,reported,Total Equity,"59,274.0",RM million
+Genting Berhad,GENTING,2019,balance,total_debt,32130.0,RM million,88,88,GENTING_AR_2019.pdf,GENTING_AR_2019.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Berhad,GENTING,2019,balance,cash,30282.2,RM million,88,88,GENTING_AR_2019.pdf,GENTING_AR_2019.pdf,reported,Cash and cash equivalents,"30,282.2",RM million
+Genting Berhad,GENTING,2019,balance,total_debt_incl_leases,32948.0,RM million,88,88,GENTING_AR_2019.pdf,GENTING_AR_2019.pdf,computed: total_debt + lease liabilities,Total debt + Lease liabilities,,
+Genting Berhad,GENTING,2019,balance,net_debt,1847.8,RM million,88,88;88,GENTING_AR_2019.pdf,GENTING_AR_2019.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Berhad,GENTING,2019,cashflow,operating_cash_flow,6792.4,RM million,92,92,GENTING_AR_2019.pdf,GENTING_AR_2019.pdf,reported,NET CASH FLOW FROM OPERATING ACTIVITIES,"6,792.4",RM million
+Genting Berhad,GENTING,2019,cashflow,capex,-6551.2,RM million,93,93,GENTING_AR_2019.pdf,GENTING_AR_2019.pdf,reported,Purchase of PPE,"(6,551.2)",RM million
+Genting Berhad,GENTING,2019,cashflow,depreciation_amortisation,2631.9,RM million,92,92,GENTING_AR_2019.pdf,GENTING_AR_2019.pdf,reported: depreciation and amortisation,Depreciation and amortisation,,
+Genting Berhad,GENTING,2019,income,EBITDA,8311.5,RM million,86,86;86;92,GENTING_AR_2019.pdf,GENTING_AR_2019.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Berhad,GENTING,2019,income,DPS,22.0,sen,30,30,GENTING_AR_2019.pdf,GENTING_AR_2019.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                                     22.0        21.50        21.50         12.50         3.50,
+Genting Berhad,GENTING,2020,income,revenue,11564.1,RM million,89,89,GENTING_AR_2020.pdf,GENTING_AR_2020.pdf,reported,Revenue 5 &,"11,564.1",RM million
+Genting Berhad,GENTING,2020,income,PBT,-1526.5,RM million,89,89,GENTING_AR_2020.pdf,GENTING_AR_2020.pdf,reported,(Loss)/profit before taxation 5 &,"(1,526.5)",RM million
+Genting Berhad,GENTING,2020,income,net_profit,-2074.0,RM million,89,89,GENTING_AR_2020.pdf,GENTING_AR_2020.pdf,reported,(Loss)/profit for the financial year,"(2,074.0)",RM million
+Genting Berhad,GENTING,2020,income,net_profit_attributable,-1024.2,RM million,89,89,GENTING_AR_2020.pdf,GENTING_AR_2020.pdf,reported,Equity holders of the Company,"(1,024.2)",RM million
+Genting Berhad,GENTING,2020,income,net_profit_nci,-1049.8,RM million,89,89,GENTING_AR_2020.pdf,GENTING_AR_2020.pdf,reported,Non-controlling interests,"(1,049.8)",RM million
+Genting Berhad,GENTING,2020,income,finance_cost,-1052.8,RM million,89,89,GENTING_AR_2020.pdf,GENTING_AR_2020.pdf,reported,Finance cost,"(1,052.8)",RM million
+Genting Berhad,GENTING,2020,income,EPS,-26.6,sen,89,89,GENTING_AR_2020.pdf,GENTING_AR_2020.pdf,reported,Basic (sen),(26.60),RM million
+Genting Berhad,GENTING,2020,balance,total_assets,99641.0,RM million,91,91,GENTING_AR_2020.pdf,GENTING_AR_2020.pdf,reported,Total Assets,"99,641.0",RM million
+Genting Berhad,GENTING,2020,balance,total_liabilities,45114.6,RM million,91,91,GENTING_AR_2020.pdf,GENTING_AR_2020.pdf,reported,Total Liabilities,"45,114.6",RM million
+Genting Berhad,GENTING,2020,balance,equity,54526.4,RM million,91,91,GENTING_AR_2020.pdf,GENTING_AR_2020.pdf,reported,Total Equity,"54,526.4",RM million
+Genting Berhad,GENTING,2020,balance,total_debt,35805.9,RM million,91,91,GENTING_AR_2020.pdf,GENTING_AR_2020.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Berhad,GENTING,2020,balance,cash,25974.3,RM million,91,91,GENTING_AR_2020.pdf,GENTING_AR_2020.pdf,reported,Cash and cash equivalents,"25,974.3",RM million
+Genting Berhad,GENTING,2020,balance,total_debt_incl_leases,36597.1,RM million,91,91,GENTING_AR_2020.pdf,GENTING_AR_2020.pdf,computed: total_debt + lease liabilities,Total debt + Lease liabilities,,
+Genting Berhad,GENTING,2020,balance,net_debt,9831.6,RM million,91,91;91,GENTING_AR_2020.pdf,GENTING_AR_2020.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Berhad,GENTING,2020,cashflow,operating_cash_flow,1060.8,RM million,95,95,GENTING_AR_2020.pdf,GENTING_AR_2020.pdf,reported,NET CASH FLOW FROM OPERATING ACTIVITIES,"1,060.8",RM million
+Genting Berhad,GENTING,2020,cashflow,capex,-6323.4,RM million,96,96,GENTING_AR_2020.pdf,GENTING_AR_2020.pdf,reported,Purchase of PPE,"(6,323.4)",RM million
+Genting Berhad,GENTING,2020,cashflow,depreciation_amortisation,2426.1,RM million,95,95,GENTING_AR_2020.pdf,GENTING_AR_2020.pdf,reported: depreciation and amortisation,Depreciation and amortisation,,
+Genting Berhad,GENTING,2020,income,EBITDA,1952.4,RM million,89,89;89;95,GENTING_AR_2020.pdf,GENTING_AR_2020.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Berhad,GENTING,2020,income,DPS,15.0,sen,33,33,GENTING_AR_2020.pdf,GENTING_AR_2020.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                                    15.00        22.00        21.50         21.50        12.50,
+Genting Berhad,GENTING,2021,income,revenue,13529.5,RM million,97,97,GENTING_AR_2021.pdf,GENTING_AR_2021.pdf,reported,Revenue 5 &,"13,529.5",RM million
+Genting Berhad,GENTING,2021,income,PBT,-970.8,RM million,102,102,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,reported,Profit/(loss) before taxation 5 &,(970.8),RM million
+Genting Berhad,GENTING,2021,income,net_profit,-1413.1,RM million,102,102,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,reported,Profit/(loss) for the financial year,"(1,413.1)",RM million
+Genting Berhad,GENTING,2021,income,net_profit_attributable,-1369.7,RM million,97,97,GENTING_AR_2021.pdf,GENTING_AR_2021.pdf,reported,Equity holders of the Company,"(1,369.7)",RM million
+Genting Berhad,GENTING,2021,income,net_profit_nci,-43.4,RM million,97,97,GENTING_AR_2021.pdf,GENTING_AR_2021.pdf,reported,Non-controlling interests,(43.4),RM million
+Genting Berhad,GENTING,2021,income,finance_cost,-1255.4,RM million,97,97,GENTING_AR_2021.pdf,GENTING_AR_2021.pdf,reported,Finance cost,"(1,255.4)",RM million
+Genting Berhad,GENTING,2021,income,EPS,-35.57,sen,97,97,GENTING_AR_2021.pdf,GENTING_AR_2021.pdf,reported,Basic (sen),(35.57),RM million
+Genting Berhad,GENTING,2021,balance,total_assets,102448.1,RM million,99,99,GENTING_AR_2021.pdf,GENTING_AR_2021.pdf,reported,Total Assets,"102,448.1",RM million
+Genting Berhad,GENTING,2021,balance,total_liabilities,49289.5,RM million,99,99,GENTING_AR_2021.pdf,GENTING_AR_2021.pdf,reported,Total Liabilities,"49,289.5",RM million
+Genting Berhad,GENTING,2021,balance,equity,53158.6,RM million,99,99,GENTING_AR_2021.pdf,GENTING_AR_2021.pdf,reported,Total Equity,"53,158.6",RM million
+Genting Berhad,GENTING,2021,balance,total_debt,39882.4,RM million,99,99,GENTING_AR_2021.pdf,GENTING_AR_2021.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Berhad,GENTING,2021,balance,cash,22581.9,RM million,99,99,GENTING_AR_2021.pdf,GENTING_AR_2021.pdf,reported,Cash and cash equivalents,"22,581.9",RM million
+Genting Berhad,GENTING,2021,balance,total_debt_incl_leases,40605.7,RM million,99,99,GENTING_AR_2021.pdf,GENTING_AR_2021.pdf,computed: total_debt + lease liabilities,Total debt + Lease liabilities,,
+Genting Berhad,GENTING,2021,balance,net_debt,17300.5,RM million,99,99;99,GENTING_AR_2021.pdf,GENTING_AR_2021.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Berhad,GENTING,2021,cashflow,operating_cash_flow,3012.8,RM million,103,103,GENTING_AR_2021.pdf,GENTING_AR_2021.pdf,reported,NET CASH FLOW FROM/(USED IN) OPERATING ACTIVITIES,"3,012.8",RM million
+Genting Berhad,GENTING,2021,cashflow,capex,-6035.2,RM million,104,104,GENTING_AR_2021.pdf,GENTING_AR_2021.pdf,reported,Purchase of PPE,"(6,035.2)",RM million
+Genting Berhad,GENTING,2021,cashflow,depreciation_amortisation,2764.3,RM million,103,103,GENTING_AR_2021.pdf,GENTING_AR_2021.pdf,reported: depreciation and amortisation,Depreciation and amortisation,,
+Genting Berhad,GENTING,2021,income,EBITDA,3048.9,RM million,102,102;97;103,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf;GENTING_AR_2021.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Berhad,GENTING,2021,income,DPS,11.0,sen,31,31,GENTING_AR_2021.pdf,GENTING_AR_2021.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                                11.00        15.00         22.00        21.50       21.50,
+Genting Berhad,GENTING,2022,income,revenue,22383.7,RM million,102,102,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,reported,Revenue 5 &,"22,383.7",RM million
+Genting Berhad,GENTING,2022,income,PBT,1265.1,RM million,102,102,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,reported,Profit/(loss) before taxation 5 &,"1,265.1",RM million
+Genting Berhad,GENTING,2022,income,net_profit,44.5,RM million,102,102,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,reported,Profit/(loss) for the financial year,44.5,RM million
+Genting Berhad,GENTING,2022,income,net_profit_attributable,-299.9,RM million,102,102,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,reported,Equity holders of the Company,(299.9),RM million
+Genting Berhad,GENTING,2022,income,net_profit_nci,344.4,RM million,102,102,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,reported,Non-controlling interests,344.4,RM million
+Genting Berhad,GENTING,2022,income,finance_cost,-1845.5,RM million,102,102,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,reported,Finance cost,"(1,845.5)",RM million
+Genting Berhad,GENTING,2022,income,EPS,-7.79,sen,102,102,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,reported,Basic (sen),(7.79),RM million
+Genting Berhad,GENTING,2022,balance,total_assets,102509.6,RM million,104,104,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,reported,Total Assets,"102,509.6",RM million
+Genting Berhad,GENTING,2022,balance,total_liabilities,49619.7,RM million,104,104,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,reported,Total Liabilities,"49,619.7",RM million
+Genting Berhad,GENTING,2022,balance,equity,52889.9,RM million,104,104,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,reported,Total Equity,"52,889.9",RM million
+Genting Berhad,GENTING,2022,balance,total_debt,39052.7,RM million,104,104,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Berhad,GENTING,2022,balance,cash,21918.8,RM million,104,104,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,reported,Cash and cash equivalents,"21,918.8",RM million
+Genting Berhad,GENTING,2022,balance,total_debt_incl_leases,39809.8,RM million,104,104,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,computed: total_debt + lease liabilities,Total debt + Lease liabilities,,
+Genting Berhad,GENTING,2022,balance,net_debt,17133.9,RM million,104,104;104,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Berhad,GENTING,2022,cashflow,operating_cash_flow,7308.0,RM million,108,108,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,reported,NET CASH FLOW FROM/(USED IN) OPERATING ACTIVITIES,"7,308.0",RM million
+Genting Berhad,GENTING,2022,cashflow,capex,-2081.6,RM million,109,109,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,reported,Purchase of PPE,"(2,081.6)",RM million
+Genting Berhad,GENTING,2022,cashflow,depreciation_amortisation,3724.6,RM million,108,108,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,reported: depreciation and amortisation,Depreciation and amortisation,,
+Genting Berhad,GENTING,2022,income,EBITDA,6835.2,RM million,102,102;102;108,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Berhad,GENTING,2022,income,DPS,16.0,sen,35,35,GENTING_AR_2022.pdf,GENTING_AR_2022.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                               16.00        11.00       15.00         22.00       21.50,
+Genting Berhad,GENTING,2023,income,revenue,27118.6,RM million,109,109,GENTING_AR_2023.pdf,GENTING_AR_2023.pdf,reported,Revenue,"27,118.6",RM million
+Genting Berhad,GENTING,2023,income,PBT,3567.0,RM million,109,109,GENTING_AR_2023.pdf,GENTING_AR_2023.pdf,reported,Profit before taxation 4 &,"3,567.0",RM million
+Genting Berhad,GENTING,2023,income,net_profit,2267.2,RM million,109,109,GENTING_AR_2023.pdf,GENTING_AR_2023.pdf,reported,Profit for the financial year,"2,267.2",RM million
+Genting Berhad,GENTING,2023,income,net_profit_attributable,929.2,RM million,109,109,GENTING_AR_2023.pdf,GENTING_AR_2023.pdf,reported,Equity holders of the Company,929.2,RM million
+Genting Berhad,GENTING,2023,income,net_profit_nci,1338.0,RM million,109,109,GENTING_AR_2023.pdf,GENTING_AR_2023.pdf,reported,Non-controlling interests,"1,338.0",RM million
+Genting Berhad,GENTING,2023,income,finance_cost,-1950.8,RM million,109,109,GENTING_AR_2023.pdf,GENTING_AR_2023.pdf,reported,Finance cost,"(1,950.8)",RM million
+Genting Berhad,GENTING,2023,income,EPS,24.13,sen,109,109,GENTING_AR_2023.pdf,GENTING_AR_2023.pdf,reported,Basic (sen),24.13,RM million
+Genting Berhad,GENTING,2023,balance,total_assets,106833.9,RM million,111,111,GENTING_AR_2023.pdf,GENTING_AR_2023.pdf,reported,Total Assets,"106,833.9",RM million
+Genting Berhad,GENTING,2023,balance,total_liabilities,50703.1,RM million,111,111,GENTING_AR_2023.pdf,GENTING_AR_2023.pdf,reported,Total Liabilities,"50,703.1",RM million
+Genting Berhad,GENTING,2023,balance,equity,56130.8,RM million,111,111,GENTING_AR_2023.pdf,GENTING_AR_2023.pdf,reported,Total Equity,"56,130.8",RM million
+Genting Berhad,GENTING,2023,balance,total_debt,38967.4,RM million,111,111,GENTING_AR_2023.pdf,GENTING_AR_2023.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Berhad,GENTING,2023,balance,cash,23659.8,RM million,111,111,GENTING_AR_2023.pdf,GENTING_AR_2023.pdf,reported,Cash and cash equivalents,"23,659.8",RM million
+Genting Berhad,GENTING,2023,balance,total_debt_incl_leases,39712.9,RM million,111,111,GENTING_AR_2023.pdf,GENTING_AR_2023.pdf,computed: total_debt + lease liabilities,Total debt + Lease liabilities,,
+Genting Berhad,GENTING,2023,balance,net_debt,15307.6,RM million,111,111;111,GENTING_AR_2023.pdf,GENTING_AR_2023.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Berhad,GENTING,2023,cashflow,operating_cash_flow,7520.5,RM million,115,115,GENTING_AR_2023.pdf,GENTING_AR_2023.pdf,reported,NET CASH FLOW FROM OPERATING ACTIVITIES,"7,520.5",RM million
+Genting Berhad,GENTING,2023,cashflow,capex,-2682.6,RM million,116,116,GENTING_AR_2023.pdf,GENTING_AR_2023.pdf,reported,Purchase of PPE,"(2,682.6)",RM million
+Genting Berhad,GENTING,2023,cashflow,depreciation_amortisation,3936.1,RM million,115,115,GENTING_AR_2023.pdf,GENTING_AR_2023.pdf,reported: depreciation and amortisation,Depreciation and amortisation,,
+Genting Berhad,GENTING,2023,income,EBITDA,9453.9,RM million,109,109;109;115,GENTING_AR_2023.pdf,GENTING_AR_2023.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Berhad,GENTING,2023,income,DPS,15.0,sen,51,51,GENTING_AR_2023.pdf,GENTING_AR_2023.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                              15.00          16.00            11.00       15.00       22.00,
+Genting Berhad,GENTING,2024,income,revenue,27717.0,RM million,113,113,GENTING_AR_2024.pdf,GENTING_AR_2024.pdf,reported,Revenue,"27,717.0",RM million
+Genting Berhad,GENTING,2024,income,PBT,3300.3,RM million,113,113,GENTING_AR_2024.pdf,GENTING_AR_2024.pdf,reported,Profit before taxation 4 &,"3,300.3",RM million
+Genting Berhad,GENTING,2024,income,net_profit,2021.3,RM million,113,113,GENTING_AR_2024.pdf,GENTING_AR_2024.pdf,reported,Profit for the financial year,"2,021.3",RM million
+Genting Berhad,GENTING,2024,income,net_profit_attributable,883.0,RM million,113,113,GENTING_AR_2024.pdf,GENTING_AR_2024.pdf,reported,Equity holders of the Company,883.0,RM million
+Genting Berhad,GENTING,2024,income,net_profit_nci,1138.3,RM million,113,113,GENTING_AR_2024.pdf,GENTING_AR_2024.pdf,reported,Non-controlling interests,"1,138.3",RM million
+Genting Berhad,GENTING,2024,income,finance_cost,-2099.6,RM million,113,113,GENTING_AR_2024.pdf,GENTING_AR_2024.pdf,reported,Finance cost,"(2,099.6)",RM million
+Genting Berhad,GENTING,2024,income,EPS,22.93,sen,113,113,GENTING_AR_2024.pdf,GENTING_AR_2024.pdf,reported,Basic (sen),22.93,RM million
+Genting Berhad,GENTING,2024,balance,total_assets,105093.0,RM million,115,115,GENTING_AR_2024.pdf,GENTING_AR_2024.pdf,reported,Total Assets,"105,093.0",RM million
+Genting Berhad,GENTING,2024,balance,total_liabilities,51601.7,RM million,115,115,GENTING_AR_2024.pdf,GENTING_AR_2024.pdf,reported,Total Liabilities,"51,601.7",RM million
+Genting Berhad,GENTING,2024,balance,equity,53491.3,RM million,115,115,GENTING_AR_2024.pdf,GENTING_AR_2024.pdf,reported,Total Equity,"53,491.3",RM million
+Genting Berhad,GENTING,2024,balance,total_debt,39228.6,RM million,115,115,GENTING_AR_2024.pdf,GENTING_AR_2024.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Berhad,GENTING,2024,balance,cash,22403.6,RM million,115,115,GENTING_AR_2024.pdf,GENTING_AR_2024.pdf,reported,Cash and cash equivalents,"22,403.6",RM million
+Genting Berhad,GENTING,2024,balance,total_debt_incl_leases,40316.1,RM million,115,115,GENTING_AR_2024.pdf,GENTING_AR_2024.pdf,computed: total_debt + lease liabilities,Total debt + Lease liabilities,,
+Genting Berhad,GENTING,2024,balance,net_debt,16825.0,RM million,115,115;115,GENTING_AR_2024.pdf,GENTING_AR_2024.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Berhad,GENTING,2024,cashflow,operating_cash_flow,7123.1,RM million,119,119,GENTING_AR_2024.pdf,GENTING_AR_2024.pdf,reported,NET CASH FLOW FROM OPERATING ACTIVITIES,"7,123.1",RM million
+Genting Berhad,GENTING,2024,cashflow,capex,-3898.3,RM million,120,120,GENTING_AR_2024.pdf,GENTING_AR_2024.pdf,reported,Purchase of PPE,"(3,898.3)",RM million
+Genting Berhad,GENTING,2024,cashflow,depreciation_amortisation,3912.2,RM million,119,119,GENTING_AR_2024.pdf,GENTING_AR_2024.pdf,reported: depreciation and amortisation,Depreciation and amortisation,,
+Genting Berhad,GENTING,2024,income,EBITDA,9312.1,RM million,113,113;113;119,GENTING_AR_2024.pdf,GENTING_AR_2024.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Berhad,GENTING,2024,income,DPS,11.0,sen,55,55,GENTING_AR_2024.pdf,GENTING_AR_2024.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                          11.00          15.00          16.00         11.00       15.00,
+Genting Berhad,GENTING,2025,income,revenue,27711.9,RM million,131,131,GENTING_AR_2025.pdf,GENTING_AR_2025.pdf,reported,Revenue,"27,711.9",RM million
+Genting Berhad,GENTING,2025,income,PBT,2198.9,RM million,131,131,GENTING_AR_2025.pdf,GENTING_AR_2025.pdf,reported,Profit before taxation 4 &,"2,198.9",RM million
+Genting Berhad,GENTING,2025,income,net_profit,1023.8,RM million,131,131,GENTING_AR_2025.pdf,GENTING_AR_2025.pdf,reported,Profit for the financial year,"1,023.8",RM million
+Genting Berhad,GENTING,2025,income,net_profit_attributable,-11.6,RM million,131,131,GENTING_AR_2025.pdf,GENTING_AR_2025.pdf,reported,Equity holders of the Company,(11.6),RM million
+Genting Berhad,GENTING,2025,income,net_profit_nci,1035.4,RM million,131,131,GENTING_AR_2025.pdf,GENTING_AR_2025.pdf,reported,Non-controlling interests,"1,035.4",RM million
+Genting Berhad,GENTING,2025,income,finance_cost,-2104.2,RM million,131,131,GENTING_AR_2025.pdf,GENTING_AR_2025.pdf,reported,Finance cost,"(2,104.2)",RM million
+Genting Berhad,GENTING,2025,income,EPS,-0.3,sen,131,131,GENTING_AR_2025.pdf,GENTING_AR_2025.pdf,reported,Basic (sen),(0.30),RM million
+Genting Berhad,GENTING,2025,balance,total_assets,100893.0,RM million,133,133,GENTING_AR_2025.pdf,GENTING_AR_2025.pdf,reported,Total Assets,"100,893.0",RM million
+Genting Berhad,GENTING,2025,balance,total_liabilities,53841.2,RM million,133,133,GENTING_AR_2025.pdf,GENTING_AR_2025.pdf,reported,Total Liabilities,"53,841.2",RM million
+Genting Berhad,GENTING,2025,balance,equity,47051.8,RM million,133,133,GENTING_AR_2025.pdf,GENTING_AR_2025.pdf,reported,Total Equity,"47,051.8",RM million
+Genting Berhad,GENTING,2025,balance,total_debt,40806.7,RM million,133,133,GENTING_AR_2025.pdf,GENTING_AR_2025.pdf,computed: long-term borrowings + short-term borrowings (excludes lease liabilities),Long-term borrowings + Short-term borrowings,,
+Genting Berhad,GENTING,2025,balance,cash,17996.1,RM million,133,133,GENTING_AR_2025.pdf,GENTING_AR_2025.pdf,reported,Cash and cash equivalents,"17,996.1",RM million
+Genting Berhad,GENTING,2025,balance,total_debt_incl_leases,42212.6,RM million,133,133,GENTING_AR_2025.pdf,GENTING_AR_2025.pdf,computed: total_debt + lease liabilities,Total debt + Lease liabilities,,
+Genting Berhad,GENTING,2025,balance,net_debt,22810.6,RM million,133,133;133,GENTING_AR_2025.pdf,GENTING_AR_2025.pdf,computed: total debt (excluding leases) - cash and cash equivalents,Total debt - Cash and cash equivalents,,
+Genting Berhad,GENTING,2025,cashflow,operating_cash_flow,5903.8,RM million,137,137,GENTING_AR_2025.pdf,GENTING_AR_2025.pdf,reported,NET CASH FLOW FROM OPERATING ACTIVITIES,"5,903.8",RM million
+Genting Berhad,GENTING,2025,cashflow,capex,-4750.6,RM million,138,138,GENTING_AR_2025.pdf,GENTING_AR_2025.pdf,reported,Purchase of PPE,"(4,750.6)",RM million
+Genting Berhad,GENTING,2025,cashflow,depreciation_amortisation,3852.0,RM million,137,137,GENTING_AR_2025.pdf,GENTING_AR_2025.pdf,reported: depreciation and amortisation,Depreciation and amortisation,,
+Genting Berhad,GENTING,2025,income,EBITDA,8155.1,RM million,131,131;131;137,GENTING_AR_2025.pdf,GENTING_AR_2025.pdf,computed: PBT + finance cost + depreciation & amortisation,PBT + Finance cost + D&A,,
+Genting Berhad,GENTING,2025,income,DPS,5.0,sen,71,71,GENTING_AR_2025.pdf,GENTING_AR_2025.pdf,reported: net dividend per share line (financial highlights),Net dividend per share (sen),Net dividend per share (sen)                            5.00          11.00         15.00        16.00         11.00,

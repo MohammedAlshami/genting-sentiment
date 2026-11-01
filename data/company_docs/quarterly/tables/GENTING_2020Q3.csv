@@ -1,0 +1,2019 @@
+page,table_index,row,col,value_text,value_number,row_label,col_label,strategy
+1,1,1,1,Revenue,,,,words
+1,1,1,2,"3,298,829",3298829.0,Revenue,Current / Year / Quarter / 30/09/2020 / RM’000,words
+1,1,1,3,"5,294,994",5294994.0,Revenue,Year / Corresponding / Quarter / 30/09/2019 / RM’000,words
+1,1,1,4,"8,515,985",8515985.0,Revenue,Current / Year- / To-Date / 30/09/2020 / RM’000,words
+1,1,1,5,"16,313,520",16313520.0,Revenue,Year / Corresponding / Period / 30/09/2019 / RM’000,words
+1,1,2,1,Cost of sales,,,,words
+1,1,2,2,"(2,334,852)",-2334852.0,Cost of sales,Current / Year / Quarter / 30/09/2020 / RM’000,words
+1,1,2,3,"(3,507,013)",-3507013.0,Cost of sales,Year / Corresponding / Quarter / 30/09/2019 / RM’000,words
+1,1,2,4,"(7,406,224)",-7406224.0,Cost of sales,Current / Year- / To-Date / 30/09/2020 / RM’000,words
+1,1,2,5,"(10,752,276)",-10752276.0,Cost of sales,Year / Corresponding / Period / 30/09/2019 / RM’000,words
+1,1,3,1,Gross profit,,,,words
+1,1,3,2,"963,977",963977.0,Gross profit,Current / Year / Quarter / 30/09/2020 / RM’000,words
+1,1,3,3,"1,787,981",1787981.0,Gross profit,Year / Corresponding / Quarter / 30/09/2019 / RM’000,words
+1,1,3,4,"1,109,761",1109761.0,Gross profit,Current / Year- / To-Date / 30/09/2020 / RM’000,words
+1,1,3,5,"5,561,244",5561244.0,Gross profit,Year / Corresponding / Period / 30/09/2019 / RM’000,words
+1,1,4,1,Other income,,,,words
+1,1,4,2,"106,733",106733.0,Other income,Current / Year / Quarter / 30/09/2020 / RM’000,words
+1,1,4,3,"283,650",283650.0,Other income,Year / Corresponding / Quarter / 30/09/2019 / RM’000,words
+1,1,4,4,"514,002",514002.0,Other income,Current / Year- / To-Date / 30/09/2020 / RM’000,words
+1,1,4,5,"918,872",918872.0,Other income,Year / Corresponding / Period / 30/09/2019 / RM’000,words
+1,1,5,1,Net impairment losses,,,,words
+1,1,5,2,"(206,163)",-206163.0,Net impairment losses,Current / Year / Quarter / 30/09/2020 / RM’000,words
+1,1,5,3,"(364,216)",-364216.0,Net impairment losses,Year / Corresponding / Quarter / 30/09/2019 / RM’000,words
+1,1,5,4,"(774,816)",-774816.0,Net impairment losses,Current / Year- / To-Date / 30/09/2020 / RM’000,words
+1,1,5,5,"(385,247)",-385247.0,Net impairment losses,Year / Corresponding / Period / 30/09/2019 / RM’000,words
+1,1,6,1,Other expenses,,,,words
+1,1,6,2,"(618,433)",-618433.0,Other expenses,Current / Year / Quarter / 30/09/2020 / RM’000,words
+1,1,6,3,"(559,702)",-559702.0,Other expenses,Year / Corresponding / Quarter / 30/09/2019 / RM’000,words
+1,1,6,4,"(1,770,849)",-1770849.0,Other expenses,Current / Year- / To-Date / 30/09/2020 / RM’000,words
+1,1,6,5,"(1,877,317)",-1877317.0,Other expenses,Year / Corresponding / Period / 30/09/2019 / RM’000,words
+1,1,7,1,Other gains/(losses),,,,words
+1,1,7,2,"(7,064)",-7064.0,Other gains/(losses),Current / Year / Quarter / 30/09/2020 / RM’000,words
+1,1,7,3,"28,730",28730.0,Other gains/(losses),Year / Corresponding / Quarter / 30/09/2019 / RM’000,words
+1,1,7,4,"(18,567)",-18567.0,Other gains/(losses),Current / Year- / To-Date / 30/09/2020 / RM’000,words
+1,1,7,5,"(26,350)",-26350.0,Other gains/(losses),Year / Corresponding / Period / 30/09/2019 / RM’000,words
+1,1,8,1,Finance cost,,,,words
+1,1,8,2,"(241,721)",-241721.0,Finance cost,Current / Year / Quarter / 30/09/2020 / RM’000,words
+1,1,8,3,"(265,539)",-265539.0,Finance cost,Year / Corresponding / Quarter / 30/09/2019 / RM’000,words
+1,1,8,4,"(820,700)",-820700.0,Finance cost,Current / Year- / To-Date / 30/09/2020 / RM’000,words
+1,1,8,5,"(826,771)",-826771.0,Finance cost,Year / Corresponding / Period / 30/09/2019 / RM’000,words
+1,1,9,1,Share of results in joint ventures,,,,words
+1,1,10,1,and associates,,,,words
+1,1,10,2,"62,715",62715.0,and associates,Current / Year / Quarter / 30/09/2020 / RM’000,words
+1,1,10,3,"43,149",43149.0,and associates,Year / Corresponding / Quarter / 30/09/2019 / RM’000,words
+1,1,10,4,"(57,152)",-57152.0,and associates,Current / Year- / To-Date / 30/09/2020 / RM’000,words
+1,1,10,5,"98,610",98610.0,and associates,Year / Corresponding / Period / 30/09/2019 / RM’000,words
+1,1,11,1,Profit/(loss) before taxation,,,,words
+1,1,11,2,"60,044",60044.0,Profit/(loss) before taxation,Current / Year / Quarter / 30/09/2020 / RM’000,words
+1,1,11,3,"954,053",954053.0,Profit/(loss) before taxation,Year / Corresponding / Quarter / 30/09/2019 / RM’000,words
+1,1,11,4,"(1,818,321)",-1818321.0,Profit/(loss) before taxation,Current / Year- / To-Date / 30/09/2020 / RM’000,words
+1,1,11,5,"3,463,041",3463041.0,Profit/(loss) before taxation,Year / Corresponding / Period / 30/09/2019 / RM’000,words
+1,1,12,1,Taxation,,,,words
+1,1,12,2,"(481,395)",-481395.0,Taxation,Current / Year / Quarter / 30/09/2020 / RM’000,words
+1,1,12,3,"(236,519)",-236519.0,Taxation,Year / Corresponding / Quarter / 30/09/2019 / RM’000,words
+1,1,12,4,"(411,084)",-411084.0,Taxation,Current / Year- / To-Date / 30/09/2020 / RM’000,words
+1,1,12,5,"(717,166)",-717166.0,Taxation,Year / Corresponding / Period / 30/09/2019 / RM’000,words
+1,1,13,1,(Loss)/profit for the period,,,,words
+1,1,13,2,"(421,351)",-421351.0,(Loss)/profit for the period,Current / Year / Quarter / 30/09/2020 / RM’000,words
+1,1,13,3,"717,534",717534.0,(Loss)/profit for the period,Year / Corresponding / Quarter / 30/09/2019 / RM’000,words
+1,1,13,4,"(2,229,405)",-2229405.0,(Loss)/profit for the period,Current / Year- / To-Date / 30/09/2020 / RM’000,words
+1,1,13,5,"2,745,875",2745875.0,(Loss)/profit for the period,Year / Corresponding / Period / 30/09/2019 / RM’000,words
+1,1,14,1,(Loss)/profit attributable to:,,,,words
+1,1,15,1,Equity holders of the Company,,,,words
+1,1,15,2,"(130,746)",-130746.0,Equity holders of the Company,Current / Year / Quarter / 30/09/2020 / RM’000,words
+1,1,15,3,"305,682",305682.0,Equity holders of the Company,Year / Corresponding / Quarter / 30/09/2019 / RM’000,words
+1,1,15,4,"(1,049,118)",-1049118.0,Equity holders of the Company,Current / Year- / To-Date / 30/09/2020 / RM’000,words
+1,1,15,5,"1,467,001",1467001.0,Equity holders of the Company,Year / Corresponding / Period / 30/09/2019 / RM’000,words
+1,1,16,1,Non-controlling interests,,,,words
+1,1,16,2,"(290,605)",-290605.0,Non-controlling interests,Current / Year / Quarter / 30/09/2020 / RM’000,words
+1,1,16,3,"411,852",411852.0,Non-controlling interests,Year / Corresponding / Quarter / 30/09/2019 / RM’000,words
+1,1,16,4,"(1,180,287)",-1180287.0,Non-controlling interests,Current / Year- / To-Date / 30/09/2020 / RM’000,words
+1,1,16,5,"1,278,874",1278874.0,Non-controlling interests,Year / Corresponding / Period / 30/09/2019 / RM’000,words
+1,1,17,1,"(421,351)",-421351.0,(Loss)/profit attributable to:,Current / Year / Quarter / 30/09/2020 / RM’000,words
+1,1,17,2,"717,534",717534.0,(Loss)/profit attributable to:,Year / Corresponding / Quarter / 30/09/2019 / RM’000,words
+1,1,17,3,"(2,229,405)",-2229405.0,(Loss)/profit attributable to:,Current / Year- / To-Date / 30/09/2020 / RM’000,words
+1,1,17,4,"2,745,875",2745875.0,(Loss)/profit attributable to:,Year / Corresponding / Period / 30/09/2019 / RM’000,words
+1,1,18,1,(Loss)/earnings per share (sen) for,,,,words
+1,1,19,1,(loss)/profit attributable to equity,,,,words
+1,1,20,1,holders of the Company:,,,,words
+1,1,21,1,-,,,,words
+1,1,21,2,Basic,,,,words
+1,1,21,3,(3.40),-3.4,- Basic,Current / Year / Quarter / 30/09/2020 / RM’000,words
+1,1,21,4,7.94,7.94,- Basic,Year / Corresponding / Quarter / 30/09/2019 / RM’000,words
+1,1,21,5,(27.25),-27.25,- Basic,Current / Year- / To-Date / 30/09/2020 / RM’000,words
+1,1,21,6,38.10,38.1,- Basic,Year / Corresponding / Period / 30/09/2019 / RM’000,words
+1,1,22,1,-,,,,words
+1,1,22,2,Diluted,,,,words
+1,1,22,3,(3.41),-3.41,- Diluted,Current / Year / Quarter / 30/09/2020 / RM’000,words
+1,1,22,4,7.90,7.9,- Diluted,Year / Corresponding / Quarter / 30/09/2019 / RM’000,words
+1,1,22,5,(27.25),-27.25,- Diluted,Current / Year- / To-Date / 30/09/2020 / RM’000,words
+1,1,22,6,38.00,38.0,- Diluted,Year / Corresponding / Period / 30/09/2019 / RM’000,words
+2,1,1,1,liability,,,,words
+2,1,1,2,46,46.0,liability,,words
+2,1,1,3,-,,,,words
+2,1,1,4,46,46.0,liability,,words
+2,1,1,5,-,,,,words
+2,1,2,1,Changes in the fair value of equity,,,,words
+2,1,3,1,investments at fair value through,,,,words
+2,1,4,1,other comprehensive income,,,,words
+2,1,4,2,"(8,253)",-8253.0,other comprehensive income,,words
+2,1,4,3,"(34,432)",-34432.0,other comprehensive income,,words
+2,1,4,4,"(249,289)",-249289.0,other comprehensive income,,words
+2,1,4,5,"22,802",22802.0,other comprehensive income,,words
+2,1,5,1,"(8,207)",-8207.0,investments at fair value through,,words
+2,1,5,2,"(34,432)",-34432.0,investments at fair value through,,words
+2,1,5,3,"(249,243)",-249243.0,investments at fair value through,,words
+2,1,5,4,"22,802",22802.0,investments at fair value through,,words
+2,1,6,1,Items that will be reclassified,,,,words
+2,1,7,1,subsequently to profit or loss:,,,,words
+2,1,8,1,Cash flow hedges,,,,words
+2,1,9,1,-,,,,words
+2,1,9,2,Fair value (loss)/gain,,,,words
+2,1,9,3,"(40,243)",-40243.0,- Fair value (loss)/gain,,words
+2,1,9,4,"24,996",24996.0,- Fair value (loss)/gain,,words
+2,1,9,5,"42,638",42638.0,- Fair value (loss)/gain,,words
+2,1,9,6,"(51,702)",-51702.0,- Fair value (loss)/gain,,words
+2,1,10,1,-,,,,words
+2,1,10,2,Reclassifications,,,,words
+2,1,10,3,"2,658",2658.0,- Reclassifications,,words
+2,1,10,4,840,840.0,- Reclassifications,,words
+2,1,10,5,593,593.0,- Reclassifications,,words
+2,1,10,6,"75,725",75725.0,- Reclassifications,,words
+2,1,11,1,Share of other comprehensive,,,,words
+2,1,12,1,(loss)/income of joint ventures,,,,words
+2,1,13,1,and associates,,,,words
+2,1,13,2,"(12,653)",-12653.0,and associates,,words
+2,1,13,3,"19,469",19469.0,and associates,,words
+2,1,13,4,"11,232",11232.0,and associates,,words
+2,1,13,5,"11,286",11286.0,and associates,,words
+2,1,14,1,Net foreign currency exchange,,,,words
+2,1,15,1,differences,,,,words
+2,1,15,2,"(880,734)",-880734.0,differences,,words
+2,1,15,3,"(61,912)",-61912.0,differences,,words
+2,1,15,4,"(198,768)",-198768.0,differences,,words
+2,1,15,5,"(55,584)",-55584.0,differences,,words
+2,1,16,1,"(930,972)",-930972.0,Net foreign currency exchange,,words
+2,1,16,2,"(16,607)",-16607.0,Net foreign currency exchange,,words
+2,1,16,3,"(144,305)",-144305.0,Net foreign currency exchange,,words
+2,1,16,4,"(20,275)",-20275.0,Net foreign currency exchange,,words
+2,1,17,1,Other comprehensive (loss)/income,,,,words
+2,1,18,1,"for the period, net of tax",,,,words
+2,1,18,2,"(939,179)",-939179.0,"for the period, net of tax",,words
+2,1,18,3,"(51,039)",-51039.0,"for the period, net of tax",,words
+2,1,18,4,"(393,548)",-393548.0,"for the period, net of tax",,words
+2,1,18,5,"2,527",2527.0,"for the period, net of tax",,words
+2,1,19,1,Total comprehensive (loss)/income,,,,words
+2,1,20,1,for the period,,,,words
+2,1,20,2,"(1,360,530)",-1360530.0,for the period,,words
+2,1,20,3,"666,495",666495.0,for the period,,words
+2,1,20,4,"(2,622,953)",-2622953.0,for the period,,words
+2,1,20,5,"2,748,402",2748402.0,for the period,,words
+2,1,21,1,Total comprehensive (loss)/income,,,,words
+2,1,22,1,attributable to:,,,,words
+2,1,23,1,Equity holders of the Company,,,,words
+2,1,23,2,"(761,181)",-761181.0,Equity holders of the Company,,words
+2,1,23,3,"306,178",306178.0,Equity holders of the Company,,words
+2,1,23,4,"(1,275,074)",-1275074.0,Equity holders of the Company,,words
+2,1,23,5,"1,455,572",1455572.0,Equity holders of the Company,,words
+2,1,24,1,Non-controlling interests,,,,words
+2,1,24,2,"(599,349)",-599349.0,Non-controlling interests,,words
+2,1,24,3,"360,317",360317.0,Non-controlling interests,,words
+2,1,24,4,"(1,347,879)",-1347879.0,Non-controlling interests,,words
+2,1,24,5,"1,292,830",1292830.0,Non-controlling interests,,words
+2,1,25,1,"(1,360,530)",-1360530.0,attributable to:,,words
+2,1,25,2,"666,495",666495.0,attributable to:,,words
+2,1,25,3,"(2,622,953)",-2622953.0,attributable to:,,words
+2,1,25,4,"2,748,402",2748402.0,attributable to:,,words
+3,1,1,1,"Property, plant and equipment",,,,words
+3,1,1,2,"43,808,108",43808108.0,"Property, plant and equipment",As At / 30 Sept 2020 / RM’000,words
+3,1,1,3,"41,304,014",41304014.0,"Property, plant and equipment",Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,2,1,Land held for property development,,,,words
+3,1,2,2,"370,704",370704.0,Land held for property development,As At / 30 Sept 2020 / RM’000,words
+3,1,2,3,"367,611",367611.0,Land held for property development,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,3,1,Investment properties,,,,words
+3,1,3,2,"1,583,021",1583021.0,Investment properties,As At / 30 Sept 2020 / RM’000,words
+3,1,3,3,"1,690,172",1690172.0,Investment properties,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,4,1,Intangible assets,,,,words
+3,1,4,2,"5,310,677",5310677.0,Intangible assets,As At / 30 Sept 2020 / RM’000,words
+3,1,4,3,"5,739,620",5739620.0,Intangible assets,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,5,1,Rights of use of oil and gas assets,,,,words
+3,1,5,2,"3,388,521",3388521.0,Rights of use of oil and gas assets,As At / 30 Sept 2020 / RM’000,words
+3,1,5,3,"3,376,414",3376414.0,Rights of use of oil and gas assets,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,6,1,Rights of use of lease assets,,,,words
+3,1,6,2,"4,131,784",4131784.0,Rights of use of lease assets,As At / 30 Sept 2020 / RM’000,words
+3,1,6,3,"4,252,376",4252376.0,Rights of use of lease assets,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,7,1,Joint ventures,,,,words
+3,1,7,2,"1,478,956",1478956.0,Joint ventures,As At / 30 Sept 2020 / RM’000,words
+3,1,7,3,"1,334,897",1334897.0,Joint ventures,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,8,1,Associates,,,,words
+3,1,8,2,"1,513,760",1513760.0,Associates,As At / 30 Sept 2020 / RM’000,words
+3,1,8,3,"1,322,519",1322519.0,Associates,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,9,1,Financial assets at fair value through other comprehensive income,,,,words
+3,1,9,2,"978,923",978923.0,Financial assets at fair value through other comprehensive income,As At / 30 Sept 2020 / RM’000,words
+3,1,9,3,"1,051,747",1051747.0,Financial assets at fair value through other comprehensive income,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,10,1,Financial assets at fair value through profit or loss,,,,words
+3,1,10,2,"240,013",240013.0,Financial assets at fair value through profit or loss,As At / 30 Sept 2020 / RM’000,words
+3,1,10,3,"947,159",947159.0,Financial assets at fair value through profit or loss,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,11,1,Derivative financial instruments,,,,words
+3,1,11,2,"2,452",2452.0,Derivative financial instruments,As At / 30 Sept 2020 / RM’000,words
+3,1,11,3,"3,056",3056.0,Derivative financial instruments,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,12,1,Deferred tax assets,,,,words
+3,1,12,2,"146,957",146957.0,Deferred tax assets,As At / 30 Sept 2020 / RM’000,words
+3,1,12,3,"375,658",375658.0,Deferred tax assets,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,13,1,Other non-current assets,,,,words
+3,1,13,2,"4,009,757",4009757.0,Other non-current assets,As At / 30 Sept 2020 / RM’000,words
+3,1,13,3,"4,000,735",4000735.0,Other non-current assets,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,14,1,"66,963,633",66963633.0,,As At / 30 Sept 2020 / RM’000,words
+3,1,14,2,"65,765,978",65765978.0,,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,15,1,CURRENT ASSETS,,,,words
+3,1,16,1,Property development costs,,,,words
+3,1,16,2,"12,264",12264.0,Property development costs,As At / 30 Sept 2020 / RM’000,words
+3,1,16,3,"45,681",45681.0,Property development costs,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,17,1,Inventories,,,,words
+3,1,17,2,"625,413",625413.0,Inventories,As At / 30 Sept 2020 / RM’000,words
+3,1,17,3,"668,658",668658.0,Inventories,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,18,1,Produce growing on bearer plants,,,,words
+3,1,18,2,"12,588",12588.0,Produce growing on bearer plants,As At / 30 Sept 2020 / RM’000,words
+3,1,18,3,"6,906",6906.0,Produce growing on bearer plants,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,19,1,Trade and other receivables,,,,words
+3,1,19,2,"2,526,634",2526634.0,Trade and other receivables,As At / 30 Sept 2020 / RM’000,words
+3,1,19,3,"2,538,665",2538665.0,Trade and other receivables,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,20,1,Amounts due from joint ventures and associates,,,,words
+3,1,20,2,"88,745",88745.0,Amounts due from joint ventures and associates,As At / 30 Sept 2020 / RM’000,words
+3,1,20,3,"76,529",76529.0,Amounts due from joint ventures and associates,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,21,1,Financial assets at fair value through other comprehensive income,,,,words
+3,1,21,2,"337,885",337885.0,Financial assets at fair value through other comprehensive income,As At / 30 Sept 2020 / RM’000,words
+3,1,21,3,"487,169",487169.0,Financial assets at fair value through other comprehensive income,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,22,1,Financial assets at fair value through profit or loss,,,,words
+3,1,22,2,"1,063,481",1063481.0,Financial assets at fair value through profit or loss,As At / 30 Sept 2020 / RM’000,words
+3,1,22,3,"1,476,650",1476650.0,Financial assets at fair value through profit or loss,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,23,1,Derivative financial instruments,,,,words
+3,1,23,2,"43,547",43547.0,Derivative financial instruments,As At / 30 Sept 2020 / RM’000,words
+3,1,23,3,"1,141",1141.0,Derivative financial instruments,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,24,1,Restricted cash,,,,words
+3,1,24,2,"720,757",720757.0,Restricted cash,As At / 30 Sept 2020 / RM’000,words
+3,1,24,3,"662,621",662621.0,Restricted cash,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,25,1,Cash and cash equivalents,,,,words
+3,1,25,2,"28,917,572",28917572.0,Cash and cash equivalents,As At / 30 Sept 2020 / RM’000,words
+3,1,25,3,"30,282,176",30282176.0,Cash and cash equivalents,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,26,1,"34,348,886",34348886.0,CURRENT ASSETS,As At / 30 Sept 2020 / RM’000,words
+3,1,26,2,"36,246,196",36246196.0,CURRENT ASSETS,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,27,1,Assets classified as held for sale,,,,words
+3,1,27,2,"407,966",407966.0,Assets classified as held for sale,As At / 30 Sept 2020 / RM’000,words
+3,1,27,3,"4,205",4205.0,Assets classified as held for sale,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,28,1,"34,756,852",34756852.0,CURRENT ASSETS,As At / 30 Sept 2020 / RM’000,words
+3,1,28,2,"36,250,401",36250401.0,CURRENT ASSETS,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,29,1,TOTAL ASSETS,,,,words
+3,1,29,2,"101,720,485",101720485.0,TOTAL ASSETS,As At / 30 Sept 2020 / RM’000,words
+3,1,29,3,"102,016,379",102016379.0,TOTAL ASSETS,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,30,1,EQUITY AND LIABILITIES,,,,words
+3,1,31,1,Equity attributable to equity holders of the Company,,,,words
+3,1,32,1,Share capital,,,,words
+3,1,32,2,"3,056,175",3056175.0,Share capital,As At / 30 Sept 2020 / RM’000,words
+3,1,32,3,"3,056,175",3056175.0,Share capital,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,33,1,Treasury shares,,,,words
+3,1,33,2,"(221,206)",-221206.0,Treasury shares,As At / 30 Sept 2020 / RM’000,words
+3,1,33,3,"(221,206)",-221206.0,Treasury shares,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,34,1,Reserves,,,,words
+3,1,34,2,"30,381,184",30381184.0,Reserves,As At / 30 Sept 2020 / RM’000,words
+3,1,34,3,"32,497,233",32497233.0,Reserves,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,35,1,"33,216,153",33216153.0,Equity attributable to equity holders of the Company,As At / 30 Sept 2020 / RM’000,words
+3,1,35,2,"35,332,202",35332202.0,Equity attributable to equity holders of the Company,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,36,1,Non-controlling interests,,,,words
+3,1,36,2,"21,483,195",21483195.0,Non-controlling interests,As At / 30 Sept 2020 / RM’000,words
+3,1,36,3,"23,941,797",23941797.0,Non-controlling interests,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,37,1,TOTAL EQUITY,,,,words
+3,1,37,2,"54,699,348",54699348.0,TOTAL EQUITY,As At / 30 Sept 2020 / RM’000,words
+3,1,37,3,"59,273,999",59273999.0,TOTAL EQUITY,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,38,1,NON-CURRENT LIABILITIES,,,,words
+3,1,39,1,Long term borrowings,,,,words
+3,1,39,2,"35,382,511",35382511.0,Long term borrowings,As At / 30 Sept 2020 / RM’000,words
+3,1,39,3,"29,390,159",29390159.0,Long term borrowings,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,40,1,Lease liabilities,,,,words
+3,1,40,2,"776,256",776256.0,Lease liabilities,As At / 30 Sept 2020 / RM’000,words
+3,1,40,3,"818,043",818043.0,Lease liabilities,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,41,1,Deferred tax liabilities,,,,words
+3,1,41,2,"1,987,867",1987867.0,Deferred tax liabilities,As At / 30 Sept 2020 / RM’000,words
+3,1,41,3,"2,170,320",2170320.0,Deferred tax liabilities,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,42,1,Derivative financial instruments,,,,words
+3,1,42,2,"12,506",12506.0,Derivative financial instruments,As At / 30 Sept 2020 / RM’000,words
+3,1,42,3,"7,514",7514.0,Derivative financial instruments,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,43,1,Other non-current liabilities,,,,words
+3,1,43,2,"889,742",889742.0,Other non-current liabilities,As At / 30 Sept 2020 / RM’000,words
+3,1,43,3,"926,870",926870.0,Other non-current liabilities,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,44,1,"39,048,882",39048882.0,NON-CURRENT LIABILITIES,As At / 30 Sept 2020 / RM’000,words
+3,1,44,2,"33,312,906",33312906.0,NON-CURRENT LIABILITIES,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,45,1,CURRENT LIABILITIES,,,,words
+3,1,46,1,Trade and other payables,,,,words
+3,1,46,2,"5,296,825",5296825.0,Trade and other payables,As At / 30 Sept 2020 / RM’000,words
+3,1,46,3,"5,747,299",5747299.0,Trade and other payables,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,47,1,Amounts due to joint ventures and associates,,,,words
+3,1,47,2,"32,087",32087.0,Amounts due to joint ventures and associates,As At / 30 Sept 2020 / RM’000,words
+3,1,47,3,"40,946",40946.0,Amounts due to joint ventures and associates,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,48,1,Short term borrowings,,,,words
+3,1,48,2,"1,648,110",1648110.0,Short term borrowings,As At / 30 Sept 2020 / RM’000,words
+3,1,48,3,"2,739,775",2739775.0,Short term borrowings,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,49,1,Derivative financial instruments,,,,words
+3,1,49,2,"26,240",26240.0,Derivative financial instruments,As At / 30 Sept 2020 / RM’000,words
+3,1,49,3,"42,653",42653.0,Derivative financial instruments,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,50,1,Lease liabilities,,,,words
+3,1,50,2,"141,594",141594.0,Lease liabilities,As At / 30 Sept 2020 / RM’000,words
+3,1,50,3,"111,398",111398.0,Lease liabilities,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,51,1,Taxation,,,,words
+3,1,51,2,"576,418",576418.0,Taxation,As At / 30 Sept 2020 / RM’000,words
+3,1,51,3,"747,403",747403.0,Taxation,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,52,1,"7,971,561",7971561.0,CURRENT LIABILITIES,As At / 30 Sept 2020 / RM’000,words
+3,1,52,2,"9,429,474",9429474.0,CURRENT LIABILITIES,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,53,1,"7,972,255",7972255.0,CURRENT LIABILITIES,As At / 30 Sept 2020 / RM’000,words
+3,1,53,2,"9,429,474",9429474.0,CURRENT LIABILITIES,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,54,1,TOTAL LIABILITIES,,,,words
+3,1,54,2,"47,021,137",47021137.0,TOTAL LIABILITIES,As At / 30 Sept 2020 / RM’000,words
+3,1,54,3,"42,742,380",42742380.0,TOTAL LIABILITIES,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,55,1,TOTAL EQUITY AND LIABILITIES,,,,words
+3,1,55,2,"101,720,485",101720485.0,TOTAL EQUITY AND LIABILITIES,As At / 30 Sept 2020 / RM’000,words
+3,1,55,3,"102,016,379",102016379.0,TOTAL EQUITY AND LIABILITIES,Audited / As At / 31 Dec 2019 / RM’000,words
+3,1,56,1,NET ASSETS PER SHARE (RM),,,,words
+3,1,56,2,8.63,8.63,NET ASSETS PER SHARE (RM),As At / 30 Sept 2020 / RM’000,words
+3,1,56,3,9.18,9.18,NET ASSETS PER SHARE (RM),Audited / As At / 31 Dec 2019 / RM’000,words
+4,1,1,1,At 1 January 2020,,,,words
+4,1,1,2,"3,056,175",3056175.0,At 1 January 2020,Share / Capital / RM’000,words
+4,1,1,3,"(216,666)",-216666.0,At 1 January 2020,Fair Value / Reserve / RM’000,words
+4,1,1,4,"(6,230)",-6230.0,At 1 January 2020,Cash Flow / Hedge / Reserve / RM’000,words
+4,1,1,5,"(1,410,029)",-1410029.0,At 1 January 2020,Foreign / Exchange & / Other / Reserves / RM’000,words
+4,1,1,6,"34,130,158",34130158.0,At 1 January 2020,Retained / Earnings / RM’000,words
+4,1,1,7,"(221,206)",-221206.0,At 1 January 2020,Treasury / Shares / RM’000,words
+4,1,1,8,"35,332,202",35332202.0,At 1 January 2020,Total / RM’000,words
+4,1,1,9,"23,941,797",23941797.0,At 1 January 2020,Non- / controlling / Interests / RM’000,words
+4,1,1,10,"59,273,999",59273999.0,At 1 January 2020,Total / Equity / RM’000,words
+4,1,2,1,Loss for the period,,,,words
+4,1,2,2,-,,,,words
+4,1,2,3,-,,,,words
+4,1,2,4,-,,,,words
+4,1,2,5,-,,,,words
+4,1,2,6,"(1,049,118)",-1049118.0,Loss for the period - - - -,Retained / Earnings / RM’000,words
+4,1,2,7,-,,,,words
+4,1,2,8,"(1,049,118)",-1049118.0,Loss for the period - - - -,Total / RM’000,words
+4,1,2,9,"(1,180,287)",-1180287.0,Loss for the period - - - -,Non- / controlling / Interests / RM’000,words
+4,1,2,10,"(2,229,405)",-2229405.0,Loss for the period - - - -,Total / Equity / RM’000,words
+4,1,3,1,Other comprehensive (loss)/income,,,,words
+4,1,3,2,-,,,,words
+4,1,3,3,"(222,416)",-222416.0,Other comprehensive (loss)/income -,Fair Value / Reserve / RM’000,words
+4,1,3,4,"44,141",44141.0,Other comprehensive (loss)/income -,Cash Flow / Hedge / Reserve / RM’000,words
+4,1,3,5,"(49,866)",-49866.0,Other comprehensive (loss)/income -,Foreign / Exchange & / Other / Reserves / RM’000,words
+4,1,3,6,"2,185",2185.0,Other comprehensive (loss)/income -,Retained / Earnings / RM’000,words
+4,1,3,7,-,,,,words
+4,1,3,8,"(225,956)",-225956.0,Other comprehensive (loss)/income -,Total / RM’000,words
+4,1,3,9,"(167,592)",-167592.0,Other comprehensive (loss)/income -,Non- / controlling / Interests / RM’000,words
+4,1,3,10,"(393,548)",-393548.0,Other comprehensive (loss)/income -,Total / Equity / RM’000,words
+4,1,4,1,Total comprehensive (loss)/income,,,,words
+4,1,5,1,for the period,,,,words
+4,1,5,2,-,,,,words
+4,1,5,3,"(222,416)",-222416.0,for the period -,Fair Value / Reserve / RM’000,words
+4,1,5,4,"44,141",44141.0,for the period -,Cash Flow / Hedge / Reserve / RM’000,words
+4,1,5,5,"(49,866)",-49866.0,for the period -,Foreign / Exchange & / Other / Reserves / RM’000,words
+4,1,5,6,"(1,046,933)",-1046933.0,for the period -,Retained / Earnings / RM’000,words
+4,1,5,7,-,,,,words
+4,1,5,8,"(1,275,074)",-1275074.0,for the period -,Total / RM’000,words
+4,1,5,9,"(1,347,879)",-1347879.0,for the period -,Non- / controlling / Interests / RM’000,words
+4,1,5,10,"(2,622,953)",-2622953.0,for the period -,Total / Equity / RM’000,words
+4,1,6,1,Effects arising from changes in,,,,words
+4,1,7,1,composition of the Group,,,,words
+4,1,7,2,-,,,,words
+4,1,7,3,-,,,,words
+4,1,7,4,-,,,,words
+4,1,7,5,-,,,,words
+4,1,7,6,"(1,990)",-1990.0,composition of the Group - - - -,Retained / Earnings / RM’000,words
+4,1,7,7,-,,,,words
+4,1,7,8,"(1,990)",-1990.0,composition of the Group - - - -,Total / RM’000,words
+4,1,7,9,"(99,835)",-99835.0,composition of the Group - - - -,Non- / controlling / Interests / RM’000,words
+4,1,7,10,"(101,825)",-101825.0,composition of the Group - - - -,Total / Equity / RM’000,words
+4,1,8,1,Performance-based Employee,,,,words
+4,1,9,1,Share Scheme by subsidiaries,,,,words
+4,1,9,2,-,,,,words
+4,1,9,3,-,,,,words
+4,1,9,4,-,,,,words
+4,1,9,5,-,,,,words
+4,1,9,6,"8,142",8142.0,Share Scheme by subsidiaries - - - -,Retained / Earnings / RM’000,words
+4,1,9,7,-,,,,words
+4,1,9,8,"8,142",8142.0,Share Scheme by subsidiaries - - - -,Total / RM’000,words
+4,1,9,9,"(8,142)",-8142.0,Share Scheme by subsidiaries - - - -,Non- / controlling / Interests / RM’000,words
+4,1,9,10,-,,,,words
+4,1,10,1,Effects of share-based payment,,,,words
+4,1,10,2,-,,,,words
+4,1,10,3,-,,,,words
+4,1,10,4,-,,,,words
+4,1,10,5,-,,,,words
+4,1,10,6,-,,,,words
+4,1,10,7,-,,,,words
+4,1,10,8,-,,,,words
+4,1,10,9,"99,962",99962.0,Effects of share-based payment - - - - - - -,Non- / controlling / Interests / RM’000,words
+4,1,10,10,"99,962",99962.0,Effects of share-based payment - - - - - - -,Total / Equity / RM’000,words
+4,1,11,1,Dividends to non-controlling interests,,,,words
+4,1,11,2,-,,,,words
+4,1,11,3,-,,,,words
+4,1,11,4,-,,,,words
+4,1,11,5,-,,,,words
+4,1,11,6,-,,,,words
+4,1,11,7,-,,,,words
+4,1,11,8,-,,,,words
+4,1,11,9,"(1,102,708)",-1102708.0,Dividends to non-controlling interests - - - - - - -,Non- / controlling / Interests / RM’000,words
+4,1,11,10,"(1,102,708)",-1102708.0,Dividends to non-controlling interests - - - - - - -,Total / Equity / RM’000,words
+4,1,12,1,Appropriation:,,,,words
+4,1,13,1,Special single-tier dividend for,,,,words
+4,1,14,1,financial year ended 31 December 2019,,,,words
+4,1,14,2,-,,,,words
+4,1,14,3,-,,,,words
+4,1,14,4,-,,,,words
+4,1,14,5,-,,,,words
+4,1,14,6,"(365,805)",-365805.0,financial year ended 31 December 2019 - - - -,Retained / Earnings / RM’000,words
+4,1,14,7,-,,,,words
+4,1,14,8,"(365,805)",-365805.0,financial year ended 31 December 2019 - - - -,Total / RM’000,words
+4,1,14,9,-,,,,words
+4,1,14,10,"(365,805)",-365805.0,financial year ended 31 December 2019 - - - -,Total / Equity / RM’000,words
+4,1,15,1,Final single-tier dividend for financial year,,,,words
+4,1,16,1,ended 31 December 2019,,,,words
+4,1,16,2,-,,,,words
+4,1,16,3,-,,,,words
+4,1,16,4,-,,,,words
+4,1,16,5,-,,,,words
+4,1,16,6,"(231,035)",-231035.0,ended 31 December 2019 - - - -,Retained / Earnings / RM’000,words
+4,1,16,7,-,,,,words
+4,1,16,8,"(231,035)",-231035.0,ended 31 December 2019 - - - -,Total / RM’000,words
+4,1,16,9,-,,,,words
+4,1,16,10,"(231,035)",-231035.0,ended 31 December 2019 - - - -,Total / Equity / RM’000,words
+4,1,17,1,Interim single-tier dividend for financial,,,,words
+4,1,18,1,year ending 31 December 2020,,,,words
+4,1,18,2,-,,,,words
+4,1,18,3,-,,,,words
+4,1,18,4,-,,,,words
+4,1,18,5,-,,,,words
+4,1,18,6,"(250,287)",-250287.0,year ending 31 December 2020 - - - -,Retained / Earnings / RM’000,words
+4,1,18,7,-,,,,words
+4,1,18,8,"(250,287)",-250287.0,year ending 31 December 2020 - - - -,Total / RM’000,words
+4,1,18,9,-,,,,words
+4,1,18,10,"(250,287)",-250287.0,year ending 31 December 2020 - - - -,Total / Equity / RM’000,words
+4,1,19,1,"3,056,175",3056175.0,Interim single-tier dividend for financial,Share / Capital / RM’000,words
+4,1,19,2,"(439,082)",-439082.0,Interim single-tier dividend for financial,Fair Value / Reserve / RM’000,words
+4,1,19,3,"37,911",37911.0,Interim single-tier dividend for financial,Cash Flow / Hedge / Reserve / RM’000,words
+4,1,19,4,"(1,459,895)",-1459895.0,Interim single-tier dividend for financial,Foreign / Exchange & / Other / Reserves / RM’000,words
+4,1,19,5,"32,242,250",32242250.0,Interim single-tier dividend for financial,Retained / Earnings / RM’000,words
+4,1,19,6,"(221,206)",-221206.0,Interim single-tier dividend for financial,Treasury / Shares / RM’000,words
+4,1,19,7,"33,216,153",33216153.0,Interim single-tier dividend for financial,Total / RM’000,words
+4,1,19,8,"21,483,195",21483195.0,Interim single-tier dividend for financial,Non- / controlling / Interests / RM’000,words
+4,1,19,9,"54,699,348",54699348.0,Interim single-tier dividend for financial,Total / Equity / RM’000,words
+5,1,1,1,At 1 January 2019,,,,words
+5,1,1,2,"3,056,175",3056175.0,At 1 January 2019,Share / Capital / RM’000,words
+5,1,1,3,"(328,873)",-328873.0,At 1 January 2019,Fair Value / Reserve / RM’000,words
+5,1,1,4,"25,068",25068.0,At 1 January 2019,Cash Flow / Hedge / Reserve / RM’000,words
+5,1,1,5,"(1,314,804)",-1314804.0,At 1 January 2019,Foreign / Exchange & / Other / Reserves / RM’000,words
+5,1,1,6,"33,055,709",33055709.0,At 1 January 2019,Retained / Earnings / RM’000,words
+5,1,1,7,"(221,206)",-221206.0,At 1 January 2019,Treasury / Shares / RM’000,words
+5,1,1,8,"34,272,069",34272069.0,At 1 January 2019,Total / RM’000,words
+5,1,1,9,"23,112,867",23112867.0,At 1 January 2019,Non- / controlling / Interests / RM’000,words
+5,1,1,10,"57,384,936",57384936.0,At 1 January 2019,Total / Equity / RM’000,words
+5,1,2,1,Profit for the period,,,,words
+5,1,2,2,-,,,,words
+5,1,2,3,-,,,,words
+5,1,2,4,-,,,,words
+5,1,2,5,-,,,,words
+5,1,2,6,"1,467,001",1467001.0,Profit for the period - - - -,Retained / Earnings / RM’000,words
+5,1,2,7,-,,,,words
+5,1,2,8,"1,467,001",1467001.0,Profit for the period - - - -,Total / RM’000,words
+5,1,2,9,"1,278,874",1278874.0,Profit for the period - - - -,Non- / controlling / Interests / RM’000,words
+5,1,2,10,"2,745,875",2745875.0,Profit for the period - - - -,Total / Equity / RM’000,words
+5,1,3,1,Other comprehensive income/(loss),,,,words
+5,1,3,2,-,,,,words
+5,1,3,3,"22,802",22802.0,Other comprehensive income/(loss) -,Fair Value / Reserve / RM’000,words
+5,1,3,4,"3,588",3588.0,Other comprehensive income/(loss) -,Cash Flow / Hedge / Reserve / RM’000,words
+5,1,3,5,"(32,148)",-32148.0,Other comprehensive income/(loss) -,Foreign / Exchange & / Other / Reserves / RM’000,words
+5,1,3,6,"(5,671)",-5671.0,Other comprehensive income/(loss) -,Retained / Earnings / RM’000,words
+5,1,3,7,-,,,,words
+5,1,3,8,"(11,429)",-11429.0,Other comprehensive income/(loss) -,Total / RM’000,words
+5,1,3,9,"13,956",13956.0,Other comprehensive income/(loss) -,Non- / controlling / Interests / RM’000,words
+5,1,3,10,"2,527",2527.0,Other comprehensive income/(loss) -,Total / Equity / RM’000,words
+5,1,4,1,Total comprehensive income/(loss),,,,words
+5,1,5,1,for the period,,,,words
+5,1,5,2,-,,,,words
+5,1,5,3,"22,802",22802.0,for the period -,Fair Value / Reserve / RM’000,words
+5,1,5,4,"3,588",3588.0,for the period -,Cash Flow / Hedge / Reserve / RM’000,words
+5,1,5,5,"(32,148)",-32148.0,for the period -,Foreign / Exchange & / Other / Reserves / RM’000,words
+5,1,5,6,"1,461,330",1461330.0,for the period -,Retained / Earnings / RM’000,words
+5,1,5,7,-,,,,words
+5,1,5,8,"1,455,572",1455572.0,for the period -,Total / RM’000,words
+5,1,5,9,"1,292,830",1292830.0,for the period -,Non- / controlling / Interests / RM’000,words
+5,1,5,10,"2,748,402",2748402.0,for the period -,Total / Equity / RM’000,words
+5,1,6,1,Effects arising from changes in,,,,words
+5,1,7,1,composition of the Group,,,,words
+5,1,7,2,-,,,,words
+5,1,7,3,-,,,,words
+5,1,7,4,-,,,,words
+5,1,7,5,-,,,,words
+5,1,7,6,"(164,547)",-164547.0,composition of the Group - - - -,Retained / Earnings / RM’000,words
+5,1,7,7,-,,,,words
+5,1,7,8,"(164,547)",-164547.0,composition of the Group - - - -,Total / RM’000,words
+5,1,7,9,"317,639",317639.0,composition of the Group - - - -,Non- / controlling / Interests / RM’000,words
+5,1,7,10,"153,092",153092.0,composition of the Group - - - -,Total / Equity / RM’000,words
+5,1,8,1,Performance-based Employee Share,,,,words
+5,1,9,1,Scheme by subsidiaries,,,,words
+5,1,9,2,-,,,,words
+5,1,9,3,-,,,,words
+5,1,9,4,-,,,,words
+5,1,9,5,-,,,,words
+5,1,9,6,"9,330",9330.0,Scheme by subsidiaries - - - -,Retained / Earnings / RM’000,words
+5,1,9,7,-,,,,words
+5,1,9,8,"9,330",9330.0,Scheme by subsidiaries - - - -,Total / RM’000,words
+5,1,9,9,"(9,330)",-9330.0,Scheme by subsidiaries - - - -,Non- / controlling / Interests / RM’000,words
+5,1,9,10,-,,,,words
+5,1,10,1,Effects of share-based payment,,,,words
+5,1,10,2,-,,,,words
+5,1,10,3,-,,,,words
+5,1,10,4,-,,,,words
+5,1,10,5,-,,,,words
+5,1,10,6,-,,,,words
+5,1,10,7,-,,,,words
+5,1,10,8,-,,,,words
+5,1,10,9,"58,968",58968.0,Effects of share-based payment - - - - - - -,Non- / controlling / Interests / RM’000,words
+5,1,10,10,"58,968",58968.0,Effects of share-based payment - - - - - - -,Total / Equity / RM’000,words
+5,1,11,1,Dividends to non-controlling interests,,,,words
+5,1,11,2,-,,,,words
+5,1,11,3,-,,,,words
+5,1,11,4,-,,,,words
+5,1,11,5,-,,,,words
+5,1,11,6,-,,,,words
+5,1,11,7,-,,,,words
+5,1,11,8,-,,,,words
+5,1,11,9,"(1,287,921)",-1287921.0,Dividends to non-controlling interests - - - - - - -,Non- / controlling / Interests / RM’000,words
+5,1,11,10,"(1,287,921)",-1287921.0,Dividends to non-controlling interests - - - - - - -,Total / Equity / RM’000,words
+5,1,12,1,Appropriation:,,,,words
+5,1,13,1,Special single-tier dividend for,,,,words
+5,1,14,1,financial year ended 31 December 2018,,,,words
+5,1,14,2,-,,,,words
+5,1,14,3,-,,,,words
+5,1,14,4,-,,,,words
+5,1,14,5,-,,,,words
+5,1,14,6,"(269,540)",-269540.0,financial year ended 31 December 2018 - - - -,Retained / Earnings / RM’000,words
+5,1,14,7,-,,,,words
+5,1,14,8,"(269,540)",-269540.0,financial year ended 31 December 2018 - - - -,Total / RM’000,words
+5,1,14,9,-,,,,words
+5,1,14,10,"(269,540)",-269540.0,financial year ended 31 December 2018 - - - -,Total / Equity / RM’000,words
+5,1,15,1,Final single-tier dividend for,,,,words
+5,1,16,1,financial year ended 31 December 2018,,,,words
+5,1,16,2,-,,,,words
+5,1,16,3,-,,,,words
+5,1,16,4,-,,,,words
+5,1,16,5,-,,,,words
+5,1,16,6,"(231,035)",-231035.0,financial year ended 31 December 2018 - - - -,Retained / Earnings / RM’000,words
+5,1,16,7,-,,,,words
+5,1,16,8,"(231,035)",-231035.0,financial year ended 31 December 2018 - - - -,Total / RM’000,words
+5,1,16,9,-,,,,words
+5,1,16,10,"(231,035)",-231035.0,financial year ended 31 December 2018 - - - -,Total / Equity / RM’000,words
+5,1,17,1,Interim single-tier dividend for,,,,words
+5,1,18,1,financial year ended 31 December 2019,,,,words
+5,1,18,2,-,,,,words
+5,1,18,3,-,,,,words
+5,1,18,4,-,,,,words
+5,1,18,5,-,,,,words
+5,1,18,6,"(250,287)",-250287.0,financial year ended 31 December 2019 - - - -,Retained / Earnings / RM’000,words
+5,1,18,7,-,,,,words
+5,1,18,8,"(250,287)",-250287.0,financial year ended 31 December 2019 - - - -,Total / RM’000,words
+5,1,18,9,-,,,,words
+5,1,18,10,"(250,287)",-250287.0,financial year ended 31 December 2019 - - - -,Total / Equity / RM’000,words
+5,1,19,1,Balance at 30 September 2019,,,,words
+5,1,19,2,"3,056,175",3056175.0,Balance at 30 September 2019,Share / Capital / RM’000,words
+5,1,19,3,"(306,071)",-306071.0,Balance at 30 September 2019,Fair Value / Reserve / RM’000,words
+5,1,19,4,"28,656",28656.0,Balance at 30 September 2019,Cash Flow / Hedge / Reserve / RM’000,words
+5,1,19,5,"(1,346,952)",-1346952.0,Balance at 30 September 2019,Foreign / Exchange & / Other / Reserves / RM’000,words
+5,1,19,6,"33,610,960",33610960.0,Balance at 30 September 2019,Retained / Earnings / RM’000,words
+5,1,19,7,"(221,206)",-221206.0,Balance at 30 September 2019,Treasury / Shares / RM’000,words
+5,1,19,8,"34,821,562",34821562.0,Balance at 30 September 2019,Total / RM’000,words
+5,1,19,9,"23,485,053",23485053.0,Balance at 30 September 2019,Non- / controlling / Interests / RM’000,words
+5,1,19,10,"58,306,615",58306615.0,Balance at 30 September 2019,Total / Equity / RM’000,words
+6,1,1,1,(Loss)/profit before taxation,,,,words
+6,1,1,2,"(1,818,321)",-1818321.0,(Loss)/profit before taxation,Current / Year-To-Date / RM’000,words
+6,1,1,3,"3,463,041",3463041.0,(Loss)/profit before taxation,Preceding Year / Corresponding / Period / RM’000,words
+6,1,2,1,Adjustments for:,,,,words
+6,1,3,1,Depreciation and amortisation,,,,words
+6,1,3,2,"1,841,909",1841909.0,Depreciation and amortisation,Current / Year-To-Date / RM’000,words
+6,1,3,3,"1,964,208",1964208.0,Depreciation and amortisation,Preceding Year / Corresponding / Period / RM’000,words
+6,1,4,1,Finance cost,,,,words
+6,1,4,2,"820,700",820700.0,Finance cost,Current / Year-To-Date / RM’000,words
+6,1,4,3,"826,771",826771.0,Finance cost,Preceding Year / Corresponding / Period / RM’000,words
+6,1,5,1,Net impairment losses,,,,words
+6,1,5,2,"774,816",774816.0,Net impairment losses,Current / Year-To-Date / RM’000,words
+6,1,5,3,"385,247",385247.0,Net impairment losses,Preceding Year / Corresponding / Period / RM’000,words
+6,1,6,1,Share of results in joint ventures and associates,,,,words
+6,1,6,2,"57,152",57152.0,Share of results in joint ventures and associates,Current / Year-To-Date / RM’000,words
+6,1,6,3,"(98,610)",-98610.0,Share of results in joint ventures and associates,Preceding Year / Corresponding / Period / RM’000,words
+6,1,7,1,Assets written off,,,,words
+6,1,7,2,"46,314",46314.0,Assets written off,Current / Year-To-Date / RM’000,words
+6,1,7,3,"23,108",23108.0,Assets written off,Preceding Year / Corresponding / Period / RM’000,words
+6,1,8,1,Net fair value loss/(gain) on financial assets at fair value through profit or loss,,,,words
+6,1,8,2,"29,140",29140.0,Net fair value loss/(gain) on financial assets at fair value through profit or loss,Current / Year-To-Date / RM’000,words
+6,1,8,3,"(37,595)",-37595.0,Net fair value loss/(gain) on financial assets at fair value through profit or loss,Preceding Year / Corresponding / Period / RM’000,words
+6,1,9,1,Net exchange loss/(gain) – unrealised,,,,words
+6,1,9,2,"24,583",24583.0,Net exchange loss/(gain) – unrealised,Current / Year-To-Date / RM’000,words
+6,1,9,3,"(52,325)",-52325.0,Net exchange loss/(gain) – unrealised,Preceding Year / Corresponding / Period / RM’000,words
+6,1,10,1,Interest income,,,,words
+6,1,10,2,"(323,448)",-323448.0,Interest income,Current / Year-To-Date / RM’000,words
+6,1,10,3,"(561,534)",-561534.0,Interest income,Preceding Year / Corresponding / Period / RM’000,words
+6,1,11,1,Net gain on derecognition and change in shareholding of associates and,,,,words
+6,1,12,1,joint ventures,,,,words
+6,1,12,2,"(65,296)",-65296.0,joint ventures,Current / Year-To-Date / RM’000,words
+6,1,12,3,"(36,792)",-36792.0,joint ventures,Preceding Year / Corresponding / Period / RM’000,words
+6,1,13,1,Investment income,,,,words
+6,1,13,2,"(36,545)",-36545.0,Investment income,Current / Year-To-Date / RM’000,words
+6,1,13,3,"(34,738)",-34738.0,Investment income,Preceding Year / Corresponding / Period / RM’000,words
+6,1,14,1,Net (reversal)/impairment of receivables,,,,words
+6,1,14,2,"(30,743)",-30743.0,Net (reversal)/impairment of receivables,Current / Year-To-Date / RM’000,words
+6,1,14,3,"258,154",258154.0,Net (reversal)/impairment of receivables,Preceding Year / Corresponding / Period / RM’000,words
+6,1,15,1,(Reversal of)/provision for termination related costs,,,,words
+6,1,15,2,(576),-576.0,(Reversal of)/provision for termination related costs,Current / Year-To-Date / RM’000,words
+6,1,15,3,"36,641",36641.0,(Reversal of)/provision for termination related costs,Preceding Year / Corresponding / Period / RM’000,words
+6,1,16,1,Other non-cash items,,,,words
+6,1,16,2,"96,513",96513.0,Other non-cash items,Current / Year-To-Date / RM’000,words
+6,1,16,3,"89,379",89379.0,Other non-cash items,Preceding Year / Corresponding / Period / RM’000,words
+6,1,17,1,"3,221,822",3221822.0,Net gain on derecognition and change in shareholding of associates and,Current / Year-To-Date / RM’000,words
+6,1,17,2,"2,697,259",2697259.0,Net gain on derecognition and change in shareholding of associates and,Preceding Year / Corresponding / Period / RM’000,words
+6,1,18,1,Operating profit before changes in working capital,,,,words
+6,1,18,2,"1,403,501",1403501.0,Operating profit before changes in working capital,Current / Year-To-Date / RM’000,words
+6,1,18,3,"6,160,300",6160300.0,Operating profit before changes in working capital,Preceding Year / Corresponding / Period / RM’000,words
+6,1,19,1,Net change in current assets,,,,words
+6,1,19,2,"9,968",9968.0,Net change in current assets,Current / Year-To-Date / RM’000,words
+6,1,19,3,"(216,010)",-216010.0,Net change in current assets,Preceding Year / Corresponding / Period / RM’000,words
+6,1,20,1,Net change in current liabilities,,,,words
+6,1,20,2,"(553,551)",-553551.0,Net change in current liabilities,Current / Year-To-Date / RM’000,words
+6,1,20,3,"90,111",90111.0,Net change in current liabilities,Preceding Year / Corresponding / Period / RM’000,words
+6,1,21,1,"(543,583)",-543583.0,Net gain on derecognition and change in shareholding of associates and,Current / Year-To-Date / RM’000,words
+6,1,21,2,"(125,899)",-125899.0,Net gain on derecognition and change in shareholding of associates and,Preceding Year / Corresponding / Period / RM’000,words
+6,1,22,1,Cash generated from operations,,,,words
+6,1,22,2,"859,918",859918.0,Cash generated from operations,Current / Year-To-Date / RM’000,words
+6,1,22,3,"6,034,401",6034401.0,Cash generated from operations,Preceding Year / Corresponding / Period / RM’000,words
+6,1,23,1,Tax paid (net of tax refund),,,,words
+6,1,23,2,"(472,808)",-472808.0,Tax paid (net of tax refund),Current / Year-To-Date / RM’000,words
+6,1,23,3,"(918,472)",-918472.0,Tax paid (net of tax refund),Preceding Year / Corresponding / Period / RM’000,words
+6,1,24,1,Retirement gratuities paid,,,,words
+6,1,24,2,"(43,974)",-43974.0,Retirement gratuities paid,Current / Year-To-Date / RM’000,words
+6,1,24,3,"(13,036)",-13036.0,Retirement gratuities paid,Preceding Year / Corresponding / Period / RM’000,words
+6,1,25,1,Other operating activities,,,,words
+6,1,25,2,"(3,440)",-3440.0,Other operating activities,Current / Year-To-Date / RM’000,words
+6,1,25,3,"(2,427)",-2427.0,Other operating activities,Preceding Year / Corresponding / Period / RM’000,words
+6,1,26,1,"(520,222)",-520222.0,Net gain on derecognition and change in shareholding of associates and,Current / Year-To-Date / RM’000,words
+6,1,26,2,"(933,935)",-933935.0,Net gain on derecognition and change in shareholding of associates and,Preceding Year / Corresponding / Period / RM’000,words
+6,1,27,1,NET CASH FROM OPERATING ACTIVITIES,,,,words
+6,1,27,2,"339,696",339696.0,NET CASH FROM OPERATING ACTIVITIES,Current / Year-To-Date / RM’000,words
+6,1,27,3,"5,100,466",5100466.0,NET CASH FROM OPERATING ACTIVITIES,Preceding Year / Corresponding / Period / RM’000,words
+6,1,28,1,CASH FLOWS FROM INVESTING ACTIVITIES,,,,words
+6,1,29,1,"Purchase of property, plant and equipment",,,,words
+6,1,29,2,"(4,474,780)",-4474780.0,"Purchase of property, plant and equipment",Current / Year-To-Date / RM’000,words
+6,1,29,3,"(5,123,750)",-5123750.0,"Purchase of property, plant and equipment",Preceding Year / Corresponding / Period / RM’000,words
+6,1,30,1,"Increase in investments, intangible assets and other long term",,,,words
+6,1,31,1,financial assets,,,,words
+6,1,31,2,"(480,151)",-480151.0,financial assets,Current / Year-To-Date / RM’000,words
+6,1,31,3,"(1,202,324)",-1202324.0,financial assets,Preceding Year / Corresponding / Period / RM’000,words
+6,1,32,1,Interest received,,,,words
+6,1,32,2,"355,122",355122.0,Interest received,Current / Year-To-Date / RM’000,words
+6,1,32,3,"607,842",607842.0,Interest received,Preceding Year / Corresponding / Period / RM’000,words
+6,1,33,1,Dividend received from a joint venture,,,,words
+6,1,33,2,"72,058",72058.0,Dividend received from a joint venture,Current / Year-To-Date / RM’000,words
+6,1,33,3,"53,355",53355.0,Dividend received from a joint venture,Preceding Year / Corresponding / Period / RM’000,words
+6,1,34,1,Repayment of amount due from a joint venture,,,,words
+6,1,34,2,"64,589",64589.0,Repayment of amount due from a joint venture,Current / Year-To-Date / RM’000,words
+6,1,34,3,"146,650",146650.0,Repayment of amount due from a joint venture,Preceding Year / Corresponding / Period / RM’000,words
+6,1,35,1,"Proceeds from disposal of property, plant and equipment",,,,words
+6,1,35,2,"5,538",5538.0,"Proceeds from disposal of property, plant and equipment",Current / Year-To-Date / RM’000,words
+6,1,35,3,"115,573",115573.0,"Proceeds from disposal of property, plant and equipment",Preceding Year / Corresponding / Period / RM’000,words
+6,1,36,1,Other investing activities,,,,words
+6,1,36,2,"54,142",54142.0,Other investing activities,Current / Year-To-Date / RM’000,words
+6,1,36,3,"130,329",130329.0,Other investing activities,Preceding Year / Corresponding / Period / RM’000,words
+6,1,37,1,NET CASH USED IN INVESTING ACTIVITIES,,,,words
+6,1,37,2,"(3,350,159)",-3350159.0,NET CASH USED IN INVESTING ACTIVITIES,Current / Year-To-Date / RM’000,words
+6,1,37,3,"(4,901,986)",-4901986.0,NET CASH USED IN INVESTING ACTIVITIES,Preceding Year / Corresponding / Period / RM’000,words
+7,1,1,1,Repayment of borrowings and payment of transaction costs,,,,words
+7,1,1,2,"(2,896,140)",-2896140.0,Repayment of borrowings and payment of transaction costs,Current / Year-To-Date / RM’000,words
+7,1,1,3,"(6,200,854)",-6200854.0,Repayment of borrowings and payment of transaction costs,Corresponding / Period / RM’000,words
+7,1,2,1,Finance cost paid,,,,words
+7,1,2,2,"(1,275,214)",-1275214.0,Finance cost paid,Current / Year-To-Date / RM’000,words
+7,1,2,3,"(1,096,917)",-1096917.0,Finance cost paid,Corresponding / Period / RM’000,words
+7,1,3,1,Dividends paid to non-controlling interests,,,,words
+7,1,3,2,"(1,102,708)",-1102708.0,Dividends paid to non-controlling interests,Current / Year-To-Date / RM’000,words
+7,1,3,3,"(1,287,921)",-1287921.0,Dividends paid to non-controlling interests,Corresponding / Period / RM’000,words
+7,1,4,1,Dividends paid,,,,words
+7,1,4,2,"(596,840)",-596840.0,Dividends paid,Current / Year-To-Date / RM’000,words
+7,1,4,3,"(500,575)",-500575.0,Dividends paid,Corresponding / Period / RM’000,words
+7,1,5,1,Repayment of lease liabilities,,,,words
+7,1,5,2,"(117,101)",-117101.0,Repayment of lease liabilities,Current / Year-To-Date / RM’000,words
+7,1,5,3,"(87,321)",-87321.0,Repayment of lease liabilities,Corresponding / Period / RM’000,words
+7,1,6,1,Buy-back of shares by a subsidiary,,,,words
+7,1,6,2,"(30,145)",-30145.0,Buy-back of shares by a subsidiary,Current / Year-To-Date / RM’000,words
+7,1,6,3,"(40,089)",-40089.0,Buy-back of shares by a subsidiary,Corresponding / Period / RM’000,words
+7,1,7,1,Restricted cash,,,,words
+7,1,7,2,"(9,256)",-9256.0,Restricted cash,Current / Year-To-Date / RM’000,words
+7,1,7,3,"379,049",379049.0,Restricted cash,Corresponding / Period / RM’000,words
+7,1,8,1,Proceeds from bank borrowings and issuance of notes,,,,words
+7,1,8,2,"7,900,822",7900822.0,Proceeds from bank borrowings and issuance of notes,Current / Year-To-Date / RM’000,words
+7,1,8,3,"9,997,794",9997794.0,Proceeds from bank borrowings and issuance of notes,Corresponding / Period / RM’000,words
+7,1,9,1,Other financing activities,,,,words
+7,1,9,2,"(15,790)",-15790.0,Other financing activities,Current / Year-To-Date / RM’000,words
+7,1,9,3,"(49,244)",-49244.0,Other financing activities,Corresponding / Period / RM’000,words
+7,1,10,1,NET CASH FROM FINANCING ACTIVITIES,,,,words
+7,1,10,2,"1,857,628",1857628.0,NET CASH FROM FINANCING ACTIVITIES,Current / Year-To-Date / RM’000,words
+7,1,10,3,"967,821",967821.0,NET CASH FROM FINANCING ACTIVITIES,Corresponding / Period / RM’000,words
+7,1,11,1,NET (DECREASE)/INCREASE IN CASH AND CASH EQUIVALENTS,,,,words
+7,1,11,2,"(1,152,835)",-1152835.0,NET (DECREASE)/INCREASE IN CASH AND CASH EQUIVALENTS,Current / Year-To-Date / RM’000,words
+7,1,11,3,"1,166,301",1166301.0,NET (DECREASE)/INCREASE IN CASH AND CASH EQUIVALENTS,Corresponding / Period / RM’000,words
+7,1,12,1,CASH AND CASH EQUIVALENTS AT BEGINNING OF FINANCIAL PERIOD,,,,words
+7,1,12,2,"30,282,176",30282176.0,CASH AND CASH EQUIVALENTS AT BEGINNING OF FINANCIAL PERIOD,Current / Year-To-Date / RM’000,words
+7,1,12,3,"30,987,855",30987855.0,CASH AND CASH EQUIVALENTS AT BEGINNING OF FINANCIAL PERIOD,Corresponding / Period / RM’000,words
+7,1,13,1,EFFECTS OF CURRENCY TRANSLATION,,,,words
+7,1,13,2,"(211,769)",-211769.0,EFFECTS OF CURRENCY TRANSLATION,Current / Year-To-Date / RM’000,words
+7,1,13,3,"61,189",61189.0,EFFECTS OF CURRENCY TRANSLATION,Corresponding / Period / RM’000,words
+7,1,14,1,CASH AND CASH EQUIVALENTS AT END OF FINANCIAL PERIOD,,,,words
+7,1,14,2,"28,917,572",28917572.0,CASH AND CASH EQUIVALENTS AT END OF FINANCIAL PERIOD,Current / Year-To-Date / RM’000,words
+7,1,14,3,"32,215,345",32215345.0,CASH AND CASH EQUIVALENTS AT END OF FINANCIAL PERIOD,Corresponding / Period / RM’000,words
+7,1,15,1,ANALYSIS OF CASH AND CASH EQUIVALENTS,,,,words
+7,1,16,1,Bank balances and deposits,,,,words
+7,1,16,2,"26,390,891",26390891.0,Bank balances and deposits,Current / Year-To-Date / RM’000,words
+7,1,16,3,"26,552,409",26552409.0,Bank balances and deposits,Corresponding / Period / RM’000,words
+7,1,17,1,Money market instruments,,,,words
+7,1,17,2,"2,526,681",2526681.0,Money market instruments,Current / Year-To-Date / RM’000,words
+7,1,17,3,"5,662,936",5662936.0,Money market instruments,Corresponding / Period / RM’000,words
+7,1,18,1,"28,917,572",28917572.0,ANALYSIS OF CASH AND CASH EQUIVALENTS,Current / Year-To-Date / RM’000,words
+7,1,18,2,"32,215,345",32215345.0,ANALYSIS OF CASH AND CASH EQUIVALENTS,Corresponding / Period / RM’000,words
+10,1,1,1,Total revenue,,,,words
+10,1,1,2,"2,727.4",2727.4,Total revenue,Malaysia,words
+10,1,1,3,"2,138.0",2138.0,Total revenue,Singapore,words
+10,1,1,4,535.8,535.8,Total revenue,United / Kingdom / and Egypt,words
+10,1,1,5,359.0,359.0,Total revenue,United / States of / America / and / Bahamas,words
+10,1,1,6,"5,760.2",5760.2,Total revenue,Total,words
+10,1,1,7,"1,028.1",1028.1,Total revenue,Oil Palm / Plantation,words
+10,1,1,8,"1,078.0",1078.0,Total revenue,Downstream / Manufacturing,words
+10,1,1,9,"2,106.1",2106.1,Total revenue,Total,words
+10,1,1,10,740.2,740.2,Total revenue,,words
+10,1,1,11,105.4,105.4,Total revenue,,words
+10,1,1,12,228.0,228.0,Total revenue,,words
+10,1,1,13,245.0,245.0,Total revenue,,words
+10,1,1,14,"9,184.9",9184.9,Total revenue,,words
+10,1,2,1,Inter/intra segment,,,,words
+10,1,2,2,(243.8),-243.8,Inter/intra segment,Malaysia,words
+10,1,2,3,(0.3),-0.3,Inter/intra segment,Singapore,words
+10,1,2,4,-,,,,words
+10,1,2,5,(0.7),-0.7,Inter/intra segment,United / States of / America / and / Bahamas,words
+10,1,2,6,(244.8),-244.8,Inter/intra segment,Total,words
+10,1,2,7,(387.9),-387.9,Inter/intra segment,Oil Palm / Plantation,words
+10,1,2,8,-,,,,words
+10,1,2,9,(387.9),-387.9,Inter/intra segment,Total,words
+10,1,2,10,-,,,,words
+10,1,2,11,(4.4),-4.4,Inter/intra segment,,words
+10,1,2,12,(1.3),-1.3,Inter/intra segment,,words
+10,1,2,13,(30.5),-30.5,Inter/intra segment,,words
+10,1,2,14,(668.9),-668.9,Inter/intra segment,,words
+10,1,3,1,External,,,,words
+10,1,3,2,"2,483.6",2483.6,External,Malaysia,words
+10,1,3,3,"2,137.7",2137.7,External,Singapore,words
+10,1,3,4,535.8,535.8,External,United / Kingdom / and Egypt,words
+10,1,3,5,358.3,358.3,External,United / States of / America / and / Bahamas,words
+10,1,3,6,"5,515.4",5515.4,External,Total,words
+10,1,3,7,640.2,640.2,External,Oil Palm / Plantation,words
+10,1,3,8,"1,078.0",1078.0,External,Downstream / Manufacturing,words
+10,1,3,9,"1,718.2",1718.2,External,Total,words
+10,1,3,10,740.2,740.2,External,,words
+10,1,3,11,101.0,101.0,External,,words
+10,1,3,12,226.7,226.7,External,,words
+10,1,3,13,214.5,214.5,External,,words
+10,1,3,14,"8,516.0",8516.0,External,,words
+10,1,4,1,Adjusted EBITDA,,,,words
+10,1,4,2,660.4,660.4,Adjusted EBITDA,Malaysia,words
+10,1,4,3,686.1,686.1,Adjusted EBITDA,Singapore,words
+10,1,4,4,(194.3),-194.3,Adjusted EBITDA,United / Kingdom / and Egypt,words
+10,1,4,5,(242.0),-242.0,Adjusted EBITDA,United / States of / America / and / Bahamas,words
+10,1,4,6,910.2,910.2,Adjusted EBITDA,Total,words
+10,1,4,7,338.6,338.6,Adjusted EBITDA,Oil Palm / Plantation,words
+10,1,4,8,27.9,27.9,Adjusted EBITDA,Downstream / Manufacturing,words
+10,1,4,9,366.5,366.5,Adjusted EBITDA,Total,words
+10,1,4,10,305.8,305.8,Adjusted EBITDA,,words
+10,1,4,11,39.5,39.5,Adjusted EBITDA,,words
+10,1,4,12,176.9,176.9,Adjusted EBITDA,,words
+10,1,4,13,(73.6),-73.6,Adjusted EBITDA,,words
+10,1,4,14,"1,725.3",1725.3,Adjusted EBITDA,,words
+10,1,5,1,Main foreign currency,,,,words
+10,1,5,2,RM,,,,words
+10,1,5,3,SGD,,,,words
+10,1,5,4,GBP,,,,words
+10,1,5,5,USD,,,,words
+10,1,5,6,RM/^IDR,,,,words
+10,1,5,7,RM,,,,words
+10,1,5,8,^IDR,,,,words
+10,1,5,9,USD,,,,words
+10,1,5,10,^RMB,,,,words
+10,1,6,1,Exchange ratio of 1 unit/,,,,words
+10,1,7,1,100 units^ of foreign,,,,words
+10,1,8,1,currency to RM,,,,words
+10,1,8,2,3.0454,3.0454,currency to RM,Singapore,words
+10,1,8,3,5.3795,5.3795,currency to RM,United / Kingdom / and Egypt,words
+10,1,8,4,4.2369,4.2369,currency to RM,United / States of / America / and / Bahamas,words
+10,1,8,5,0.0289,0.0289,currency to RM,Oil Palm / Plantation,words
+10,1,8,6,0.0289,0.0289,currency to RM,,words
+10,1,8,7,4.2369,4.2369,currency to RM,,words
+10,1,8,8,60.5568,60.5568,currency to RM,,words
+11,1,1,1,Segment Assets,,,,words
+11,1,1,2,"12,008.9",12008.9,Segment Assets,Malaysia,words
+11,1,1,3,"13,825.8",13825.8,Segment Assets,Singapore,words
+11,1,1,4,"4,506.8",4506.8,Segment Assets,United / Kingdom / and Egypt,words
+11,1,1,5,"18,433.2",18433.2,Segment Assets,United / States of / America / and / Bahamas,words
+11,1,1,6,"48,774.7",48774.7,Segment Assets,Total,words
+11,1,1,7,"5,861.3",5861.3,Segment Assets,Oil Palm / Plantation,words
+11,1,1,8,377.9,377.9,Segment Assets,Downstream / Manufacturing,words
+11,1,1,9,"6,239.2",6239.2,Segment Assets,Total,words
+11,1,1,10,"4,849.4",4849.4,Segment Assets,,words
+11,1,1,11,"2,375.5",2375.5,Segment Assets,,words
+11,1,1,12,"3,894.9",3894.9,Segment Assets,,words
+11,1,1,13,"5,094.0",5094.0,Segment Assets,,words
+11,1,1,14,"71,227.7",71227.7,Segment Assets,,words
+11,1,2,1,Segment Liabilities,,,,words
+11,1,2,2,"2,171.6",2171.6,Segment Liabilities,Malaysia,words
+11,1,2,3,"1,079.0",1079.0,Segment Liabilities,Singapore,words
+11,1,2,4,"1,183.0",1183.0,Segment Liabilities,United / Kingdom / and Egypt,words
+11,1,2,5,"1,396.2",1396.2,Segment Liabilities,United / States of / America / and / Bahamas,words
+11,1,2,6,"5,829.8",5829.8,Segment Liabilities,Total,words
+11,1,2,7,299.5,299.5,Segment Liabilities,Oil Palm / Plantation,words
+11,1,2,8,42.7,42.7,Segment Liabilities,Downstream / Manufacturing,words
+11,1,2,9,342.2,342.2,Segment Liabilities,Total,words
+11,1,2,10,356.0,356.0,Segment Liabilities,,words
+11,1,2,11,253.4,253.4,Segment Liabilities,,words
+11,1,2,12,377.9,377.9,Segment Liabilities,,words
+11,1,2,13,266.2,266.2,Segment Liabilities,,words
+11,1,2,14,"7,425.5",7425.5,Segment Liabilities,,words
+11,1,3,1,Main foreign currency,,,,words
+11,1,3,2,RM,,,,words
+11,1,3,3,SGD,,,,words
+11,1,3,4,GBP,,,,words
+11,1,3,5,USD,,,,words
+11,1,3,6,RM/^IDR,,,,words
+11,1,3,7,RM,,,,words
+11,1,3,8,^IDR,,,,words
+11,1,3,9,USD,,,,words
+11,1,3,10,^RMB/^IDR,,,,words
+11,1,4,1,Exchange ratio of 1 unit/,,,,words
+11,1,5,1,100 units^ of foreign,,,,words
+11,1,6,1,currency to RM,,,,words
+11,1,6,2,3.0312,3.0312,currency to RM,Singapore,words
+11,1,6,3,5.3192,5.3192,currency to RM,United / Kingdom / and Egypt,words
+11,1,6,4,4.1670,4.167,currency to RM,United / States of / America / and / Bahamas,words
+11,1,6,5,0.0280,0.028,currency to RM,Oil Palm / Plantation,words
+11,1,6,6,0.0280,0.028,currency to RM,,words
+11,1,6,7,4.1670,4.167,currency to RM,,words
+11,1,6,8,61.1055/,,,,words
+13,1,1,1,Bhd (“GHPO”).,,,,words
+13,1,1,2,0.2,0.2,Bhd (“GHPO”).,,words
+13,1,1,3,0.6,0.6,Bhd (“GHPO”).,,words
+13,1,2,1,ii),,,,words
+13,1,2,2,Licensing fee charged by Resorts World Inc Pte,,,,words
+13,1,3,1,Ltd (“RWI”) Group to Genting Hong Kong Limited,,,,words
+13,1,4,1,"(“GENHK”) Group and Empire Resorts, Inc.",,,,words
+13,1,5,1,(“Empire”) Group.,,,,words
+13,1,5,2,0.2,0.2,(“Empire”) Group.,,words
+13,1,5,3,3.9,3.9,(“Empire”) Group.,,words
+13,1,6,1,iii),,,,words
+13,1,6,2,Provision of management services by Genting,,,,words
+13,1,7,1,"Awanpura Sdn Bhd, a wholly owned subsidiary",,,,words
+13,1,8,1,"of GENP, to GSSB and GHPO.",,,,words
+13,1,8,2,0.2,0.2,"of GENP, to GSSB and GHPO.",,words
+13,1,8,3,0.6,0.6,"of GENP, to GSSB and GHPO.",,words
+13,1,9,1,iv),,,,words
+13,1,9,2,Sale of refined palm oil products by Genting,,,,words
+13,1,10,1,MusimMas Refinery Sdn Bhd to Inter-Continental,,,,words
+13,1,11,1,Oils & Fats Pte Ltd.,,,,words
+13,1,11,2,221.5,221.5,Oils & Fats Pte Ltd.,,words
+13,1,11,3,453.2,453.2,Oils & Fats Pte Ltd.,,words
+13,1,12,1,v),,,,words
+13,1,12,2,Sale of fresh fruit bunches by PT Agro Abadi,,,,words
+13,1,13,1,Cemerlang to Sepanjang Group.,,,,words
+13,1,13,2,2.4,2.4,Cemerlang to Sepanjang Group.,,words
+13,1,13,3,9.0,9.0,Cemerlang to Sepanjang Group.,,words
+13,1,14,1,vi),,,,words
+13,1,14,2,Sale of fresh fruit bunches by PT Surya Agro,,,,words
+13,1,15,1,Palma to Sepanjang Group.,,,,words
+13,1,15,2,0.8,0.8,Palma to Sepanjang Group.,,words
+13,1,15,3,3.1,3.1,Palma to Sepanjang Group.,,words
+13,1,16,1,vii),,,,words
+13,1,16,2,Licensing fee for the use of “Resorts World” and,,,,words
+13,1,17,1,“Genting” intellectual property charged by RWI,,,,words
+13,1,18,1,Group to GENM Group.,,,,words
+13,1,18,2,4.2,4.2,Group to GENM Group.,,words
+13,1,18,3,19.7,19.7,Group to GENM Group.,,words
+14,1,1,1,to Warisan Timah Holdings Sdn Bhd.,,,,words
+14,1,1,2,0.3,0.3,to Warisan Timah Holdings Sdn Bhd.,Quarter / RM’million,words
+14,1,1,3,1.3,1.3,to Warisan Timah Holdings Sdn Bhd.,Year to date / RM’million,words
+14,1,2,1,ix),,,,words
+14,1,2,2,Provision of water supply services by an entity,,,,words
+14,1,3,1,connected with shareholder of BB Entertainment,,,,words
+14,1,4,1,Ltd (“BBEL”) to GENM Group.,,,,words
+14,1,4,2,0.3,0.3,Ltd (“BBEL”) to GENM Group.,Quarter / RM’million,words
+14,1,4,3,1.0,1.0,Ltd (“BBEL”) to GENM Group.,Year to date / RM’million,words
+14,1,5,1,x),,,,words
+14,1,5,2,Income from rental of office space by GENM,,,,words
+14,1,6,1,Group to GENHK Group.,,,,words
+14,1,6,2,1.7,1.7,Group to GENHK Group.,Quarter / RM’million,words
+14,1,6,3,5.0,5.0,Group to GENHK Group.,Year to date / RM’million,words
+14,1,7,1,xi),,,,words
+14,1,7,2,Provision,,,,words
+14,1,7,3,of,,,,words
+14,1,7,4,maintenance,,,,words
+14,1,7,5,and,,,,words
+14,1,7,6,construction,,,,words
+14,1,8,1,services by an entity connected with shareholder,,,,words
+14,1,9,1,of BBEL to GENM Group.,,,,words
+14,1,9,2,1.5,1.5,of BBEL to GENM Group.,Quarter / RM’million,words
+14,1,9,3,13.3,13.3,of BBEL to GENM Group.,Year to date / RM’million,words
+14,1,10,1,xii),,,,words
+14,1,10,2,Licensing fee for the use of gaming software and,,,,words
+14,1,11,1,system charged by RWI Group to GENM Group.,,,,words
+14,1,11,2,3.3,3.3,system charged by RWI Group to GENM Group.,Quarter / RM’million,words
+14,1,11,3,5.2,5.2,system charged by RWI Group to GENM Group.,Year to date / RM’million,words
+14,1,12,1,xiii),,,,words
+14,1,12,2,"Provision of utilities, maintenance and security",,,,words
+14,1,13,1,services by GENM Group to GHPO.,,,,words
+14,1,13,2,0.5,0.5,services by GENM Group to GHPO.,Quarter / RM’million,words
+14,1,13,3,1.4,1.4,services by GENM Group to GHPO.,Year to date / RM’million,words
+14,2,1,1,Group to GENM Group.,,,,words
+14,2,1,2,4.1,4.1,Group to GENM Group.,-,words
+14,2,1,3,6.7,6.7,Group to GENM Group.,2.0,words
+14,2,2,1,xvi),,,,words
+14,2,2,2,Provision of support and management services,,,,words
+14,2,3,1,by GENM Group to Empire.,,,,words
+14,2,3,2,1.2,1.2,by GENM Group to Empire.,-,words
+14,2,3,3,3.6,3.6,by GENM Group to Empire.,2.0,words
+14,2,4,1,xvii),,,,words
+14,2,4,2,Subscription of Series G Preferred Stock of,,,,words
+14,2,5,1,xviii),,,,words
+14,2,5,2,Subscription of Series L Preferred Stock of,,,,words
+14,2,6,1,Empire by GENM Group.,,,,words
+14,2,6,2,103.9,103.9,Empire by GENM Group.,-,words
+14,2,6,3,103.9,103.9,Empire by GENM Group.,2.0,words
+14,2,7,1,xix),,,,words
+14,2,7,2,Sale,,,,words
+14,2,7,3,of,,,,words
+14,2,7,4,goods,,,,words
+14,2,7,5,and,,,,words
+14,2,7,6,services,,,,words
+14,2,7,7,by,,,,words
+14,2,7,8,Genting,,,,words
+14,2,8,1,"Singapore Limited (“GENS”) Group, an indirect",,,,words
+14,2,9,1,"52.7% subsidiary of the Company, to GENHK",,,,words
+14,2,10,1,Group.,,,,words
+14,2,10,2,0.6,0.6,Group.,-,words
+14,2,10,3,2.1,2.1,Group.,2.0,words
+14,2,11,1,xx),,,,words
+14,2,11,2,Purchase of goods and services by GENS Group,,,,words
+14,2,12,1,xxi),,,,words
+14,2,12,2,Sale of goods and services by GENS Group to,,,,words
+14,2,13,1,DCP (Sentosa) Pte Ltd.,,,,words
+14,2,13,2,0.6,0.6,DCP (Sentosa) Pte Ltd.,-,words
+14,2,13,3,2.3,2.3,DCP (Sentosa) Pte Ltd.,2.0,words
+15,1,1,1,from DCP (Sentosa) Pte Ltd.,,,,words
+15,1,1,2,10.9,10.9,from DCP (Sentosa) Pte Ltd.,Quarter / RM’million,words
+15,1,1,3,30.7,30.7,from DCP (Sentosa) Pte Ltd.,Year to date / RM’million,words
+15,1,2,1,xxiii),,,,words
+15,1,2,2,Sale of goods and services by GENS Group to,,,,words
+15,1,3,1,International Resorts Management Services Pte,,,,words
+15,1,4,1,Ltd.,,,,words
+15,1,4,2,0.2,0.2,Ltd.,Quarter / RM’million,words
+15,1,4,3,0.5,0.5,Ltd.,Year to date / RM’million,words
+15,2,1,1,comprehensive income,,,,words
+15,2,1,2,386.0,386.0,comprehensive income,Level 1,words
+15,2,1,3,-,,,,words
+15,2,1,4,930.8,930.8,comprehensive income,Level 3,words
+15,2,1,5,"1,316.8",1316.8,comprehensive income,Total,words
+15,2,2,1,Financial assets at FVTPL,,,,words
+15,2,2,2,4.2,4.2,Financial assets at FVTPL,Level 1,words
+15,2,2,3,"1,059.3",1059.3,Financial assets at FVTPL,Level 2,words
+15,2,2,4,240.0,240.0,Financial assets at FVTPL,Level 3,words
+15,2,2,5,"1,303.5",1303.5,Financial assets at FVTPL,Total,words
+15,2,3,1,Derivative financial instruments,,,,words
+15,2,3,2,-,,,,words
+15,2,3,3,46.0,46.0,Derivative financial instruments -,Level 2,words
+15,2,3,4,-,,,,words
+15,2,3,5,46.0,46.0,Derivative financial instruments -,Total,words
+15,2,4,1,390.2,390.2,,Level 1,words
+15,2,4,2,"1,105.3",1105.3,,Level 2,words
+15,2,4,3,"1,170.8",1170.8,,Level 3,words
+15,2,4,4,"2,666.3",2666.3,,Total,words
+15,2,5,1,Financial liability,,,,words
+15,2,6,1,Derivative financial instruments,,,,words
+15,2,6,2,-,,,,words
+15,2,6,3,38.7,38.7,Derivative financial instruments -,Level 2,words
+15,2,6,4,-,,,,words
+15,2,6,5,38.7,38.7,Derivative financial instruments -,Total,words
+16,1,1,1,-,,,,words
+16,1,1,2,Malaysia,,,,words
+16,1,1,3,"1,179.5",1179.5,- Malaysia,Quarter / 30/09/2020 / RM’million,words
+16,1,1,4,"1,793.6",1793.6,- Malaysia,Quarter / 30/09/2019 / RM’million,words
+16,1,1,5,-614.1,-614.1,- Malaysia,Changes / +/- / RM’million,words
+16,1,1,6,-34,-34.0,- Malaysia,+/- / %,words
+16,1,1,7,"2,483.6",2483.6,- Malaysia,to date / 30/09/2020 / RM’million,words
+16,1,1,8,"5,455.8",5455.8,- Malaysia,Period / 30/09/2019 / RM’million RM’million,words
+16,1,1,9,"-2,972.2",-2972.2,- Malaysia,Changes / +/- / RM’million RM’million,words
+16,1,1,10,-54,-54.0,- Malaysia,+/- / %,words
+16,1,2,1,-,,,,words
+16,1,2,2,Singapore,,,,words
+16,1,2,3,833.1,833.1,- Singapore,Quarter / 30/09/2020 / RM’million,words
+16,1,2,4,"1,802.8",1802.8,- Singapore,Quarter / 30/09/2019 / RM’million,words
+16,1,2,5,-969.7,-969.7,- Singapore,Changes / +/- / RM’million,words
+16,1,2,6,-54,-54.0,- Singapore,+/- / %,words
+16,1,2,7,"2,137.7",2137.7,- Singapore,to date / 30/09/2020 / RM’million,words
+16,1,2,8,"5,671.6",5671.6,- Singapore,Period / 30/09/2019 / RM’million RM’million,words
+16,1,2,9,"-3,533.9",-3533.9,- Singapore,Changes / +/- / RM’million RM’million,words
+16,1,2,10,-62,-62.0,- Singapore,+/- / %,words
+16,1,3,1,-,,,,words
+16,1,3,2,UK and Egypt,,,,words
+16,1,3,3,131.4,131.4,- UK and Egypt,Quarter / 30/09/2020 / RM’million,words
+16,1,3,4,414.7,414.7,- UK and Egypt,Quarter / 30/09/2019 / RM’million,words
+16,1,3,5,-283.3,-283.3,- UK and Egypt,Changes / +/- / RM’million,words
+16,1,3,6,-68,-68.0,- UK and Egypt,+/- / %,words
+16,1,3,7,535.8,535.8,- UK and Egypt,to date / 30/09/2020 / RM’million,words
+16,1,3,8,"1,254.1",1254.1,- UK and Egypt,Period / 30/09/2019 / RM’million RM’million,words
+16,1,3,9,-718.3,-718.3,- UK and Egypt,Changes / +/- / RM’million RM’million,words
+16,1,3,10,-57,-57.0,- UK and Egypt,+/- / %,words
+16,1,4,1,-,,,,words
+16,1,4,2,US and Bahamas,,,,words
+16,1,4,3,69.7,69.7,- US and Bahamas,Quarter / 30/09/2020 / RM’million,words
+16,1,4,4,355.8,355.8,- US and Bahamas,Quarter / 30/09/2019 / RM’million,words
+16,1,4,5,-286.1,-286.1,- US and Bahamas,Changes / +/- / RM’million,words
+16,1,4,6,-80,-80.0,- US and Bahamas,+/- / %,words
+16,1,4,7,358.3,358.3,- US and Bahamas,to date / 30/09/2020 / RM’million,words
+16,1,4,8,"1,100.9",1100.9,- US and Bahamas,Period / 30/09/2019 / RM’million RM’million,words
+16,1,4,9,-742.6,-742.6,- US and Bahamas,Changes / +/- / RM’million RM’million,words
+16,1,4,10,-67,-67.0,- US and Bahamas,+/- / %,words
+16,1,5,1,"2,213.7",2213.7,,Quarter / 30/09/2020 / RM’million,words
+16,1,5,2,"4,366.9",4366.9,,Quarter / 30/09/2019 / RM’million,words
+16,1,5,3,"-2,153.2",-2153.2,,Changes / +/- / RM’million,words
+16,1,5,4,-49,-49.0,,+/- / %,words
+16,1,5,5,"5,515.4",5515.4,,to date / 30/09/2020 / RM’million,words
+16,1,5,6,"13,482.4",13482.4,,Period / 30/09/2019 / RM’million RM’million,words
+16,1,5,7,"-7,967.0",-7967.0,,Changes / +/- / RM’million RM’million,words
+16,1,5,8,-59,-59.0,,+/- / %,words
+16,1,6,1,Plantation,,,,words
+16,1,7,1,-,,,,words
+16,1,7,2,Oil Palm Plantation,,,,words
+16,1,7,3,355.2,355.2,- Oil Palm Plantation,Quarter / 30/09/2020 / RM’million,words
+16,1,7,4,300.0,300.0,- Oil Palm Plantation,Quarter / 30/09/2019 / RM’million,words
+16,1,7,5,55.2,55.2,- Oil Palm Plantation,Changes / +/- / RM’million,words
+16,1,7,6,+18,18.0,- Oil Palm Plantation,+/- / %,words
+16,1,7,7,"1,028.1",1028.1,- Oil Palm Plantation,to date / 30/09/2020 / RM’million,words
+16,1,7,8,896.4,896.4,- Oil Palm Plantation,Period / 30/09/2019 / RM’million RM’million,words
+16,1,7,9,131.7,131.7,- Oil Palm Plantation,Changes / +/- / RM’million RM’million,words
+16,1,7,10,+15,15.0,- Oil Palm Plantation,+/- / %,words
+16,1,8,1,-,,,,words
+16,1,8,2,Downstream,,,,words
+16,1,9,1,Manufacturing,,,,words
+16,1,9,2,399.6,399.6,Manufacturing,Quarter / 30/09/2020 / RM’million,words
+16,1,9,3,266.1,266.1,Manufacturing,Quarter / 30/09/2019 / RM’million,words
+16,1,9,4,133.5,133.5,Manufacturing,Changes / +/- / RM’million,words
+16,1,9,5,+50,50.0,Manufacturing,+/- / %,words
+16,1,9,6,"1,078.0",1078.0,Manufacturing,to date / 30/09/2020 / RM’million,words
+16,1,9,7,"1,008.5",1008.5,Manufacturing,Period / 30/09/2019 / RM’million RM’million,words
+16,1,9,8,69.5,69.5,Manufacturing,Changes / +/- / RM’million RM’million,words
+16,1,9,9,+7,7.0,Manufacturing,+/- / %,words
+16,1,10,1,754.8,754.8,- Downstream,Quarter / 30/09/2020 / RM’million,words
+16,1,10,2,566.1,566.1,- Downstream,Quarter / 30/09/2019 / RM’million,words
+16,1,10,3,188.7,188.7,- Downstream,Changes / +/- / RM’million,words
+16,1,10,4,+33,33.0,- Downstream,+/- / %,words
+16,1,10,5,"2,106.1",2106.1,- Downstream,to date / 30/09/2020 / RM’million,words
+16,1,10,6,"1,904.9",1904.9,- Downstream,Period / 30/09/2019 / RM’million RM’million,words
+16,1,10,7,201.2,201.2,- Downstream,Changes / +/- / RM’million RM’million,words
+16,1,10,8,+11,11.0,- Downstream,+/- / %,words
+16,1,11,1,-,,,,words
+16,1,11,2,Intra segment,,,,words
+16,1,11,3,(128.0),-128.0,- Intra segment,Quarter / 30/09/2020 / RM’million,words
+16,1,11,4,(127.2),-127.2,- Intra segment,Quarter / 30/09/2019 / RM’million,words
+16,1,11,5,-0.8,-0.8,- Intra segment,Changes / +/- / RM’million,words
+16,1,11,6,-1,-1.0,- Intra segment,+/- / %,words
+16,1,11,7,(387.9),-387.9,- Intra segment,to date / 30/09/2020 / RM’million,words
+16,1,11,8,(370.3),-370.3,- Intra segment,Period / 30/09/2019 / RM’million RM’million,words
+16,1,11,9,-17.6,-17.6,- Intra segment,Changes / +/- / RM’million RM’million,words
+16,1,11,10,-5,-5.0,- Intra segment,+/- / %,words
+16,1,12,1,626.8,626.8,- Downstream,Quarter / 30/09/2020 / RM’million,words
+16,1,12,2,438.9,438.9,- Downstream,Quarter / 30/09/2019 / RM’million,words
+16,1,12,3,187.9,187.9,- Downstream,Changes / +/- / RM’million,words
+16,1,12,4,+43,43.0,- Downstream,+/- / %,words
+16,1,12,5,"1,718.2",1718.2,- Downstream,to date / 30/09/2020 / RM’million,words
+16,1,12,6,"1,534.6",1534.6,- Downstream,Period / 30/09/2019 / RM’million RM’million,words
+16,1,12,7,183.6,183.6,- Downstream,Changes / +/- / RM’million RM’million,words
+16,1,12,8,+12,12.0,- Downstream,+/- / %,words
+16,1,13,1,Power,,,,words
+16,1,13,2,244.7,244.7,Power,Quarter / 30/09/2020 / RM’million,words
+16,1,13,3,293.3,293.3,Power,Quarter / 30/09/2019 / RM’million,words
+16,1,13,4,-48.6,-48.6,Power,Changes / +/- / RM’million,words
+16,1,13,5,-17,-17.0,Power,+/- / %,words
+16,1,13,6,740.2,740.2,Power,to date / 30/09/2020 / RM’million,words
+16,1,13,7,781.1,781.1,Power,Period / 30/09/2019 / RM’million RM’million,words
+16,1,13,8,-40.9,-40.9,Power,Changes / +/- / RM’million RM’million,words
+16,1,13,9,-5,-5.0,Power,+/- / %,words
+16,1,14,1,Property,,,,words
+16,1,14,2,35.0,35.0,Property,Quarter / 30/09/2020 / RM’million,words
+16,1,14,3,61.3,61.3,Property,Quarter / 30/09/2019 / RM’million,words
+16,1,14,4,-26.3,-26.3,Property,Changes / +/- / RM’million,words
+16,1,14,5,-43,-43.0,Property,+/- / %,words
+16,1,14,6,101.0,101.0,Property,to date / 30/09/2020 / RM’million,words
+16,1,14,7,162.2,162.2,Property,Period / 30/09/2019 / RM’million RM’million,words
+16,1,14,8,-61.2,-61.2,Property,Changes / +/- / RM’million RM’million,words
+16,1,14,9,-38,-38.0,Property,+/- / %,words
+16,1,15,1,Oil & Gas,,,,words
+16,1,15,2,70.2,70.2,Oil & Gas,Quarter / 30/09/2020 / RM’million,words
+16,1,15,3,78.7,78.7,Oil & Gas,Quarter / 30/09/2019 / RM’million,words
+16,1,15,4,-8.5,-8.5,Oil & Gas,Changes / +/- / RM’million,words
+16,1,15,5,-11,-11.0,Oil & Gas,+/- / %,words
+16,1,15,6,226.7,226.7,Oil & Gas,to date / 30/09/2020 / RM’million,words
+16,1,15,7,232.6,232.6,Oil & Gas,Period / 30/09/2019 / RM’million RM’million,words
+16,1,15,8,-5.9,-5.9,Oil & Gas,Changes / +/- / RM’million RM’million,words
+16,1,15,9,-3,-3.0,Oil & Gas,+/- / %,words
+16,1,16,1,Investments & Others,,,,words
+16,1,16,2,108.4,108.4,Investments & Others,Quarter / 30/09/2020 / RM’million,words
+16,1,16,3,55.9,55.9,Investments & Others,Quarter / 30/09/2019 / RM’million,words
+16,1,16,4,52.5,52.5,Investments & Others,Changes / +/- / RM’million,words
+16,1,16,5,+94,94.0,Investments & Others,+/- / %,words
+16,1,16,6,214.5,214.5,Investments & Others,to date / 30/09/2020 / RM’million,words
+16,1,16,7,120.6,120.6,Investments & Others,Period / 30/09/2019 / RM’million RM’million,words
+16,1,16,8,93.9,93.9,Investments & Others,Changes / +/- / RM’million RM’million,words
+16,1,16,9,+78,78.0,Investments & Others,+/- / %,words
+16,1,17,1,"3,298.8",3298.8,- Downstream,Quarter / 30/09/2020 / RM’million,words
+16,1,17,2,"5,295.0",5295.0,- Downstream,Quarter / 30/09/2019 / RM’million,words
+16,1,17,3,"-1,996.2",-1996.2,- Downstream,Changes / +/- / RM’million,words
+16,1,17,4,-38,-38.0,- Downstream,+/- / %,words
+16,1,17,5,"8,516.0",8516.0,- Downstream,to date / 30/09/2020 / RM’million,words
+16,1,17,6,"16,313.5",16313.5,- Downstream,Period / 30/09/2019 / RM’million RM’million,words
+16,1,17,7,"-7,797.5",-7797.5,- Downstream,Changes / +/- / RM’million RM’million,words
+16,1,17,8,-48,-48.0,- Downstream,+/- / %,words
+16,1,18,1,Profit/(loss) before taxation,,,,words
+16,1,19,1,Leisure & Hospitality,,,,words
+16,1,20,1,-,,,,words
+16,1,20,2,Malaysia,,,,words
+16,1,20,3,534.8,534.8,- Malaysia,Quarter / 30/09/2020 / RM’million,words
+16,1,20,4,698.1,698.1,- Malaysia,Quarter / 30/09/2019 / RM’million,words
+16,1,20,5,-163.3,-163.3,- Malaysia,Changes / +/- / RM’million,words
+16,1,20,6,-23,-23.0,- Malaysia,+/- / %,words
+16,1,20,7,660.4,660.4,- Malaysia,to date / 30/09/2020 / RM’million,words
+16,1,20,8,"2,075.6",2075.6,- Malaysia,Period / 30/09/2019 / RM’million RM’million,words
+16,1,20,9,"-1,415.2",-1415.2,- Malaysia,Changes / +/- / RM’million RM’million,words
+16,1,20,10,-68,-68.0,- Malaysia,+/- / %,words
+16,1,21,1,-,,,,words
+16,1,21,2,Singapore,,,,words
+16,1,21,3,448.5,448.5,- Singapore,Quarter / 30/09/2020 / RM’million,words
+16,1,21,4,868.0,868.0,- Singapore,Quarter / 30/09/2019 / RM’million,words
+16,1,21,5,-419.5,-419.5,- Singapore,Changes / +/- / RM’million,words
+16,1,21,6,-48,-48.0,- Singapore,+/- / %,words
+16,1,21,7,686.1,686.1,- Singapore,to date / 30/09/2020 / RM’million,words
+16,1,21,8,"2,818.7",2818.7,- Singapore,Period / 30/09/2019 / RM’million RM’million,words
+16,1,21,9,"-2,132.6",-2132.6,- Singapore,Changes / +/- / RM’million RM’million,words
+16,1,21,10,-76,-76.0,- Singapore,+/- / %,words
+16,1,22,1,-,,,,words
+16,1,22,2,UK and Egypt,,,,words
+16,1,22,3,(102.3),-102.3,- UK and Egypt,Quarter / 30/09/2020 / RM’million,words
+16,1,22,4,85.8,85.8,- UK and Egypt,Quarter / 30/09/2019 / RM’million,words
+16,1,22,5,-188.1,-188.1,- UK and Egypt,Changes / +/- / RM’million,words
+16,1,22,6,>-100,,,,words
+16,1,22,7,(194.3),-194.3,- UK and Egypt,to date / 30/09/2020 / RM’million,words
+16,1,22,8,171.9,171.9,- UK and Egypt,Period / 30/09/2019 / RM’million RM’million,words
+16,1,22,9,-366.2,-366.2,- UK and Egypt,Changes / +/- / RM’million RM’million,words
+16,1,22,10,>-100,,,,words
+16,1,23,1,-,,,,words
+16,1,23,2,US and Bahamas,,,,words
+16,1,23,3,(79.9),-79.9,- US and Bahamas,Quarter / 30/09/2020 / RM’million,words
+16,1,23,4,55.4,55.4,- US and Bahamas,Quarter / 30/09/2019 / RM’million,words
+16,1,23,5,-135.3,-135.3,- US and Bahamas,Changes / +/- / RM’million,words
+16,1,23,6,>-100,,,,words
+16,1,23,7,(242.0),-242.0,- US and Bahamas,to date / 30/09/2020 / RM’million,words
+16,1,23,8,224.0,224.0,- US and Bahamas,Period / 30/09/2019 / RM’million RM’million,words
+16,1,23,9,-466.0,-466.0,- US and Bahamas,Changes / +/- / RM’million RM’million,words
+16,1,23,10,>-100,,,,words
+16,1,24,1,801.1,801.1,Leisure & Hospitality,Quarter / 30/09/2020 / RM’million,words
+16,1,24,2,"1,707.3",1707.3,Leisure & Hospitality,Quarter / 30/09/2019 / RM’million,words
+16,1,24,3,-906.2,-906.2,Leisure & Hospitality,Changes / +/- / RM’million,words
+16,1,24,4,-53,-53.0,Leisure & Hospitality,+/- / %,words
+16,1,24,5,910.2,910.2,Leisure & Hospitality,to date / 30/09/2020 / RM’million,words
+16,1,24,6,"5,290.2",5290.2,Leisure & Hospitality,Period / 30/09/2019 / RM’million RM’million,words
+16,1,24,7,"-4,380.0",-4380.0,Leisure & Hospitality,Changes / +/- / RM’million RM’million,words
+16,1,24,8,-83,-83.0,Leisure & Hospitality,+/- / %,words
+16,1,25,1,Plantation,,,,words
+16,1,26,1,-,,,,words
+16,1,26,2,Oil Palm Plantation,,,,words
+16,1,26,3,120.3,120.3,- Oil Palm Plantation,Quarter / 30/09/2020 / RM’million,words
+16,1,26,4,54.3,54.3,- Oil Palm Plantation,Quarter / 30/09/2019 / RM’million,words
+16,1,26,5,66.0,66.0,- Oil Palm Plantation,Changes / +/- / RM’million,words
+16,1,26,6,>100,,,,words
+16,1,26,7,338.6,338.6,- Oil Palm Plantation,to date / 30/09/2020 / RM’million,words
+16,1,26,8,222.1,222.1,- Oil Palm Plantation,Period / 30/09/2019 / RM’million RM’million,words
+16,1,26,9,116.5,116.5,- Oil Palm Plantation,Changes / +/- / RM’million RM’million,words
+16,1,26,10,+52,52.0,- Oil Palm Plantation,+/- / %,words
+16,1,27,1,-,,,,words
+16,1,27,2,Downstream,,,,words
+16,1,28,1,Manufacturing,,,,words
+16,1,28,2,11.9,11.9,Manufacturing,Quarter / 30/09/2020 / RM’million,words
+16,1,28,3,10.0,10.0,Manufacturing,Quarter / 30/09/2019 / RM’million,words
+16,1,28,4,1.9,1.9,Manufacturing,Changes / +/- / RM’million,words
+16,1,28,5,+19,19.0,Manufacturing,+/- / %,words
+16,1,28,6,27.9,27.9,Manufacturing,to date / 30/09/2020 / RM’million,words
+16,1,28,7,44.6,44.6,Manufacturing,Period / 30/09/2019 / RM’million RM’million,words
+16,1,28,8,-16.7,-16.7,Manufacturing,Changes / +/- / RM’million RM’million,words
+16,1,28,9,-37,-37.0,Manufacturing,+/- / %,words
+16,1,29,1,132.2,132.2,- Downstream,Quarter / 30/09/2020 / RM’million,words
+16,1,29,2,64.3,64.3,- Downstream,Quarter / 30/09/2019 / RM’million,words
+16,1,29,3,67.9,67.9,- Downstream,Changes / +/- / RM’million,words
+16,1,29,4,>100,,,,words
+16,1,29,5,366.5,366.5,- Downstream,to date / 30/09/2020 / RM’million,words
+16,1,29,6,266.7,266.7,- Downstream,Period / 30/09/2019 / RM’million RM’million,words
+16,1,29,7,99.8,99.8,- Downstream,Changes / +/- / RM’million RM’million,words
+16,1,29,8,+37,37.0,- Downstream,+/- / %,words
+16,1,30,1,Power,,,,words
+16,1,30,2,101.6,101.6,Power,Quarter / 30/09/2020 / RM’million,words
+16,1,30,3,135.0,135.0,Power,Quarter / 30/09/2019 / RM’million,words
+16,1,30,4,-33.4,-33.4,Power,Changes / +/- / RM’million,words
+16,1,30,5,-25,-25.0,Power,+/- / %,words
+16,1,30,6,305.8,305.8,Power,to date / 30/09/2020 / RM’million,words
+16,1,30,7,345.3,345.3,Power,Period / 30/09/2019 / RM’million RM’million,words
+16,1,30,8,-39.5,-39.5,Power,Changes / +/- / RM’million RM’million,words
+16,1,30,9,-11,-11.0,Power,+/- / %,words
+16,1,31,1,Property,,,,words
+16,1,31,2,10.6,10.6,Property,Quarter / 30/09/2020 / RM’million,words
+16,1,31,3,21.2,21.2,Property,Quarter / 30/09/2019 / RM’million,words
+16,1,31,4,-10.6,-10.6,Property,Changes / +/- / RM’million,words
+16,1,31,5,-50,-50.0,Property,+/- / %,words
+16,1,31,6,39.5,39.5,Property,to date / 30/09/2020 / RM’million,words
+16,1,31,7,57.0,57.0,Property,Period / 30/09/2019 / RM’million RM’million,words
+16,1,31,8,-17.5,-17.5,Property,Changes / +/- / RM’million RM’million,words
+16,1,31,9,-31,-31.0,Property,+/- / %,words
+16,1,32,1,Oil & Gas,,,,words
+16,1,32,2,53.3,53.3,Oil & Gas,Quarter / 30/09/2020 / RM’million,words
+16,1,32,3,59.7,59.7,Oil & Gas,Quarter / 30/09/2019 / RM’million,words
+16,1,32,4,-6.4,-6.4,Oil & Gas,Changes / +/- / RM’million,words
+16,1,32,5,-11,-11.0,Oil & Gas,+/- / %,words
+16,1,32,6,176.9,176.9,Oil & Gas,to date / 30/09/2020 / RM’million,words
+16,1,32,7,163.1,163.1,Oil & Gas,Period / 30/09/2019 / RM’million RM’million,words
+16,1,32,8,13.8,13.8,Oil & Gas,Changes / +/- / RM’million RM’million,words
+16,1,32,9,+8,8.0,Oil & Gas,+/- / %,words
+16,1,33,1,Investments & Others,,,,words
+16,1,33,2,(3.5),-3.5,Investments & Others,Quarter / 30/09/2020 / RM’million,words
+16,1,33,3,(18.6),-18.6,Investments & Others,Quarter / 30/09/2019 / RM’million,words
+16,1,33,4,15.1,15.1,Investments & Others,Changes / +/- / RM’million,words
+16,1,33,5,+81,81.0,Investments & Others,+/- / %,words
+16,1,33,6,(73.6),-73.6,Investments & Others,to date / 30/09/2020 / RM’million,words
+16,1,33,7,(105.8),-105.8,Investments & Others,Period / 30/09/2019 / RM’million RM’million,words
+16,1,33,8,32.2,32.2,Investments & Others,Changes / +/- / RM’million RM’million,words
+16,1,33,9,+30,30.0,Investments & Others,+/- / %,words
+16,1,34,1,Adjusted EBITDA,,,,words
+16,1,34,2,"1,095.3",1095.3,Adjusted EBITDA,Quarter / 30/09/2020 / RM’million,words
+16,1,34,3,"1,968.9",1968.9,Adjusted EBITDA,Quarter / 30/09/2019 / RM’million,words
+16,1,34,4,-873.6,-873.6,Adjusted EBITDA,Changes / +/- / RM’million,words
+16,1,34,5,-44,-44.0,Adjusted EBITDA,+/- / %,words
+16,1,34,6,"1,725.3",1725.3,Adjusted EBITDA,to date / 30/09/2020 / RM’million,words
+16,1,34,7,"6,016.5",6016.5,Adjusted EBITDA,Period / 30/09/2019 / RM’million RM’million,words
+16,1,34,8,"-4,291.2",-4291.2,Adjusted EBITDA,Changes / +/- / RM’million RM’million,words
+16,1,34,9,-71,-71.0,Adjusted EBITDA,+/- / %,words
+16,1,35,1,Net fair value (loss)/gain on,,,,words
+16,1,36,1,derivative financial,,,,words
+16,1,37,1,instruments,,,,words
+16,1,37,2,-,,,,words
+16,1,37,3,(0.1),-0.1,instruments -,Quarter / 30/09/2019 / RM’million,words
+16,1,37,4,0.1,0.1,instruments -,Changes / +/- / RM’million,words
+16,1,37,5,+100,100.0,instruments -,+/- / %,words
+16,1,37,6,-,,,,words
+16,1,37,7,0.2,0.2,instruments -,Period / 30/09/2019 / RM’million RM’million,words
+16,1,37,8,-0.2,-0.2,instruments -,Changes / +/- / RM’million RM’million,words
+16,1,37,9,-100,-100.0,instruments -,+/- / %,words
+16,1,38,1,Net fair value (loss)/gain on,,,,words
+16,1,39,1,financial assets at FVTPL,,,,words
+16,1,39,2,(7.5),-7.5,financial assets at FVTPL,Quarter / 30/09/2020 / RM’million,words
+16,1,39,3,15.7,15.7,financial assets at FVTPL,Quarter / 30/09/2019 / RM’million,words
+16,1,39,4,-23.2,-23.2,financial assets at FVTPL,Changes / +/- / RM’million,words
+16,1,39,5,>-100,,,,words
+16,1,39,6,(29.1),-29.1,financial assets at FVTPL,to date / 30/09/2020 / RM’million,words
+16,1,39,7,37.6,37.6,financial assets at FVTPL,Period / 30/09/2019 / RM’million RM’million,words
+16,1,39,8,-66.7,-66.7,financial assets at FVTPL,Changes / +/- / RM’million RM’million,words
+16,1,39,9,>-100,,,,words
+16,1,40,1,Net gain on derecognition and,,,,words
+16,1,41,1,change in shareholding of,,,,words
+16,1,42,1,associates and joint ventures,,,,words
+16,1,42,2,14.6,14.6,associates and joint ventures,Quarter / 30/09/2020 / RM’million,words
+16,1,42,3,36.8,36.8,associates and joint ventures,Quarter / 30/09/2019 / RM’million,words
+16,1,42,4,-22.2,-22.2,associates and joint ventures,Changes / +/- / RM’million,words
+16,1,42,5,-60,-60.0,associates and joint ventures,+/- / %,words
+16,1,42,6,65.3,65.3,associates and joint ventures,to date / 30/09/2020 / RM’million,words
+16,1,42,7,36.8,36.8,associates and joint ventures,Period / 30/09/2019 / RM’million RM’million,words
+16,1,42,8,28.5,28.5,associates and joint ventures,Changes / +/- / RM’million RM’million,words
+16,1,42,9,+77,77.0,associates and joint ventures,+/- / %,words
+16,1,43,1,Gain on disposal of a,,,,words
+16,1,44,1,subsidiary,,,,words
+16,1,44,2,-,,,,words
+16,1,44,3,-,,,,words
+16,1,44,4,-,,,,words
+16,1,44,5,-,,,,words
+16,1,44,6,-,,,,words
+16,1,44,7,138.7,138.7,subsidiary - - - - -,Period / 30/09/2019 / RM’million RM’million,words
+16,1,44,8,-138.7,-138.7,subsidiary - - - - -,Changes / +/- / RM’million RM’million,words
+16,1,44,9,-100,-100.0,subsidiary - - - - -,+/- / %,words
+16,1,45,1,Net impairment losses,,,,words
+16,1,45,2,(206.1),-206.1,Net impairment losses,Quarter / 30/09/2020 / RM’million,words
+16,1,45,3,(364.2),-364.2,Net impairment losses,Quarter / 30/09/2019 / RM’million,words
+16,1,45,4,158.1,158.1,Net impairment losses,Changes / +/- / RM’million,words
+16,1,45,5,+43,43.0,Net impairment losses,+/- / %,words
+16,1,45,6,(774.8),-774.8,Net impairment losses,to date / 30/09/2020 / RM’million,words
+16,1,45,7,(385.2),-385.2,Net impairment losses,Period / 30/09/2019 / RM’million RM’million,words
+16,1,45,8,-389.6,-389.6,Net impairment losses,Changes / +/- / RM’million RM’million,words
+16,1,45,9,>-100,,,,words
+16,1,46,1,Depreciation and amortisation,,,,words
+16,1,46,2,(577.8),-577.8,Depreciation and amortisation,Quarter / 30/09/2020 / RM’million,words
+16,1,46,3,(689.0),-689.0,Depreciation and amortisation,Quarter / 30/09/2019 / RM’million,words
+16,1,46,4,111.2,111.2,Depreciation and amortisation,Changes / +/- / RM’million,words
+16,1,46,5,+16,16.0,Depreciation and amortisation,+/- / %,words
+16,1,46,6,"(1,841.9)",-1841.9,Depreciation and amortisation,to date / 30/09/2020 / RM’million,words
+16,1,46,7,"(1,964.2)",-1964.2,Depreciation and amortisation,Period / 30/09/2019 / RM’million RM’million,words
+16,1,46,8,122.3,122.3,Depreciation and amortisation,Changes / +/- / RM’million RM’million,words
+16,1,46,9,+6,6.0,Depreciation and amortisation,+/- / %,words
+16,1,47,1,Interest income,,,,words
+16,1,47,2,71.3,71.3,Interest income,Quarter / 30/09/2020 / RM’million,words
+16,1,47,3,179.9,179.9,Interest income,Quarter / 30/09/2019 / RM’million,words
+16,1,47,4,-108.6,-108.6,Interest income,Changes / +/- / RM’million,words
+16,1,47,5,-60,-60.0,Interest income,+/- / %,words
+16,1,47,6,323.4,323.4,Interest income,to date / 30/09/2020 / RM’million,words
+16,1,47,7,561.5,561.5,Interest income,Period / 30/09/2019 / RM’million RM’million,words
+16,1,47,8,-238.1,-238.1,Interest income,Changes / +/- / RM’million RM’million,words
+16,1,47,9,-42,-42.0,Interest income,+/- / %,words
+16,1,48,1,Finance cost,,,,words
+16,1,48,2,(241.7),-241.7,Finance cost,Quarter / 30/09/2020 / RM’million,words
+16,1,48,3,(265.6),-265.6,Finance cost,Quarter / 30/09/2019 / RM’million,words
+16,1,48,4,23.9,23.9,Finance cost,Changes / +/- / RM’million,words
+16,1,48,5,+9,9.0,Finance cost,+/- / %,words
+16,1,48,6,(820.7),-820.7,Finance cost,to date / 30/09/2020 / RM’million,words
+16,1,48,7,(826.8),-826.8,Finance cost,Period / 30/09/2019 / RM’million RM’million,words
+16,1,48,8,6.1,6.1,Finance cost,Changes / +/- / RM’million RM’million,words
+16,1,48,9,+1,1.0,Finance cost,+/- / %,words
+16,1,49,1,Share of results in joint,,,,words
+16,1,50,1,ventures and associates,,,,words
+16,1,50,2,62.8,62.8,ventures and associates,Quarter / 30/09/2020 / RM’million,words
+16,1,50,3,43.1,43.1,ventures and associates,Quarter / 30/09/2019 / RM’million,words
+16,1,50,4,19.7,19.7,ventures and associates,Changes / +/- / RM’million,words
+16,1,50,5,+46,46.0,ventures and associates,+/- / %,words
+16,1,50,6,(57.1),-57.1,ventures and associates,to date / 30/09/2020 / RM’million,words
+16,1,50,7,98.6,98.6,ventures and associates,Period / 30/09/2019 / RM’million RM’million,words
+16,1,50,8,-155.7,-155.7,ventures and associates,Changes / +/- / RM’million RM’million,words
+16,1,50,9,>-100,,,,words
+16,1,51,1,Others,,,,words
+16,1,51,2,(150.8),-150.8,Others,Quarter / 30/09/2020 / RM’million,words
+16,1,51,3,28.6,28.6,Others,Quarter / 30/09/2019 / RM’million,words
+16,1,51,4,-179.4,-179.4,Others,Changes / +/- / RM’million,words
+16,1,51,5,>-100,,,,words
+16,1,51,6,(408.7),-408.7,Others,to date / 30/09/2020 / RM’million,words
+16,1,51,7,(250.6),-250.6,Others,Period / 30/09/2019 / RM’million RM’million,words
+16,1,51,8,-158.1,-158.1,Others,Changes / +/- / RM’million RM’million,words
+16,1,51,9,-63,-63.0,Others,+/- / %,words
+16,1,52,1,60.1,60.1,Share of results in joint,Quarter / 30/09/2020 / RM’million,words
+16,1,52,2,954.1,954.1,Share of results in joint,Quarter / 30/09/2019 / RM’million,words
+16,1,52,3,-894.0,-894.0,Share of results in joint,Changes / +/- / RM’million,words
+16,1,52,4,-94,-94.0,Share of results in joint,+/- / %,words
+16,1,52,5,"(1,818.3)",-1818.3,Share of results in joint,to date / 30/09/2020 / RM’million,words
+16,1,52,6,"3,463.1",3463.1,Share of results in joint,Period / 30/09/2019 / RM’million RM’million,words
+16,1,52,7,"-5,281.4",-5281.4,Share of results in joint,Changes / +/- / RM’million RM’million,words
+16,1,52,8,>-100,,,,words
+19,1,1,1,-,,,,words
+19,1,1,2,Malaysia,,,,words
+19,1,1,3,"1,179.5",1179.5,- Malaysia,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,1,4,80.8,80.8,- Malaysia,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,1,5,"1,098.7",1098.7,- Malaysia,Changes / +/- / RM’million,words
+19,1,1,6,>100,,,,words
+19,1,2,1,-,,,,words
+19,1,2,2,Singapore,,,,words
+19,1,2,3,833.1,833.1,- Singapore,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,2,4,78.0,78.0,- Singapore,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,2,5,755.1,755.1,- Singapore,Changes / +/- / RM’million,words
+19,1,2,6,>100,,,,words
+19,1,3,1,-,,,,words
+19,1,3,2,UK and Egypt,,,,words
+19,1,3,3,131.4,131.4,- UK and Egypt,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,3,4,33.2,33.2,- UK and Egypt,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,3,5,98.2,98.2,- UK and Egypt,Changes / +/- / RM’million,words
+19,1,3,6,>100,,,,words
+19,1,4,1,-,,,,words
+19,1,4,2,US and Bahamas,,,,words
+19,1,4,3,69.7,69.7,- US and Bahamas,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,4,4,(31.7),-31.7,- US and Bahamas,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,4,5,101.4,101.4,- US and Bahamas,Changes / +/- / RM’million,words
+19,1,4,6,>100,,,,words
+19,1,5,1,"2,213.7",2213.7,,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,5,2,160.3,160.3,,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,5,3,"2,053.4",2053.4,,Changes / +/- / RM’million,words
+19,1,5,4,>100,,,,words
+19,1,6,1,Plantation,,,,words
+19,1,7,1,-,,,,words
+19,1,7,2,Oil Palm Plantation,,,,words
+19,1,7,3,355.2,355.2,- Oil Palm Plantation,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,7,4,328.4,328.4,- Oil Palm Plantation,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,7,5,26.8,26.8,- Oil Palm Plantation,Changes / +/- / RM’million,words
+19,1,7,6,+8,8.0,- Oil Palm Plantation,+/- / %,words
+19,1,8,1,-,,,,words
+19,1,8,2,Downstream Manufacturing,,,,words
+19,1,8,3,399.6,399.6,- Downstream Manufacturing,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,8,4,333.5,333.5,- Downstream Manufacturing,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,8,5,66.1,66.1,- Downstream Manufacturing,Changes / +/- / RM’million,words
+19,1,8,6,+20,20.0,- Downstream Manufacturing,+/- / %,words
+19,1,9,1,754.8,754.8,Plantation,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,9,2,661.9,661.9,Plantation,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,9,3,92.9,92.9,Plantation,Changes / +/- / RM’million,words
+19,1,9,4,+14,14.0,Plantation,+/- / %,words
+19,1,10,1,-,,,,words
+19,1,10,2,Intra segment,,,,words
+19,1,10,3,(128.0),-128.0,- Intra segment,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,10,4,(118.5),-118.5,- Intra segment,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,10,5,-9.5,-9.5,- Intra segment,Changes / +/- / RM’million,words
+19,1,10,6,-8,-8.0,- Intra segment,+/- / %,words
+19,1,11,1,626.8,626.8,Plantation,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,11,2,543.4,543.4,Plantation,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,11,3,83.4,83.4,Plantation,Changes / +/- / RM’million,words
+19,1,11,4,+15,15.0,Plantation,+/- / %,words
+19,1,12,1,Power,,,,words
+19,1,12,2,244.7,244.7,Power,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,12,3,237.1,237.1,Power,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,12,4,7.6,7.6,Power,Changes / +/- / RM’million,words
+19,1,12,5,+3,3.0,Power,+/- / %,words
+19,1,13,1,Property,,,,words
+19,1,13,2,35.0,35.0,Property,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,13,3,19.0,19.0,Property,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,13,4,16.0,16.0,Property,Changes / +/- / RM’million,words
+19,1,13,5,+84,84.0,Property,+/- / %,words
+19,1,14,1,Oil & Gas,,,,words
+19,1,14,2,70.2,70.2,Oil & Gas,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,14,3,69.3,69.3,Oil & Gas,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,14,4,0.9,0.9,Oil & Gas,Changes / +/- / RM’million,words
+19,1,14,5,+1,1.0,Oil & Gas,+/- / %,words
+19,1,15,1,Investments & Others,,,,words
+19,1,15,2,108.4,108.4,Investments & Others,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,15,3,78.9,78.9,Investments & Others,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,15,4,29.5,29.5,Investments & Others,Changes / +/- / RM’million,words
+19,1,15,5,+37,37.0,Investments & Others,+/- / %,words
+19,1,16,1,"3,298.8",3298.8,Plantation,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,16,2,"1,108.0",1108.0,Plantation,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,16,3,"2,190.8",2190.8,Plantation,Changes / +/- / RM’million,words
+19,1,16,4,>100,,,,words
+19,1,17,1,Profit/(loss) before taxation,,,,words
+19,1,18,1,Leisure & Hospitality,,,,words
+19,1,19,1,-,,,,words
+19,1,19,2,Malaysia,,,,words
+19,1,19,3,534.8,534.8,- Malaysia,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,19,4,(310.6),-310.6,- Malaysia,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,19,5,845.4,845.4,- Malaysia,Changes / +/- / RM’million,words
+19,1,19,6,>100,,,,words
+19,1,20,1,-,,,,words
+19,1,20,2,Singapore,,,,words
+19,1,20,3,448.5,448.5,- Singapore,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,20,4,(239.2),-239.2,- Singapore,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,20,5,687.7,687.7,- Singapore,Changes / +/- / RM’million,words
+19,1,20,6,>100,,,,words
+19,1,21,1,-,,,,words
+19,1,21,2,UK and Egypt,,,,words
+19,1,21,3,(102.3),-102.3,- UK and Egypt,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,21,4,(114.8),-114.8,- UK and Egypt,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,21,5,12.5,12.5,- UK and Egypt,Changes / +/- / RM’million,words
+19,1,21,6,+11,11.0,- UK and Egypt,+/- / %,words
+19,1,22,1,-,,,,words
+19,1,22,2,US and Bahamas,,,,words
+19,1,22,3,(79.9),-79.9,- US and Bahamas,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,22,4,(176.8),-176.8,- US and Bahamas,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,22,5,96.9,96.9,- US and Bahamas,Changes / +/- / RM’million,words
+19,1,22,6,+55,55.0,- US and Bahamas,+/- / %,words
+19,1,23,1,801.1,801.1,Leisure & Hospitality,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,23,2,(841.4),-841.4,Leisure & Hospitality,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,23,3,"1,642.5",1642.5,Leisure & Hospitality,Changes / +/- / RM’million,words
+19,1,23,4,>100,,,,words
+19,1,24,1,Plantation,,,,words
+19,1,25,1,-,,,,words
+19,1,25,2,Oil Palm Plantation,,,,words
+19,1,25,3,120.3,120.3,- Oil Palm Plantation,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,25,4,98.9,98.9,- Oil Palm Plantation,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,25,5,21.4,21.4,- Oil Palm Plantation,Changes / +/- / RM’million,words
+19,1,25,6,+22,22.0,- Oil Palm Plantation,+/- / %,words
+19,1,26,1,-,,,,words
+19,1,26,2,Downstream Manufacturing,,,,words
+19,1,26,3,11.9,11.9,- Downstream Manufacturing,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,26,4,1.8,1.8,- Downstream Manufacturing,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,26,5,10.1,10.1,- Downstream Manufacturing,Changes / +/- / RM’million,words
+19,1,26,6,>100,,,,words
+19,1,27,1,132.2,132.2,Plantation,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,27,2,100.7,100.7,Plantation,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,27,3,31.5,31.5,Plantation,Changes / +/- / RM’million,words
+19,1,27,4,+31,31.0,Plantation,+/- / %,words
+19,1,28,1,Power,,,,words
+19,1,28,2,101.6,101.6,Power,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,28,3,101.4,101.4,Power,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,28,4,0.2,0.2,Power,Changes / +/- / RM’million,words
+19,1,28,5,-,,,,words
+19,1,29,1,Property,,,,words
+19,1,29,2,10.6,10.6,Property,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,29,3,13.4,13.4,Property,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,29,4,-2.8,-2.8,Property,Changes / +/- / RM’million,words
+19,1,29,5,-21,-21.0,Property,+/- / %,words
+19,1,30,1,Oil & Gas,,,,words
+19,1,30,2,53.3,53.3,Oil & Gas,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,30,3,53.1,53.1,Oil & Gas,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,30,4,0.2,0.2,Oil & Gas,Changes / +/- / RM’million,words
+19,1,30,5,-,,,,words
+19,1,31,1,Investments & Others,,,,words
+19,1,31,2,(3.5),-3.5,Investments & Others,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,31,3,(5.9),-5.9,Investments & Others,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,31,4,2.4,2.4,Investments & Others,Changes / +/- / RM’million,words
+19,1,31,5,+41,41.0,Investments & Others,+/- / %,words
+19,1,32,1,Adjusted EBITDA/(LBITDA),,,,words
+19,1,32,2,"1,095.3",1095.3,Adjusted EBITDA/(LBITDA),Year / Quarter / 30/09/2020 / RM’million,words
+19,1,32,3,(578.7),-578.7,Adjusted EBITDA/(LBITDA),Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,32,4,"1,674.0",1674.0,Adjusted EBITDA/(LBITDA),Changes / +/- / RM’million,words
+19,1,32,5,>100,,,,words
+19,1,33,1,Net fair value loss on financial assets at FVTPL,,,,words
+19,1,33,2,(7.5),-7.5,Net fair value loss on financial assets at FVTPL,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,33,3,(7.0),-7.0,Net fair value loss on financial assets at FVTPL,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,33,4,-0.5,-0.5,Net fair value loss on financial assets at FVTPL,Changes / +/- / RM’million,words
+19,1,33,5,-7,-7.0,Net fair value loss on financial assets at FVTPL,+/- / %,words
+19,1,34,1,Net gain/(loss) on derecognition and change in,,,,words
+19,1,35,1,shareholding of associates,,,,words
+19,1,35,2,14.6,14.6,shareholding of associates,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,35,3,(2.0),-2.0,shareholding of associates,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,35,4,16.6,16.6,shareholding of associates,Changes / +/- / RM’million,words
+19,1,35,5,>100,,,,words
+19,1,36,1,Net impairment losses,,,,words
+19,1,36,2,(206.1),-206.1,Net impairment losses,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,36,3,(86.2),-86.2,Net impairment losses,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,36,4,-119.9,-119.9,Net impairment losses,Changes / +/- / RM’million,words
+19,1,36,5,>-100,,,,words
+19,1,37,1,Depreciation and amortisation,,,,words
+19,1,37,2,(577.8),-577.8,Depreciation and amortisation,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,37,3,(589.1),-589.1,Depreciation and amortisation,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,37,4,11.3,11.3,Depreciation and amortisation,Changes / +/- / RM’million,words
+19,1,37,5,+2,2.0,Depreciation and amortisation,+/- / %,words
+19,1,38,1,Interest income,,,,words
+19,1,38,2,71.3,71.3,Interest income,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,38,3,106.6,106.6,Interest income,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,38,4,-35.3,-35.3,Interest income,Changes / +/- / RM’million,words
+19,1,38,5,-33,-33.0,Interest income,+/- / %,words
+19,1,39,1,Finance cost,,,,words
+19,1,39,2,(241.7),-241.7,Finance cost,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,39,3,(317.6),-317.6,Finance cost,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,39,4,75.9,75.9,Finance cost,Changes / +/- / RM’million,words
+19,1,39,5,+24,24.0,Finance cost,+/- / %,words
+19,1,40,1,Share of results in joint ventures and associates,,,,words
+19,1,40,2,62.8,62.8,Share of results in joint ventures and associates,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,40,3,(11.9),-11.9,Share of results in joint ventures and associates,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,40,4,74.7,74.7,Share of results in joint ventures and associates,Changes / +/- / RM’million,words
+19,1,40,5,>100,,,,words
+19,1,41,1,Others,,,,words
+19,1,41,2,(150.8),-150.8,Others,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,41,3,(174.3),-174.3,Others,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,41,4,23.5,23.5,Others,Changes / +/- / RM’million,words
+19,1,41,5,+13,13.0,Others,+/- / %,words
+19,1,42,1,60.1,60.1,Net gain/(loss) on derecognition and change in,Year / Quarter / 30/09/2020 / RM’million,words
+19,1,42,2,"(1,660.2)",-1660.2,Net gain/(loss) on derecognition and change in,Preceding / Quarter / 30/06/2020 / RM’million,words
+19,1,42,3,"1,720.3",1720.3,Net gain/(loss) on derecognition and change in,Changes / +/- / RM’million,words
+19,1,42,4,>100,,,,words
+23,1,1,1,Malaysian income tax charge,,,,words
+23,1,1,2,54.2,54.2,Malaysian income tax charge,Current / Year Quarter / 30/09/2020 / RM’million,words
+23,1,1,3,82.9,82.9,Malaysian income tax charge,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,1,1,4,113.2,113.2,Malaysian income tax charge,Current / Year to date / 30/09/2020 / RM’million,words
+23,1,1,5,254.5,254.5,Malaysian income tax charge,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,1,2,1,Foreign income tax charge,,,,words
+23,1,2,2,100.6,100.6,Foreign income tax charge,Current / Year Quarter / 30/09/2020 / RM’million,words
+23,1,2,3,189.1,189.1,Foreign income tax charge,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,1,2,4,173.3,173.3,Foreign income tax charge,Current / Year to date / 30/09/2020 / RM’million,words
+23,1,2,5,595.8,595.8,Foreign income tax charge,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,1,3,1,154.8,154.8,,Current / Year Quarter / 30/09/2020 / RM’million,words
+23,1,3,2,272.0,272.0,,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,1,3,3,286.5,286.5,,Current / Year to date / 30/09/2020 / RM’million,words
+23,1,3,4,850.3,850.3,,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,1,4,1,Deferred tax charge/(credit),,,,words
+23,1,4,2,329.1,329.1,Deferred tax charge/(credit),Current / Year Quarter / 30/09/2020 / RM’million,words
+23,1,4,3,(25.7),-25.7,Deferred tax charge/(credit),Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,1,4,4,77.7,77.7,Deferred tax charge/(credit),Current / Year to date / 30/09/2020 / RM’million,words
+23,1,4,5,(104.3),-104.3,Deferred tax charge/(credit),Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,1,5,1,483.9,483.9,,Current / Year Quarter / 30/09/2020 / RM’million,words
+23,1,5,2,246.3,246.3,,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,1,5,3,364.2,364.2,,Current / Year to date / 30/09/2020 / RM’million,words
+23,1,5,4,746.0,746.0,,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,1,6,1,Prior period taxation,,,,words
+23,1,7,1,Income tax (over)/under,,,,words
+23,1,8,1,provided,,,,words
+23,1,8,2,(2.5),-2.5,provided,Current / Year Quarter / 30/09/2020 / RM’million,words
+23,1,8,3,(9.7),-9.7,provided,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,1,8,4,46.9,46.9,provided,Current / Year to date / 30/09/2020 / RM’million,words
+23,1,8,5,(28.8),-28.8,provided,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,1,9,1,Total tax charge,,,,words
+23,1,9,2,481.4,481.4,Total tax charge,Current / Year Quarter / 30/09/2020 / RM’million,words
+23,1,9,3,236.6,236.6,Total tax charge,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,1,9,4,411.1,411.1,Total tax charge,Current / Year to date / 30/09/2020 / RM’million,words
+23,1,9,5,717.2,717.2,Total tax charge,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,2,1,1,Finance cost,,,,words
+23,2,1,2,241.7,241.7,Finance cost,Current / Year Quarter / 30/09/2020 / RM’million,words
+23,2,1,3,265.6,265.6,Finance cost,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,2,1,4,820.7,820.7,Finance cost,Current / Year to date / 30/09/2020 / RM’million,words
+23,2,1,5,826.8,826.8,Finance cost,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,2,2,1,Depreciation and amortisation,,,,words
+23,2,2,2,577.8,577.8,Depreciation and amortisation,Current / Year Quarter / 30/09/2020 / RM’million,words
+23,2,2,3,689.0,689.0,Depreciation and amortisation,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,2,2,4,"1,841.9",1841.9,Depreciation and amortisation,Current / Year to date / 30/09/2020 / RM’million,words
+23,2,2,5,"1,964.2",1964.2,Depreciation and amortisation,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,2,3,1,Net impairment losses,,,,words
+23,2,3,2,206.1,206.1,Net impairment losses,Current / Year Quarter / 30/09/2020 / RM’million,words
+23,2,3,3,364.2,364.2,Net impairment losses,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,2,3,4,774.8,774.8,Net impairment losses,Current / Year to date / 30/09/2020 / RM’million,words
+23,2,3,5,385.2,385.2,Net impairment losses,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,2,4,1,Net fair value loss/(gain) on,,,,words
+23,2,5,1,financial assets at FVTPL,,,,words
+23,2,5,2,7.5,7.5,financial assets at FVTPL,Current / Year Quarter / 30/09/2020 / RM’million,words
+23,2,5,3,(15.7),-15.7,financial assets at FVTPL,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,2,5,4,29.1,29.1,financial assets at FVTPL,Current / Year to date / 30/09/2020 / RM’million,words
+23,2,5,5,(37.6),-37.6,financial assets at FVTPL,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,2,6,1,Loss on discontinued cash,,,,words
+23,2,7,1,"Property, plant and equipment",,,,words
+23,2,8,1,written off,,,,words
+23,2,8,2,19.2,19.2,written off,Current / Year Quarter / 30/09/2020 / RM’million,words
+23,2,8,3,17.7,17.7,written off,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,2,8,4,35.2,35.2,written off,Current / Year to date / 30/09/2020 / RM’million,words
+23,2,8,5,22.5,22.5,written off,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,2,9,1,Net fair value loss/(gain) on,,,,words
+23,2,10,1,derivative financial instruments,,,,words
+23,2,10,2,-,,,,words
+23,2,10,3,0.1,0.1,derivative financial instruments -,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,2,10,4,-,,,,words
+23,2,10,5,(0.2),-0.2,derivative financial instruments -,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,2,11,1,Inventories written off,,,,words
+23,2,11,2,9.0,9.0,Inventories written off,Current / Year Quarter / 30/09/2020 / RM’million,words
+23,2,11,3,0.1,0.1,Inventories written off,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,2,11,4,11.1,11.1,Inventories written off,Current / Year to date / 30/09/2020 / RM’million,words
+23,2,11,5,0.6,0.6,Inventories written off,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,2,12,1,Credits:,,,,words
+23,2,13,1,Interest income,,,,words
+23,2,13,2,71.3,71.3,Interest income,Current / Year Quarter / 30/09/2020 / RM’million,words
+23,2,13,3,179.9,179.9,Interest income,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,2,13,4,323.4,323.4,Interest income,Current / Year to date / 30/09/2020 / RM’million,words
+23,2,13,5,561.5,561.5,Interest income,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,2,14,1,Net reversal/(impairment) of,,,,words
+23,2,15,1,receivables,,,,words
+23,2,15,2,70.7,70.7,receivables,Current / Year Quarter / 30/09/2020 / RM’million,words
+23,2,15,3,(84.0),-84.0,receivables,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,2,15,4,30.7,30.7,receivables,Current / Year to date / 30/09/2020 / RM’million,words
+23,2,15,5,(258.1),-258.1,receivables,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,2,16,1,Investment income,,,,words
+23,2,16,2,8.1,8.1,Investment income,Current / Year Quarter / 30/09/2020 / RM’million,words
+23,2,16,3,12.9,12.9,Investment income,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,2,16,4,36.5,36.5,Investment income,Current / Year to date / 30/09/2020 / RM’million,words
+23,2,16,5,34.7,34.7,Investment income,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,2,17,1,Gain on disposal of assets,,,,words
+23,2,18,1,Net gain on disposal of,,,,words
+23,2,19,1,"property, plant and equipment",,,,words
+23,2,19,2,2.2,2.2,"property, plant and equipment",Current / Year Quarter / 30/09/2020 / RM’million,words
+23,2,19,3,6.0,6.0,"property, plant and equipment",Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,2,19,4,3.7,3.7,"property, plant and equipment",Current / Year to date / 30/09/2020 / RM’million,words
+23,2,19,5,3.0,3.0,"property, plant and equipment",Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,2,20,1,Net gain on derecognition and,,,,words
+23,2,21,1,change in shareholding of,,,,words
+23,2,22,1,associates and joint ventures,,,,words
+23,2,22,2,14.6,14.6,associates and joint ventures,Current / Year Quarter / 30/09/2020 / RM’million,words
+23,2,22,3,36.8,36.8,associates and joint ventures,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,2,22,4,65.3,65.3,associates and joint ventures,Current / Year to date / 30/09/2020 / RM’million,words
+23,2,22,5,36.8,36.8,associates and joint ventures,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,2,23,1,Net surplus arising from,,,,words
+23,2,24,1,Government acquisition,,,,words
+23,2,24,2,-,,,,words
+23,2,24,3,3.4,3.4,Government acquisition -,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,2,24,4,7.0,7.0,Government acquisition -,Current / Year to date / 30/09/2020 / RM’million,words
+23,2,24,5,6.6,6.6,Government acquisition -,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,2,25,1,Reversal of/(provision for),,,,words
+23,2,26,1,termination related costs,,,,words
+23,2,26,2,0.5,0.5,termination related costs,Current / Year Quarter / 30/09/2020 / RM’million,words
+23,2,26,3,101.4,101.4,termination related costs,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,2,26,4,0.6,0.6,termination related costs,Current / Year to date / 30/09/2020 / RM’million,words
+23,2,26,5,(36.6),-36.6,termination related costs,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+23,2,27,1,Net foreign exchange gain,,,,words
+23,2,27,2,0.5,0.5,Net foreign exchange gain,Current / Year Quarter / 30/09/2020 / RM’million,words
+23,2,27,3,13.1,13.1,Net foreign exchange gain,Preceding Year / Corresponding / Quarter / 30/09/2019 / RM’million,words
+23,2,27,4,10.6,10.6,Net foreign exchange gain,Current / Year to date / 30/09/2020 / RM’million,words
+23,2,27,5,9.8,9.8,Net foreign exchange gain,Preceding Year / Corresponding / Period / 30/09/2019 / RM’million,words
+24,1,1,1,,,,,lines
+24,1,1,2,As at 30/09/2020,,,,lines
+24,1,1,3,,,,,lines
+24,1,1,4,,,,,lines
+24,1,1,5,,,,,lines
+24,1,1,6,As at 31/12/2019,,,,lines
+24,1,2,1,,,,,lines
+24,1,2,2,Secured/ Unsecured,,,,lines
+24,1,2,3,Foreign Currency ’million,,,,lines
+24,1,2,4,,,,,lines
+24,1,2,5,RM Equivalent ’million,,,,lines
+24,1,2,6,RM Equivalent ’million,,,,lines
+24,1,3,1,Short term borrowings,,,,lines
+24,1,3,2,Secured Secured Secured Secured Unsecured Unsecured Unsecured Unsecured,,,,lines
+24,1,3,3,RM USD GBP INR RM USD GBP JPY,,,,lines
+24,1,3,4,118.6 75.8 198.7 91.2 25.1 58.6,,,,lines
+24,1,3,5,3.3 494.2 403.3 11.2 220.1 380.3 133.4 2.3,,,,lines
+24,1,3,6,"1.0 600.3 79.8 18.4 1,349.0 556.3 134.1 0.9",,,,lines
+24,1,4,1,,,,,lines
+24,1,4,2,,,,,lines
+24,1,4,3,,,,,lines
+24,1,4,4,,,,,lines
+24,1,4,5,"1,648.1",1648.1,"Short term borrowings Secured Secured Secured Secured Unsecured Unsecured Unsecured Unsecured RM USD GBP INR RM USD GBP JPY 118.6 75.8 198.7 91.2 25.1 58.6 3.3 494.2 403.3 11.2 220.1 380.3 133.4 2.3 1.0 600.3 79.8 18.4 1,349.0 556.3 134.1 0.9",,lines
+24,1,4,6,"2,739.8",2739.8,"Short term borrowings Secured Secured Secured Secured Unsecured Unsecured Unsecured Unsecured RM USD GBP INR RM USD GBP JPY 118.6 75.8 198.7 91.2 25.1 58.6 3.3 494.2 403.3 11.2 220.1 380.3 133.4 2.3 1.0 600.3 79.8 18.4 1,349.0 556.3 134.1 0.9",,lines
+24,1,5,1,Long term borrowings,,,,lines
+24,1,5,2,Secured Secured Secured Secured Unsecured Unsecured Unsecured,,,,lines
+24,1,5,3,RM USD GBP INR RM USD JPY,,,,lines
+24,1,5,4,"3,067.4 54.7 2,360.9 2,594.5 19,938.6",,,,lines
+24,1,5,5,"85.5 12,781.7 291.2 133.7 10,489.6 10,811.4 789.4",,,,lines
+24,1,5,6,"87.3 6,929.6 292.3 147.0 10,488.2 10,692.1 753.7",,,,lines
+24,1,6,1,,,,,lines
+24,1,6,2,,,,,lines
+24,1,6,3,,,,,lines
+24,1,6,4,,,,,lines
+24,1,6,5,"35,382.5",35382.5,"Long term borrowings Secured Secured Secured Secured Unsecured Unsecured Unsecured RM USD GBP INR RM USD JPY 3,067.4 54.7 2,360.9 2,594.5 19,938.6 85.5 12,781.7 291.2 133.7 10,489.6 10,811.4 789.4 87.3 6,929.6 292.3 147.0 10,488.2 10,692.1 753.7",,lines
+24,1,6,6,"29,390.2",29390.2,"Long term borrowings Secured Secured Secured Secured Unsecured Unsecured Unsecured RM USD GBP INR RM USD JPY 3,067.4 54.7 2,360.9 2,594.5 19,938.6 85.5 12,781.7 291.2 133.7 10,489.6 10,811.4 789.4 87.3 6,929.6 292.3 147.0 10,488.2 10,692.1 753.7",,lines
+24,1,7,1,Total borrowings,,,,lines
+24,1,7,2,Secured Secured Secured Secured Unsecured Unsecured Unsecured Unsecured,,,,lines
+24,1,7,3,RM USD GBP INR RM USD GBP JPY,,,,lines
+24,1,7,4,"3,186.0 130.5 2,559.6 2,685.7 25.1 19,997.2",,,,lines
+24,1,7,5,"88.8 13,275.9 694.5 144.9 10,709.7 11,191.7 133.4 791.7",,,,lines
+24,1,7,6,"88.3 7,529.9 372.1 165.4 11,837.2 11,248.4 134.1 754.6",,,,lines
+24,1,8,1,,,,,lines
+24,1,8,2,,,,,lines
+24,1,8,3,,,,,lines
+24,1,8,4,,,,,lines
+24,1,8,5,"37,030.6",37030.6,"Total borrowings Secured Secured Secured Secured Unsecured Unsecured Unsecured Unsecured RM USD GBP INR RM USD GBP JPY 3,186.0 130.5 2,559.6 2,685.7 25.1 19,997.2 88.8 13,275.9 694.5 144.9 10,709.7 11,191.7 133.4 791.7 88.3 7,529.9 372.1 165.4 11,837.2 11,248.4 134.1 754.6",,lines
+24,1,8,6,"32,130.0",32130.0,"Total borrowings Secured Secured Secured Secured Unsecured Unsecured Unsecured Unsecured RM USD GBP INR RM USD GBP JPY 3,186.0 130.5 2,559.6 2,685.7 25.1 19,997.2 88.8 13,275.9 694.5 144.9 10,709.7 11,191.7 133.4 791.7 88.3 7,529.9 372.1 165.4 11,837.2 11,248.4 134.1 754.6",,lines
+34,1,1,1,- Malaysia,,,,words
+34,1,1,2,"1,179.5",1179.5,- Malaysia,3Q20 / RM’million,words
+34,1,1,3,"1,793.6",1793.6,- Malaysia,3Q19 / RM’million,words
+34,1,1,4,-34,-34.0,- Malaysia,3Q19 / %,words
+34,1,1,5,"2,483.6",2483.6,- Malaysia,3Q20 / RM’million,words
+34,1,1,6,"5,455.8",5455.8,- Malaysia,3Q19 / RM’million,words
+34,1,1,7,-54,-54.0,- Malaysia,3Q19 / %,words
+34,1,2,1,- Singapore,,,,words
+34,1,2,2,833.1,833.1,- Singapore,3Q20 / RM’million,words
+34,1,2,3,"1,802.8",1802.8,- Singapore,3Q19 / RM’million,words
+34,1,2,4,-54,-54.0,- Singapore,3Q19 / %,words
+34,1,2,5,"2,137.7",2137.7,- Singapore,3Q20 / RM’million,words
+34,1,2,6,"5,671.6",5671.6,- Singapore,3Q19 / RM’million,words
+34,1,2,7,-62,-62.0,- Singapore,3Q19 / %,words
+34,1,3,1,- UK and Egypt,,,,words
+34,1,3,2,131.4,131.4,- UK and Egypt,3Q20 / RM’million,words
+34,1,3,3,414.7,414.7,- UK and Egypt,3Q19 / RM’million,words
+34,1,3,4,-68,-68.0,- UK and Egypt,3Q19 / %,words
+34,1,3,5,535.8,535.8,- UK and Egypt,3Q20 / RM’million,words
+34,1,3,6,"1,254.1",1254.1,- UK and Egypt,3Q19 / RM’million,words
+34,1,3,7,-57,-57.0,- UK and Egypt,3Q19 / %,words
+34,1,4,1,- US and Bahamas,,,,words
+34,1,4,2,69.7,69.7,- US and Bahamas,3Q20 / RM’million,words
+34,1,4,3,355.8,355.8,- US and Bahamas,3Q19 / RM’million,words
+34,1,4,4,-80,-80.0,- US and Bahamas,3Q19 / %,words
+34,1,4,5,358.3,358.3,- US and Bahamas,3Q20 / RM’million,words
+34,1,4,6,"1,100.9",1100.9,- US and Bahamas,3Q19 / RM’million,words
+34,1,4,7,-67,-67.0,- US and Bahamas,3Q19 / %,words
+34,1,5,1,"2,213.7",2213.7,,3Q20 / RM’million,words
+34,1,5,2,"4,366.9",4366.9,,3Q19 / RM’million,words
+34,1,5,3,-49,-49.0,,3Q19 / %,words
+34,1,5,4,"5,515. 4",5515.4,,3Q20 / RM’million,words
+34,1,5,5,"13,482. 4",13482.4,,3Q19 / RM’million,words
+34,1,5,6,-59,-59.0,,3Q19 / %,words
+34,1,6,1,Plantation,,,,words
+34,1,7,1,- Oil Palm Plantation,,,,words
+34,1,7,2,355.2,355.2,- Oil Palm Plantation,3Q20 / RM’million,words
+34,1,7,3,300.0,300.0,- Oil Palm Plantation,3Q19 / RM’million,words
+34,1,7,4,+18,18.0,- Oil Palm Plantation,3Q19 / %,words
+34,1,7,5,"1,028.1",1028.1,- Oil Palm Plantation,3Q20 / RM’million,words
+34,1,7,6,896.4,896.4,- Oil Palm Plantation,3Q19 / RM’million,words
+34,1,7,7,+15,15.0,- Oil Palm Plantation,3Q19 / %,words
+34,1,8,1,- Downstream Manufacturing,,,,words
+34,1,8,2,399.6,399.6,- Downstream Manufacturing,3Q20 / RM’million,words
+34,1,8,3,266.1,266.1,- Downstream Manufacturing,3Q19 / RM’million,words
+34,1,8,4,+50,50.0,- Downstream Manufacturing,3Q19 / %,words
+34,1,8,5,"1,078.0",1078.0,- Downstream Manufacturing,3Q20 / RM’million,words
+34,1,8,6,"1,008.5",1008.5,- Downstream Manufacturing,3Q19 / RM’million,words
+34,1,8,7,+7,7.0,- Downstream Manufacturing,3Q19 / %,words
+34,1,9,1,754.8,754.8,Plantation,3Q20 / RM’million,words
+34,1,9,2,566.1,566.1,Plantation,3Q19 / RM’million,words
+34,1,9,3,+33,33.0,Plantation,3Q19 / %,words
+34,1,9,4,"2,106.1",2106.1,Plantation,3Q20 / RM’million,words
+34,1,9,5,"1,904.9",1904.9,Plantation,3Q19 / RM’million,words
+34,1,9,6,+11,11.0,Plantation,3Q19 / %,words
+34,1,10,1,- Intra segment,,,,words
+34,1,10,2,(128.0),-128.0,- Intra segment,3Q20 / RM’million,words
+34,1,10,3,(127.2),-127.2,- Intra segment,3Q19 / RM’million,words
+34,1,10,4,-1,-1.0,- Intra segment,3Q19 / %,words
+34,1,10,5,(387.9),-387.9,- Intra segment,3Q20 / RM’million,words
+34,1,10,6,(370.3),-370.3,- Intra segment,3Q19 / RM’million,words
+34,1,10,7,-5,-5.0,- Intra segment,3Q19 / %,words
+34,1,11,1,626.8,626.8,Plantation,3Q20 / RM’million,words
+34,1,11,2,438.9,438.9,Plantation,3Q19 / RM’million,words
+34,1,11,3,+43,43.0,Plantation,3Q19 / %,words
+34,1,11,4,"1,718.2",1718.2,Plantation,3Q20 / RM’million,words
+34,1,11,5,"1,534.6",1534.6,Plantation,3Q19 / RM’million,words
+34,1,11,6,+12,12.0,Plantation,3Q19 / %,words
+34,1,12,1,Power,,,,words
+34,1,12,2,244.7,244.7,Power,3Q20 / RM’million,words
+34,1,12,3,293.3,293.3,Power,3Q19 / RM’million,words
+34,1,12,4,-17,-17.0,Power,3Q19 / %,words
+34,1,12,5,740.2,740.2,Power,3Q20 / RM’million,words
+34,1,12,6,781.1,781.1,Power,3Q19 / RM’million,words
+34,1,12,7,-5,-5.0,Power,3Q19 / %,words
+34,1,13,1,Property,,,,words
+34,1,13,2,35.0,35.0,Property,3Q20 / RM’million,words
+34,1,13,3,61.3,61.3,Property,3Q19 / RM’million,words
+34,1,13,4,-43,-43.0,Property,3Q19 / %,words
+34,1,13,5,101.0,101.0,Property,3Q20 / RM’million,words
+34,1,13,6,162.2,162.2,Property,3Q19 / RM’million,words
+34,1,13,7,-38,-38.0,Property,3Q19 / %,words
+34,1,14,1,Oil & Gas,,,,words
+34,1,14,2,70.2,70.2,Oil & Gas,3Q20 / RM’million,words
+34,1,14,3,78.7,78.7,Oil & Gas,3Q19 / RM’million,words
+34,1,14,4,-11,-11.0,Oil & Gas,3Q19 / %,words
+34,1,14,5,226.7,226.7,Oil & Gas,3Q20 / RM’million,words
+34,1,14,6,232.6,232.6,Oil & Gas,3Q19 / RM’million,words
+34,1,14,7,-3,-3.0,Oil & Gas,3Q19 / %,words
+34,1,15,1,Investments & Others,,,,words
+34,1,15,2,108.4,108.4,Investments & Others,3Q20 / RM’million,words
+34,1,15,3,55.9,55.9,Investments & Others,3Q19 / RM’million,words
+34,1,15,4,+94,94.0,Investments & Others,3Q19 / %,words
+34,1,15,5,214.5,214.5,Investments & Others,3Q20 / RM’million,words
+34,1,15,6,120.6,120.6,Investments & Others,3Q19 / RM’million,words
+34,1,15,7,+78,78.0,Investments & Others,3Q19 / %,words
+34,1,16,1,"3,298.8",3298.8,Plantation,3Q20 / RM’million,words
+34,1,16,2,"5,295.0",5295.0,Plantation,3Q19 / RM’million,words
+34,1,16,3,-38,-38.0,Plantation,3Q19 / %,words
+34,1,16,4,"8,516.0",8516.0,Plantation,3Q20 / RM’million,words
+34,1,16,5,"16,313.5",16313.5,Plantation,3Q19 / RM’million,words
+34,1,16,6,-48,-48.0,Plantation,3Q19 / %,words
+34,1,17,1,(Lo ss)/profit for the period,,,,words
+34,1,18,1,Leisure & Hospitality,,,,words
+34,1,19,1,- Malaysia,,,,words
+34,1,19,2,534.8,534.8,- Malaysia,3Q20 / RM’million,words
+34,1,19,3,698.1,698.1,- Malaysia,3Q19 / RM’million,words
+34,1,19,4,-23,-23.0,- Malaysia,3Q19 / %,words
+34,1,19,5,660.4,660.4,- Malaysia,3Q20 / RM’million,words
+34,1,19,6,"2,075.6",2075.6,- Malaysia,3Q19 / RM’million,words
+34,1,19,7,-68,-68.0,- Malaysia,3Q19 / %,words
+34,1,20,1,- Singapore,,,,words
+34,1,20,2,448.5,448.5,- Singapore,3Q20 / RM’million,words
+34,1,20,3,868.0,868.0,- Singapore,3Q19 / RM’million,words
+34,1,20,4,-48,-48.0,- Singapore,3Q19 / %,words
+34,1,20,5,686.1,686.1,- Singapore,3Q20 / RM’million,words
+34,1,20,6,"2,818.7",2818.7,- Singapore,3Q19 / RM’million,words
+34,1,20,7,-76,-76.0,- Singapore,3Q19 / %,words
+34,1,21,1,- UK and Egypt,,,,words
+34,1,21,2,(102.3),-102.3,- UK and Egypt,3Q20 / RM’million,words
+34,1,21,3,85.8,85.8,- UK and Egypt,3Q19 / RM’million,words
+34,1,21,4,>-100,,,,words
+34,1,21,5,(194.3),-194.3,- UK and Egypt,3Q20 / RM’million,words
+34,1,21,6,171.9,171.9,- UK and Egypt,3Q19 / RM’million,words
+34,1,21,7,>-100,,,,words
+34,1,22,1,- US and Bahamas,,,,words
+34,1,22,2,(79.9),-79.9,- US and Bahamas,3Q20 / RM’million,words
+34,1,22,3,55.4,55.4,- US and Bahamas,3Q19 / RM’million,words
+34,1,22,4,>-100,,,,words
+34,1,22,5,(242.0),-242.0,- US and Bahamas,3Q20 / RM’million,words
+34,1,22,6,224.0,224.0,- US and Bahamas,3Q19 / RM’million,words
+34,1,22,7,>-100,,,,words
+34,1,23,1,801.1,801.1,Leisure & Hospitality,3Q20 / RM’million,words
+34,1,23,2,"1,707.3",1707.3,Leisure & Hospitality,3Q19 / RM’million,words
+34,1,23,3,-53,-53.0,Leisure & Hospitality,3Q19 / %,words
+34,1,23,4,910.2,910.2,Leisure & Hospitality,3Q20 / RM’million,words
+34,1,23,5,"5,290.2",5290.2,Leisure & Hospitality,3Q19 / RM’million,words
+34,1,23,6,-83,-83.0,Leisure & Hospitality,3Q19 / %,words
+34,1,24,1,Plantation,,,,words
+34,1,25,1,- Oil Palm Plantation,,,,words
+34,1,25,2,120.3,120.3,- Oil Palm Plantation,3Q20 / RM’million,words
+34,1,25,3,54.3,54.3,- Oil Palm Plantation,3Q19 / RM’million,words
+34,1,25,4,>100,,,,words
+34,1,25,5,338.6,338.6,- Oil Palm Plantation,3Q20 / RM’million,words
+34,1,25,6,222.1,222.1,- Oil Palm Plantation,3Q19 / RM’million,words
+34,1,25,7,+52,52.0,- Oil Palm Plantation,3Q19 / %,words
+34,1,26,1,- Downstream Manufacturing,,,,words
+34,1,26,2,11.9,11.9,- Downstream Manufacturing,3Q20 / RM’million,words
+34,1,26,3,10.0,10.0,- Downstream Manufacturing,3Q19 / RM’million,words
+34,1,26,4,+19,19.0,- Downstream Manufacturing,3Q19 / %,words
+34,1,26,5,27.9,27.9,- Downstream Manufacturing,3Q20 / RM’million,words
+34,1,26,6,44.6,44.6,- Downstream Manufacturing,3Q19 / RM’million,words
+34,1,26,7,-37,-37.0,- Downstream Manufacturing,3Q19 / %,words
+34,1,27,1,132.2,132.2,Plantation,3Q20 / RM’million,words
+34,1,27,2,64.3,64.3,Plantation,3Q19 / RM’million,words
+34,1,27,3,>100,,,,words
+34,1,27,4,366.5,366.5,Plantation,3Q20 / RM’million,words
+34,1,27,5,266.7,266.7,Plantation,3Q19 / RM’million,words
+34,1,27,6,+37,37.0,Plantation,3Q19 / %,words
+34,1,28,1,Power,,,,words
+34,1,28,2,101.6,101.6,Power,3Q20 / RM’million,words
+34,1,28,3,135.0,135.0,Power,3Q19 / RM’million,words
+34,1,28,4,-25,-25.0,Power,3Q19 / %,words
+34,1,28,5,305.8,305.8,Power,3Q20 / RM’million,words
+34,1,28,6,345.3,345.3,Power,3Q19 / RM’million,words
+34,1,28,7,-11,-11.0,Power,3Q19 / %,words
+34,1,29,1,Property,,,,words
+34,1,29,2,10.6,10.6,Property,3Q20 / RM’million,words
+34,1,29,3,21.2,21.2,Property,3Q19 / RM’million,words
+34,1,29,4,-50,-50.0,Property,3Q19 / %,words
+34,1,29,5,39.5,39.5,Property,3Q20 / RM’million,words
+34,1,29,6,57.0,57.0,Property,3Q19 / RM’million,words
+34,1,29,7,-31,-31.0,Property,3Q19 / %,words
+34,1,30,1,Oil & Gas,,,,words
+34,1,30,2,53.3,53.3,Oil & Gas,3Q20 / RM’million,words
+34,1,30,3,59.7,59.7,Oil & Gas,3Q19 / RM’million,words
+34,1,30,4,-11,-11.0,Oil & Gas,3Q19 / %,words
+34,1,30,5,176.9,176.9,Oil & Gas,3Q20 / RM’million,words
+34,1,30,6,163.1,163.1,Oil & Gas,3Q19 / RM’million,words
+34,1,30,7,+8,8.0,Oil & Gas,3Q19 / %,words
+34,1,31,1,Investments & Others,,,,words
+34,1,31,2,(3.5),-3.5,Investments & Others,3Q20 / RM’million,words
+34,1,31,3,(18.6),-18.6,Investments & Others,3Q19 / RM’million,words
+34,1,31,4,+81,81.0,Investments & Others,3Q19 / %,words
+34,1,31,5,(73.6),-73.6,Investments & Others,3Q20 / RM’million,words
+34,1,31,6,(105.8),-105.8,Investments & Others,3Q19 / RM’million,words
+34,1,31,7,+30,30.0,Investments & Others,3Q19 / %,words
+34,1,32,1,Adjusted EBITDA,,,,words
+34,1,32,2,"1,095.3",1095.3,Adjusted EBITDA,3Q20 / RM’million,words
+34,1,32,3,"1,968.9",1968.9,Adjusted EBITDA,3Q19 / RM’million,words
+34,1,32,4,-44,-44.0,Adjusted EBITDA,3Q19 / %,words
+34,1,32,5,"1,725.3",1725.3,Adjusted EBITDA,3Q20 / RM’million,words
+34,1,32,6,"6,016.5",6016.5,Adjusted EBITDA,3Q19 / RM’million,words
+34,1,32,7,-71,-71.0,Adjusted EBITDA,3Q19 / %,words
+34,1,33,1,Net fair value (loss)/gain on derivative financial,,,,words
+34,1,34,1,instruments,,,,words
+34,1,34,2,-,,,,words
+34,1,34,3,(0.1),-0.1,instruments -,3Q19 / RM’million,words
+34,1,34,4,+100,100.0,instruments -,3Q19 / %,words
+34,1,34,5,-,,,,words
+34,1,34,6,0.2,0.2,instruments -,3Q19 / RM’million,words
+34,1,34,7,-100,-100.0,instruments -,3Q19 / %,words
+34,1,35,1,Net fair value (loss)/gain on financial assets at fair,,,,words
+34,1,36,1,value through profit or loss,,,,words
+34,1,36,2,(7.5),-7.5,value through profit or loss,3Q20 / RM’million,words
+34,1,36,3,15.7,15.7,value through profit or loss,3Q19 / RM’million,words
+34,1,36,4,>-100,,,,words
+34,1,36,5,(29.1),-29.1,value through profit or loss,3Q20 / RM’million,words
+34,1,36,6,37.6,37.6,value through profit or loss,3Q19 / RM’million,words
+34,1,36,7,>-100,,,,words
+34,1,37,1,Net gain on derecognition and change in,,,,words
+34,1,38,1,shareholding of associates and joint ventures,,,,words
+34,1,38,2,14.6,14.6,shareholding of associates and joint ventures,3Q20 / RM’million,words
+34,1,38,3,36.8,36.8,shareholding of associates and joint ventures,3Q19 / RM’million,words
+34,1,38,4,-60,-60.0,shareholding of associates and joint ventures,3Q19 / %,words
+34,1,38,5,65.3,65.3,shareholding of associates and joint ventures,3Q20 / RM’million,words
+34,1,38,6,36.8,36.8,shareholding of associates and joint ventures,3Q19 / RM’million,words
+34,1,38,7,+77,77.0,shareholding of associates and joint ventures,3Q19 / %,words
+34,1,39,1,Gain on disposal of a subsidiary,,,,words
+34,1,39,2,-,,,,words
+34,1,39,3,-,,,,words
+34,1,39,4,-,,,,words
+34,1,39,5,-,,,,words
+34,1,39,6,138.7,138.7,Gain on disposal of a subsidiary - - - -,3Q19 / RM’million,words
+34,1,39,7,-100,-100.0,Gain on disposal of a subsidiary - - - -,3Q19 / %,words
+34,1,40,1,Net impairment losses,,,,words
+34,1,40,2,(206.1),-206.1,Net impairment losses,3Q20 / RM’million,words
+34,1,40,3,(364.2),-364.2,Net impairment losses,3Q19 / RM’million,words
+34,1,40,4,+43,43.0,Net impairment losses,3Q19 / %,words
+34,1,40,5,(774.8),-774.8,Net impairment losses,3Q20 / RM’million,words
+34,1,40,6,(385.2),-385.2,Net impairment losses,3Q19 / RM’million,words
+34,1,40,7,>-100,,,,words
+34,1,41,1,Depreciation and amortisation,,,,words
+34,1,41,2,(577.8),-577.8,Depreciation and amortisation,3Q20 / RM’million,words
+34,1,41,3,(689.0),-689.0,Depreciation and amortisation,3Q19 / RM’million,words
+34,1,41,4,+16,16.0,Depreciation and amortisation,3Q19 / %,words
+34,1,41,5,"(1,841.9)",-1841.9,Depreciation and amortisation,3Q20 / RM’million,words
+34,1,41,6,"(1,964.2)",-1964.2,Depreciation and amortisation,3Q19 / RM’million,words
+34,1,41,7,+6,6.0,Depreciation and amortisation,3Q19 / %,words
+34,1,42,1,Interest income,,,,words
+34,1,42,2,71.3,71.3,Interest income,3Q20 / RM’million,words
+34,1,42,3,179.9,179.9,Interest income,3Q19 / RM’million,words
+34,1,42,4,-60,-60.0,Interest income,3Q19 / %,words
+34,1,42,5,323.4,323.4,Interest income,3Q20 / RM’million,words
+34,1,42,6,561.5,561.5,Interest income,3Q19 / RM’million,words
+34,1,42,7,-42,-42.0,Interest income,3Q19 / %,words
+34,1,43,1,Finance cost,,,,words
+34,1,43,2,(241.7),-241.7,Finance cost,3Q20 / RM’million,words
+34,1,43,3,(265.6),-265.6,Finance cost,3Q19 / RM’million,words
+34,1,43,4,+9,9.0,Finance cost,3Q19 / %,words
+34,1,43,5,(820.7),-820.7,Finance cost,3Q20 / RM’million,words
+34,1,43,6,(826.8),-826.8,Finance cost,3Q19 / RM’million,words
+34,1,43,7,+1,1.0,Finance cost,3Q19 / %,words
+34,1,44,1,Share of results in joint ventures and associates,,,,words
+34,1,44,2,62.8,62.8,Share of results in joint ventures and associates,3Q20 / RM’million,words
+34,1,44,3,43.1,43.1,Share of results in joint ventures and associates,3Q19 / RM’million,words
+34,1,44,4,+46,46.0,Share of results in joint ventures and associates,3Q19 / %,words
+34,1,44,5,(57.1),-57.1,Share of results in joint ventures and associates,3Q20 / RM’million,words
+34,1,44,6,98.6,98.6,Share of results in joint ventures and associates,3Q19 / RM’million,words
+34,1,44,7,>-100,,,,words
+34,1,45,1,Others,,,,words
+34,1,45,2,(150.8),-150.8,Others,3Q20 / RM’million,words
+34,1,45,3,28.6,28.6,Others,3Q19 / RM’million,words
+34,1,45,4,>-100,,,,words
+34,1,45,5,(408.7),-408.7,Others,3Q20 / RM’million,words
+34,1,45,6,(250.6),-250.6,Others,3Q19 / RM’million,words
+34,1,45,7,-63,-63.0,Others,3Q19 / %,words
+34,1,46,1,Profit/(loss) before taxation,,,,words
+34,1,46,2,60.1,60.1,Profit/(loss) before taxation,3Q20 / RM’million,words
+34,1,46,3,954.1,954.1,Profit/(loss) before taxation,3Q19 / RM’million,words
+34,1,46,4,-94,-94.0,Profit/(loss) before taxation,3Q19 / %,words
+34,1,46,5,"(1,818.3)",-1818.3,Profit/(loss) before taxation,3Q20 / RM’million,words
+34,1,46,6,"3,463.1",3463.1,Profit/(loss) before taxation,3Q19 / RM’million,words
+34,1,46,7,>-100,,,,words
+34,1,47,1,Taxation,,,,words
+34,1,47,2,(481.4),-481.4,Taxation,3Q20 / RM’million,words
+34,1,47,3,(236.6),-236.6,Taxation,3Q19 / RM’million,words
+34,1,47,4,>-100,,,,words
+34,1,47,5,(411.1),-411.1,Taxation,3Q20 / RM’million,words
+34,1,47,6,(717.2),-717.2,Taxation,3Q19 / RM’million,words
+34,1,47,7,+43,43.0,Taxation,3Q19 / %,words
+34,1,48,1,(Loss)/profit for the period,,,,words
+34,1,48,2,(421.3),-421.3,(Loss)/profit for the period,3Q20 / RM’million,words
+34,1,48,3,717.5,717.5,(Loss)/profit for the period,3Q19 / RM’million,words
+34,1,48,4,>-100,,,,words
+34,1,48,5,"(2,229.4)",-2229.4,(Loss)/profit for the period,3Q20 / RM’million,words
+34,1,48,6,"2,745.9",2745.9,(Loss)/profit for the period,3Q19 / RM’million,words
+34,1,48,7,>-100,,,,words
+34,1,49,1,Basic (loss)/earnings per share (sen),,,,words
+34,1,49,2,(3.40),-3.4,Basic (loss)/earnings per share (sen),3Q20 / RM’million,words
+34,1,49,3,7.94,7.94,Basic (loss)/earnings per share (sen),3Q19 / RM’million,words
+34,1,49,4,>-100,,,,words
+34,1,49,5,(27.25),-27.25,Basic (loss)/earnings per share (sen),3Q20 / RM’million,words
+34,1,49,6,38.10,38.1,Basic (loss)/earnings per share (sen),3Q19 / RM’million,words
+34,1,49,7,>-100,,,,words

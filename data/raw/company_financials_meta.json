@@ -1,0 +1,65 @@
+{
+  "generated_date": "2026-11-02",
+  "companies": {
+    "GENTING": {
+      "name": "Genting Berhad",
+      "bursa_code": "3182"
+    },
+    "GENM": {
+      "name": "Genting Malaysia Berhad",
+      "bursa_code": "4715"
+    }
+  },
+  "window": {
+    "start": "2024-11-02",
+    "end": "2026-11-02"
+  },
+  "units": {
+    "revenue": "RM million",
+    "ebitda": "RM million",
+    "pbt": "RM million",
+    "net_profit": "RM million",
+    "finance_cost": "RM million",
+    "total_debt": "RM million",
+    "cash": "RM million",
+    "net_debt": "RM million",
+    "eps": "sen per share",
+    "dividend": "sen per share"
+  },
+  "definitions": {
+    "ebitda": "Company-reported adjusted EBITDA for the individual quarter (press-release summary table); not a PBT + finance cost + D&A calculation.",
+    "net_profit": "Profit for the period including non-controlling interests.",
+    "eps": "Basic earnings per share attributable to equity holders, as reported.",
+    "total_debt": "Long-term borrowings + short-term borrowings, excluding lease liabilities.",
+    "cash": "Cash and cash equivalents (balance-sheet line).",
+    "net_debt": "total_debt - cash.",
+    "dividend": "Dividend declared with that quarter's results; 0.0 means none declared."
+  },
+  "coverage": {
+    "quarterly_periods": [
+      "4Q24",
+      "1Q25",
+      "2Q25",
+      "3Q25",
+      "4Q25",
+      "1Q26",
+      "2Q26"
+    ],
+    "missing": {
+      "3Q26": "Not announced by 2 Nov 2026 (Bursa deadline 30 Nov 2026)."
+    },
+    "annual_periods": [
+      "FY2024",
+      "FY2025"
+    ]
+  },
+  "files": {
+    "quarterly": "data/raw/company_financials.csv",
+    "annual": "data/raw/company_financials_annual.csv",
+    "segments": "data/raw/company_segments.csv",
+    "actions": "data/raw/company_actions.jsonl",
+    "filings": "data/raw/company_filings.jsonl",
+    "report": "data/raw/company_filings_report.md",
+    "provenance": "data/raw/company_financials_provenance.csv"
+  }
+}

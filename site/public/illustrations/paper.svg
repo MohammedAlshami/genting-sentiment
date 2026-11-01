@@ -1,0 +1,28 @@
+<svg width="198" height="151" viewBox="0 0 198 151" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- window -->
+  <rect x="13" y="17" width="172" height="117" rx="10" stroke="#FFF7DD" stroke-width="2"/>
+  <!-- sidebar -->
+  <path d="M62 17V134" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round"/>
+  <path d="M26 40H52" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round"/>
+  <path d="M26 54H48" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round"/>
+  <path d="M26 68H44" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round"/>
+  <rect x="26" y="88" width="22" height="14" rx="4" stroke="#FFF7DD" stroke-width="2"/>
+  <!-- run title -->
+  <path d="M76 38H134" stroke="#FFF7DD" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- step 1: done -->
+  <circle cx="84" cy="60" r="6" stroke="#FFF7DD" stroke-width="2"/>
+  <path d="M81.4 60.2L83.4 62.2L86.8 58.2" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M98 60H170" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round"/>
+  <!-- step 2: running -->
+  <circle cx="84" cy="82" r="6" stroke="#FFF7DD" stroke-width="2"/>
+  <path d="M84 76.5A5.5 5.5 0 1 0 84 87.5" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round"/>
+  <path d="M98 82H152" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round"/>
+  <rect x="98" y="92" width="46" height="5" rx="2.5" fill="#FFF7DD" fill-opacity="0.45"/>
+  <!-- step 3: failed -->
+  <circle cx="84" cy="104" r="6" stroke="#FFF7DD" stroke-width="2"/>
+  <path d="M81.8 101.8L86.2 106.2M86.2 101.8L81.8 106.2" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round"/>
+  <path d="M98 104H164" stroke="#FFF7DD" stroke-width="2" stroke-linecap="round"/>
+  <!-- approve button -->
+  <rect x="98" y="118" width="52" height="10" rx="5" fill="#FFF7DD"/>
+  <path d="M108 123H132" stroke="#0E100F" stroke-width="2" stroke-linecap="round"/>
+</svg>

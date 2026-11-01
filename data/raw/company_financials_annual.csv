@@ -1,0 +1,5 @@
+company,period,period_end,revenue,ebitda,pbt,net_profit,finance_cost,total_debt,cash,net_debt,eps,dividend,source_url
+GENTING,FY2024,2024-12-31,27717.0,8781.8,3300.3,2021.3,2099.6,39228.6,22403.6,16825.0,22.93,11.0,https://www.genting.com/wp-content/uploads/2025/05/GENTING_IAR24v3.pdf
+GENTING,FY2025,2025-12-31,27711.9,7990.1,2198.9,1023.8,2104.2,40806.7,17996.1,22810.6,-0.3,5.0,https://www.genting.com/wp-content/uploads/2026/07/GENTING-BERHAD_IAR2025v2.pdf
+GENM,FY2024,2024-12-31,10911.8,2910.4,486.7,162.1,691.0,12220.8,3536.6,8684.2,4.43,10.0,https://www.gentingmalaysia.com/wp-content/uploads/2025/04/GENTING_IAR2024_v2.pdf
+GENM,FY2025,2025-12-31,11884.3,3297.6,985.0,670.7,828.2,12716.0,2847.2,9868.8,13.32,7.0,https://www.gentingmalaysia.com/wp-content/uploads/2026/06/GENM_IAR_2025_v2.pdf

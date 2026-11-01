@@ -1,0 +1,2161 @@
+page,table_index,row,col,value_text,value_number,row_label,col_label,strategy
+1,1,1,1,2018,2018.0,,UNAUDITED INDIVIDUAL / QUARTER / First quarter ended,words
+1,1,1,2,2017,2017.0,,UNAUDITED INDIVIDUAL / First quarter ended,words
+1,1,1,3,2018,2018.0,,UNAUDITED CUMULATIVE / Three months ended,words
+1,1,1,4,2017,2017.0,,UNAUDITED CUMULATIVE / Three months ended,words
+1,1,2,1,(Restated*),,,,words
+1,1,2,2,(Restated*),,,,words
+1,1,3,1,RM’000,,,,words
+1,1,3,2,RM’000,,,,words
+1,1,3,3,RM’000,,,,words
+1,1,3,4,RM’000,,,,words
+1,1,4,1,Revenue,,,,words
+1,1,4,2,"2,399,498",2399498.0,Revenue,UNAUDITED INDIVIDUAL / QUARTER / First quarter ended / 31 March,words
+1,1,4,3,"2,224,218",2224218.0,Revenue,UNAUDITED INDIVIDUAL / QUARTER / First quarter ended,words
+1,1,4,4,"2,399,498",2399498.0,Revenue,UNAUDITED CUMULATIVE / PERIOD / Three months ended / 31 March,words
+1,1,4,5,"2,224,218",2224218.0,Revenue,UNAUDITED CUMULATIVE / PERIOD / Three months ended / 31 March,words
+1,1,5,1,Cost of sales,,,,words
+1,1,5,2,"(1,783,656)",-1783656.0,Cost of sales,UNAUDITED INDIVIDUAL / QUARTER / First quarter ended / 31 March,words
+1,1,5,3,"(1,684,101)",-1684101.0,Cost of sales,UNAUDITED INDIVIDUAL / QUARTER / First quarter ended / 31 March,words
+1,1,5,4,"(1,783,656)",-1783656.0,Cost of sales,UNAUDITED CUMULATIVE / PERIOD / Three months ended / 31 March,words
+1,1,5,5,"(1,684,101)",-1684101.0,Cost of sales,UNAUDITED CUMULATIVE / PERIOD / Three months ended / 31 March,words
+1,1,6,1,Gross profit,,,,words
+1,1,6,2,"615,842",615842.0,Gross profit,UNAUDITED INDIVIDUAL / QUARTER / First quarter ended / 31 March,words
+1,1,6,3,"540,117",540117.0,Gross profit,UNAUDITED INDIVIDUAL / First quarter ended,words
+1,1,6,4,"615,842",615842.0,Gross profit,UNAUDITED CUMULATIVE / PERIOD / Three months ended / 31 March,words
+1,1,6,5,"540,117",540117.0,Gross profit,UNAUDITED CUMULATIVE / Three months ended / 31 March,words
+1,1,7,1,Other income,,,,words
+1,1,7,2,"143,760",143760.0,Other income,UNAUDITED INDIVIDUAL / QUARTER / First quarter ended / 31 March,words
+1,1,7,3,"130,523",130523.0,Other income,UNAUDITED INDIVIDUAL / First quarter ended,words
+1,1,7,4,"143,760",143760.0,Other income,UNAUDITED CUMULATIVE / PERIOD / Three months ended / 31 March,words
+1,1,7,5,"130,523",130523.0,Other income,UNAUDITED CUMULATIVE / Three months ended / 31 March,words
+1,1,8,1,Other expenses,,,,words
+1,1,8,2,"(327,162)",-327162.0,Other expenses,UNAUDITED INDIVIDUAL / QUARTER / First quarter ended / 31 March,words
+1,1,8,3,"(306,828)",-306828.0,Other expenses,UNAUDITED INDIVIDUAL / First quarter ended,words
+1,1,8,4,"(327,162)",-327162.0,Other expenses,UNAUDITED CUMULATIVE / PERIOD / Three months ended / 31 March,words
+1,1,8,5,"(306,828)",-306828.0,Other expenses,UNAUDITED CUMULATIVE / Three months ended / 31 March,words
+1,1,9,1,Profit from operations,,,,words
+1,1,9,2,"432,440",432440.0,Profit from operations,UNAUDITED INDIVIDUAL / QUARTER / First quarter ended / 31 March,words
+1,1,9,3,"363,812",363812.0,Profit from operations,UNAUDITED INDIVIDUAL / First quarter ended,words
+1,1,9,4,"432,440",432440.0,Profit from operations,UNAUDITED CUMULATIVE / PERIOD / Three months ended / 31 March,words
+1,1,9,5,"363,812",363812.0,Profit from operations,UNAUDITED CUMULATIVE / Three months ended / 31 March,words
+1,1,10,1,Finance costs,,,,words
+1,1,10,2,"(34,927)",-34927.0,Finance costs,UNAUDITED INDIVIDUAL / QUARTER / First quarter ended / 31 March,words
+1,1,10,3,"(19,086)",-19086.0,Finance costs,UNAUDITED INDIVIDUAL / First quarter ended,words
+1,1,10,4,"(34,927)",-34927.0,Finance costs,UNAUDITED CUMULATIVE / PERIOD / Three months ended / 31 March,words
+1,1,10,5,"(19,086)",-19086.0,Finance costs,UNAUDITED CUMULATIVE / Three months ended,words
+1,1,11,1,Profit before taxation,,,,words
+1,1,11,2,"397,513",397513.0,Profit before taxation,UNAUDITED INDIVIDUAL / QUARTER / First quarter ended / 31 March,words
+1,1,11,3,"344,726",344726.0,Profit before taxation,UNAUDITED INDIVIDUAL / First quarter ended,words
+1,1,11,4,"397,513",397513.0,Profit before taxation,UNAUDITED CUMULATIVE / PERIOD / Three months ended / 31 March,words
+1,1,11,5,"344,726",344726.0,Profit before taxation,UNAUDITED CUMULATIVE / Three months ended / 31 March,words
+1,1,12,1,Taxation,,,,words
+1,1,12,2,"(55,447)",-55447.0,Taxation,UNAUDITED INDIVIDUAL / QUARTER / First quarter ended / 31 March,words
+1,1,12,3,"(49,440)",-49440.0,Taxation,UNAUDITED INDIVIDUAL / First quarter ended,words
+1,1,12,4,"(55,447)",-55447.0,Taxation,UNAUDITED CUMULATIVE / PERIOD / Three months ended / 31 March,words
+1,1,12,5,"(49,440)",-49440.0,Taxation,UNAUDITED CUMULATIVE / Three months ended,words
+1,1,13,1,Profit for the financial period,,,,words
+1,1,13,2,"342,066",342066.0,Profit for the financial period,UNAUDITED INDIVIDUAL / QUARTER / First quarter ended / 31 March,words
+1,1,13,3,"295,286",295286.0,Profit for the financial period,UNAUDITED INDIVIDUAL / First quarter ended,words
+1,1,13,4,"342,066",342066.0,Profit for the financial period,UNAUDITED CUMULATIVE / PERIOD / Three months ended / 31 March,words
+1,1,13,5,"295,286",295286.0,Profit for the financial period,UNAUDITED CUMULATIVE / Three months ended / 31 March,words
+1,1,14,1,Profit attributable to:,,,,words
+1,1,15,1,Equity holders of the Company,,,,words
+1,1,15,2,"358,237",358237.0,Equity holders of the Company,UNAUDITED INDIVIDUAL / QUARTER / First quarter ended / 31 March,words
+1,1,15,3,"323,915",323915.0,Equity holders of the Company,UNAUDITED INDIVIDUAL / First quarter ended,words
+1,1,15,4,"358,237",358237.0,Equity holders of the Company,UNAUDITED CUMULATIVE / PERIOD / Three months ended / 31 March,words
+1,1,15,5,"323,915",323915.0,Equity holders of the Company,UNAUDITED CUMULATIVE / Three months ended / 31 March,words
+1,1,16,1,Non-controlling interests,,,,words
+1,1,16,2,"(16,171)",-16171.0,Non-controlling interests,UNAUDITED INDIVIDUAL / QUARTER / First quarter ended / 31 March,words
+1,1,16,3,"(28,629)",-28629.0,Non-controlling interests,UNAUDITED INDIVIDUAL / First quarter ended,words
+1,1,16,4,"(16,171)",-16171.0,Non-controlling interests,UNAUDITED CUMULATIVE / PERIOD / Three months ended / 31 March,words
+1,1,16,5,"(28,629)",-28629.0,Non-controlling interests,UNAUDITED CUMULATIVE / Three months ended,words
+1,1,17,1,"342,066",342066.0,Profit attributable to:,UNAUDITED INDIVIDUAL / QUARTER / First quarter ended / 31 March,words
+1,1,17,2,"295,286",295286.0,Profit attributable to:,UNAUDITED INDIVIDUAL / First quarter ended,words
+1,1,17,3,"342,066",342066.0,Profit attributable to:,UNAUDITED CUMULATIVE / PERIOD / Three months ended / 31 March,words
+1,1,17,4,"295,286",295286.0,Profit attributable to:,UNAUDITED CUMULATIVE / Three months ended / 31 March,words
+1,1,18,1,Earnings per share attributable,,,,words
+1,1,19,1,to equity holders of the Company:,,,,words
+1,1,20,1,Basic earnings per share (sen),,,,words
+1,1,20,2,6.33,6.33,Basic earnings per share (sen),UNAUDITED INDIVIDUAL / QUARTER / First quarter ended / 31 March,words
+1,1,20,3,5.73,5.73,Basic earnings per share (sen),UNAUDITED INDIVIDUAL,words
+1,1,20,4,6.33,6.33,Basic earnings per share (sen),UNAUDITED CUMULATIVE / PERIOD / Three months ended / 31 March,words
+1,1,20,5,5.73,5.73,Basic earnings per share (sen),UNAUDITED CUMULATIVE / Three months ended,words
+1,1,21,1,Diluted earnings per share (sen),,,,words
+1,1,21,2,6.33,6.33,Diluted earnings per share (sen),UNAUDITED INDIVIDUAL / QUARTER / First quarter ended / 31 March,words
+1,1,21,3,5.72,5.72,Diluted earnings per share (sen),UNAUDITED INDIVIDUAL,words
+1,1,21,4,6.33,6.33,Diluted earnings per share (sen),UNAUDITED CUMULATIVE / PERIOD / Three months ended / 31 March,words
+1,1,21,5,5.72,5.72,Diluted earnings per share (sen),UNAUDITED CUMULATIVE / Three months ended,words
+2,1,1,1,2018,2018.0,,UNAUDITED INDIVIDUAL / QUARTER / First quarter ended,words
+2,1,1,2,2017,2017.0,,UNAUDITED INDIVIDUAL / First quarter ended,words
+2,1,1,3,2018,2018.0,,UNAUDITED CUMULATIVE / Three months ended,words
+2,1,1,4,2017,2017.0,,UNAUDITED CUMULATIVE / Three months ended,words
+2,1,2,1,(Restated*),,,,words
+2,1,2,2,(Restated*),,,,words
+2,1,3,1,RM’000,,,,words
+2,1,3,2,RM’000,,,,words
+2,1,3,3,RM’000,,,,words
+2,1,3,4,RM’000,,,,words
+2,1,4,1,Profit for the financial period,,,,words
+2,1,4,2,"342,066",342066.0,Profit for the financial period,UNAUDITED INDIVIDUAL / QUARTER / First quarter ended / 31 March,words
+2,1,4,3,"295,286",295286.0,Profit for the financial period,UNAUDITED INDIVIDUAL / First quarter ended,words
+2,1,4,4,"342,066",342066.0,Profit for the financial period,UNAUDITED CUMULATIVE / PERIOD / Three months ended / 31 March,words
+2,1,4,5,"295,286",295286.0,Profit for the financial period,UNAUDITED CUMULATIVE / Three months ended,words
+2,2,1,1,- Fair value loss,,,,words
+2,2,1,2,"(1,698)",-1698.0,- Fair value loss,,words
+2,2,1,3,"(2,125)",-2125.0,- Fair value loss,,words
+2,2,1,4,"(1,698)",-1698.0,- Fair value loss,,words
+2,2,1,5,"(2,125)",-2125.0,- Fair value loss,,words
+2,2,2,1,Foreign currency exchange differences,,,,words
+2,2,2,2,"(236,383)",-236383.0,Foreign currency exchange differences,,words
+2,2,2,3,"(69,189)",-69189.0,Foreign currency exchange differences,,words
+2,2,2,4,"(236,383)",-236383.0,Foreign currency exchange differences,,words
+2,2,2,5,"(69,189)",-69189.0,Foreign currency exchange differences,,words
+2,2,3,1,"Other comprehensive loss, net of tax",,,,words
+2,2,3,2,"(238,081)",-238081.0,"Other comprehensive loss, net of tax",,words
+2,2,3,3,"(71,314)",-71314.0,"Other comprehensive loss, net of tax",,words
+2,2,3,4,"(238,081)",-238081.0,"Other comprehensive loss, net of tax",,words
+2,2,3,5,"(71,314)",-71314.0,"Other comprehensive loss, net of tax",,words
+2,2,4,1,Total comprehensive income for the,,,,words
+2,2,5,1,financial period,,,,words
+2,2,5,2,"103,985",103985.0,financial period,,words
+2,2,5,3,"223,972",223972.0,financial period,,words
+2,2,5,4,"103,985",103985.0,financial period,,words
+2,2,5,5,"223,972",223972.0,financial period,,words
+2,2,6,1,Total comprehensive income/(loss),,,,words
+2,2,7,1,attributable to:,,,,words
+2,2,8,1,Equity holders of the Company,,,,words
+2,2,8,2,"112,413",112413.0,Equity holders of the Company,,words
+2,2,8,3,"251,209",251209.0,Equity holders of the Company,,words
+2,2,8,4,"112,413",112413.0,Equity holders of the Company,,words
+2,2,8,5,"251,209",251209.0,Equity holders of the Company,,words
+2,2,9,1,Non-controlling interests,,,,words
+2,2,9,2,"(8,428)",-8428.0,Non-controlling interests,,words
+2,2,9,3,"(27,237)",-27237.0,Non-controlling interests,,words
+2,2,9,4,"(8,428)",-8428.0,Non-controlling interests,,words
+2,2,9,5,"(27,237)",-27237.0,Non-controlling interests,,words
+2,2,10,1,"103,985",103985.0,attributable to:,,words
+2,2,10,2,"223,972",223972.0,attributable to:,,words
+2,2,10,3,"103,985",103985.0,attributable to:,,words
+2,2,10,4,"223,972",223972.0,attributable to:,,words
+3,1,1,1,"Property, plant and equipment",,,,words
+3,1,1,2,"13,904,533",13904533.0,"Property, plant and equipment",31.03.2018 / RM’000,words
+3,1,1,3,"13,835,384",13835384.0,"Property, plant and equipment",31.12.2017 / (Restated*) / RM’000,words
+3,1,2,1,Land held for property development,,,,words
+3,1,2,2,"184,672",184672.0,Land held for property development,31.03.2018 / RM’000,words
+3,1,2,3,"184,672",184672.0,Land held for property development,31.12.2017 / (Restated*) / RM’000,words
+3,1,3,1,Investment properties,,,,words
+3,1,3,2,"2,127,191",2127191.0,Investment properties,31.03.2018 / RM’000,words
+3,1,3,3,"2,178,833",2178833.0,Investment properties,31.12.2017 / (Restated*) / RM’000,words
+3,1,4,1,Intangible assets,,,,words
+3,1,4,2,"4,551,149",4551149.0,Intangible assets,31.03.2018 / RM’000,words
+3,1,4,3,"4,654,464",4654464.0,Intangible assets,31.12.2017 / (Restated*) / RM’000,words
+3,1,5,1,Other non-current assets,,,,words
+3,1,5,2,"1,814,747",1814747.0,Other non-current assets,31.03.2018 / RM’000,words
+3,1,5,3,"1,871,678",1871678.0,Other non-current assets,31.12.2017 / (Restated*) / RM’000,words
+3,1,6,1,Deferred tax assets,,,,words
+3,1,6,2,"30,984",30984.0,Deferred tax assets,31.03.2018 / RM’000,words
+3,1,6,3,"39,324",39324.0,Deferred tax assets,31.12.2017 / (Restated*) / RM’000,words
+3,1,7,1,"22,752,549",22752549.0,,31.03.2018 / RM’000,words
+3,1,7,2,"22,909,319",22909319.0,,31.12.2017 / (Restated*) / RM’000,words
+3,1,8,1,Current assets,,,,words
+3,1,9,1,Inventories,,,,words
+3,1,9,2,"115,254",115254.0,Inventories,31.03.2018 / RM’000,words
+3,1,9,3,"111,508",111508.0,Inventories,31.12.2017 / (Restated*) / RM’000,words
+3,1,10,1,Trade and other receivables,,,,words
+3,1,10,2,"583,476",583476.0,Trade and other receivables,31.03.2018 / RM’000,words
+3,1,10,3,"684,206",684206.0,Trade and other receivables,31.12.2017 / (Restated*) / RM’000,words
+3,1,11,1,Amounts due from other related companies,,,,words
+3,1,11,2,"5,661",5661.0,Amounts due from other related companies,31.03.2018 / RM’000,words
+3,1,11,3,"2,084",2084.0,Amounts due from other related companies,31.12.2017 / (Restated*) / RM’000,words
+3,1,12,1,Financial assets at fair value through profit or loss,,,,words
+3,1,12,2,"107,722",107722.0,Financial assets at fair value through profit or loss,31.03.2018 / RM’000,words
+3,1,12,3,"7,443",7443.0,Financial assets at fair value through profit or loss,31.12.2017 / (Restated*) / RM’000,words
+3,1,13,1,Restricted cash,,,,words
+3,1,13,2,"91,524",91524.0,Restricted cash,31.03.2018 / RM’000,words
+3,1,13,3,"71,634",71634.0,Restricted cash,31.12.2017 / (Restated*) / RM’000,words
+3,1,14,1,Cash and cash equivalents,,,,words
+3,1,14,2,"5,339,440",5339440.0,Cash and cash equivalents,31.03.2018 / RM’000,words
+3,1,14,3,"5,996,559",5996559.0,Cash and cash equivalents,31.12.2017 / (Restated*) / RM’000,words
+3,1,15,1,"6,243,077",6243077.0,Current assets,31.03.2018 / RM’000,words
+3,1,15,2,"6,993,434",6993434.0,Current assets,31.12.2017 / (Restated*) / RM’000,words
+3,1,16,1,Assets classified as held for sale,,,,words
+3,1,16,2,"62,051",62051.0,Assets classified as held for sale,31.03.2018 / RM’000,words
+3,1,16,3,"65,670",65670.0,Assets classified as held for sale,31.12.2017 / (Restated*) / RM’000,words
+3,1,17,1,"6,305,128",6305128.0,Current assets,31.03.2018 / RM’000,words
+3,1,17,2,"7,059,104",7059104.0,Current assets,31.12.2017 / (Restated*) / RM’000,words
+3,1,18,1,TOTAL ASSETS,,,,words
+3,1,18,2,"29,057,677",29057677.0,TOTAL ASSETS,31.03.2018 / RM’000,words
+3,1,18,3,"29,968,423",29968423.0,TOTAL ASSETS,31.12.2017 / (Restated*) / RM’000,words
+3,1,19,1,EQUITY AND LIABILITIES,,,,words
+3,1,20,1,Equity attributable to equity holders of the Company,,,,words
+3,1,21,1,Share capital,,,,words
+3,1,21,2,"1,764,424",1764424.0,Share capital,31.03.2018 / RM’000,words
+3,1,21,3,"1,764,424",1764424.0,Share capital,31.12.2017 / (Restated*) / RM’000,words
+3,1,22,1,Reserves,,,,words
+3,1,22,2,"18,118,528",18118528.0,Reserves,31.03.2018 / RM’000,words
+3,1,22,3,"18,491,972",18491972.0,Reserves,31.12.2017 / (Restated*) / RM’000,words
+3,1,23,1,Treasury shares,,,,words
+3,1,23,2,"(976,300)",-976300.0,Treasury shares,31.03.2018 / RM’000,words
+3,1,23,3,"(911,258)",-911258.0,Treasury shares,31.12.2017 / (Restated*) / RM’000,words
+3,1,24,1,"18,906,652",18906652.0,Equity attributable to equity holders of the Company,31.03.2018 / RM’000,words
+3,1,24,2,"19,323,460",19323460.0,Equity attributable to equity holders of the Company,31.12.2017 / (Restated*) / RM’000,words
+3,1,25,1,Non-controlling interests,,,,words
+3,1,25,2,"(201,649)",-201649.0,Non-controlling interests,31.03.2018 / RM’000,words
+3,1,25,3,"(193,221)",-193221.0,Non-controlling interests,31.12.2017 / (Restated*) / RM’000,words
+3,1,26,1,TOTAL EQUITY,,,,words
+3,1,26,2,"18,705,003",18705003.0,TOTAL EQUITY,31.03.2018 / RM’000,words
+3,1,26,3,"19,130,239",19130239.0,TOTAL EQUITY,31.12.2017 / (Restated*) / RM’000,words
+3,1,27,1,Non-current liabilities,,,,words
+3,1,28,1,Other long term liabilities,,,,words
+3,1,28,2,"288,057",288057.0,Other long term liabilities,31.03.2018 / RM’000,words
+3,1,28,3,"277,924",277924.0,Other long term liabilities,31.12.2017 / (Restated*) / RM’000,words
+3,1,29,1,Long term borrowings,,,,words
+3,1,29,2,"6,555,096",6555096.0,Long term borrowings,31.03.2018 / RM’000,words
+3,1,29,3,"6,590,808",6590808.0,Long term borrowings,31.12.2017 / (Restated*) / RM’000,words
+3,1,30,1,Deferred tax liabilities,,,,words
+3,1,30,2,"733,439",733439.0,Deferred tax liabilities,31.03.2018 / RM’000,words
+3,1,30,3,"716,346",716346.0,Deferred tax liabilities,31.12.2017 / (Restated*) / RM’000,words
+3,1,31,1,"7,578,155",7578155.0,Non-current liabilities,31.03.2018 / RM’000,words
+3,1,31,2,"7,585,078",7585078.0,Non-current liabilities,31.12.2017 / (Restated*) / RM’000,words
+3,1,32,1,Current liabilities,,,,words
+3,1,33,1,Trade and other payables,,,,words
+3,1,33,2,"2,269,007",2269007.0,Trade and other payables,31.03.2018 / RM’000,words
+3,1,33,3,"2,665,749",2665749.0,Trade and other payables,31.12.2017 / (Restated*) / RM’000,words
+3,1,34,1,Amount due to holding company,,,,words
+3,1,34,2,"10,236",10236.0,Amount due to holding company,31.03.2018 / RM’000,words
+3,1,34,3,"21,615",21615.0,Amount due to holding company,31.12.2017 / (Restated*) / RM’000,words
+3,1,35,1,Amounts due to other related companies,,,,words
+3,1,35,2,"126,256",126256.0,Amounts due to other related companies,31.03.2018 / RM’000,words
+3,1,35,3,"156,960",156960.0,Amounts due to other related companies,31.12.2017 / (Restated*) / RM’000,words
+3,1,36,1,Short term borrowings,,,,words
+3,1,36,2,"285,747",285747.0,Short term borrowings,31.03.2018 / RM’000,words
+3,1,36,3,"309,461",309461.0,Short term borrowings,31.12.2017 / (Restated*) / RM’000,words
+3,1,37,1,Taxation,,,,words
+3,1,37,2,"18,700",18700.0,Taxation,31.03.2018 / RM’000,words
+3,1,37,3,"40,139",40139.0,Taxation,31.12.2017 / (Restated*) / RM’000,words
+3,1,38,1,"2,710,081",2710081.0,Current liabilities,31.03.2018 / RM’000,words
+3,1,38,2,"3,193,924",3193924.0,Current liabilities,31.12.2017 / (Restated*) / RM’000,words
+3,1,39,1,Liabilities classified as held for sale,,,,words
+3,1,39,2,"64,438",64438.0,Liabilities classified as held for sale,31.03.2018 / RM’000,words
+3,1,39,3,"59,182",59182.0,Liabilities classified as held for sale,31.12.2017 / (Restated*) / RM’000,words
+3,1,40,1,"2,774,519",2774519.0,Current liabilities,31.03.2018 / RM’000,words
+3,1,40,2,"3,253,106",3253106.0,Current liabilities,31.12.2017 / (Restated*) / RM’000,words
+3,1,41,1,TOTAL LIABILITIES,,,,words
+3,1,41,2,"10,352,674",10352674.0,TOTAL LIABILITIES,31.03.2018 / RM’000,words
+3,1,41,3,"10,838,184",10838184.0,TOTAL LIABILITIES,31.12.2017 / (Restated*) / RM’000,words
+3,1,42,1,TOTAL EQUITY AND LIABILITIES,,,,words
+3,1,42,2,"29,057,677",29057677.0,TOTAL EQUITY AND LIABILITIES,31.03.2018 / RM’000,words
+3,1,42,3,"29,968,423",29968423.0,TOTAL EQUITY AND LIABILITIES,31.12.2017 / (Restated*) / RM’000,words
+3,1,43,1,NET ASSETS PER SHARE (RM),,,,words
+3,1,43,2,3.34,3.34,NET ASSETS PER SHARE (RM),31.03.2018,words
+3,1,43,3,3.41,3.41,NET ASSETS PER SHARE (RM),31.12.2017 / (Restated*) / RM’000,words
+4,1,1,1,presented,,,,words
+4,1,1,2,"1,764,424",1764424.0,presented,Share / Capital / RM'000,words
+4,1,1,3,-,,,,words
+4,1,1,4,"1,521,430",1521430.0,presented,Other / Reserves / RM'000,words
+4,1,1,5,"(911,258)",-911258.0,presented,Treasury / Shares / RM'000,words
+4,1,1,6,"(21,678)",-21678.0,presented,Employee / Share Scheme / RM'000,words
+4,1,1,7,"16,982,093",16982093.0,presented,Retained / Earnings / RM'000,words
+4,1,1,8,"19,335,011",19335011.0,presented,Total / RM'000,words
+4,1,1,9,"(193,221) 19,141,790",,,,words
+4,1,2,1,Change in accounting policy*,,,,words
+4,1,2,2,-,,,,words
+4,1,2,3,-,,,,words
+4,1,2,4,-,,,,words
+4,1,2,5,-,,,,words
+4,1,2,6,-,,,,words
+4,1,2,7,"(11,551)",-11551.0,Change in accounting policy* - - - - -,Retained / Earnings / RM'000,words
+4,1,2,8,"(11,551)",-11551.0,Change in accounting policy* - - - - -,Total / RM'000,words
+4,1,2,9,-,,,,words
+4,1,2,10,"(11,551)",-11551.0,Change in accounting policy* - - - - -,Total Equity / RM'000,words
+4,1,3,1,Restated total equity at 1 January 2018,,,,words
+4,1,3,2,"1,764,424",1764424.0,Restated total equity at 1 January 2018,Share / Capital / RM'000,words
+4,1,3,3,-,,,,words
+4,1,3,4,"1,521,430",1521430.0,Restated total equity at 1 January 2018,Other / Reserves / RM'000,words
+4,1,3,5,"(911,258)",-911258.0,Restated total equity at 1 January 2018,Treasury / Shares / RM'000,words
+4,1,3,6,"(21,678)",-21678.0,Restated total equity at 1 January 2018,Employee / Share Scheme / RM'000,words
+4,1,3,7,"16,970,542",16970542.0,Restated total equity at 1 January 2018,Retained / Earnings / RM'000,words
+4,1,3,8,"19,323,460",19323460.0,Restated total equity at 1 January 2018,Total / RM'000,words
+4,1,3,9,"(193,221) 19,130,239",,,,words
+4,1,4,1,Profit/(Loss) for the financial period,,,,words
+4,1,4,2,-,,,,words
+4,1,4,3,-,,,,words
+4,1,4,4,-,,,,words
+4,1,4,5,-,,,,words
+4,1,4,6,-,,,,words
+4,1,4,7,"358,237",358237.0,Profit/(Loss) for the financial period - - - - -,Retained / Earnings / RM'000,words
+4,1,4,8,"358,237",358237.0,Profit/(Loss) for the financial period - - - - -,Total / RM'000,words
+4,1,4,9,"(16,171)",-16171.0,Profit/(Loss) for the financial period - - - - -,controlling / Interests / RM'000,words
+4,1,4,10,"342,066",342066.0,Profit/(Loss) for the financial period - - - - -,Total Equity / RM'000,words
+4,1,5,1,Other comprehensive (loss)/income,,,,words
+4,1,5,2,-,,,,words
+4,1,5,3,"(1,698)",-1698.0,Other comprehensive (loss)/income -,Hedges / Reserve / RM'000,words
+4,1,5,4,"(244,126)",-244126.0,Other comprehensive (loss)/income -,Other / Reserves / RM'000,words
+4,1,5,5,-,,,,words
+4,1,5,6,-,,,,words
+4,1,5,7,-,,,,words
+4,1,5,8,"(245,824)",-245824.0,Other comprehensive (loss)/income -,Total / RM'000,words
+4,1,5,9,"7,743",7743.0,Other comprehensive (loss)/income -,controlling / Interests / RM'000,words
+4,1,5,10,"(238,081)",-238081.0,Other comprehensive (loss)/income -,Total Equity / RM'000,words
+4,1,6,1,Total comprehensive (loss)/income for the,,,,words
+4,1,7,1,financial period,,,,words
+4,1,7,2,-,,,,words
+4,1,7,3,"(1,698)",-1698.0,financial period -,Hedges / Reserve / RM'000,words
+4,1,7,4,"(244,126)",-244126.0,financial period -,Other / Reserves / RM'000,words
+4,1,7,5,-,,,,words
+4,1,7,6,-,,,,words
+4,1,7,7,"358,237",358237.0,financial period -,Retained / Earnings / RM'000,words
+4,1,7,8,"112,413",112413.0,financial period -,Total / RM'000,words
+4,1,7,9,"(8,428)",-8428.0,financial period -,controlling / Interests / RM'000,words
+4,1,7,10,"103,985",103985.0,financial period -,Total Equity / RM'000,words
+4,1,8,1,Transactions with owners:,,,,words
+4,1,9,1,Buy-back of shares,,,,words
+4,1,9,2,-,,,,words
+4,1,9,3,-,,,,words
+4,1,9,4,-,,,,words
+4,1,9,5,"(88,664)",-88664.0,Buy-back of shares - - -,Treasury / Shares / RM'000,words
+4,1,9,6,-,,,,words
+4,1,9,7,-,,,,words
+4,1,9,8,"(88,664)",-88664.0,Buy-back of shares - - -,Total / RM'000,words
+4,1,9,9,-,,,,words
+4,1,9,10,"(88,664)",-88664.0,Buy-back of shares - - -,Total Equity / RM'000,words
+4,1,10,1,Performance-based employee share scheme,,,,words
+4,1,10,2,-,,,,words
+4,1,10,3,-,,,,words
+4,1,10,4,"11,724",11724.0,Performance-based employee share scheme - -,Other / Reserves / RM'000,words
+4,1,10,5,-,,,,words
+4,1,10,6,-,,,,words
+4,1,10,7,-,,,,words
+4,1,10,8,"11,724",11724.0,Performance-based employee share scheme - -,Total / RM'000,words
+4,1,10,9,-,,,,words
+4,1,10,10,"11,724",11724.0,Performance-based employee share scheme - -,Total Equity / RM'000,words
+4,1,11,1,Employee share scheme shares vested to,,,,words
+4,1,12,1,employees,,,,words
+4,1,12,2,-,,,,words
+4,1,12,3,-,,,,words
+4,1,12,4,"(45,300)",-45300.0,employees - -,Other / Reserves / RM'000,words
+4,1,12,5,"23,622",23622.0,employees - -,Treasury / Shares / RM'000,words
+4,1,12,6,"21,678",21678.0,employees - -,Employee / Share Scheme / RM'000,words
+4,1,12,7,-,,,,words
+4,1,12,8,-,,,,words
+4,1,12,9,-,,,,words
+4,1,12,10,-,,,,words
+4,1,13,1,Transfer of employee share scheme shares,,,,words
+4,1,14,1,purchase price difference on shares vested,,,,words
+4,1,14,2,-,,,,words
+4,1,14,3,-,,,,words
+4,1,14,4,"(5,253)",-5253.0,purchase price difference on shares vested - -,Other / Reserves / RM'000,words
+4,1,14,5,-,,,,words
+4,1,14,6,-,,,,words
+4,1,14,7,"5,253",5253.0,purchase price difference on shares vested - -,Retained / Earnings / RM'000,words
+4,1,14,8,-,,,,words
+4,1,14,9,-,,,,words
+4,1,14,10,-,,,,words
+4,1,15,1,Appropriation:,,,,words
+4,1,16,1,Special single-tier dividend declared for the year,,,,words
+4,1,17,1,ended 31 December 2017,,,,words
+4,1,17,2,-,,,,words
+4,1,17,3,-,,,,words
+4,1,17,4,-,,,,words
+4,1,17,5,-,,,,words
+4,1,17,6,-,,,,words
+4,1,17,7,"(452,281)",-452281.0,ended 31 December 2017 - - - - -,Retained / Earnings / RM'000,words
+4,1,17,8,"(452,281)",-452281.0,ended 31 December 2017 - - - - -,Total / RM'000,words
+4,1,17,9,-,,,,words
+4,1,17,10,"(452,281)",-452281.0,ended 31 December 2017 - - - - -,Total Equity / RM'000,words
+4,1,18,1,Total transactions with owners,,,,words
+4,1,18,2,-,,,,words
+4,1,18,3,-,,,,words
+4,1,18,4,"(38,829)",-38829.0,Total transactions with owners - -,Other / Reserves / RM'000,words
+4,1,18,5,"(65,042)",-65042.0,Total transactions with owners - -,Treasury / Shares / RM'000,words
+4,1,18,6,"21,678",21678.0,Total transactions with owners - -,Employee / Share Scheme / RM'000,words
+4,1,18,7,"(447,028)",-447028.0,Total transactions with owners - -,Retained / Earnings / RM'000,words
+4,1,18,8,"(529,221)",-529221.0,Total transactions with owners - -,Total / RM'000,words
+4,1,18,9,-,,,,words
+4,1,18,10,"(529,221)",-529221.0,Total transactions with owners - -,Total Equity / RM'000,words
+4,1,19,1,At 31 March 2018,,,,words
+4,1,19,2,"1,764,424",1764424.0,At 31 March 2018,Share / Capital / RM'000,words
+4,1,19,3,"(1,698)",-1698.0,At 31 March 2018,Hedges / Reserve / RM'000,words
+4,1,19,4,"1,238,475",1238475.0,At 31 March 2018,Other / Reserves / RM'000,words
+4,1,19,5,"(976,300)",-976300.0,At 31 March 2018,Treasury / Shares / RM'000,words
+4,1,19,6,-,,,,words
+4,1,19,7,"16,881,751",16881751.0,At 31 March 2018,Retained / Earnings / RM'000,words
+4,1,19,8,"18,906,652",18906652.0,At 31 March 2018,Total / RM'000,words
+4,1,19,9,"(201,649) 18,705,003",,,,words
+5,1,1,1,At 1 January 2017,,,,words
+5,1,1,2,"593,804",593804.0,At 1 January 2017,Share / Capital / RM'000,words
+5,1,1,3,"1,170,620",1170620.0,At 1 January 2017,Share / Premium / RM'000,words
+5,1,1,4,(739),-739.0,At 1 January 2017,Cash Flow / Hedges / Reserve / RM'000,words
+5,1,1,5,"2,250,313",2250313.0,At 1 January 2017,Other / Reserves / RM'000,words
+5,1,1,6,"(911,258)",-911258.0,At 1 January 2017,Treasury / Shares / RM'000,words
+5,1,1,7,"(45,769) 16,808,047",,,,words
+5,1,1,8,"19,865,018",19865018.0,At 1 January 2017,Total / RM'000,words
+5,1,1,9,"(119,653) 19,745,365",,,,words
+5,1,2,1,Change in accounting policy*,,,,words
+5,1,2,2,-,,,,words
+5,1,2,3,-,,,,words
+5,1,2,4,-,,,,words
+5,1,2,5,-,,,,words
+5,1,2,6,-,,,,words
+5,1,2,7,-,,,,words
+5,1,2,8,"(13,149)",-13149.0,Change in accounting policy* - - - - - -,Retained / Earnings / RM'000,words
+5,1,2,9,"(13,149)",-13149.0,Change in accounting policy* - - - - - -,Total / RM'000,words
+5,1,2,10,-,,,,words
+5,1,2,11,"(13,149)",-13149.0,Change in accounting policy* - - - - - -,Total Equity / RM'000,words
+5,1,3,1,Restated total equity at the beginning of the,,,,words
+5,1,4,1,"593,804",593804.0,Restated total equity at the beginning of the,Share / Capital / RM'000,words
+5,1,4,2,"1,170,620",1170620.0,Restated total equity at the beginning of the,Share / Premium / RM'000,words
+5,1,4,3,(739),-739.0,Restated total equity at the beginning of the,Cash Flow / Hedges / Reserve / RM'000,words
+5,1,4,4,"2,250,313",2250313.0,Restated total equity at the beginning of the,Other / Reserves / RM'000,words
+5,1,4,5,"(911,258)",-911258.0,Restated total equity at the beginning of the,Treasury / Shares / RM'000,words
+5,1,4,6,"(45,769) 16,794,898",,,,words
+5,1,4,7,"19,851,869",19851869.0,Restated total equity at the beginning of the,Total / RM'000,words
+5,1,4,8,"(119,653) 19,732,216",,,,words
+5,1,5,1,financial year,,,,words
+5,1,6,1,Profit/(loss) for the financial period (restated*),,,,words
+5,1,6,2,-,,,,words
+5,1,6,3,-,,,,words
+5,1,6,4,-,,,,words
+5,1,6,5,-,,,,words
+5,1,6,6,-,,,,words
+5,1,6,7,-,,,,words
+5,1,6,8,"323,915",323915.0,Profit/(loss) for the financial period (restated*) - - - - - -,Retained / Earnings / RM'000,words
+5,1,6,9,"323,915",323915.0,Profit/(loss) for the financial period (restated*) - - - - - -,Total / RM'000,words
+5,1,6,10,"(28,629)",-28629.0,Profit/(loss) for the financial period (restated*) - - - - - -,Non- / controlling / Interests / RM'000,words
+5,1,6,11,"295,286",295286.0,Profit/(loss) for the financial period (restated*) - - - - - -,Total Equity / RM'000,words
+5,1,7,1,Other comprehensive (loss)/income,,,,words
+5,1,7,2,-,,,,words
+5,1,7,3,-,,,,words
+5,1,7,4,"(2,125)",-2125.0,Other comprehensive (loss)/income - -,Cash Flow / Hedges / Reserve / RM'000,words
+5,1,7,5,"(70,581)",-70581.0,Other comprehensive (loss)/income - -,Other / Reserves / RM'000,words
+5,1,7,6,-,,,,words
+5,1,7,7,-,,,,words
+5,1,7,8,-,,,,words
+5,1,7,9,"(72,706)",-72706.0,Other comprehensive (loss)/income - -,Total / RM'000,words
+5,1,7,10,"1,392",1392.0,Other comprehensive (loss)/income - -,Non- / controlling / Interests / RM'000,words
+5,1,7,11,"(71,314)",-71314.0,Other comprehensive (loss)/income - -,Total Equity / RM'000,words
+5,1,8,1,Total comprehensive (loss)/income for the,,,,words
+5,1,9,1,financial period,,,,words
+5,1,9,2,-,,,,words
+5,1,9,3,-,,,,words
+5,1,9,4,"(2,125)",-2125.0,financial period - -,Cash Flow / Hedges / Reserve / RM'000,words
+5,1,9,5,"(70,581)",-70581.0,financial period - -,Other / Reserves / RM'000,words
+5,1,9,6,-,,,,words
+5,1,9,7,-,,,,words
+5,1,9,8,"323,915",323915.0,financial period - -,Retained / Earnings / RM'000,words
+5,1,9,9,"251,209",251209.0,financial period - -,Total / RM'000,words
+5,1,9,10,"(27,237)",-27237.0,financial period - -,Non- / controlling / Interests / RM'000,words
+5,1,9,11,"223,972",223972.0,financial period - -,Total Equity / RM'000,words
+5,1,10,1,Transactions with owners:,,,,words
+5,1,11,1,Performance-based employee share scheme,,,,words
+5,1,11,2,-,,,,words
+5,1,11,3,-,,,,words
+5,1,11,4,-,,,,words
+5,1,11,5,"11,280",11280.0,Performance-based employee share scheme - - -,Other / Reserves / RM'000,words
+5,1,11,6,-,,,,words
+5,1,11,7,-,,,,words
+5,1,11,8,-,,,,words
+5,1,11,9,"11,280",11280.0,Performance-based employee share scheme - - -,Total / RM'000,words
+5,1,11,10,-,,,,words
+5,1,11,11,"11,280",11280.0,Performance-based employee share scheme - - -,Total Equity / RM'000,words
+5,1,12,1,Employee share scheme shares vested to,,,,words
+5,1,13,1,employees,,,,words
+5,1,13,2,-,,,,words
+5,1,13,3,-,,,,words
+5,1,13,4,-,,,,words
+5,1,13,5,"(24,091)",-24091.0,employees - - -,Other / Reserves / RM'000,words
+5,1,13,6,-,,,,words
+5,1,13,7,"24,091",24091.0,employees - - -,Shares held / for Employee / Share Scheme / RM'000,words
+5,1,13,8,-,,,,words
+5,1,13,9,-,,,,words
+5,1,13,10,-,,,,words
+5,1,13,11,-,,,,words
+5,1,14,1,Appropriation:,,,,words
+5,1,15,1,Special single-tier dividend declared for the year,,,,words
+5,1,16,1,ended 31 December 2016,,,,words
+5,1,16,2,-,,,,words
+5,1,16,3,-,,,,words
+5,1,16,4,-,,,,words
+5,1,16,5,-,,,,words
+5,1,16,6,-,,,,words
+5,1,16,7,-,,,,words
+5,1,16,8,"(412,976)",-412976.0,ended 31 December 2016 - - - - - -,Retained / Earnings / RM'000,words
+5,1,16,9,"(412,976)",-412976.0,ended 31 December 2016 - - - - - -,Total / RM'000,words
+5,1,16,10,-,,,,words
+5,1,16,11,"(412,976)",-412976.0,ended 31 December 2016 - - - - - -,Total Equity / RM'000,words
+5,1,17,1,Total transactions with owners,,,,words
+5,1,17,2,-,,,,words
+5,1,17,3,-,,,,words
+5,1,17,4,-,,,,words
+5,1,17,5,"(12,811)",-12811.0,Total transactions with owners - - -,Other / Reserves / RM'000,words
+5,1,17,6,-,,,,words
+5,1,17,7,"24,091",24091.0,Total transactions with owners - - -,Shares held / for Employee / Share Scheme / RM'000,words
+5,1,17,8,"(412,976)",-412976.0,Total transactions with owners - - -,Retained / Earnings / RM'000,words
+5,1,17,9,"(401,696)",-401696.0,Total transactions with owners - - -,Total / RM'000,words
+5,1,17,10,-,,,,words
+5,1,17,11,"(401,696)",-401696.0,Total transactions with owners - - -,Total Equity / RM'000,words
+5,1,18,1,At 31 March 2017 (restated*),,,,words
+5,1,18,2,"1,764,424",1764424.0,At 31 March 2017 (restated*),Share / Capital / RM'000,words
+5,1,18,3,-,,,,words
+5,1,18,4,"(2,864)",-2864.0,At 31 March 2017 (restated*),Cash Flow / Hedges / Reserve / RM'000,words
+5,1,18,5,"2,166,921",2166921.0,At 31 March 2017 (restated*),Other / Reserves / RM'000,words
+5,1,18,6,"(911,258)",-911258.0,At 31 March 2017 (restated*),Treasury / Shares / RM'000,words
+5,1,18,7,"(21,678) 16,705,837",,,,words
+5,1,18,8,"19,701,382",19701382.0,At 31 March 2017 (restated*),Total / RM'000,words
+5,1,18,9,"(146,890) 19,554,492",,,,words
+6,1,1,1,2018,2018.0,,UNAUDITED / Three months ended / 31 March,words
+6,1,1,2,2017,2017.0,,Three months ended,words
+6,1,2,1,(Restated*),,,,words
+6,1,3,1,RM’000,,,,words
+6,1,3,2,RM’000,,,,words
+6,1,4,1,CASH FLOWS FROM OPERATING ACTIVITIES,,,,words
+6,1,5,1,Profit before taxation,,,,words
+6,1,5,2,"397,513",397513.0,Profit before taxation,UNAUDITED / Three months ended / 31 March,words
+6,1,5,3,"344,726",344726.0,Profit before taxation,Three months ended,words
+6,1,6,1,Adjustments for:,,,,words
+6,1,7,1,Depreciation and amortisation,,,,words
+6,1,7,2,"240,649",240649.0,Depreciation and amortisation,UNAUDITED / Three months ended / 31 March,words
+6,1,7,3,"248,326",248326.0,Depreciation and amortisation,Three months ended,words
+6,1,8,1,"Property, plant and equipment written off",,,,words
+6,1,8,2,"15,729",15729.0,"Property, plant and equipment written off",UNAUDITED / Three months ended / 31 March,words
+6,1,8,3,887,887.0,"Property, plant and equipment written off",,words
+6,1,9,1,"Net gain on disposal of property, plant and equipment",,,,words
+6,1,9,2,(190),-190.0,"Net gain on disposal of property, plant and equipment",UNAUDITED / Three months ended / 31 March,words
+6,1,9,3,(225),-225.0,"Net gain on disposal of property, plant and equipment",Three months ended,words
+6,1,10,1,Finance costs,,,,words
+6,1,10,2,"34,927",34927.0,Finance costs,UNAUDITED / Three months ended / 31 March,words
+6,1,10,3,"19,086",19086.0,Finance costs,Three months ended,words
+6,1,11,1,Interest income,,,,words
+6,1,11,2,"(79,397)",-79397.0,Interest income,UNAUDITED / Three months ended / 31 March,words
+6,1,11,3,"(70,748)",-70748.0,Interest income,Three months ended,words
+6,1,12,1,Investment income,,,,words
+6,1,12,2,"(1,535)",-1535.0,Investment income,UNAUDITED / Three months ended / 31 March,words
+6,1,12,3,"(5,154)",-5154.0,Investment income,Three months ended,words
+6,1,13,1,Employee share grant scheme expenses,,,,words
+6,1,13,2,"11,724",11724.0,Employee share grant scheme expenses,UNAUDITED / Three months ended / 31 March,words
+6,1,13,3,"11,280",11280.0,Employee share grant scheme expenses,Three months ended,words
+6,1,14,1,Net exchange loss – unrealised,,,,words
+6,1,14,2,"46,820",46820.0,Net exchange loss – unrealised,UNAUDITED / Three months ended / 31 March,words
+6,1,14,3,"16,327",16327.0,Net exchange loss – unrealised,Three months ended,words
+6,1,15,1,Other non-cash items and adjustments,,,,words
+6,1,15,2,"1,483",1483.0,Other non-cash items and adjustments,UNAUDITED / Three months ended / 31 March,words
+6,1,15,3,"2,847",2847.0,Other non-cash items and adjustments,Three months ended,words
+6,1,16,1,"270,210",270210.0,Adjustments for:,UNAUDITED / Three months ended / 31 March,words
+6,1,16,2,"222,626",222626.0,Adjustments for:,Three months ended,words
+6,1,17,1,Operating profit before working capital changes,,,,words
+6,1,17,2,"667,723",667723.0,Operating profit before working capital changes,UNAUDITED / Three months ended / 31 March,words
+6,1,17,3,"567,352",567352.0,Operating profit before working capital changes,Three months ended,words
+6,1,18,1,Net change in current assets,,,,words
+6,1,18,2,"(7,240)",-7240.0,Net change in current assets,UNAUDITED / Three months ended / 31 March,words
+6,1,18,3,"(1,966)",-1966.0,Net change in current assets,Three months ended,words
+6,1,19,1,Net change in current liabilities,,,,words
+6,1,19,2,"(331,207)",-331207.0,Net change in current liabilities,UNAUDITED / Three months ended / 31 March,words
+6,1,19,3,"(131,448)",-131448.0,Net change in current liabilities,Three months ended,words
+6,1,20,1,"(338,447)",-338447.0,Adjustments for:,UNAUDITED / Three months ended / 31 March,words
+6,1,20,2,"(133,414)",-133414.0,Adjustments for:,UNAUDITED / Three months ended,words
+6,1,21,1,Cash generated from operations,,,,words
+6,1,21,2,"329,276",329276.0,Cash generated from operations,UNAUDITED / Three months ended / 31 March,words
+6,1,21,3,"433,938",433938.0,Cash generated from operations,Three months ended,words
+6,1,22,1,Net tax refund,,,,words
+6,1,22,2,"58,231",58231.0,Net tax refund,UNAUDITED / Three months ended / 31 March,words
+6,1,22,3,514,514.0,Net tax refund,,words
+6,1,23,1,Retirement gratuities paid,,,,words
+6,1,23,2,(867),-867.0,Retirement gratuities paid,UNAUDITED / Three months ended / 31 March,words
+6,1,23,3,(929),-929.0,Retirement gratuities paid,Three months ended,words
+6,1,24,1,Onerous lease paid,,,,words
+6,1,24,2,"(1,260)",-1260.0,Onerous lease paid,UNAUDITED / Three months ended / 31 March,words
+6,1,24,3,"(90,596)",-90596.0,Onerous lease paid,Three months ended,words
+6,1,25,1,"56,104",56104.0,Adjustments for:,UNAUDITED / Three months ended / 31 March,words
+6,1,25,2,"(91,011)",-91011.0,Adjustments for:,Three months ended,words
+6,1,26,1,Net Cash Flow From Operating Activities,,,,words
+6,1,26,2,"385,380",385380.0,Net Cash Flow From Operating Activities,UNAUDITED / Three months ended / 31 March,words
+6,1,26,3,"342,927",342927.0,Net Cash Flow From Operating Activities,Three months ended,words
+6,1,27,1,CASH FLOWS FROM INVESTING ACTIVITIES,,,,words
+6,1,28,1,"Purchase of property, plant and equipment",,,,words
+6,1,28,2,"(416,854)",-416854.0,"Purchase of property, plant and equipment",UNAUDITED / Three months ended / 31 March,words
+6,1,28,3,"(884,903)",-884903.0,"Purchase of property, plant and equipment",Three months ended,words
+6,1,29,1,"Proceeds from disposal of property, plant and equipment",,,,words
+6,1,29,2,"62,074",62074.0,"Proceeds from disposal of property, plant and equipment",UNAUDITED / Three months ended / 31 March,words
+6,1,29,3,559,559.0,"Proceeds from disposal of property, plant and equipment",,words
+6,1,30,1,Purchase of investments,,,,words
+6,1,30,2,"(100,000)",-100000.0,Purchase of investments,UNAUDITED / Three months ended / 31 March,words
+6,1,30,3,"(13,417)",-13417.0,Purchase of investments,Three months ended,words
+6,1,31,1,Proceeds from disposal of investments,,,,words
+6,1,31,2,"120,000",120000.0,Proceeds from disposal of investments,UNAUDITED / Three months ended / 31 March,words
+6,1,31,3,"80,000",80000.0,Proceeds from disposal of investments,Three months ended,words
+6,1,32,1,Interest received,,,,words
+6,1,32,2,"23,298",23298.0,Interest received,UNAUDITED / Three months ended / 31 March,words
+6,1,32,3,"11,799",11799.0,Interest received,Three months ended,words
+6,1,33,1,Other investing activities,,,,words
+6,1,33,2,"5,965",5965.0,Other investing activities,UNAUDITED / Three months ended / 31 March,words
+6,1,33,3,"2,892",2892.0,Other investing activities,Three months ended,words
+6,1,34,1,Net Cash Flow From Investing Activities,,,,words
+6,1,34,2,"(305,517)",-305517.0,Net Cash Flow From Investing Activities,UNAUDITED / Three months ended / 31 March,words
+6,1,34,3,"(803,070)",-803070.0,Net Cash Flow From Investing Activities,Three months ended,words
+6,1,35,1,CASH FLOWS FROM FINANCING ACTIVITIES,,,,words
+6,1,36,1,Repayment of borrowings and transaction costs,,,,words
+6,1,36,2,"(26,934)",-26934.0,Repayment of borrowings and transaction costs,UNAUDITED / Three months ended / 31 March,words
+6,1,36,3,"(80,210)",-80210.0,Repayment of borrowings and transaction costs,Three months ended,words
+6,1,37,1,Restricted cash,,,,words
+6,1,37,2,(22),-22.0,Restricted cash,UNAUDITED / Three months ended / 31 March,words
+6,1,37,3,834,834.0,Restricted cash,,words
+6,1,38,1,Dividend paid,,,,words
+6,1,38,2,"(452,281)",-452281.0,Dividend paid,UNAUDITED / Three months ended / 31 March,words
+6,1,38,3,"(412,976)",-412976.0,Dividend paid,Three months ended,words
+6,1,39,1,Finance costs paid,,,,words
+6,1,39,2,"(133,165)",-133165.0,Finance costs paid,UNAUDITED / Three months ended / 31 March,words
+6,1,39,3,"(77,302)",-77302.0,Finance costs paid,Three months ended,words
+6,1,40,1,Net Cash Flow From Financing Activities,,,,words
+6,1,40,2,"(701,066)",-701066.0,Net Cash Flow From Financing Activities,UNAUDITED / Three months ended / 31 March,words
+6,1,40,3,"2,297,256",2297256.0,Net Cash Flow From Financing Activities,UNAUDITED / Three months ended,words
+6,1,41,1,NET MOVEMENT IN CASH AND CASH EQUIVALENTS,,,,words
+6,1,41,2,"(621,203)",-621203.0,NET MOVEMENT IN CASH AND CASH EQUIVALENTS,UNAUDITED / Three months ended / 31 March,words
+6,1,41,3,"1,837,113",1837113.0,NET MOVEMENT IN CASH AND CASH EQUIVALENTS,UNAUDITED / Three months ended,words
+6,1,42,1,CASH AND CASH EQUIVALENTS AT BEGINNING OF FINANCIAL PERIOD,,,,words
+6,1,42,2,"5,996,559",5996559.0,CASH AND CASH EQUIVALENTS AT BEGINNING OF FINANCIAL PERIOD,UNAUDITED / Three months ended / 31 March,words
+6,1,42,3,"4,855,700",4855700.0,CASH AND CASH EQUIVALENTS AT BEGINNING OF FINANCIAL PERIOD,UNAUDITED / Three months ended,words
+6,1,43,1,EFFECT OF CURRENCY TRANSLATION,,,,words
+6,1,43,2,"(35,916)",-35916.0,EFFECT OF CURRENCY TRANSLATION,UNAUDITED / Three months ended / 31 March,words
+6,1,43,3,"(20,078)",-20078.0,EFFECT OF CURRENCY TRANSLATION,Three months ended,words
+6,1,44,1,CASH AND CASH EQUIVALENTS AT END OF FINANCIAL PERIOD,,,,words
+6,1,44,2,"5,339,440",5339440.0,CASH AND CASH EQUIVALENTS AT END OF FINANCIAL PERIOD,UNAUDITED / Three months ended / 31 March,words
+6,1,44,3,"6,672,735",6672735.0,CASH AND CASH EQUIVALENTS AT END OF FINANCIAL PERIOD,UNAUDITED / Three months ended,words
+6,1,45,1,ANALYSIS OF CASH AND CASH EQUIVALENTS,,,,words
+6,1,46,1,Bank balances and deposits,,,,words
+6,1,46,2,"2,494,428",2494428.0,Bank balances and deposits,UNAUDITED / Three months ended / 31 March,words
+6,1,46,3,"2,018,849",2018849.0,Bank balances and deposits,UNAUDITED / Three months ended,words
+6,1,47,1,Money market instruments,,,,words
+6,1,47,2,"2,845,012",2845012.0,Money market instruments,UNAUDITED / Three months ended / 31 March,words
+6,1,47,3,"4,653,886",4653886.0,Money market instruments,UNAUDITED / Three months ended,words
+6,1,48,1,CASH AND CASH EQUIVALENTS AT END OF FINANCIAL PERIOD,,,,words
+6,1,48,2,"5,339,440",5339440.0,CASH AND CASH EQUIVALENTS AT END OF FINANCIAL PERIOD,UNAUDITED / Three months ended / 31 March,words
+6,1,48,3,"6,672,735",6672735.0,CASH AND CASH EQUIVALENTS AT END OF FINANCIAL PERIOD,UNAUDITED / Three months ended,words
+8,1,1,1,Available-for-sale financial assets,,,,words
+8,1,1,2,"144,964",144964.0,Available-for-sale financial assets,As at / 31 Dec 2017 / RM’000,words
+8,1,1,3,"(144,964)",-144964.0,Available-for-sale financial assets,Effects of adoption / of MFRS 9 / RM’000,words
+8,1,1,4,-,,,,words
+8,1,2,1,Financial assets at fair value through other,,,,words
+8,1,3,1,comprehensive income,,,,words
+8,1,3,2,-,,,,words
+8,1,3,3,"144,964",144964.0,comprehensive income -,Effects of adoption / of MFRS 9 / RM’000,words
+8,1,3,4,"144,964",144964.0,comprehensive income -,As at / 1 Jan 2018 / RM’000,words
+8,1,4,1,Current assets,,,,words
+8,1,5,1,Available-for-sale financial assets,,,,words
+8,1,5,2,"120,000",120000.0,Available-for-sale financial assets,As at / 31 Dec 2017 / RM’000,words
+8,1,5,3,"(120,000)",-120000.0,Available-for-sale financial assets,Effects of adoption / of MFRS 9 / RM’000,words
+8,1,5,4,-,,,,words
+8,1,6,1,Financial assets at fair value through profit,,,,words
+8,1,7,1,or loss,,,,words
+8,1,7,2,"7,443",7443.0,or loss,As at / 31 Dec 2017 / RM’000,words
+8,1,7,3,"120,000",120000.0,or loss,Effects of adoption / of MFRS 9 / RM’000,words
+8,1,7,4,"127,443",127443.0,or loss,As at / 1 Jan 2018 / RM’000,words
+8,2,1,1,Retained earnings,,,,words
+8,2,1,2,"16,808,047",16808047.0,Retained earnings,As at / 31 Dec 2016 / RM’000,words
+8,2,1,3,"(13,149)",-13149.0,Retained earnings,Effects of adoption of / MFRS 15 / RM’000,words
+8,2,1,4,"16,794,898",16794898.0,Retained earnings,(Restated) / As at / 1 Jan 2017 / RM’000,words
+8,2,2,1,Other long term liabilities,,,,words
+8,2,2,2,"220,337",220337.0,Other long term liabilities,As at / 31 Dec 2016 / RM’000,words
+8,2,2,3,"11,958",11958.0,Other long term liabilities,Effects of adoption of / MFRS 15 / RM’000,words
+8,2,2,4,"232,295",232295.0,Other long term liabilities,(Restated) / As at / 1 Jan 2017 / RM’000,words
+8,2,3,1,Trade and other payables,,,,words
+8,2,3,2,"2,738,495",2738495.0,Trade and other payables,As at / 31 Dec 2016 / RM’000,words
+8,2,3,3,"1,191",1191.0,Trade and other payables,Effects of adoption of / MFRS 15 / RM’000,words
+8,2,3,4,"2,739,686",2739686.0,Trade and other payables,(Restated) / As at / 1 Jan 2017 / RM’000,words
+8,3,1,1,Retained earnings,,,,words
+8,3,1,2,"16,982,093",16982093.0,Retained earnings,As at / 31 Dec 2017 / RM’000,words
+8,3,1,3,"(11,551)",-11551.0,Retained earnings,Effects of adoption of / MFRS 15 / RM’000,words
+8,3,1,4,"16,970,542",16970542.0,Retained earnings,(Restated) / As at / 1 Jan 2018 / RM’000,words
+8,3,2,1,Other long term liabilities,,,,words
+8,3,2,2,"267,524",267524.0,Other long term liabilities,As at / 31 Dec 2017 / RM’000,words
+8,3,2,3,"10,400",10400.0,Other long term liabilities,Effects of adoption of / MFRS 15 / RM’000,words
+8,3,2,4,"277,924",277924.0,Other long term liabilities,(Restated) / As at / 1 Jan 2018 / RM’000,words
+8,3,3,1,Trade and other payables,,,,words
+8,3,3,2,"2,664,598",2664598.0,Trade and other payables,As at / 31 Dec 2017 / RM’000,words
+8,3,3,3,"1,151",1151.0,Trade and other payables,Effects of adoption of / MFRS 15 / RM’000,words
+8,3,3,4,"2,665,749",2665749.0,Trade and other payables,(Restated) / As at / 1 Jan 2018 / RM’000,words
+9,1,1,1,Revenue,,,,words
+9,1,1,2,"2,223,818",2223818.0,Revenue,Three months / ended / 31 Mar 2017 / RM’000,words
+9,1,1,3,400,400.0,Revenue,Effects of adoption of / MFRS 15 / RM’000,words
+9,1,1,4,"2,224,218",2224218.0,Revenue,Three months / ended / 31 Mar 2017 / RM’000,words
+9,1,2,1,Profit before taxation,,,,words
+9,1,2,2,"344,326",344326.0,Profit before taxation,Three months / ended / 31 Mar 2017 / RM’000,words
+9,1,2,3,400,400.0,Profit before taxation,Effects of adoption of / MFRS 15 / RM’000,words
+9,1,2,4,"344,726",344726.0,Profit before taxation,Three months / ended / 31 Mar 2017 / RM’000,words
+9,1,3,1,Profit for the financial period,,,,words
+9,1,3,2,"294,886",294886.0,Profit for the financial period,Three months / ended / 31 Mar 2017 / RM’000,words
+9,1,3,3,400,400.0,Profit for the financial period,Effects of adoption of / MFRS 15 / RM’000,words
+9,1,3,4,"295,286",295286.0,Profit for the financial period,Three months / ended / 31 Mar 2017 / RM’000,words
+9,1,4,1,Profit attributable to:,,,,words
+9,1,5,1,Equity holders of the Company,,,,words
+9,1,5,2,"323,515",323515.0,Equity holders of the Company,Three months / ended / 31 Mar 2017 / RM’000,words
+9,1,5,3,400,400.0,Equity holders of the Company,Effects of adoption of / MFRS 15 / RM’000,words
+9,1,5,4,"323,915",323915.0,Equity holders of the Company,Three months / ended / 31 Mar 2017 / RM’000,words
+9,1,6,1,Non-controlling interests,,,,words
+9,1,6,2,"(28,629)",-28629.0,Non-controlling interests,Three months / ended / 31 Mar 2017 / RM’000,words
+9,1,6,3,-,,,,words
+9,1,6,4,"(28,629)",-28629.0,Non-controlling interests,Three months / ended / 31 Mar 2017 / RM’000,words
+9,1,7,1,Earnings per share (sen):,,,,words
+9,1,8,1,- Basic,,,,words
+9,1,8,2,5.72,5.72,- Basic,Three months / ended / 31 Mar 2017 / RM’000,words
+9,1,8,3,0.01,0.01,- Basic,Effects of adoption of / MFRS 15 / RM’000,words
+9,1,8,4,5.73,5.73,- Basic,Three months / ended / 31 Mar 2017 / RM’000,words
+9,1,9,1,- Diluted,,,,words
+9,1,9,2,5.71,5.71,- Diluted,Three months / ended / 31 Mar 2017 / RM’000,words
+9,1,9,3,0.01,0.01,- Diluted,Effects of adoption of / MFRS 15 / RM’000,words
+9,1,9,4,5.72,5.72,- Diluted,Three months / ended / 31 Mar 2017 / RM’000,words
+10,1,1,1,Total revenue,,,,words
+10,1,1,2,"1,601.3",1601.3,Total revenue,Malaysia / RM’Mil,words
+10,1,1,3,412.4,412.4,Total revenue,Kingdom / and / Egypt / RM’Mil,words
+10,1,1,4,346.4,346.4,Total revenue,of America / and / Bahamas / RM’Mil,words
+10,1,1,5,"2,360.1",2360.1,Total revenue,Total / RM’Mil,words
+10,1,1,6,32.3,32.3,Total revenue,RM’Mil,words
+10,1,1,7,46.5,46.5,Total revenue,RM’Mil,words
+10,1,1,8,"2,438.9",2438.9,Total revenue,RM’Mil,words
+10,1,2,1,Inter segment,,,,words
+10,1,2,2,(1.8),-1.8,Inter segment,Malaysia / RM’Mil,words
+10,1,2,3,-,,,,words
+10,1,2,4,-,,,,words
+10,1,2,5,(1.8),-1.8,Inter segment,Total / RM’Mil,words
+10,1,2,6,(3.4),-3.4,Inter segment,RM’Mil,words
+10,1,2,7,(34.2),-34.2,Inter segment,RM’Mil,words
+10,1,2,8,(39.4),-39.4,Inter segment,RM’Mil,words
+10,1,3,1,External,,,,words
+10,1,3,2,"1,599.5",1599.5,External,Malaysia / RM’Mil,words
+10,1,3,3,412.4,412.4,External,Kingdom / and / Egypt / RM’Mil,words
+10,1,3,4,346.4,346.4,External,of America / and / Bahamas / RM’Mil,words
+10,1,3,5,"2,358.3",2358.3,External,Total / RM’Mil,words
+10,1,3,6,28.9,28.9,External,RM’Mil,words
+10,1,3,7,12.3,12.3,External,RM’Mil,words
+10,1,3,8,"2,399.5",2399.5,External,RM’Mil,words
+10,1,4,1,Adjusted EBITDA,,,,words
+10,1,4,2,533.7,533.7,Adjusted EBITDA,Malaysia / RM’Mil,words
+10,1,4,3,30.6,30.6,Adjusted EBITDA,Kingdom / and / Egypt / RM’Mil,words
+10,1,4,4,64.8,64.8,Adjusted EBITDA,of America / and / Bahamas / RM’Mil,words
+10,1,4,5,629.1,629.1,Adjusted EBITDA,Total / RM’Mil,words
+10,1,4,6,19.9,19.9,Adjusted EBITDA,RM’Mil,words
+10,1,4,7,(41.3),-41.3,Adjusted EBITDA,RM’Mil,words
+10,1,4,8,607.7,607.7,Adjusted EBITDA,RM’Mil,words
+11,1,1,1,Segment Assets,,,,words
+11,1,1,2,"11,032.9",11032.9,Segment Assets,Malaysia / RM’Mil,words
+11,1,1,3,"4,575.2",4575.2,Segment Assets,United / Kingdom / and / Egypt / RM’Mil,words
+11,1,1,4,"4,871.2",4871.2,Segment Assets,States / of America / and / Bahamas / RM’Mil,words
+11,1,1,5,"20,479.3",20479.3,Segment Assets,Total / RM’Mil,words
+11,1,1,6,"2,445.3",2445.3,Segment Assets,RM’Mil,words
+11,1,1,7,969.9,969.9,Segment Assets,RM’Mil,words
+11,1,1,8,"23,894.5",23894.5,Segment Assets,RM’Mil,words
+11,1,2,1,Segment Liabilities,,,,words
+11,1,2,2,"1,954.3",1954.3,Segment Liabilities,Malaysia / RM’Mil,words
+11,1,2,3,366.5,366.5,Segment Liabilities,United / Kingdom / and / Egypt / RM’Mil,words
+11,1,2,4,315.0,315.0,Segment Liabilities,States / of America / and / Bahamas / RM’Mil,words
+11,1,2,5,"2,635.8",2635.8,Segment Liabilities,Total / RM’Mil,words
+11,1,2,6,28.2,28.2,Segment Liabilities,RM’Mil,words
+11,1,2,7,31.4,31.4,Segment Liabilities,RM’Mil,words
+11,1,2,8,"2,695.4",2695.4,Segment Liabilities,RM’Mil,words
+11,1,3,1,Main foreign currency,,,,words
+11,1,3,2,RM,,,,words
+11,1,3,3,GBP,,,,words
+11,1,3,4,USD,,,,words
+11,1,3,5,RM/USD,,,,words
+11,1,4,1,Exchange ratio of 1,,,,words
+11,1,5,1,unit of foreign,,,,words
+11,1,6,1,currency to RM,,,,words
+11,1,6,2,5 . 5 2 58,5.5258,currency to RM,United / Kingdom / and / Egypt / RM’Mil,words
+11,1,6,3,3.9175,3.9175,currency to RM,States / of America / and / Bahamas / RM’Mil,words
+11,1,6,4,3.9175,3.9175,currency to RM,RM’Mil,words
+13,1,1,1,Financial assets at fair value through profit or loss,,,,words
+13,1,1,2,6.9,6.9,Financial assets at fair value through profit or loss,"As at 31 March 2018, the Group’s financial instruments measured and recognised at fair value on a recurring / Level 1 / RM’Mil",words
+13,1,1,3,100.8,100.8,Financial assets at fair value through profit or loss,"As at 31 March 2018, the Group’s financial instruments measured and recognised at fair value on a recurring / Level 2 / RM’Mil",words
+13,1,1,4,-,,,,words
+13,1,1,5,107.7,107.7,Financial assets at fair value through profit or loss,"As at 31 March 2018, the Group’s financial instruments measured and recognised at fair value on a recurring / Total / RM’Mil",words
+13,1,2,1,Financial assets at fair value through other,,,,words
+13,1,3,1,comprehensive income,,,,words
+13,1,3,2,-,,,,words
+13,1,3,3,-,,,,words
+13,1,3,4,139.3,139.3,comprehensive income - -,"As at 31 March 2018, the Group’s financial instruments measured and recognised at fair value on a recurring / Level 3 / RM’Mil",words
+13,1,3,5,139.3,139.3,comprehensive income - -,"As at 31 March 2018, the Group’s financial instruments measured and recognised at fair value on a recurring / Total / RM’Mil",words
+13,1,4,1,6.9,6.9,Financial assets at fair value through other,"As at 31 March 2018, the Group’s financial instruments measured and recognised at fair value on a recurring / Level 1 / RM’Mil",words
+13,1,4,2,100.8,100.8,Financial assets at fair value through other,"As at 31 March 2018, the Group’s financial instruments measured and recognised at fair value on a recurring / Level 2 / RM’Mil",words
+13,1,4,3,139.3,139.3,Financial assets at fair value through other,"As at 31 March 2018, the Group’s financial instruments measured and recognised at fair value on a recurring / Level 3 / RM’Mil",words
+13,1,4,4,247.0,247.0,Financial assets at fair value through other,"As at 31 March 2018, the Group’s financial instruments measured and recognised at fair value on a recurring / Total / RM’Mil",words
+13,1,5,1,Financial liability,,,,words
+13,1,6,1,Derivative financial instruments,,,,words
+13,1,6,2,-,,,,words
+13,1,6,3,1.7,1.7,Derivative financial instruments -,"As at 31 March 2018, the Group’s financial instruments measured and recognised at fair value on a recurring / Level 2 / RM’Mil",words
+13,1,6,4,-,,,,words
+13,1,6,5,1.7,1.7,Derivative financial instruments -,"As at 31 March 2018, the Group’s financial instruments measured and recognised at fair value on a recurring / Total / RM’Mil",words
+14,1,1,1,,,,,lines
+14,1,1,2,,,,,lines
+14,1,1,3,,,,,lines
+14,1,1,4,,,,,lines
+14,1,1,5,,,,,lines
+14,1,1,6,,,,,lines
+14,1,1,7,,,,,lines
+14,1,1,8,,,,,lines
+14,1,1,9,PRECEDING,,,,lines
+14,1,1,10,,,,,lines
+14,1,1,11,,,,,lines
+14,1,1,12,,,,,lines
+14,1,1,13,,,,,lines
+14,1,1,14,,,,,lines
+14,1,1,15,,,,,lines
+14,1,1,16,,,,,lines
+14,1,1,17,,,,,lines
+14,1,1,18,,,,,lines
+14,1,1,19,,,,,lines
+14,1,1,20,,,,,lines
+14,1,1,21,,,,,lines
+14,1,1,22,,,,,lines
+14,1,1,23,,,,,lines
+14,1,2,1,,,,,lines
+14,1,2,2,INDIVIDUAL QUARTER,,,,lines
+14,1,2,3,,,,,lines
+14,1,2,4,,,,,lines
+14,1,2,5,,,,,lines
+14,1,2,6,,,,,lines
+14,1,2,7,,,,,lines
+14,1,2,8,,,,,lines
+14,1,2,9,QUARTER,,,,lines
+14,1,2,10,,,,,lines
+14,1,2,11,,,,,lines
+14,1,2,12,,,,,lines
+14,1,2,13,,,,,lines
+14,1,2,14,,,,,lines
+14,1,2,15,,,,,lines
+14,1,2,16,,,,,lines
+14,1,2,17,,,,,lines
+14,1,2,18,,,,,lines
+14,1,2,19,,,,,lines
+14,1,2,20,,,,,lines
+14,1,2,21,,,,,lines
+14,1,2,22,,,,,lines
+14,1,2,23,,,,,lines
+14,1,3,1,,,,,lines
+14,1,3,2,,,,,lines
+14,1,3,3,(Restated),,,,lines
+14,1,3,4,,,,,lines
+14,1,3,5,,,,,lines
+14,1,3,6,,,,,lines
+14,1,3,7,,,,,lines
+14,1,3,8,,,,,lines
+14,1,3,9,(Restated),,,,lines
+14,1,3,10,,,,,lines
+14,1,3,11,,,,,lines
+14,1,3,12,,,,,lines
+14,1,3,13,,,,,lines
+14,1,3,14,,,,,lines
+14,1,3,15,,,,,lines
+14,1,3,16,,,,,lines
+14,1,3,17,,,,,lines
+14,1,3,18,,,,,lines
+14,1,3,19,,,,,lines
+14,1,3,20,,,,,lines
+14,1,3,21,,,,,lines
+14,1,3,22,,,,,lines
+14,1,3,23,,,,,lines
+14,1,4,1,,,,,lines
+14,1,4,2,1Q2018,,,,lines
+14,1,4,3,1Q2017,,,,lines
+14,1,4,4,Var,,,,lines
+14,1,4,5,,,,,lines
+14,1,4,6,,,,,lines
+14,1,4,7,,,,,lines
+14,1,4,8,,,,,lines
+14,1,4,9,4Q2017,,,,lines
+14,1,4,10,,,,,lines
+14,1,4,11,,,,,lines
+14,1,4,12,,,,,lines
+14,1,4,13,,,,,lines
+14,1,4,14,Var,,,,lines
+14,1,4,15,,,,,lines
+14,1,4,16,,,,,lines
+14,1,4,17,,,,,lines
+14,1,4,18,,,,,lines
+14,1,4,19,,,,,lines
+14,1,4,20,,,,,lines
+14,1,4,21,,,,,lines
+14,1,4,22,,,,,lines
+14,1,4,23,,,,,lines
+14,1,5,1,,,,,lines
+14,1,5,2,RM’Mil,,,,lines
+14,1,5,3,RM’Mil,,,,lines
+14,1,5,4,RM’Mil,,,,lines
+14,1,5,5,%,,,,lines
+14,1,5,6,,,,,lines
+14,1,5,7,,,,,lines
+14,1,5,8,,,,,lines
+14,1,5,9,RM’Mil,,,,lines
+14,1,5,10,,,,,lines
+14,1,5,11,,,,,lines
+14,1,5,12,,,,,lines
+14,1,5,13,,,,,lines
+14,1,5,14,RM’Mil,,,,lines
+14,1,5,15,,,,,lines
+14,1,5,16,,,,,lines
+14,1,5,17,,,,,lines
+14,1,5,18,,,,,lines
+14,1,5,19,%,,,,lines
+14,1,5,20,,,,,lines
+14,1,5,21,,,,,lines
+14,1,5,22,,,,,lines
+14,1,5,23,,,,,lines
+14,1,6,1,Revenue,,,,lines
+14,1,6,2,,,,,lines
+14,1,6,3,,,,,lines
+14,1,6,4,,,,,lines
+14,1,6,5,,,,,lines
+14,1,6,6,,,,,lines
+14,1,6,7,,,,,lines
+14,1,6,8,,,,,lines
+14,1,6,9,,,,,lines
+14,1,6,10,,,,,lines
+14,1,6,11,,,,,lines
+14,1,6,12,,,,,lines
+14,1,6,13,,,,,lines
+14,1,6,14,,,,,lines
+14,1,6,15,,,,,lines
+14,1,6,16,,,,,lines
+14,1,6,17,,,,,lines
+14,1,6,18,,,,,lines
+14,1,6,19,,,,,lines
+14,1,6,20,,,,,lines
+14,1,6,21,,,,,lines
+14,1,6,22,,,,,lines
+14,1,6,23,,,,,lines
+14,1,7,1,,,,,lines
+14,1,7,2,,,,,lines
+14,1,7,3,,,,,lines
+14,1,7,4,,,,,lines
+14,1,7,5,,,,,lines
+14,1,7,6,,,,,lines
+14,1,7,7,,,,,lines
+14,1,7,8,,,,,lines
+14,1,7,9,,,,,lines
+14,1,7,10,,,,,lines
+14,1,7,11,,,,,lines
+14,1,7,12,,,,,lines
+14,1,7,13,,,,,lines
+14,1,7,14,,,,,lines
+14,1,7,15,,,,,lines
+14,1,7,16,,,,,lines
+14,1,7,17,,,,,lines
+14,1,7,18,,,,,lines
+14,1,7,19,,,,,lines
+14,1,7,20,,,,,lines
+14,1,7,21,,,,,lines
+14,1,7,22,,,,,lines
+14,1,7,23,,,,,lines
+14,1,8,1,,,,,lines
+14,1,8,2,,,,,lines
+14,1,8,3,,,,,lines
+14,1,8,4,,,,,lines
+14,1,8,5,,,,,lines
+14,1,8,6,,,,,lines
+14,1,8,7,19%,19.0,,,lines
+14,1,8,8,,,,,lines
+14,1,8,9,,,,,lines
+14,1,8,10,"1,693.8",1693.8,,,lines
+14,1,8,11,,,,,lines
+14,1,8,12,,,,,lines
+14,1,8,13,,,,,lines
+14,1,8,14,,,,,lines
+14,1,8,15,,,,,lines
+14,1,8,16,-94.3,-94.3,,,lines
+14,1,8,17,,,,,lines
+14,1,8,18,,,,,lines
+14,1,8,19,,,,,lines
+14,1,8,20,,,,,lines
+14,1,8,21,,,,,lines
+14,1,8,22,-6%,-6.0,,,lines
+14,1,8,23,,,,,lines
+14,1,9,1,,,,,lines
+14,1,9,2,,,,,lines
+14,1,9,3,,,,,lines
+14,1,9,4,,,,,lines
+14,1,9,5,,,,,lines
+14,1,9,6,-12%,-12.0,,,lines
+14,1,9,7,,,,,lines
+14,1,9,8,,,,,lines
+14,1,9,9,,,,,lines
+14,1,9,10,,,,,lines
+14,1,9,11,,,,,lines
+14,1,9,12,498.6,498.6,,,lines
+14,1,9,13,,,,,lines
+14,1,9,14,,,,,lines
+14,1,9,15,,,,,lines
+14,1,9,16,-86.2,-86.2,,,lines
+14,1,9,17,,,,,lines
+14,1,9,18,,,,,lines
+14,1,9,19,,,,,lines
+14,1,9,20,,,,,lines
+14,1,9,21,-17%,-17.0,,,lines
+14,1,9,22,,,,,lines
+14,1,9,23,,,,,lines
+14,1,10,1,,,,,lines
+14,1,10,2,,,,,lines
+14,1,10,3,,,,,lines
+14,1,10,4,,,,,lines
+14,1,10,5,,,,,lines
+14,1,10,6,,,,,lines
+14,1,10,7,,,,,lines
+14,1,10,8,,,,,lines
+14,1,10,9,,,,,lines
+14,1,10,10,,,,,lines
+14,1,10,11,,,,,lines
+14,1,10,12,,,,,lines
+14,1,10,13,,,,,lines
+14,1,10,14,,,,,lines
+14,1,10,15,,,,,lines
+14,1,10,16,,,,,lines
+14,1,10,17,,,,,lines
+14,1,10,18,,,,,lines
+14,1,10,19,,,,,lines
+14,1,10,20,,,,,lines
+14,1,10,21,,,,,lines
+14,1,10,22,,,,,lines
+14,1,10,23,,,,,lines
+14,1,11,1,,,,,lines
+14,1,11,2,,,,,lines
+14,1,11,3,,,,,lines
+14,1,11,4,,,,,lines
+14,1,11,5,,,,,lines
+14,1,11,6,,,,,lines
+14,1,11,7,,,,,lines
+14,1,11,8,,,,,lines
+14,1,11,9,,,,,lines
+14,1,11,10,,,,,lines
+14,1,11,11,,,,,lines
+14,1,11,12,306.1,306.1,,,lines
+14,1,11,13,,,,,lines
+14,1,11,14,,,,,lines
+14,1,11,15,,,,,lines
+14,1,11,16,,,,,lines
+14,1,11,17,40.3,40.3,,,lines
+14,1,11,18,,,,,lines
+14,1,11,19,,,,,lines
+14,1,11,20,,,,,lines
+14,1,11,21,,,,,lines
+14,1,11,22,13%,13.0,,,lines
+14,1,11,23,,,,,lines
+14,1,12,1,,,,,lines
+14,1,12,2,,,,,lines
+14,1,12,3,,,,,lines
+14,1,12,4,,,,,lines
+14,1,12,5,,,,,lines
+14,1,12,6,,,,,lines
+14,1,12,7,,,,,lines
+14,1,12,8,,,,,lines
+14,1,12,9,,,,,lines
+14,1,12,10,"2,498.5",2498.5,,,lines
+14,1,12,11,,,,,lines
+14,1,12,12,,,,,lines
+14,1,12,13,,,,,lines
+14,1,12,14,,,,,lines
+14,1,12,15,-140.2,-140.2,,,lines
+14,1,12,16,,,,,lines
+14,1,12,17,,,,,lines
+14,1,12,18,,,,,lines
+14,1,12,19,,,,,lines
+14,1,12,20,,,,,lines
+14,1,12,21,,,,,lines
+14,1,12,22,-6%,-6.0,,,lines
+14,1,12,23,,,,,lines
+14,1,13,1,,,,,lines
+14,1,13,2,,,,,lines
+14,1,13,3,,,,,lines
+14,1,13,4,,,,,lines
+14,1,13,5,,,,,lines
+14,1,13,6,,,,,lines
+14,1,13,7,,,,,lines
+14,1,13,8,,,,,lines
+14,1,13,9,,,,,lines
+14,1,13,10,,,,,lines
+14,1,13,11,,,,,lines
+14,1,13,12,,,,,lines
+14,1,13,13,30.5,30.5,,,lines
+14,1,13,14,,,,,lines
+14,1,13,15,,,,,lines
+14,1,13,16,,,,,lines
+14,1,13,17,-1.6,-1.6,,,lines
+14,1,13,18,,,,,lines
+14,1,13,19,,,,,lines
+14,1,13,20,,,,,lines
+14,1,13,21,,,,,lines
+14,1,13,22,-5%,-5.0,,,lines
+14,1,13,23,,,,,lines
+14,1,14,1,,,,,lines
+14,1,14,2,,,,,lines
+14,1,14,3,,,,,lines
+14,1,14,4,,,,,lines
+14,1,14,5,,,,,lines
+14,1,14,6,,,,,lines
+14,1,14,7,,,,,lines
+14,1,14,8,,,,,lines
+14,1,14,9,,,,,lines
+14,1,14,10,,,,,lines
+14,1,14,11,,,,,lines
+14,1,14,12,,,,,lines
+14,1,14,13,15.4,15.4,,,lines
+14,1,14,14,,,,,lines
+14,1,14,15,,,,,lines
+14,1,14,16,,,,,lines
+14,1,14,17,-3.1,-3.1,,,lines
+14,1,14,18,,,,,lines
+14,1,14,19,,,,,lines
+14,1,14,20,,,,,lines
+14,1,14,21,-20%,-20.0,,,lines
+14,1,14,22,,,,,lines
+14,1,14,23,,,,,lines
+14,1,15,1,,,,,lines
+14,1,15,2,,,,,lines
+14,1,15,3,,,,,lines
+14,1,15,4,,,,,lines
+14,1,15,5,,,,,lines
+14,1,15,6,,,,,lines
+14,1,15,7,,,,,lines
+14,1,15,8,,,,,lines
+14,1,15,9,,,,,lines
+14,1,15,10,"2,544.4",2544.4,,,lines
+14,1,15,11,,,,,lines
+14,1,15,12,,,,,lines
+14,1,15,13,,,,,lines
+14,1,15,14,,,,,lines
+14,1,15,15,-144.9,-144.9,,,lines
+14,1,15,16,,,,,lines
+14,1,15,17,,,,,lines
+14,1,15,18,,,,,lines
+14,1,15,19,,,,,lines
+14,1,15,20,,,,,lines
+14,1,15,21,,,,,lines
+14,1,15,22,-6%,-6.0,,,lines
+14,1,15,23,,,,,lines
+14,1,16,1,,,,,lines
+14,1,16,2,,,,,lines
+14,1,16,3,,,,,lines
+14,1,16,4,,,,,lines
+14,1,16,5,,,,,lines
+14,1,16,6,,,,,lines
+14,1,16,7,,,,,lines
+14,1,16,8,,,,,lines
+14,1,16,9,,,,,lines
+14,1,16,10,,,,,lines
+14,1,16,11,,,,,lines
+14,1,16,12,,,,,lines
+14,1,16,13,,,,,lines
+14,1,16,14,,,,,lines
+14,1,16,15,,,,,lines
+14,1,16,16,,,,,lines
+14,1,16,17,,,,,lines
+14,1,16,18,,,,,lines
+14,1,16,19,,,,,lines
+14,1,16,20,,,,,lines
+14,1,16,21,,,,,lines
+14,1,16,22,,,,,lines
+14,1,16,23,,,,,lines
+14,1,17,1,,,,,lines
+14,1,17,2,,,,,lines
+14,1,17,3,,,,,lines
+14,1,17,4,,,,,lines
+14,1,17,5,,,,,lines
+14,1,17,6,,,,,lines
+14,1,17,7,,,,,lines
+14,1,17,8,,,,,lines
+14,1,17,9,,,,,lines
+14,1,17,10,,,,,lines
+14,1,17,11,,,,,lines
+14,1,17,12,,,,,lines
+14,1,17,13,,,,,lines
+14,1,17,14,,,,,lines
+14,1,17,15,,,,,lines
+14,1,17,16,,,,,lines
+14,1,17,17,,,,,lines
+14,1,17,18,,,,,lines
+14,1,17,19,,,,,lines
+14,1,17,20,,,,,lines
+14,1,17,21,,,,,lines
+14,1,17,22,,,,,lines
+14,1,17,23,,,,,lines
+14,1,18,1,,,,,lines
+14,1,18,2,,,,,lines
+14,1,18,3,,,,,lines
+14,1,18,4,,,,,lines
+14,1,18,5,,,,,lines
+14,1,18,6,,,,,lines
+14,1,18,7,,,,,lines
+14,1,18,8,,,,,lines
+14,1,18,9,,,,,lines
+14,1,18,10,,,,,lines
+14,1,18,11,,,,,lines
+14,1,18,12,,,,,lines
+14,1,18,13,,,,,lines
+14,1,18,14,,,,,lines
+14,1,18,15,,,,,lines
+14,1,18,16,,,,,lines
+14,1,18,17,,,,,lines
+14,1,18,18,,,,,lines
+14,1,18,19,,,,,lines
+14,1,18,20,,,,,lines
+14,1,18,21,,,,,lines
+14,1,18,22,,,,,lines
+14,1,18,23,,,,,lines
+14,1,19,1,,,,,lines
+14,1,19,2,,,,,lines
+14,1,19,3,,,,,lines
+14,1,19,4,,,,,lines
+14,1,19,5,,,,,lines
+14,1,19,6,,,,,lines
+14,1,19,7,,,,,lines
+14,1,19,8,,,,,lines
+14,1,19,9,,,,,lines
+14,1,19,10,,,,,lines
+14,1,19,11,,,,,lines
+14,1,19,12,597.6,597.6,,,lines
+14,1,19,13,,,,,lines
+14,1,19,14,,,,,lines
+14,1,19,15,,,,,lines
+14,1,19,16,-63.9,-63.9,,,lines
+14,1,19,17,,,,,lines
+14,1,19,18,,,,,lines
+14,1,19,19,,,,,lines
+14,1,19,20,,,,,lines
+14,1,19,21,-11%,-11.0,,,lines
+14,1,19,22,,,,,lines
+14,1,19,23,,,,,lines
+14,1,20,1,,,,,lines
+14,1,20,2,,,,,lines
+14,1,20,3,,,,,lines
+14,1,20,4,,,,,lines
+14,1,20,5,,,,,lines
+14,1,20,6,,,,,lines
+14,1,20,7,,,,,lines
+14,1,20,8,,,,,lines
+14,1,20,9,,,,,lines
+14,1,20,10,,,,,lines
+14,1,20,11,,,,,lines
+14,1,20,12,,,,,lines
+14,1,20,13,63.8,63.8,,,lines
+14,1,20,14,,,,,lines
+14,1,20,15,,,,,lines
+14,1,20,16,-33.2,-33.2,,,lines
+14,1,20,17,,,,,lines
+14,1,20,18,,,,,lines
+14,1,20,19,,,,,lines
+14,1,20,20,,,,,lines
+14,1,20,21,-52%,-52.0,,,lines
+14,1,20,22,,,,,lines
+14,1,20,23,,,,,lines
+14,1,21,1,,,,,lines
+14,1,21,2,,,,,lines
+14,1,21,3,,,,,lines
+14,1,21,4,,,,,lines
+14,1,21,5,,,,,lines
+14,1,21,6,,,,,lines
+14,1,21,7,,,,,lines
+14,1,21,8,,,,,lines
+14,1,21,9,,,,,lines
+14,1,21,10,,,,,lines
+14,1,21,11,,,,,lines
+14,1,21,12,,,,,lines
+14,1,21,13,,,,,lines
+14,1,21,14,,,,,lines
+14,1,21,15,,,,,lines
+14,1,21,16,,,,,lines
+14,1,21,17,,,,,lines
+14,1,21,18,,,,,lines
+14,1,21,19,,,,,lines
+14,1,21,20,,,,,lines
+14,1,21,21,,,,,lines
+14,1,21,22,,,,,lines
+14,1,21,23,,,,,lines
+14,1,22,1,,,,,lines
+14,1,22,2,,,,,lines
+14,1,22,3,,,,,lines
+14,1,22,4,,,,,lines
+14,1,22,5,,,,,lines
+14,1,22,6,,,,,lines
+14,1,22,7,,,,,lines
+14,1,22,8,,,,,lines
+14,1,22,9,,,,,lines
+14,1,22,10,,,,,lines
+14,1,22,11,,,,,lines
+14,1,22,12,,,,,lines
+14,1,22,13,38.1,38.1,,,lines
+14,1,22,14,,,,,lines
+14,1,22,15,,,,,lines
+14,1,22,16,,,,,lines
+14,1,22,17,26.7,26.7,,,lines
+14,1,22,18,,,,,lines
+14,1,22,19,,,,,lines
+14,1,22,20,,,,,lines
+14,1,22,21,,,,,lines
+14,1,22,22,70%,70.0,,,lines
+14,1,22,23,,,,,lines
+14,1,23,1,,,,,lines
+14,1,23,2,,,,,lines
+14,1,23,3,,,,,lines
+14,1,23,4,,,,,lines
+14,1,23,5,,,,,lines
+14,1,23,6,,,,,lines
+14,1,23,7,,,,,lines
+14,1,23,8,,,,,lines
+14,1,23,9,,,,,lines
+14,1,23,10,,,,,lines
+14,1,23,11,,,,,lines
+14,1,23,12,699.5,699.5,,,lines
+14,1,23,13,,,,,lines
+14,1,23,14,,,,,lines
+14,1,23,15,,,,,lines
+14,1,23,16,-70.4,-70.4,,,lines
+14,1,23,17,,,,,lines
+14,1,23,18,,,,,lines
+14,1,23,19,,,,,lines
+14,1,23,20,,,,,lines
+14,1,23,21,-10%,-10.0,,,lines
+14,1,23,22,,,,,lines
+14,1,23,23,,,,,lines
+14,1,24,1,,,,,lines
+14,1,24,2,,,,,lines
+14,1,24,3,,,,,lines
+14,1,24,4,,,,,lines
+14,1,24,5,,,,,lines
+14,1,24,6,,,,,lines
+14,1,24,7,,,,,lines
+14,1,24,8,,,,,lines
+14,1,24,9,,,,,lines
+14,1,24,10,,,,,lines
+14,1,24,11,,,,,lines
+14,1,24,12,,,,,lines
+14,1,24,13,11.9,11.9,,,lines
+14,1,24,14,,,,,lines
+14,1,24,15,,,,,lines
+14,1,24,16,,,,,lines
+14,1,24,17,,,,,lines
+14,1,24,18,8.0,8.0,,,lines
+14,1,24,19,,,,,lines
+14,1,24,20,,,,,lines
+14,1,24,21,,,,,lines
+14,1,24,22,67%,67.0,,,lines
+14,1,24,23,,,,,lines
+14,1,25,1,,,,,lines
+14,1,25,2,,,,,lines
+14,1,25,3,,,,,lines
+14,1,25,4,,,,,lines
+14,1,25,5,,,,,lines
+14,1,25,6,,,,,lines
+14,1,25,7,,,,,lines
+14,1,25,8,,,,,lines
+14,1,25,9,,,,,lines
+14,1,25,10,,,,,lines
+14,1,25,11,,,,,lines
+14,1,25,12,(41.4),-41.4,,,lines
+14,1,25,13,,,,,lines
+14,1,25,14,,,,,lines
+14,1,25,15,,,,,lines
+14,1,25,16,,,,,lines
+14,1,25,17,,,,,lines
+14,1,25,18,0.1,0.1,,,lines
+14,1,25,19,,,,,lines
+14,1,25,20,,,,,lines
+14,1,25,21,,,,,lines
+14,1,25,22,<1%,,,,lines
+14,1,25,23,,,,,lines
+14,1,26,1,,,,,lines
+14,1,26,2,,,,,lines
+14,1,26,3,,,,,lines
+14,1,26,4,,,,,lines
+14,1,26,5,,,,,lines
+14,1,26,6,,,,,lines
+14,1,26,7,,,,,lines
+14,1,26,8,,,,,lines
+14,1,26,9,,,,,lines
+14,1,26,10,,,,,lines
+14,1,26,11,,,,,lines
+14,1,26,12,,,,,lines
+14,1,26,13,,,,,lines
+14,1,26,14,,,,,lines
+14,1,26,15,,,,,lines
+14,1,26,16,,,,,lines
+14,1,26,17,,,,,lines
+14,1,26,18,,,,,lines
+14,1,26,19,,,,,lines
+14,1,26,20,,,,,lines
+14,1,26,21,,,,,lines
+14,1,26,22,,,,,lines
+14,1,26,23,,,,,lines
+14,1,27,1,,,,,lines
+14,1,27,2,,,,,lines
+14,1,27,3,,,,,lines
+14,1,27,4,,,,,lines
+14,1,27,5,,,,,lines
+14,1,27,6,,,,,lines
+14,1,27,7,,,,,lines
+14,1,27,8,,,,,lines
+14,1,27,9,,,,,lines
+14,1,27,10,,,,,lines
+14,1,27,11,,,,,lines
+14,1,27,12,670.0,670.0,,,lines
+14,1,27,13,,,,,lines
+14,1,27,14,,,,,lines
+14,1,27,15,,,,,lines
+14,1,27,16,-62.3,-62.3,,,lines
+14,1,27,17,,,,,lines
+14,1,27,18,,,,,lines
+14,1,27,19,,,,,lines
+14,1,27,20,,,,,lines
+14,1,27,21,,,,,lines
+14,1,27,22,-9%,-9.0,,,lines
+14,1,27,23,,,,,lines
+14,1,28,1,,,,,lines
+14,1,28,2,,,,,lines
+14,1,28,3,,,,,lines
+14,1,28,4,,,,,lines
+14,1,28,5,,,,,lines
+14,1,28,6,,,,,lines
+14,1,28,7,,,,,lines
+14,1,28,8,,,,,lines
+14,1,28,9,,,,,lines
+14,1,28,10,,,,,lines
+14,1,28,11,,,,,lines
+14,1,28,12,,,,,lines
+14,1,28,13,,,,,lines
+14,1,28,14,,,,,lines
+14,1,28,15,,,,,lines
+14,1,28,16,,,,,lines
+14,1,28,17,,,,,lines
+14,1,28,18,,,,,lines
+14,1,28,19,,,,,lines
+14,1,28,20,,,,,lines
+14,1,28,21,,,,,lines
+14,1,28,22,,,,,lines
+14,1,28,23,,,,,lines
+14,1,29,1,,,,,lines
+14,1,29,2,,,,,lines
+14,1,29,3,,,,,lines
+14,1,29,4,,,,,lines
+14,1,29,5,,,,,lines
+14,1,29,6,,,,,lines
+14,1,29,7,,,,,lines
+14,1,29,8,,,,,lines
+14,1,29,9,,,,,lines
+14,1,29,10,,,,,lines
+14,1,29,11,,,,,lines
+14,1,29,12,(21.4),-21.4,,,lines
+14,1,29,13,,,,,lines
+14,1,29,14,,,,,lines
+14,1,29,15,,,,,lines
+14,1,29,16,,,,,lines
+14,1,29,17,,,,,lines
+14,1,29,18,4.8,4.8,,,lines
+14,1,29,19,,,,,lines
+14,1,29,20,,,,,lines
+14,1,29,21,,,,,lines
+14,1,29,22,22%,22.0,,,lines
+14,1,29,23,,,,,lines
+14,1,30,1,,,,,lines
+14,1,30,2,,,,,lines
+14,1,30,3,,,,,lines
+14,1,30,4,,,,,lines
+14,1,30,5,,,,,lines
+14,1,30,6,,,,,lines
+14,1,30,7,,,,,lines
+14,1,30,8,,,,,lines
+14,1,30,9,,,,,lines
+14,1,30,10,,,,,lines
+14,1,30,11,,,,,lines
+14,1,30,12,,,,,lines
+14,1,30,13,,,,,lines
+14,1,30,14,,,,,lines
+14,1,30,15,,,,,lines
+14,1,30,16,,,,,lines
+14,1,30,17,,,,,lines
+14,1,30,18,,,,,lines
+14,1,30,19,,,,,lines
+14,1,30,20,,,,,lines
+14,1,30,21,,,,,lines
+14,1,30,22,,,,,lines
+14,1,30,23,,,,,lines
+14,1,31,1,,,,,lines
+14,1,31,2,,,,,lines
+14,1,31,3,,,,,lines
+14,1,31,4,,,,,lines
+14,1,31,5,,,,,lines
+14,1,31,6,,,,,lines
+14,1,31,7,,,,,lines
+14,1,31,8,,,,,lines
+14,1,31,9,,,,,lines
+14,1,31,10,,,,,lines
+14,1,31,11,,,,,lines
+14,1,31,12,,,,,lines
+14,1,31,13,(5.0),-5.0,,,lines
+14,1,31,14,,,,,lines
+14,1,31,15,,,,,lines
+14,1,31,16,-10.7,-10.7,,,lines
+14,1,31,17,,,,,lines
+14,1,31,18,,,,,lines
+14,1,31,19,->100%,,,,lines
+14,1,31,20,,,,,lines
+14,1,31,21,,,,,lines
+14,1,31,22,,,,,lines
+14,1,31,23,,,,,lines
+14,1,32,1,,,,,lines
+14,1,32,2,,,,,lines
+14,1,32,3,,,,,lines
+14,1,32,4,,,,,lines
+14,1,32,5,,,,,lines
+14,1,32,6,,,,,lines
+14,1,32,7,,,,,lines
+14,1,32,8,,,,,lines
+14,1,32,9,,,,,lines
+14,1,32,10,,,,,lines
+14,1,32,11,,,,,lines
+14,1,32,12,,,,,lines
+14,1,32,13,,,,,lines
+14,1,32,14,,,,,lines
+14,1,32,15,,,,,lines
+14,1,32,16,,,,,lines
+14,1,32,17,,,,,lines
+14,1,32,18,,,,,lines
+14,1,32,19,,,,,lines
+14,1,32,20,,,,,lines
+14,1,32,21,,,,,lines
+14,1,32,22,,,,,lines
+14,1,32,23,,,,,lines
+14,1,33,1,,,,,lines
+14,1,33,2,,,,,lines
+14,1,33,3,,,,,lines
+14,1,33,4,,,,,lines
+14,1,33,5,,,,,lines
+14,1,33,6,,,,,lines
+14,1,33,7,,,,,lines
+14,1,33,8,,,,,lines
+14,1,33,9,,,,,lines
+14,1,33,10,,,,,lines
+14,1,33,11,,,,,lines
+14,1,33,12,,,,,lines
+14,1,33,13,29.1,29.1,,,lines
+14,1,33,14,,,,,lines
+14,1,33,15,,,,,lines
+14,1,33,16,-28.9,-28.9,,,lines
+14,1,33,17,,,,,lines
+14,1,33,18,,,,,lines
+14,1,33,19,,,,,lines
+14,1,33,20,,,,,lines
+14,1,33,21,-99%,-99.0,,,lines
+14,1,33,22,,,,,lines
+14,1,33,23,,,,,lines
+14,1,34,1,,,,,lines
+14,1,34,2,,,,,lines
+14,1,34,3,,,,,lines
+14,1,34,4,,,,,lines
+14,1,34,5,,,,,lines
+14,1,34,6,,,,,lines
+14,1,34,7,,,,,lines
+14,1,34,8,,,,,lines
+14,1,34,9,,,,,lines
+14,1,34,10,,,,,lines
+14,1,34,11,,,,,lines
+14,1,34,12,,,,,lines
+14,1,34,13,(1.1),-1.1,,,lines
+14,1,34,14,,,,,lines
+14,1,34,15,,,,,lines
+14,1,34,16,,,,,lines
+14,1,34,17,19.2,19.2,,,lines
+14,1,34,18,,,,,lines
+14,1,34,19,,,,,lines
+14,1,34,20,>100%,,,,lines
+14,1,34,21,,,,,lines
+14,1,34,22,,,,,lines
+14,1,34,23,,,,,lines
+14,1,35,1,,,,,lines
+14,1,35,2,,,,,lines
+14,1,35,3,,,,,lines
+14,1,35,4,,,,,lines
+14,1,35,5,,,,,lines
+14,1,35,6,,,,,lines
+14,1,35,7,,,,,lines
+14,1,35,8,,,,,lines
+14,1,35,9,,,,,lines
+14,1,35,10,,,,,lines
+14,1,35,11,,,,,lines
+14,1,35,12,671.6,671.6,,,lines
+14,1,35,13,,,,,lines
+14,1,35,14,,,,,lines
+14,1,35,15,,,,,lines
+14,1,35,16,-77.9,-77.9,,,lines
+14,1,35,17,,,,,lines
+14,1,35,18,,,,,lines
+14,1,35,19,,,,,lines
+14,1,35,20,,,,,lines
+14,1,35,21,-12%,-12.0,,,lines
+14,1,35,22,,,,,lines
+14,1,35,23,,,,,lines
+14,1,36,1,,,,,lines
+14,1,36,2,,,,,lines
+14,1,36,3,,,,,lines
+14,1,36,4,,,,,lines
+14,1,36,5,,,,,lines
+14,1,36,6,,,,,lines
+14,1,36,7,,,,,lines
+14,1,36,8,,,,,lines
+14,1,36,9,,,,,lines
+14,1,36,10,,,,,lines
+14,1,36,11,,,,,lines
+14,1,36,12,,,,,lines
+14,1,36,13,,,,,lines
+14,1,36,14,,,,,lines
+14,1,36,15,,,,,lines
+14,1,36,16,,,,,lines
+14,1,36,17,,,,,lines
+14,1,36,18,,,,,lines
+14,1,36,19,,,,,lines
+14,1,36,20,,,,,lines
+14,1,36,21,,,,,lines
+14,1,36,22,,,,,lines
+14,1,36,23,,,,,lines
+14,1,37,1,,,,,lines
+14,1,37,2,,,,,lines
+14,1,37,3,,,,,lines
+14,1,37,4,,,,,lines
+14,1,37,5,,,,,lines
+14,1,37,6,,,,,lines
+14,1,37,7,,,,,lines
+14,1,37,8,,,,,lines
+14,1,37,9,,,,,lines
+14,1,37,10,,,,,lines
+14,1,37,11,(242.4),-242.4,,,lines
+14,1,37,12,,,,,lines
+14,1,37,13,,,,,lines
+14,1,37,14,,,,,lines
+14,1,37,15,,,,,lines
+14,1,37,16,,,,,lines
+14,1,37,17,,,,,lines
+14,1,37,18,1.7,1.7,,,lines
+14,1,37,19,,,,,lines
+14,1,37,20,,,,,lines
+14,1,37,21,,,,,lines
+14,1,37,22,,,,,lines
+14,1,37,23,1%,1.0,,,lines
+14,1,38,1,,,,,lines
+14,1,38,2,,,,,lines
+14,1,38,3,,,,,lines
+14,1,38,4,,,,,lines
+14,1,38,5,,,,,lines
+14,1,38,6,,,,,lines
+14,1,38,7,,,,,lines
+14,1,38,8,,,,,lines
+14,1,38,9,,,,,lines
+14,1,38,10,,,,,lines
+14,1,38,11,,,,,lines
+14,1,38,12,,,,,lines
+14,1,38,13,82.4,82.4,,,lines
+14,1,38,14,,,,,lines
+14,1,38,15,,,,,lines
+14,1,38,16,,,,,lines
+14,1,38,17,-3.0,-3.0,,,lines
+14,1,38,18,,,,,lines
+14,1,38,19,,,,,lines
+14,1,38,20,,,,,lines
+14,1,38,21,,,,,lines
+14,1,38,22,-4%,-4.0,,,lines
+14,1,38,23,,,,,lines
+14,1,39,1,,,,,lines
+14,1,39,2,,,,,lines
+14,1,39,3,,,,,lines
+14,1,39,4,,,,,lines
+14,1,39,5,,,,,lines
+14,1,39,6,,,,,lines
+14,1,39,7,,,,,lines
+14,1,39,8,,,,,lines
+14,1,39,9,,,,,lines
+14,1,39,10,,,,,lines
+14,1,39,11,,,,,lines
+14,1,39,12,(33.9),-33.9,,,lines
+14,1,39,13,,,,,lines
+14,1,39,14,,,,,lines
+14,1,39,15,,,,,lines
+14,1,39,16,,,,,lines
+14,1,39,17,-1.0,-1.0,,,lines
+14,1,39,18,,,,,lines
+14,1,39,19,,,,,lines
+14,1,39,20,,,,,lines
+14,1,39,21,,,,,lines
+14,1,39,22,-3%,-3.0,,,lines
+14,1,39,23,,,,,lines
+14,1,40,1,,,,,lines
+14,1,40,2,,,,,lines
+14,1,40,3,,,,,lines
+14,1,40,4,,,,,lines
+14,1,40,5,,,,,lines
+14,1,40,6,,,,,lines
+14,1,40,7,,,,,lines
+14,1,40,8,,,,,lines
+14,1,40,9,,,,,lines
+14,1,40,10,,,,,lines
+14,1,40,11,,,,,lines
+14,1,40,12,477.7,477.7,,,lines
+14,1,40,13,,,,,lines
+14,1,40,14,,,,,lines
+14,1,40,15,,,,,lines
+14,1,40,16,-80.2,-80.2,,,lines
+14,1,40,17,,,,,lines
+14,1,40,18,,,,,lines
+14,1,40,19,,,,,lines
+14,1,40,20,,,,,lines
+14,1,40,21,-17%,-17.0,,,lines
+14,1,40,22,,,,,lines
+14,1,40,23,,,,,lines
+14,2,1,1,"1,599.5 1,344.3 412.4 467.3 346.4 381.0",,,,lines
+14,2,1,2,,,,,lines
+14,2,1,3,,,,,lines
+14,2,1,4,,,,,lines
+14,2,1,5,,,,,lines
+14,2,1,6,,,,,lines
+14,2,1,7,,,,,lines
+14,2,2,1,,,,,lines
+14,2,2,2,,,,,lines
+14,2,2,3,346.4,346.4,"1,599.5 1,344.3 412.4 467.3 346.4 381.0",,lines
+14,2,2,4,,,,,lines
+14,2,2,5,,,,,lines
+14,2,2,6,,,,,lines
+14,2,2,7,,,,,lines
+14,2,3,1,,,,,lines
+14,2,3,2,"2,358.3",2358.3,"1,599.5 1,344.3 412.4 467.3 346.4 381.0",,lines
+14,2,3,3,,,,,lines
+14,2,3,4,,,,,lines
+14,2,3,5,"2,192.6 19.7 11.9",,,,lines
+14,2,3,6,"2,192.6",2192.6,"1,599.5 1,344.3 412.4 467.3 346.4 381.0",,lines
+14,2,3,7,,,,,lines
+14,2,4,1,,,,,lines
+14,2,4,2,,,,,lines
+14,2,4,3,,,,,lines
+14,2,4,4,28.9,28.9,"1,599.5 1,344.3 412.4 467.3 346.4 381.0",,lines
+14,2,4,5,,,,,lines
+14,2,4,6,,,,,lines
+14,2,4,7,19.7,19.7,"1,599.5 1,344.3 412.4 467.3 346.4 381.0",,lines
+14,2,5,1,,,,,lines
+14,2,5,2,,,,,lines
+14,2,5,3,,,,,lines
+14,2,5,4,12.3,12.3,"1,599.5 1,344.3 412.4 467.3 346.4 381.0",,lines
+14,2,5,5,,,,,lines
+14,2,5,6,,,,,lines
+14,2,5,7,11.9,11.9,"1,599.5 1,344.3 412.4 467.3 346.4 381.0",,lines
+14,2,6,1,,,,,lines
+14,2,6,2,"2,399.5",2399.5,"1,599.5 1,344.3 412.4 467.3 346.4 381.0",,lines
+14,2,6,3,,,,,lines
+14,2,6,4,,,,,lines
+14,2,6,5,,,,,lines
+14,2,6,6,"2,224.2",2224.2,"1,599.5 1,344.3 412.4 467.3 346.4 381.0",,lines
+14,2,6,7,,,,,lines
+14,3,1,1,"1,599.5",1599.5,,,lines
+14,3,1,2,,,,,lines
+14,3,2,1,,,,,lines
+14,3,2,2,412.4,412.4,,,lines
+14,4,1,1,-34.6,-34.6,,,lines
+14,4,1,2,,,,,lines
+14,4,2,1,165.7,165.7,,,lines
+14,4,2,2,,,,,lines
+14,4,3,1,,,,,lines
+14,4,3,2,9.2,9.2,,,lines
+14,4,4,1,,,,,lines
+14,4,4,2,0.4,0.4,,,lines
+14,4,5,1,175.3,175.3,,,lines
+14,4,5,2,,,,,lines
+14,5,1,1,-9%,-9.0,,,lines
+14,5,1,2,,,,,lines
+14,5,2,1,,,,,lines
+14,5,2,2,8%,8.0,,,lines
+14,5,3,1,47%,47.0,,,lines
+14,5,3,2,,,,,lines
+14,5,4,1,,,,,lines
+14,5,4,2,3%,3.0,,,lines
+14,5,5,1,,,,,lines
+14,5,5,2,8%,8.0,,,lines
+14,6,1,1,533.7 437.4 30.6 77.7 64.8 41.4,,,,lines
+14,6,1,2,,,,,lines
+14,6,1,3,,,,,lines
+14,6,1,4,,,,,lines
+14,6,1,5,,,,,lines
+14,6,2,1,,,,,lines
+14,6,2,2,,,,,lines
+14,6,2,3,64.8,64.8,533.7 437.4 30.6 77.7 64.8 41.4,,lines
+14,6,2,4,,,,,lines
+14,6,2,5,,,,,lines
+14,6,3,1,,,,,lines
+14,6,3,2,629.1,629.1,533.7 437.4 30.6 77.7 64.8 41.4,,lines
+14,6,3,3,,,,,lines
+14,6,3,4,5,5.0,533.7 437.4 30.6 77.7 64.8 41.4,,lines
+14,6,3,5,56.5,56.5,533.7 437.4 30.6 77.7 64.8 41.4,,lines
+14,6,4,1,,,,,lines
+14,6,4,2,,,,,lines
+14,6,4,3,19.9,19.9,533.7 437.4 30.6 77.7 64.8 41.4,,lines
+14,6,4,4,,,,,lines
+14,6,4,5,9.3 (0.6),,,,lines
+14,6,5,1,,,,,lines
+14,6,5,2,(41.3),-41.3,533.7 437.4 30.6 77.7 64.8 41.4,,lines
+14,6,5,3,,,,,lines
+14,6,5,4,,,,,lines
+14,6,5,5,,,,,lines
+14,7,1,1,533.7,533.7,,,lines
+14,7,1,2,,,,,lines
+14,7,2,1,,,,,lines
+14,7,2,2,30.6,30.6,,,lines
+14,8,1,1,,,,,lines
+14,8,1,2,96.3,96.3,,,lines
+14,8,2,1,-47.1,-47.1,,,lines
+14,8,2,2,,,,,lines
+14,9,1,1,,,,,lines
+14,9,1,2,22%,22.0,,,lines
+14,9,2,1,-61%,-61.0,,,lines
+14,9,2,2,,,,,lines
+14,10,1,1,,,,,lines
+14,10,1,2,23.4,23.4,,,lines
+14,10,2,1,,,,,lines
+14,10,2,2,72.6,72.6,,,lines
+14,10,3,1,,,,,lines
+14,10,3,2,10.6,10.6,,,lines
+14,10,4,1,-40.7,-40.7,,,lines
+14,10,4,2,,,,,lines
+14,11,1,1,,,,,lines
+14,11,1,2,,,,,lines
+14,11,1,3,57%,57.0,,,lines
+14,11,2,1,,,,,lines
+14,11,2,2,,,,,lines
+14,11,2,3,13%,13.0,,,lines
+14,11,3,1,,,,,lines
+14,11,3,2,>100%,,,,lines
+14,11,3,3,,,,,lines
+14,11,4,1,->100%,,,,lines
+14,11,4,2,,,,,lines
+14,11,4,3,,,,,lines
+14,12,1,1,,,,,lines
+14,12,1,2,,,,,lines
+14,12,1,3,0.2,0.2,,,lines
+14,12,2,1,,,,,lines
+14,12,2,2,18.1,18.1,,,lines
+14,12,2,3,,,,,lines
+14,12,3,1,593.7,593.7,,,lines
+14,12,3,2,,,,,lines
+14,12,3,3,,,,,lines
+14,13,1,1,,,,,lines
+14,13,1,2,-,,,,lines
+14,13,2,1,24.1,24.1,-,,lines
+14,13,2,2,,,,,lines
+14,13,3,1,52.3,52.3,-,,lines
+14,13,3,2,,,,,lines
+14,14,1,1,,,,,lines
+14,14,1,2,,,,,lines
+14,14,1,3,(240.7),-240.7,,,lines
+14,14,1,4,,,,,lines
+14,14,1,5,,,,,lines
+14,14,1,6,,,,,lines
+14,14,1,7,48.3),48.3,,,lines
+14,14,2,1,,,,,lines
+14,14,2,2,,,,,lines
+14,14,2,3,,,,,lines
+14,14,2,4,,,,,lines
+14,14,2,5,79.4,79.4,,,lines
+14,14,2,6,,,,,lines
+14,14,2,7,70.7,70.7,,,lines
+14,14,3,1,,,,,lines
+14,14,3,2,,,,,lines
+14,14,3,3,,,,,lines
+14,14,3,4,(34.9),-34.9,,,lines
+14,14,3,5,,,,,lines
+14,14,3,6,,,,,lines
+14,14,3,7,(19.1),-19.1,,,lines
+14,14,4,1,Profit before taxation,,,,lines
+14,14,4,2,,,,,lines
+14,14,4,3,,,,,lines
+14,14,4,4,397.5,397.5,Profit before taxation,,lines
+14,14,4,5,,,,,lines
+14,14,4,6,3,3.0,Profit before taxation,,lines
+14,14,4,7,44.7,44.7,Profit before taxation,,lines
+14,15,1,1,,,,,lines
+14,15,1,2,,,,,lines
+14,15,1,3,7.6,7.6,,,lines
+14,15,2,1,,,,,lines
+14,15,2,2,,,,,lines
+14,15,2,3,8.7,8.7,,,lines
+14,15,3,1,-15.8,-15.8,,,lines
+14,15,3,2,,,,,lines
+14,15,3,3,,,,,lines
+14,15,4,1,,,,,lines
+14,15,4,2,52.8,52.8,,,lines
+14,15,4,3,,,,,lines
+14,16,1,1,,,,,lines
+14,16,1,2,,,,,lines
+14,16,1,3,3%,3.0,,,lines
+14,16,2,1,,,,,lines
+14,16,2,2,12%,12.0,,,lines
+14,16,2,3,,,,,lines
+14,16,3,1,-83%,-83.0,,,lines
+14,16,3,2,,,,,lines
+14,16,3,3,,,,,lines
+14,16,4,1,,,,,lines
+14,16,4,2,15%,15.0,,,lines
+14,16,4,3,,,,,lines
+17,1,1,1,,,,,lines
+17,1,1,2,As at 31.03.2018,,,,lines
+17,1,1,3,,,,,lines
+17,1,1,4,,,,,lines
+17,1,1,5,,,,,lines
+17,1,1,6,As at 31.12.2017,,,,lines
+17,1,2,1,,,,,lines
+17,1,2,2,Secured/ Unsecured,,,,lines
+17,1,2,3,Foreign Currency ’Mil,,,,lines
+17,1,2,4,,,,,lines
+17,1,2,5,RM Equivalent ’Mil,,,,lines
+17,1,2,6,RM Equivalent ’Mil,,,,lines
+17,1,3,1,Short term borrowings,,,,lines
+17,1,3,2,Secured Unsecured,,,,lines
+17,1,3,3,GBP GBP,,,,lines
+17,1,3,4,14.7 37.0,,,,lines
+17,1,3,5,81.3 204.4,,,,lines
+17,1,3,6,80.3 229.2,,,,lines
+17,1,4,1,,,,,lines
+17,1,4,2,,,,,lines
+17,1,4,3,,,,,lines
+17,1,4,4,,,,,lines
+17,1,4,5,285.7,285.7,Short term borrowings Secured Unsecured GBP GBP 14.7 37.0 81.3 204.4 80.3 229.2,,lines
+17,1,4,6,309.5,309.5,Short term borrowings Secured Unsecured GBP GBP 14.7 37.0 81.3 204.4 80.3 229.2,,lines
+17,1,5,1,Long term borrowings,,,,lines
+17,1,5,2,Secured Secured Unsecured,,,,lines
+17,1,5,3,USD GBP RM,,,,lines
+17,1,5,4,279.5 84.2 N/A,,,,lines
+17,1,5,5,"1,094.8 465.0 4,995.3",,,,lines
+17,1,5,6,"1,136.9 458.8 4,995.1",,,,lines
+17,1,6,1,,,,,lines
+17,1,6,2,,,,,lines
+17,1,6,3,,,,,lines
+17,1,6,4,,,,,lines
+17,1,6,5,"6,555.1",6555.1,"Long term borrowings Secured Secured Unsecured USD GBP RM 279.5 84.2 N/A 1,094.8 465.0 4,995.3 1,136.9 458.8 4,995.1",,lines
+17,1,6,6,"6,590.8",6590.8,"Long term borrowings Secured Secured Unsecured USD GBP RM 279.5 84.2 N/A 1,094.8 465.0 4,995.3 1,136.9 458.8 4,995.1",,lines
+17,1,7,1,Total borrowings,,,,lines
+17,1,7,2,Secured Secured Unsecured Unsecured,,,,lines
+17,1,7,3,USD GBP GBP RM,,,,lines
+17,1,7,4,279.5 98.9 37.0 N/A,,,,lines
+17,1,7,5,"1,094.8 546.3 204.4 4,995.3",,,,lines
+17,1,7,6,"1,136.9 539.1 229.2 4,995.1",,,,lines
+17,1,8,1,,,,,lines
+17,1,8,2,,,,,lines
+17,1,8,3,,,,,lines
+17,1,8,4,,,,,lines
+17,1,8,5,"6,840.8",6840.8,"Total borrowings Secured Secured Unsecured Unsecured USD GBP GBP RM 279.5 98.9 37.0 N/A 1,094.8 546.3 204.4 4,995.3 1,136.9 539.1 229.2 4,995.1",,lines
+17,1,8,6,"6,900.3",6900.3,"Total borrowings Secured Secured Unsecured Unsecured USD GBP GBP RM 279.5 98.9 37.0 N/A 1,094.8 546.3 204.4 4,995.3 1,136.9 539.1 229.2 4,995.1",,lines
+22,1,1,1,- Malaysia,,,,words
+22,1,1,2,"1 ,599.5",1599.5,- Malaysia,RM'Mil,words
+22,1,1,3,"1 ,344.3",1344.3,- Malaysia,RM'Mil,words
+22,1,1,4,255.2,255.2,- Malaysia,RM'Mil,words
+22,1,1,5,19%,19.0,- Malaysia,%,words
+22,1,1,6,"1 ,693.8",1693.8,- Malaysia,RM'Mil,words
+22,1,1,7,-94.3,-94.3,- Malaysia,RM'Mil,words
+22,1,1,8,-6%,-6.0,- Malaysia,,words
+22,1,2,1,- United Kingdom and Egypt,,,,words
+22,1,2,2,4 12.4,412.4,- United Kingdom and Egypt,RM'Mil,words
+22,1,2,3,4 67.3,467.3,- United Kingdom and Egypt,RM'Mil,words
+22,1,2,4,-54.9,-54.9,- United Kingdom and Egypt,RM'Mil,words
+22,1,2,5,-12%,-12.0,- United Kingdom and Egypt,%,words
+22,1,2,6,4 98.6,498.6,- United Kingdom and Egypt,RM'Mil,words
+22,1,2,7,-86.2,-86.2,- United Kingdom and Egypt,RM'Mil,words
+22,1,2,8,-17%,-17.0,- United Kingdom and Egypt,%,words
+22,1,3,1,- United States of America and Bahamas,,,,words
+22,1,3,2,3 46.4,346.4,- United States of America and Bahamas,RM'Mil,words
+22,1,3,3,3 81.0,381.0,- United States of America and Bahamas,RM'Mil,words
+22,1,3,4,-34.6,-34.6,- United States of America and Bahamas,RM'Mil,words
+22,1,3,5,-9%,-9.0,- United States of America and Bahamas,,words
+22,1,3,6,3 06.1,306.1,- United States of America and Bahamas,RM'Mil,words
+22,1,3,7,40.3,40.3,- United States of America and Bahamas,RM'Mil,words
+22,1,3,8,13%,13.0,- United States of America and Bahamas,%,words
+22,1,4,1,"2 ,358.3",2358.3,,RM'Mil,words
+22,1,4,2,"2 ,192.6",2192.6,,RM'Mil,words
+22,1,4,3,165.7,165.7,,RM'Mil,words
+22,1,4,4,8%,8.0,,,words
+22,1,4,5,"2 ,498.5",2498.5,,RM'Mil,words
+22,1,4,6,-140.2,-140.2,,RM'Mil,words
+22,1,4,7,-6%,-6.0,,,words
+22,1,5,1,Property,,,,words
+22,1,5,2,2 8.9,28.9,Property,RM'Mil,words
+22,1,5,3,1 9.7,19.7,Property,RM'Mil,words
+22,1,5,4,9.2,9.2,Property,RM'Mil,words
+22,1,5,5,47%,47.0,Property,%,words
+22,1,5,6,3 0.5,30.5,Property,RM'Mil,words
+22,1,5,7,-1.6,-1.6,Property,RM'Mil,words
+22,1,5,8,-5%,-5.0,Property,,words
+22,1,6,1,Investments & others,,,,words
+22,1,6,2,1 2.3,12.3,Investments & others,RM'Mil,words
+22,1,6,3,1 1.9,11.9,Investments & others,RM'Mil,words
+22,1,6,4,0.4,0.4,Investments & others,RM'Mil,words
+22,1,6,5,3%,3.0,Investments & others,,words
+22,1,6,6,1 5.4,15.4,Investments & others,RM'Mil,words
+22,1,6,7,-3.1,-3.1,Investments & others,RM'Mil,words
+22,1,6,8,-20%,-20.0,Investments & others,%,words
+22,1,7,1,"2 ,399.5",2399.5,,RM'Mil,words
+22,1,7,2,"2 ,224.2",2224.2,,RM'Mil,words
+22,1,7,3,175.3,175.3,,RM'Mil,words
+22,1,7,4,8%,8.0,,,words
+22,1,7,5,"2 ,544.4",2544.4,,RM'Mil,words
+22,1,7,6,-144.9,-144.9,,RM'Mil,words
+22,1,7,7,-6%,-6.0,,,words
+22,1,8,1,Adjusted EBITDA,,,,words
+22,1,9,1,Leisure & Hospitality,,,,words
+22,1,10,1,- Malaysia,,,,words
+22,1,10,2,5 33.7,533.7,- Malaysia,RM'Mil,words
+22,1,10,3,4 37.4,437.4,- Malaysia,RM'Mil,words
+22,1,10,4,96.3,96.3,- Malaysia,RM'Mil,words
+22,1,10,5,22%,22.0,- Malaysia,%,words
+22,1,10,6,5 97.6,597.6,- Malaysia,RM'Mil,words
+22,1,10,7,-63.9,-63.9,- Malaysia,RM'Mil,words
+22,1,10,8,-11%,-11.0,- Malaysia,%,words
+22,1,11,1,- United Kingdom and Egypt,,,,words
+22,1,11,2,3 0.6,30.6,- United Kingdom and Egypt,RM'Mil,words
+22,1,11,3,7 7.7,77.7,- United Kingdom and Egypt,RM'Mil,words
+22,1,11,4,-47.1,-47.1,- United Kingdom and Egypt,RM'Mil,words
+22,1,11,5,-61%,-61.0,- United Kingdom and Egypt,%,words
+22,1,11,6,6 3.8,63.8,- United Kingdom and Egypt,RM'Mil,words
+22,1,11,7,-33.2,-33.2,- United Kingdom and Egypt,RM'Mil,words
+22,1,11,8,-52%,-52.0,- United Kingdom and Egypt,%,words
+22,1,12,1,- United States of America and Bahamas,,,,words
+22,1,12,2,6 4.8,64.8,- United States of America and Bahamas,RM'Mil,words
+22,1,12,3,4 1.4,41.4,- United States of America and Bahamas,RM'Mil,words
+22,1,12,4,23.4,23.4,- United States of America and Bahamas,RM'Mil,words
+22,1,12,5,57%,57.0,- United States of America and Bahamas,%,words
+22,1,12,6,3 8.1,38.1,- United States of America and Bahamas,RM'Mil,words
+22,1,12,7,26.7,26.7,- United States of America and Bahamas,RM'Mil,words
+22,1,12,8,70%,70.0,- United States of America and Bahamas,%,words
+22,1,13,1,6 29.1,629.1,Leisure & Hospitality,RM'Mil,words
+22,1,13,2,5 56.5,556.5,Leisure & Hospitality,RM'Mil,words
+22,1,13,3,72.6,72.6,Leisure & Hospitality,RM'Mil,words
+22,1,13,4,13%,13.0,Leisure & Hospitality,%,words
+22,1,13,5,6 99.5,699.5,Leisure & Hospitality,RM'Mil,words
+22,1,13,6,-70.4,-70.4,Leisure & Hospitality,RM'Mil,words
+22,1,13,7,-10%,-10.0,Leisure & Hospitality,%,words
+22,1,14,1,Property,,,,words
+22,1,14,2,1 9.9,19.9,Property,RM'Mil,words
+22,1,14,3,9 .3,9.3,Property,RM'Mil,words
+22,1,14,4,10.6,10.6,Property,RM'Mil,words
+22,1,14,5,>100%,,,,words
+22,1,14,6,1 1.9,11.9,Property,RM'Mil,words
+22,1,14,7,8.0,8.0,Property,RM'Mil,words
+22,1,14,8,67%,67.0,Property,%,words
+22,1,15,1,Investments & others,,,,words
+22,1,15,2,( 41.3),-41.3,Investments & others,RM'Mil,words
+22,1,15,3,( 0.6),-0.6,Investments & others,RM'Mil,words
+22,1,15,4,-40.7,-40.7,Investments & others,RM'Mil,words
+22,1,15,5,->100%,,,,words
+22,1,15,6,( 41.4),-41.4,Investments & others,RM'Mil,words
+22,1,15,7,0.1,0.1,Investments & others,RM'Mil,words
+22,1,15,8,<1%,,,,words
+22,1,16,1,Adjusted EBITDA,,,,words
+22,1,16,2,6 07.7,607.7,Adjusted EBITDA,RM'Mil,words
+22,1,16,3,5 65.2,565.2,Adjusted EBITDA,RM'Mil,words
+22,1,16,4,42.5,42.5,Adjusted EBITDA,RM'Mil,words
+22,1,16,5,8%,8.0,Adjusted EBITDA,,words
+22,1,16,6,6 70.0,670.0,Adjusted EBITDA,RM'Mil,words
+22,1,16,7,-62.3,-62.3,Adjusted EBITDA,RM'Mil,words
+22,1,16,8,-9%,-9.0,Adjusted EBITDA,,words
+22,1,17,1,Pre-opening expenses,,,,words
+22,1,17,2,( 16.6),-16.6,Pre-opening expenses,RM'Mil,words
+22,1,17,3,( 17.1),-17.1,Pre-opening expenses,RM'Mil,words
+22,1,17,4,0.5,0.5,Pre-opening expenses,RM'Mil,words
+22,1,17,5,3%,3.0,Pre-opening expenses,,words
+22,1,17,6,( 21.4),-21.4,Pre-opening expenses,RM'Mil,words
+22,1,17,7,4.8,4.8,Pre-opening expenses,RM'Mil,words
+22,1,17,8,22%,22.0,Pre-opening expenses,%,words
+22,1,18,1,"Property, plant and equipment",,,,words
+22,1,19,1,written off,,,,words
+22,1,19,2,( 15.7),-15.7,written off,RM'Mil,words
+22,1,19,3,( 0.9),-0.9,written off,RM'Mil,words
+22,1,19,4,-14.8,-14.8,written off,RM'Mil,words
+22,1,19,5,->100%,,,,words
+22,1,19,6,( 5.0),-5.0,written off,RM'Mil,words
+22,1,19,7,-10.7,-10.7,written off,RM'Mil,words
+22,1,19,8,->100%,,,,words
+22,1,20,1,"Net gain on disposal of property,",,,,words
+22,1,21,1,plant and equipment,,,,words
+22,1,21,2,0 .2,0.2,plant and equipment,RM'Mil,words
+22,1,21,3,0 .2,0.2,plant and equipment,RM'Mil,words
+22,1,21,4,-,,,,words
+22,1,21,5,-,,,,words
+22,1,21,6,2 9.1,29.1,plant and equipment,RM'Mil,words
+22,1,21,7,-28.9,-28.9,plant and equipment,RM'Mil,words
+22,1,21,8,-99%,-99.0,plant and equipment,%,words
+22,1,22,1,Others,,,,words
+22,1,22,2,1 8.1,18.1,Others,RM'Mil,words
+22,1,22,3,( 6.0),-6.0,Others,RM'Mil,words
+22,1,22,4,24.1,24.1,Others,RM'Mil,words
+22,1,22,5,>100%,,,,words
+22,1,22,6,( 1.1),-1.1,Others,RM'Mil,words
+22,1,22,7,19.2,19.2,Others,RM'Mil,words
+22,1,22,8,>100%,,,,words
+22,1,23,1,EBITDA,,,,words
+22,1,23,2,5 93.7,593.7,EBITDA,RM'Mil,words
+22,1,23,3,5 41.4,541.4,EBITDA,RM'Mil,words
+22,1,23,4,52.3,52.3,EBITDA,RM'Mil,words
+22,1,23,5,10%,10.0,EBITDA,%,words
+22,1,23,6,6 71.6,671.6,EBITDA,RM'Mil,words
+22,1,23,7,-77.9,-77.9,EBITDA,RM'Mil,words
+22,1,23,8,-12%,-12.0,EBITDA,%,words
+22,1,24,1,Depreciation and amortisation,,,,words
+22,1,24,2,( 240.7),-240.7,Depreciation and amortisation,RM'Mil,words
+22,1,24,3,( 248.3),-248.3,Depreciation and amortisation,RM'Mil,words
+22,1,24,4,7.6,7.6,Depreciation and amortisation,RM'Mil,words
+22,1,24,5,3%,3.0,Depreciation and amortisation,,words
+22,1,24,6,( 242.4),-242.4,Depreciation and amortisation,RM'Mil,words
+22,1,24,7,1.7,1.7,Depreciation and amortisation,RM'Mil,words
+22,1,24,8,1%,1.0,Depreciation and amortisation,,words
+22,1,25,1,Interest income,,,,words
+22,1,25,2,7 9.4,79.4,Interest income,RM'Mil,words
+22,1,25,3,7 0.7,70.7,Interest income,RM'Mil,words
+22,1,25,4,8.7,8.7,Interest income,RM'Mil,words
+22,1,25,5,12%,12.0,Interest income,%,words
+22,1,25,6,8 2.4,82.4,Interest income,RM'Mil,words
+22,1,25,7,-3.0,-3.0,Interest income,RM'Mil,words
+22,1,25,8,-4%,-4.0,Interest income,,words
+22,1,26,1,Finance costs,,,,words
+22,1,26,2,( 34.9),-34.9,Finance costs,RM'Mil,words
+22,1,26,3,( 19.1),-19.1,Finance costs,RM'Mil,words
+22,1,26,4,-15.8,-15.8,Finance costs,RM'Mil,words
+22,1,26,5,-83%,-83.0,Finance costs,%,words
+22,1,26,6,( 33.9),-33.9,Finance costs,RM'Mil,words
+22,1,26,7,-1.0,-1.0,Finance costs,RM'Mil,words
+22,1,26,8,-3%,-3.0,Finance costs,,words
+22,1,27,1,Profit before taxation,,,,words
+22,1,27,2,3 97.5,397.5,Profit before taxation,RM'Mil,words
+22,1,27,3,3 44.7,344.7,Profit before taxation,RM'Mil,words
+22,1,27,4,52.8,52.8,Profit before taxation,RM'Mil,words
+22,1,27,5,15%,15.0,Profit before taxation,%,words
+22,1,27,6,4 77.7,477.7,Profit before taxation,RM'Mil,words
+22,1,27,7,-80.2,-80.2,Profit before taxation,RM'Mil,words
+22,1,27,8,-17%,-17.0,Profit before taxation,%,words
+22,1,28,1,Taxation,,,,words
+22,1,28,2,( 55.4),-55.4,Taxation,RM'Mil,words
+22,1,28,3,( 49.4),-49.4,Taxation,RM'Mil,words
+22,1,28,4,-6.0,-6.0,Taxation,RM'Mil,words
+22,1,28,5,-12%,-12.0,Taxation,%,words
+22,1,28,6,( 47.0),-47.0,Taxation,RM'Mil,words
+22,1,28,7,-8.4,-8.4,Taxation,RM'Mil,words
+22,1,28,8,-18%,-18.0,Taxation,%,words
+22,1,29,1,Profit for the financial period,,,,words
+22,1,29,2,3 42.1,342.1,Profit for the financial period,RM'Mil,words
+22,1,29,3,2 95.3,295.3,Profit for the financial period,RM'Mil,words
+22,1,29,4,46.8,46.8,Profit for the financial period,RM'Mil,words
+22,1,29,5,16%,16.0,Profit for the financial period,%,words
+22,1,29,6,4 30.7,430.7,Profit for the financial period,RM'Mil,words
+22,1,29,7,-88.6,-88.6,Profit for the financial period,RM'Mil,words
+22,1,29,8,-21%,-21.0,Profit for the financial period,%,words
+22,1,30,1,Basic earnings per share (sen),,,,words
+22,1,30,2,6 .33,6.33,Basic earnings per share (sen),RM'Mil,words
+22,1,30,3,5 .73,5.73,Basic earnings per share (sen),RM'Mil,words
+22,1,30,4,0.6,0.6,Basic earnings per share (sen),RM'Mil,words
+22,1,30,5,10%,10.0,Basic earnings per share (sen),%,words
+22,1,30,6,7 .94,7.94,Basic earnings per share (sen),RM'Mil,words
+22,1,30,7,-1.6,-1.6,Basic earnings per share (sen),RM'Mil,words
+22,1,30,8,-20%,-20.0,Basic earnings per share (sen),%,words
+22,1,31,1,Diluted earnings per share (sen),,,,words
+22,1,31,2,6 .33,6.33,Diluted earnings per share (sen),RM'Mil,words
+22,1,31,3,5 .72,5.72,Diluted earnings per share (sen),RM'Mil,words
+22,1,31,4,0.6,0.6,Diluted earnings per share (sen),RM'Mil,words
+22,1,31,5,11%,11.0,Diluted earnings per share (sen),%,words
+22,1,31,6,7 .91,7.91,Diluted earnings per share (sen),RM'Mil,words
+22,1,31,7,-1.6,-1.6,Diluted earnings per share (sen),RM'Mil,words
+22,1,31,8,-20%,-20.0,Diluted earnings per share (sen),%,words

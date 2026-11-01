@@ -1,0 +1,14 @@
+{
+  "ticker": "GENTING",
+  "posts": 1591,
+  "replies": 2797,
+  "records": 4388,
+  "feed_pages": 81,
+  "requests": 0,
+  "comment_requests": 0,
+  "detail_requests": 0,
+  "errors": [],
+  "output": "/home/shami/projects/genting/data/raw/moomoo_my_GENTING.jsonl",
+  "min_ts": 1762085431,
+  "max_ts": 1793432618
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "GENTING",
+  "posts": 1194,
+  "replies": 1987,
+  "records": 3181,
+  "feed_pages": 141,
+  "requests": 271,
+  "comment_requests": 73,
+  "detail_requests": 138,
+  "errors": [
+    "feed 114308376756230: comments_total_count=145 but API returned 144"
+  ],
+  "output": "/home/shami/projects/genting/data/raw/moomoo_my_GENTING_2024-2025.jsonl",
+  "min_ts": 1730790786,
+  "max_ts": 1793351113
+}

@@ -1,0 +1,2945 @@
+page,table_index,row,col,value_text,value_number,row_label,col_label,strategy
+1,1,1,1,2026,2026.0,,INDIVIDUAL / QUARTER / Second quarter ended,words
+1,1,1,2,2025,2025.0,,Second quarter ended,words
+1,1,1,3,2026,2026.0,,CUMULATIVE / Six months ended,words
+1,1,1,4,2025,2025.0,,CUMULATIVE / Six months ended,words
+1,1,2,1,RM’Mil,,,,words
+1,1,2,2,RM’Mil,,,,words
+1,1,2,3,RM’Mil,,,,words
+1,1,2,4,RM’Mil,,,,words
+1,1,3,1,Revenue,,,,words
+1,1,3,2,"3,853.3",3853.3,Revenue,INDIVIDUAL / QUARTER / Second quarter ended / 30 June,words
+1,1,3,3,"2,918.5",2918.5,Revenue,Second quarter ended,words
+1,1,3,4,"6,720.2",6720.2,Revenue,CUMULATIVE / PERIOD / Six months ended,words
+1,1,3,5,"5,513.7",5513.7,Revenue,CUMULATIVE / Six months ended,words
+1,1,4,1,Cost of sales,,,,words
+1,1,4,2,"(2,737.5)",-2737.5,Cost of sales,INDIVIDUAL / QUARTER / Second quarter ended / 30 June,words
+1,1,4,3,"(2,049.1)",-2049.1,Cost of sales,INDIVIDUAL / Second quarter ended,words
+1,1,4,4,"(4,872.9)",-4872.9,Cost of sales,CUMULATIVE / PERIOD / Six months ended / 30 June,words
+1,1,4,5,"(3,998.6)",-3998.6,Cost of sales,CUMULATIVE / Six months ended,words
+1,1,5,1,Gross profit,,,,words
+1,1,5,2,"1,115.8",1115.8,Gross profit,INDIVIDUAL / QUARTER / Second quarter ended / 30 June,words
+1,1,5,3,869.4,869.4,Gross profit,Second quarter ended,words
+1,1,5,4,"1,847.3",1847.3,Gross profit,CUMULATIVE / PERIOD / Six months ended,words
+1,1,5,5,"1,515.1",1515.1,Gross profit,CUMULATIVE / Six months ended,words
+1,1,6,1,Other income,,,,words
+1,1,6,2,67.3,67.3,Other income,INDIVIDUAL / QUARTER / Second quarter ended / 30 June,words
+1,1,6,3,191.7,191.7,Other income,Second quarter ended,words
+1,1,6,4,144.9,144.9,Other income,CUMULATIVE / PERIOD / Six months ended,words
+1,1,6,5,291.2,291.2,Other income,Six months ended,words
+1,1,7,1,Other expenses,,,,words
+1,1,7,2,(734.8),-734.8,Other expenses,INDIVIDUAL / QUARTER / Second quarter ended / 30 June,words
+1,1,7,3,(508.9),-508.9,Other expenses,Second quarter ended,words
+1,1,7,4,"(1,268.9)",-1268.9,Other expenses,CUMULATIVE / PERIOD / Six months ended / 30 June,words
+1,1,7,5,(871.8),-871.8,Other expenses,CUMULATIVE / Six months ended,words
+1,1,8,1,Other (losses)/gains - net,,,,words
+1,1,8,2,(18.1),-18.1,Other (losses)/gains - net,INDIVIDUAL / QUARTER / Second quarter ended / 30 June,words
+1,1,8,3,189.3,189.3,Other (losses)/gains - net,Second quarter ended,words
+1,1,8,4,(1.2),-1.2,Other (losses)/gains - net,CUMULATIVE / PERIOD / Six months ended / 30 June,words
+1,1,8,5,242.8,242.8,Other (losses)/gains - net,Six months ended,words
+1,1,9,1,Profit from operations,,,,words
+1,1,9,2,430.2,430.2,Profit from operations,INDIVIDUAL / QUARTER / Second quarter ended / 30 June,words
+1,1,9,3,741.5,741.5,Profit from operations,Second quarter ended,words
+1,1,9,4,722.1,722.1,Profit from operations,CUMULATIVE / PERIOD / Six months ended,words
+1,1,9,5,"1,177.3",1177.3,Profit from operations,CUMULATIVE / Six months ended,words
+1,1,10,1,Finance costs,,,,words
+1,1,10,2,(281.0),-281.0,Finance costs,INDIVIDUAL / QUARTER / Second quarter ended / 30 June,words
+1,1,10,3,(196.0),-196.0,Finance costs,Second quarter ended,words
+1,1,10,4,(527.7),-527.7,Finance costs,CUMULATIVE / PERIOD / Six months ended / 30 June,words
+1,1,10,5,(380.2),-380.2,Finance costs,CUMULATIVE / Six months ended,words
+1,1,11,1,Share of results in associates and a joint,,,,words
+1,1,12,1,(5.4),-5.4,Share of results in associates and a joint,INDIVIDUAL / QUARTER / Second quarter ended / 30 June,words
+1,1,12,2,(42.2),-42.2,Share of results in associates and a joint,Second quarter ended,words
+1,1,12,3,(7.5),-7.5,Share of results in associates and a joint,CUMULATIVE / PERIOD / Six months ended / 30 June,words
+1,1,12,4,(109.8),-109.8,Share of results in associates and a joint,CUMULATIVE / Six months ended,words
+1,1,13,1,venture,,,,words
+1,1,14,1,Profit before taxation,,,,words
+1,1,14,2,143.8,143.8,Profit before taxation,INDIVIDUAL / QUARTER / Second quarter ended / 30 June,words
+1,1,14,3,503.3,503.3,Profit before taxation,Second quarter ended,words
+1,1,14,4,186.9,186.9,Profit before taxation,CUMULATIVE / PERIOD / Six months ended,words
+1,1,14,5,687.3,687.3,Profit before taxation,Six months ended,words
+1,1,15,1,Taxation,,,,words
+1,1,15,2,(116.8),-116.8,Taxation,INDIVIDUAL / QUARTER / Second quarter ended / 30 June,words
+1,1,15,3,(105.2),-105.2,Taxation,Second quarter ended,words
+1,1,15,4,(185.1),-185.1,Taxation,CUMULATIVE / PERIOD / Six months ended / 30 June,words
+1,1,15,5,(237.2),-237.2,Taxation,CUMULATIVE / Six months ended,words
+1,1,16,1,Profit for the financial period,,,,words
+1,1,16,2,27.0,27.0,Profit for the financial period,INDIVIDUAL / QUARTER / Second quarter ended / 30 June,words
+1,1,16,3,398.1,398.1,Profit for the financial period,Second quarter ended,words
+1,1,16,4,1.8,1.8,Profit for the financial period,CUMULATIVE / PERIOD / Six months ended,words
+1,1,16,5,450.1,450.1,Profit for the financial period,Six months ended,words
+1,1,17,1,Profit attributable to:,,,,words
+1,1,18,1,Equity holders of the Company,,,,words
+1,1,18,2,47.4,47.4,Equity holders of the Company,INDIVIDUAL / QUARTER / Second quarter ended / 30 June,words
+1,1,18,3,416.6,416.6,Equity holders of the Company,Second quarter ended,words
+1,1,18,4,43.6,43.6,Equity holders of the Company,CUMULATIVE / PERIOD / Six months ended,words
+1,1,18,5,489.3,489.3,Equity holders of the Company,Six months ended,words
+1,1,19,1,Non-controlling interests,,,,words
+1,1,19,2,(20.4),-20.4,Non-controlling interests,INDIVIDUAL / QUARTER / Second quarter ended / 30 June,words
+1,1,19,3,(18.5),-18.5,Non-controlling interests,Second quarter ended,words
+1,1,19,4,(41.8),-41.8,Non-controlling interests,CUMULATIVE / PERIOD / Six months ended / 30 June,words
+1,1,19,5,(39.2),-39.2,Non-controlling interests,Six months ended,words
+1,1,20,1,27.0,27.0,Profit attributable to:,INDIVIDUAL / QUARTER / Second quarter ended / 30 June,words
+1,1,20,2,398.1,398.1,Profit attributable to:,Second quarter ended,words
+1,1,20,3,1.8,1.8,Profit attributable to:,CUMULATIVE / PERIOD / Six months ended,words
+1,1,20,4,450.1,450.1,Profit attributable to:,Six months ended,words
+1,1,21,1,Earnings per share (sen) for,,,,words
+1,1,22,1,profit attributable to,,,,words
+1,1,23,1,equity holders of the Company:,,,,words
+1,1,24,1,- Basic,,,,words
+1,1,24,2,0.84,0.84,- Basic,INDIVIDUAL / QUARTER / Second quarter ended / 30 June,words
+1,1,24,3,7.35,7.35,- Basic,Second quarter ended,words
+1,1,24,4,0.77,0.77,- Basic,CUMULATIVE / PERIOD / Six months ended / 30 June,words
+1,1,24,5,8.63,8.63,- Basic,Six months ended,words
+1,1,25,1,- Diluted,,,,words
+1,1,25,2,0.84,0.84,- Diluted,INDIVIDUAL / QUARTER / Second quarter ended / 30 June,words
+1,1,25,3,7.35,7.35,- Diluted,Second quarter ended,words
+1,1,25,4,0.77,0.77,- Diluted,CUMULATIVE / PERIOD / Six months ended / 30 June,words
+1,1,25,5,8.63,8.63,- Diluted,Six months ended,words
+2,1,1,1,2026,2026.0,,INDIVIDUAL / QUARTER / Second quarter ended,words
+2,1,1,2,2025,2025.0,,Second quarter ended,words
+2,1,1,3,2026,2026.0,,CUMULATIVE / Six months ended,words
+2,1,1,4,2025,2025.0,,CUMULATIVE / Six months ended,words
+2,1,2,1,RM’Mil,,,,words
+2,1,2,2,RM’Mil,,,,words
+2,1,2,3,RM’Mil,,,,words
+2,1,2,4,RM’Mil,,,,words
+2,1,3,1,Profit for the financial period,,,,words
+2,1,3,2,27.0,27.0,Profit for the financial period,INDIVIDUAL / QUARTER / Second quarter ended,words
+2,1,3,3,398.1,398.1,Profit for the financial period,Second quarter ended,words
+2,1,3,4,1.8,1.8,Profit for the financial period,CUMULATIVE / PERIOD / Six months ended / 30 June,words
+2,1,3,5,450.1,450.1,Profit for the financial period,Six months ended,words
+2,2,1,1,Cash flow hedges,,,,words
+2,2,1,2,(12.2),-12.2,Cash flow hedges,,words
+2,2,1,3,(1.7),-1.7,Cash flow hedges,,words
+2,2,1,4,(14.1),-14.1,Cash flow hedges,,words
+2,2,1,5,5.2,5.2,Cash flow hedges,,words
+2,2,2,1,Foreign currency exchange differences,,,,words
+2,2,3,1,Net foreign currency exchange,,,,words
+2,2,4,1,gains/(losses) on translation of foreign,,,,words
+2,2,5,1,operations,,,,words
+2,2,5,2,64.2,64.2,operations,,words
+2,2,5,3,(309.1),-309.1,operations,,words
+2,2,5,4,(4.3),-4.3,operations,,words
+2,2,5,5,(353.6),-353.6,operations,,words
+2,2,6,1,Reclassification to profit or loss upon,,,,words
+2,2,7,1,liquidation of a subsidiary,,,,words
+2,2,7,2,1.4,1.4,liquidation of a subsidiary,,words
+2,2,7,3,-,,,,words
+2,2,7,4,1.4,1.4,liquidation of a subsidiary,,words
+2,2,7,5,-,,,,words
+2,2,8,1,Reclassification to profit or loss upon,,,,words
+2,2,9,1,remeasurement of previously held,,,,words
+2,2,10,1,interest in associates to fair value,,,,words
+2,2,10,2,-,,,,words
+2,2,10,3,(23.3),-23.3,interest in associates to fair value -,,words
+2,2,10,4,-,,,,words
+2,2,10,5,(23.3),-23.3,interest in associates to fair value -,,words
+2,2,11,1,65.6,65.6,remeasurement of previously held,,words
+2,2,11,2,(332.4),-332.4,remeasurement of previously held,,words
+2,2,11,3,(2.9),-2.9,remeasurement of previously held,,words
+2,2,11,4,(376.9),-376.9,remeasurement of previously held,,words
+2,2,12,1,"Other comprehensive income/(loss),",,,,words
+2,2,13,1,net of tax,,,,words
+2,2,13,2,53.4,53.4,net of tax,,words
+2,2,13,3,(334.1),-334.1,net of tax,,words
+2,2,13,4,(17.0),-17.0,net of tax,,words
+2,2,13,5,(371.7),-371.7,net of tax,,words
+2,2,14,1,Total comprehensive income/(loss) for,,,,words
+2,2,15,1,the financial period,,,,words
+2,2,15,2,80.4,80.4,the financial period,,words
+2,2,15,3,64.0,64.0,the financial period,,words
+2,2,15,4,(15.2),-15.2,the financial period,,words
+2,2,15,5,78.4,78.4,the financial period,,words
+2,2,16,1,Total comprehensive income/(loss),,,,words
+2,2,17,1,attributable to:,,,,words
+2,2,18,1,Equity holders of the Company,,,,words
+2,2,18,2,108.4,108.4,Equity holders of the Company,,words
+2,2,18,3,40.0,40.0,Equity holders of the Company,,words
+2,2,18,4,31.6,31.6,Equity holders of the Company,,words
+2,2,18,5,64.3,64.3,Equity holders of the Company,,words
+2,2,19,1,Non-controlling interests,,,,words
+2,2,19,2,(28.0),-28.0,Non-controlling interests,,words
+2,2,19,3,24.0,24.0,Non-controlling interests,,words
+2,2,19,4,(46.8),-46.8,Non-controlling interests,,words
+2,2,19,5,14.1,14.1,Non-controlling interests,,words
+2,2,20,1,80.4,80.4,attributable to:,,words
+2,2,20,2,64.0,64.0,attributable to:,,words
+2,2,20,3,(15.2),-15.2,attributable to:,,words
+2,2,20,4,78.4,78.4,attributable to:,,words
+3,1,1,1,"Property, plant and equipment",,,,words
+3,1,1,2,"16,966.3",16966.3,"Property, plant and equipment",As at / 30.06.2026 / RM’Mil,words
+3,1,1,3,"16,337.9",16337.9,"Property, plant and equipment",As at / 31.12.2025 / RM’Mil,words
+3,1,2,1,Land held for property development,,,,words
+3,1,2,2,241.5,241.5,Land held for property development,30.06.2026 / RM’Mil,words
+3,1,2,3,178.2,178.2,Land held for property development,As at / 31.12.2025 / RM’Mil,words
+3,1,3,1,Investment properties,,,,words
+3,1,3,2,"2,062.6",2062.6,Investment properties,As at / 30.06.2026 / RM’Mil,words
+3,1,3,3,"2,061.4",2061.4,Investment properties,As at / 31.12.2025 / RM’Mil,words
+3,1,4,1,Intangible assets,,,,words
+3,1,4,2,"6,124.7",6124.7,Intangible assets,As at / 30.06.2026 / RM’Mil,words
+3,1,4,3,"4,430.7",4430.7,Intangible assets,As at / 31.12.2025 / RM’Mil,words
+3,1,5,1,Right-of-use assets,,,,words
+3,1,5,2,"2,328.6",2328.6,Right-of-use assets,As at / 30.06.2026 / RM’Mil,words
+3,1,5,3,"1,302.1",1302.1,Right-of-use assets,As at / 31.12.2025 / RM’Mil,words
+3,1,6,1,Associates and a joint venture,,,,words
+3,1,6,2,155.0,155.0,Associates and a joint venture,30.06.2026 / RM’Mil,words
+3,1,6,3,46.5,46.5,Associates and a joint venture,31.12.2025,words
+3,1,7,1,Financial assets at fair value through other comprehensive income,,,,words
+3,1,7,2,64.7,64.7,Financial assets at fair value through other comprehensive income,30.06.2026,words
+3,1,7,3,64.4,64.4,Financial assets at fair value through other comprehensive income,31.12.2025,words
+3,1,8,1,Other non-current assets,,,,words
+3,1,8,2,283.4,283.4,Other non-current assets,30.06.2026 / RM’Mil,words
+3,1,8,3,198.0,198.0,Other non-current assets,As at / 31.12.2025 / RM’Mil,words
+3,1,9,1,Deferred tax assets,,,,words
+3,1,9,2,40.7,40.7,Deferred tax assets,30.06.2026,words
+3,1,9,3,42.6,42.6,Deferred tax assets,31.12.2025,words
+3,1,10,1,"28,267.5",28267.5,,As at / 30.06.2026 / RM’Mil,words
+3,1,10,2,"24,661.8",24661.8,,As at / 31.12.2025 / RM’Mil,words
+3,1,11,1,Current assets,,,,words
+3,1,12,1,Inventories,,,,words
+3,1,12,2,215.7,215.7,Inventories,30.06.2026 / RM’Mil,words
+3,1,12,3,193.6,193.6,Inventories,As at / 31.12.2025 / RM’Mil,words
+3,1,13,1,Trade and other receivables,,,,words
+3,1,13,2,670.5,670.5,Trade and other receivables,30.06.2026 / RM’Mil,words
+3,1,13,3,648.2,648.2,Trade and other receivables,As at / 31.12.2025 / RM’Mil,words
+3,1,14,1,Amount due from holding company,,,,words
+3,1,14,2,0.6,0.6,Amount due from holding company,30.06.2026,words
+3,1,14,3,0.5,0.5,Amount due from holding company,31.12.2025,words
+3,1,15,1,Amounts due from related companies,,,,words
+3,1,15,2,1.0,1.0,Amounts due from related companies,30.06.2026,words
+3,1,15,3,1.3,1.3,Amounts due from related companies,31.12.2025,words
+3,1,16,1,Financial assets at fair value through profit or loss,,,,words
+3,1,16,2,"1,148.3",1148.3,Financial assets at fair value through profit or loss,As at / 30.06.2026 / RM’Mil,words
+3,1,16,3,"1,030.8",1030.8,Financial assets at fair value through profit or loss,As at / 31.12.2025 / RM’Mil,words
+3,1,17,1,Restricted cash,,,,words
+3,1,17,2,56.5,56.5,Restricted cash,30.06.2026,words
+3,1,17,3,27.3,27.3,Restricted cash,31.12.2025,words
+3,1,18,1,Cash and cash equivalents,,,,words
+3,1,18,2,"2,674.0",2674.0,Cash and cash equivalents,As at / 30.06.2026 / RM’Mil,words
+3,1,18,3,"2,847.2",2847.2,Cash and cash equivalents,As at / 31.12.2025 / RM’Mil,words
+3,1,19,1,"4,766.6",4766.6,Current assets,As at / 30.06.2026 / RM’Mil,words
+3,1,19,2,"4,748.9",4748.9,Current assets,As at / 31.12.2025 / RM’Mil,words
+3,1,20,1,Assets classified as held for sale,,,,words
+3,1,20,2,120.2,120.2,Assets classified as held for sale,30.06.2026 / RM’Mil,words
+3,1,20,3,114.3,114.3,Assets classified as held for sale,As at / 31.12.2025 / RM’Mil,words
+3,1,21,1,"4,886.8",4886.8,Current assets,As at / 30.06.2026 / RM’Mil,words
+3,1,21,2,"4,863.2",4863.2,Current assets,As at / 31.12.2025 / RM’Mil,words
+3,1,22,1,TOTAL ASSETS,,,,words
+3,1,22,2,"33,154.3",33154.3,TOTAL ASSETS,As at / 30.06.2026 / RM’Mil,words
+3,1,22,3,"29,525.0",29525.0,TOTAL ASSETS,As at / 31.12.2025 / RM’Mil,words
+3,1,23,1,EQUITY AND LIABILITIES,,,,words
+3,1,24,1,Equity attributable to equity holders of the Company,,,,words
+3,1,25,1,Share capital,,,,words
+3,1,25,2,"1,764.5",1764.5,Share capital,As at / 30.06.2026 / RM’Mil,words
+3,1,25,3,"1,764.5",1764.5,Share capital,As at / 31.12.2025 / RM’Mil,words
+3,1,26,1,Reserves,,,,words
+3,1,26,2,"10,439.8",10439.8,Reserves,As at / 30.06.2026 / RM’Mil,words
+3,1,26,3,"10,804.9",10804.9,Reserves,As at / 31.12.2025 / RM’Mil,words
+3,1,27,1,Treasury shares,,,,words
+3,1,27,2,(935.7),-935.7,Treasury shares,As at / 30.06.2026 / RM’Mil,words
+3,1,27,3,(935.7),-935.7,Treasury shares,As at / 31.12.2025 / RM’Mil,words
+3,1,28,1,"11,268.6",11268.6,Equity attributable to equity holders of the Company,As at / 30.06.2026 / RM’Mil,words
+3,1,28,2,"11,633.7",11633.7,Equity attributable to equity holders of the Company,As at / 31.12.2025 / RM’Mil,words
+3,1,29,1,Non-controlling interests,,,,words
+3,1,29,2,(926.8),-926.8,Non-controlling interests,As at / 30.06.2026 / RM’Mil,words
+3,1,29,3,(880.0),-880.0,Non-controlling interests,As at / 31.12.2025 / RM’Mil,words
+3,1,30,1,TOTAL EQUITY,,,,words
+3,1,30,2,"10,341.8",10341.8,TOTAL EQUITY,As at / 30.06.2026 / RM’Mil,words
+3,1,30,3,"10,753.7",10753.7,TOTAL EQUITY,As at / 31.12.2025 / RM’Mil,words
+3,1,31,1,Non-current liabilities,,,,words
+3,1,32,1,Other long term liabilities,,,,words
+3,1,32,2,272.5,272.5,Other long term liabilities,30.06.2026 / RM’Mil,words
+3,1,32,3,285.9,285.9,Other long term liabilities,As at / 31.12.2025 / RM’Mil,words
+3,1,33,1,Long term borrowings,,,,words
+3,1,33,2,"13,233.4",13233.4,Long term borrowings,As at / 30.06.2026 / RM’Mil,words
+3,1,33,3,"11,288.3",11288.3,Long term borrowings,As at / 31.12.2025 / RM’Mil,words
+3,1,34,1,Lease liabilities,,,,words
+3,1,34,2,"2,044.9",2044.9,Lease liabilities,As at / 30.06.2026 / RM’Mil,words
+3,1,34,3,"1,362.8",1362.8,Lease liabilities,As at / 31.12.2025 / RM’Mil,words
+3,1,35,1,Deferred tax liabilities,,,,words
+3,1,35,2,"1,070.7",1070.7,Deferred tax liabilities,As at / 30.06.2026 / RM’Mil,words
+3,1,35,3,"1,058.4",1058.4,Deferred tax liabilities,As at / 31.12.2025 / RM’Mil,words
+3,1,36,1,Derivative financial instruments,,,,words
+3,1,36,2,54.0,54.0,Derivative financial instruments,30.06.2026,words
+3,1,36,3,53.2,53.2,Derivative financial instruments,31.12.2025,words
+3,1,37,1,"16,675.5",16675.5,Non-current liabilities,As at / 30.06.2026 / RM’Mil,words
+3,1,37,2,"14,048.6",14048.6,Non-current liabilities,As at / 31.12.2025 / RM’Mil,words
+3,1,38,1,Current liabilities,,,,words
+3,1,39,1,Trade and other payables,,,,words
+3,1,39,2,"3,432.4",3432.4,Trade and other payables,As at / 30.06.2026 / RM’Mil,words
+3,1,39,3,"3,151.8",3151.8,Trade and other payables,As at / 31.12.2025 / RM’Mil,words
+3,1,40,1,Amount due to holding company,,,,words
+3,1,40,2,0.3,0.3,Amount due to holding company,30.06.2026,words
+3,1,40,3,9.9,9.9,Amount due to holding company,31.12.2025,words
+3,1,41,1,Amounts due to related companies,,,,words
+3,1,41,2,2.0,2.0,Amounts due to related companies,30.06.2026,words
+3,1,41,3,2.0,2.0,Amounts due to related companies,31.12.2025,words
+3,1,42,1,Short term borrowings,,,,words
+3,1,42,2,"2,469.7",2469.7,Short term borrowings,As at / 30.06.2026 / RM’Mil,words
+3,1,42,3,"1,427.7",1427.7,Short term borrowings,As at / 31.12.2025 / RM’Mil,words
+3,1,43,1,Lease liabilities,,,,words
+3,1,43,2,185.9,185.9,Lease liabilities,30.06.2026 / RM’Mil,words
+3,1,43,3,86.5,86.5,Lease liabilities,31.12.2025,words
+3,1,44,1,Taxation,,,,words
+3,1,44,2,46.7,46.7,Taxation,30.06.2026,words
+3,1,44,3,44.8,44.8,Taxation,31.12.2025,words
+3,1,45,1,"6,137.0",6137.0,Current liabilities,As at / 30.06.2026 / RM’Mil,words
+3,1,45,2,"4,722.7",4722.7,Current liabilities,As at / 31.12.2025 / RM’Mil,words
+3,1,46,1,TOTAL LIABILITIES,,,,words
+3,1,46,2,"22,812.5",22812.5,TOTAL LIABILITIES,As at / 30.06.2026 / RM’Mil,words
+3,1,46,3,"18,771.3",18771.3,TOTAL LIABILITIES,As at / 31.12.2025 / RM’Mil,words
+3,1,47,1,TOTAL EQUITY AND LIABILITIES,,,,words
+3,1,47,2,"33,154.3",33154.3,TOTAL EQUITY AND LIABILITIES,As at / 30.06.2026 / RM’Mil,words
+3,1,47,3,"29,525.0",29525.0,TOTAL EQUITY AND LIABILITIES,As at / 31.12.2025 / RM’Mil,words
+3,1,48,1,NET ASSETS PER SHARE (RM),,,,words
+3,1,48,2,1.99,1.99,NET ASSETS PER SHARE (RM),30.06.2026,words
+3,1,48,3,2.05,2.05,NET ASSETS PER SHARE (RM),31.12.2025,words
+4,1,1,1,At 1 January 2026,,,,words
+4,1,1,2,"1,764.5",1764.5,At 1 January 2026,Share / Capital / RM'Mil,words
+4,1,1,3,(82.5),-82.5,At 1 January 2026,Value / Reserve / RM'Mil,words
+4,1,1,4,8.2,8.2,At 1 January 2026,Hedge / Reserve / RM'Mil,words
+4,1,1,5,"1,331.6",1331.6,At 1 January 2026,Other / Reserves / RM'Mil,words
+4,1,1,6,(935.7),-935.7,At 1 January 2026,Treasury / Shares / RM'Mil,words
+4,1,1,7,"9,547.6",9547.6,At 1 January 2026,Retained / Earnings / RM'Mil,words
+4,1,1,8,"11,633.7",11633.7,At 1 January 2026,Total / RM'Mil,words
+4,1,1,9,(880.0),-880.0,At 1 January 2026,controlling / Interests / RM'Mil,words
+4,1,1,10,"10,753.7",10753.7,At 1 January 2026,Total Equity / RM'Mil,words
+4,1,2,1,Profit/(loss) for the financial period,,,,words
+4,1,2,2,-,,,,words
+4,1,2,3,-,,,,words
+4,1,2,4,-,,,,words
+4,1,2,5,-,,,,words
+4,1,2,6,-,,,,words
+4,1,2,7,43.6,43.6,Profit/(loss) for the financial period - - - - -,Retained / Earnings / RM'Mil,words
+4,1,2,8,43.6,43.6,Profit/(loss) for the financial period - - - - -,Total / RM'Mil,words
+4,1,2,9,(41.8),-41.8,Profit/(loss) for the financial period - - - - -,controlling / Interests / RM'Mil,words
+4,1,2,10,1.8,1.8,Profit/(loss) for the financial period - - - - -,Total Equity / RM'Mil,words
+4,1,3,1,Other comprehensive (loss)/income,,,,words
+4,1,3,2,-,,,,words
+4,1,3,3,-,,,,words
+4,1,3,4,(14.1),-14.1,Other comprehensive (loss)/income - -,Hedge / Reserve / RM'Mil,words
+4,1,3,5,2.1,2.1,Other comprehensive (loss)/income - -,Reserves / RM'Mil,words
+4,1,3,6,-,,,,words
+4,1,3,7,-,,,,words
+4,1,3,8,(12.0),-12.0,Other comprehensive (loss)/income - -,Total / RM'Mil,words
+4,1,3,9,(5.0),-5.0,Other comprehensive (loss)/income - -,controlling / Interests / RM'Mil,words
+4,1,3,10,(17.0),-17.0,Other comprehensive (loss)/income - -,Total Equity / RM'Mil,words
+4,1,4,1,Total comprehensive (loss)/income for the,,,,words
+4,1,5,1,financial period,,,,words
+4,1,5,2,-,,,,words
+4,1,5,3,-,,,,words
+4,1,5,4,(14.1),-14.1,financial period - -,Hedge / Reserve / RM'Mil,words
+4,1,5,5,2.1,2.1,financial period - -,Reserves / RM'Mil,words
+4,1,5,6,-,,,,words
+4,1,5,7,43.6,43.6,financial period - -,Retained / Earnings / RM'Mil,words
+4,1,5,8,31.6,31.6,financial period - -,Total / RM'Mil,words
+4,1,5,9,(46.8),-46.8,financial period - -,controlling / Interests / RM'Mil,words
+4,1,5,10,(15.2),-15.2,financial period - -,Total Equity / RM'Mil,words
+4,1,6,1,Transactions with owners:,,,,words
+4,1,7,1,Appropriation:,,,,words
+4,1,8,1,Final single-tier dividend declared for the financial,,,,words
+4,1,9,1,year ended 31 December 2025,,,,words
+4,1,9,2,-,,,,words
+4,1,9,3,-,,,,words
+4,1,9,4,-,,,,words
+4,1,9,5,-,,,,words
+4,1,9,6,-,,,,words
+4,1,9,7,(396.7),-396.7,year ended 31 December 2025 - - - - -,Retained / Earnings / RM'Mil,words
+4,1,9,8,(396.7),-396.7,year ended 31 December 2025 - - - - -,Total / RM'Mil,words
+4,1,9,9,-,,,,words
+4,1,9,10,(396.7),-396.7,year ended 31 December 2025 - - - - -,Total Equity / RM'Mil,words
+4,1,10,1,Total transactions with owners,,,,words
+4,1,10,2,-,,,,words
+4,1,10,3,-,,,,words
+4,1,10,4,-,,,,words
+4,1,10,5,-,,,,words
+4,1,10,6,-,,,,words
+4,1,10,7,(396.7),-396.7,Total transactions with owners - - - - -,Retained / Earnings / RM'Mil,words
+4,1,10,8,(396.7),-396.7,Total transactions with owners - - - - -,Total / RM'Mil,words
+4,1,10,9,-,,,,words
+4,1,10,10,(396.7),-396.7,Total transactions with owners - - - - -,Total Equity / RM'Mil,words
+4,1,11,1,At 30 June 2026,,,,words
+4,1,11,2,"1,764.5",1764.5,At 30 June 2026,Share / Capital / RM'Mil,words
+4,1,11,3,(82.5),-82.5,At 30 June 2026,Value / Reserve / RM'Mil,words
+4,1,11,4,(5.9),-5.9,At 30 June 2026,Hedge / Reserve / RM'Mil,words
+4,1,11,5,"1,333.7",1333.7,At 30 June 2026,Other / Reserves / RM'Mil,words
+4,1,11,6,(935.7),-935.7,At 30 June 2026,Treasury / Shares / RM'Mil,words
+4,1,11,7,"9,194.5",9194.5,At 30 June 2026,Retained / Earnings / RM'Mil,words
+4,1,11,8,"11,268.6",11268.6,At 30 June 2026,Total / RM'Mil,words
+4,1,11,9,(926.8),-926.8,At 30 June 2026,controlling / Interests / RM'Mil,words
+4,1,11,10,"10,341.8",10341.8,At 30 June 2026,Total Equity / RM'Mil,words
+5,1,1,1,At 1 January 2025,,,,words
+5,1,1,2,"1,764.5",1764.5,At 1 January 2025,Share / Capital / RM'Mil,words
+5,1,1,3,(82.5),-82.5,At 1 January 2025,Value / Reserve / RM'Mil,words
+5,1,1,4,(3.4),-3.4,At 1 January 2025,Reserve,words
+5,1,1,5,"2,157.1",2157.1,At 1 January 2025,Other / Reserves / RM'Mil,words
+5,1,1,6,(935.7),-935.7,At 1 January 2025,Treasury / Shares / RM'Mil,words
+5,1,1,7,"9,021.1",9021.1,At 1 January 2025,Retained / Earnings / RM'Mil,words
+5,1,1,8,"11,921.1",11921.1,At 1 January 2025,Total / RM'Mil,words
+5,1,1,9,(882.1),-882.1,At 1 January 2025,controlling / Interests / RM'Mil,words
+5,1,1,10,"11,039.0",11039.0,At 1 January 2025,Total Equity / RM'Mil,words
+5,1,2,1,Profit/(loss) for the financial period,,,,words
+5,1,2,2,-,,,,words
+5,1,2,3,-,,,,words
+5,1,2,4,-,,,,words
+5,1,2,5,-,,,,words
+5,1,2,6,-,,,,words
+5,1,2,7,489.3,489.3,Profit/(loss) for the financial period - - - - -,Retained / Earnings / RM'Mil,words
+5,1,2,8,489.3,489.3,Profit/(loss) for the financial period - - - - -,Total / RM'Mil,words
+5,1,2,9,(39.2),-39.2,Profit/(loss) for the financial period - - - - -,controlling / Interests / RM'Mil,words
+5,1,2,10,450.1,450.1,Profit/(loss) for the financial period - - - - -,Total Equity / RM'Mil,words
+5,1,3,1,Other comprehensive income/(loss),,,,words
+5,1,3,2,-,,,,words
+5,1,3,3,-,,,,words
+5,1,3,4,5.2,5.2,Other comprehensive income/(loss) - -,Reserve,words
+5,1,3,5,(430.2),-430.2,Other comprehensive income/(loss) - -,Other / Reserves / RM'Mil,words
+5,1,3,6,-,,,,words
+5,1,3,7,-,,,,words
+5,1,3,8,(425.0),-425.0,Other comprehensive income/(loss) - -,Total / RM'Mil,words
+5,1,3,9,53.3,53.3,Other comprehensive income/(loss) - -,controlling / Interests / RM'Mil,words
+5,1,3,10,(371.7),-371.7,Other comprehensive income/(loss) - -,Total Equity / RM'Mil,words
+5,1,4,1,Total comprehensive income/(loss) for the financial,,,,words
+5,1,5,1,period,,,,words
+5,1,5,2,-,,,,words
+5,1,5,3,-,,,,words
+5,1,5,4,5.2,5.2,period - -,Reserve,words
+5,1,5,5,(430.2),-430.2,period - -,Other / Reserves / RM'Mil,words
+5,1,5,6,-,,,,words
+5,1,5,7,489.3,489.3,period - -,Retained / Earnings / RM'Mil,words
+5,1,5,8,64.3,64.3,period - -,Total / RM'Mil,words
+5,1,5,9,14.1,14.1,period - -,controlling / Interests / RM'Mil,words
+5,1,5,10,78.4,78.4,period - -,Total Equity / RM'Mil,words
+5,1,6,1,Transactions with owners:,,,,words
+5,1,7,1,Appropriation:,,,,words
+5,1,8,1,Final single-tier dividend declared for the financial,,,,words
+5,1,9,1,year ended 31 December 2024,,,,words
+5,1,9,2,-,,,,words
+5,1,9,3,-,,,,words
+5,1,9,4,-,,,,words
+5,1,9,5,-,,,,words
+5,1,9,6,-,,,,words
+5,1,9,7,(226.7),-226.7,year ended 31 December 2024 - - - - -,Retained / Earnings / RM'Mil,words
+5,1,9,8,(226.7),-226.7,year ended 31 December 2024 - - - - -,Total / RM'Mil,words
+5,1,9,9,-,,,,words
+5,1,9,10,(226.7),-226.7,year ended 31 December 2024 - - - - -,Total Equity / RM'Mil,words
+5,1,10,1,Total transactions with owners,,,,words
+5,1,10,2,-,,,,words
+5,1,10,3,-,,,,words
+5,1,10,4,-,,,,words
+5,1,10,5,-,,,,words
+5,1,10,6,-,,,,words
+5,1,10,7,(226.7),-226.7,Total transactions with owners - - - - -,Retained / Earnings / RM'Mil,words
+5,1,10,8,(226.7),-226.7,Total transactions with owners - - - - -,Total / RM'Mil,words
+5,1,10,9,-,,,,words
+5,1,10,10,(226.7),-226.7,Total transactions with owners - - - - -,Total Equity / RM'Mil,words
+5,1,11,1,At 30 June 2025,,,,words
+5,1,11,2,"1,764.5",1764.5,At 30 June 2025,Share / Capital / RM'Mil,words
+5,1,11,3,(82.5),-82.5,At 30 June 2025,Value / Reserve / RM'Mil,words
+5,1,11,4,1.8,1.8,At 30 June 2025,Reserve,words
+5,1,11,5,"1,726.9",1726.9,At 30 June 2025,Other / Reserves / RM'Mil,words
+5,1,11,6,(935.7),-935.7,At 30 June 2025,Treasury / Shares / RM'Mil,words
+5,1,11,7,"9,283.7",9283.7,At 30 June 2025,Retained / Earnings / RM'Mil,words
+5,1,11,8,"11,758.7",11758.7,At 30 June 2025,Total / RM'Mil,words
+5,1,11,9,(868.0),-868.0,At 30 June 2025,controlling / Interests / RM'Mil,words
+5,1,11,10,"10,890.7",10890.7,At 30 June 2025,Total Equity / RM'Mil,words
+6,1,1,1,2026,2026.0,,Six months ended / 30 June,words
+6,1,1,2,2025,2025.0,,,words
+6,1,2,1,RM’Mil,,,,words
+6,1,2,2,RM’Mil,,,,words
+6,1,3,1,CASH FLOWS FROM OPERATING ACTIVITIES,,,,words
+6,1,4,1,Profit before taxation,,,,words
+6,1,4,2,186.9,186.9,Profit before taxation,Six months ended / 30 June,words
+6,1,4,3,687.3,687.3,Profit before taxation,,words
+6,1,5,1,Adjustments for:,,,,words
+6,1,6,1,Depreciation and amortisation,,,,words
+6,1,6,2,687.9,687.9,Depreciation and amortisation,Six months ended / 30 June,words
+6,1,6,3,609.3,609.3,Depreciation and amortisation,,words
+6,1,7,1,"Property, plant and equipment written off",,,,words
+6,1,7,2,5.2,5.2,"Property, plant and equipment written off",Six months ended / 30 June,words
+6,1,7,3,22.6,22.6,"Property, plant and equipment written off",,words
+6,1,8,1,Finance costs,,,,words
+6,1,8,2,527.7,527.7,Finance costs,Six months ended / 30 June,words
+6,1,8,3,380.2,380.2,Finance costs,,words
+6,1,9,1,Interest income,,,,words
+6,1,9,2,(25.8),-25.8,Interest income,Six months ended / 30 June,words
+6,1,9,3,(68.3),-68.3,Interest income,,words
+6,1,10,1,Investment income,,,,words
+6,1,10,2,(13.4),-13.4,Investment income,Six months ended / 30 June,words
+6,1,10,3,(6.9),-6.9,Investment income,,words
+6,1,11,1,Fair value gain on financial assets at fair value through profit or loss,,,,words
+6,1,11,2,(4.1),-4.1,Fair value gain on financial assets at fair value through profit or loss,Six months ended / 30 June,words
+6,1,11,3,(2.4),-2.4,Fair value gain on financial assets at fair value through profit or loss,,words
+6,1,12,1,Expected credit losses – receivables (net),,,,words
+6,1,12,2,1.2,1.2,Expected credit losses – receivables (net),Six months ended / 30 June,words
+6,1,12,3,(56.4),-56.4,Expected credit losses – receivables (net),,words
+6,1,13,1,(Reversal)/provision of retirement gratuities,,,,words
+6,1,13,2,(6.9),-6.9,(Reversal)/provision of retirement gratuities,Six months ended / 30 June,words
+6,1,13,3,14.0,14.0,(Reversal)/provision of retirement gratuities,,words
+6,1,14,1,Share of results in associates and a joint venture,,,,words
+6,1,14,2,7.5,7.5,Share of results in associates and a joint venture,Six months ended / 30 June,words
+6,1,14,3,109.8,109.8,Share of results in associates and a joint venture,,words
+6,1,15,1,Net exchange losses/(gains) – unrealised,,,,words
+6,1,15,2,8.7,8.7,Net exchange losses/(gains) – unrealised,Six months ended / 30 June,words
+6,1,15,3,(253.5),-253.5,Net exchange losses/(gains) – unrealised,,words
+6,1,16,1,Income from capital award,,,,words
+6,1,16,2,(35.1),-35.1,Income from capital award,Six months ended / 30 June,words
+6,1,16,3,(60.9),-60.9,Income from capital award,,words
+6,2,1,1,Other non-cash items and adjustments,,,,words
+6,2,1,2,1.9,1.9,Other non-cash items and adjustments,(35.1) / 1.4 / -,words
+6,2,1,3,(0.2),-0.2,Other non-cash items and adjustments,(60.9) / - / 13.3 / (77.1),words
+6,2,2,1,"1,156.2",1156.2,,(35.1) / 1.4 / -,words
+6,2,2,2,623.5,623.5,,(60.9) / - / 13.3 / (77.1),words
+6,2,3,1,Operating profit before working capital changes,,,,words
+6,2,3,2,"1,343.1",1343.1,Operating profit before working capital changes,(35.1) / 1.4 / -,words
+6,2,3,3,"1,310.8",1310.8,Operating profit before working capital changes,(60.9) / - / 13.3 / (77.1),words
+6,2,4,1,Net change in assets,,,,words
+6,2,4,2,(201.0),-201.0,Net change in assets,(35.1) / 1.4 / -,words
+6,2,4,3,48.9,48.9,Net change in assets,(60.9) / - / 13.3 / (77.1),words
+6,2,5,1,Net change in liabilities,,,,words
+6,2,5,2,188.0,188.0,Net change in liabilities,(35.1) / 1.4 / -,words
+6,2,5,3,(143.1),-143.1,Net change in liabilities,(60.9) / - / 13.3 / (77.1),words
+6,2,6,1,(13.0),-13.0,,(35.1) / 1.4 / -,words
+6,2,6,2,(94.2),-94.2,,(60.9) / - / 13.3 / (77.1),words
+6,2,7,1,Cash generated from operations,,,,words
+6,2,7,2,"1,330.1",1330.1,Cash generated from operations,(35.1) / 1.4 / -,words
+6,2,7,3,"1,216.6",1216.6,Cash generated from operations,(60.9) / - / 13.3 / (77.1),words
+6,2,8,1,Net tax paid,,,,words
+6,2,8,2,(138.9),-138.9,Net tax paid,(35.1) / 1.4 / -,words
+6,2,8,3,(121.5),-121.5,Net tax paid,(60.9) / - / 13.3 / (77.1),words
+6,2,9,1,Retirement gratuities paid,,,,words
+6,2,9,2,(14.4),-14.4,Retirement gratuities paid,(35.1) / 1.4 / -,words
+6,2,9,3,(5.2),-5.2,Retirement gratuities paid,(60.9) / - / 13.3 / (77.1),words
+6,2,10,1,(153.3),-153.3,,(35.1) / 1.4 / -,words
+6,2,10,2,(126.7),-126.7,,(60.9) / - / 13.3 / (77.1),words
+6,2,11,1,Net Cash Flow From Operating Activities,,,,words
+6,2,11,2,"1,176.8",1176.8,Net Cash Flow From Operating Activities,(35.1) / 1.4 / -,words
+6,2,11,3,"1,089.9",1089.9,Net Cash Flow From Operating Activities,(60.9) / - / 13.3 / (77.1),words
+6,2,12,1,CASH FLOWS FROM INVESTING ACTIVITIES,,,,words
+6,2,13,1,"Purchase of property, plant and equipment",,,,words
+6,2,13,2,"(1,133.3)",-1133.3,"Purchase of property, plant and equipment",(35.1) / 1.4 / -,words
+6,2,13,3,(448.7),-448.7,"Purchase of property, plant and equipment",(60.9) / - / 13.3 / (77.1),words
+6,2,14,1,Purchase of investment properties,,,,words
+6,2,14,2,(12.4),-12.4,Purchase of investment properties,(35.1) / 1.4 / -,words
+6,2,14,3,(19.0),-19.0,Purchase of investment properties,(60.9) / - / 13.3 / (77.1),words
+6,2,15,1,Investment in financial assets at fair value through profit or loss,,,,words
+6,2,15,2,(100.0),-100.0,Investment in financial assets at fair value through profit or loss,(35.1) / 1.4 / -,words
+6,2,15,3,(200.0),-200.0,Investment in financial assets at fair value through profit or loss,(60.9) / - / 13.3 / (77.1),words
+6,2,16,1,Investment in associates,,,,words
+6,2,16,2,(116.2),-116.2,Investment in associates,(35.1) / 1.4 / -,words
+6,2,16,3,(12.5),-12.5,Investment in associates,(60.9) / - / 13.3 / (77.1),words
+6,2,17,1,Restricted cash,,,,words
+6,2,17,2,(29.1),-29.1,Restricted cash,(35.1) / 1.4 / -,words
+6,2,17,3,1.0,1.0,Restricted cash,(60.9) / - / 13.3 / (77.1),words
+6,2,18,1,Interest received,,,,words
+6,2,18,2,25.4,25.4,Interest received,(35.1) / 1.4 / -,words
+6,2,18,3,66.9,66.9,Interest received,(60.9) / - / 13.3 / (77.1),words
+6,2,19,1,Proceeds from capital award,,,,words
+6,2,19,2,36.0,36.0,Proceeds from capital award,(35.1) / 1.4 / -,words
+6,2,19,3,58.5,58.5,Proceeds from capital award,(60.9) / - / 13.3 / (77.1),words
+6,2,20,1,Other investing activities,,,,words
+6,2,20,2,0.1,0.1,Other investing activities,(35.1) / 1.4 / -,words
+6,2,20,3,1.8,1.8,Other investing activities,(60.9) / - / 13.3 / (77.1),words
+6,2,21,1,Net Cash Flow Used in Investing Activities,,,,words
+6,2,21,2,"(3,385.7)",-3385.7,Net Cash Flow Used in Investing Activities,(35.1) / 1.4 / -,words
+6,2,21,3,(666.1),-666.1,Net Cash Flow Used in Investing Activities,(60.9) / - / 13.3 / (77.1),words
+7,1,1,1,2026,2026.0,,Six months ended / 30 June,words
+7,1,1,2,2025,2025.0,,,words
+7,1,2,1,RM’Mil,,,,words
+7,1,2,2,RM’Mil,,,,words
+7,1,3,1,CASH FLOWS FROM FINANCING ACTIVITIES,,,,words
+7,1,4,1,Repayment of borrowings and payment of transaction costs,,,,words
+7,1,4,2,"(3,923.9)",-3923.9,Repayment of borrowings and payment of transaction costs,Six months ended / 30 June,words
+7,1,4,3,(141.7),-141.7,Repayment of borrowings and payment of transaction costs,,words
+7,1,5,1,Repayment of lease liabilities,,,,words
+7,1,5,2,(95.1),-95.1,Repayment of lease liabilities,Six months ended / 30 June,words
+7,1,5,3,(73.5),-73.5,Repayment of lease liabilities,,words
+7,1,6,1,Proceeds from borrowings,,,,words
+7,1,6,2,"6,870.5",6870.5,Proceeds from borrowings,Six months ended / 30 June,words
+7,1,6,3,128.7,128.7,Proceeds from borrowings,,words
+7,1,7,1,Dividends paid,,,,words
+7,1,7,2,(396.7),-396.7,Dividends paid,Six months ended / 30 June,words
+7,1,7,3,(226.7),-226.7,Dividends paid,,words
+7,1,8,1,Finance costs paid,,,,words
+7,1,8,2,(419.4),-419.4,Finance costs paid,Six months ended / 30 June,words
+7,1,8,3,(313.9),-313.9,Finance costs paid,,words
+7,1,9,1,Net Cash Flow From/(Used in) Financing Activities,,,,words
+7,1,9,2,"2,035.4",2035.4,Net Cash Flow From/(Used in) Financing Activities,Six months ended / 30 June,words
+7,1,9,3,(627.1),-627.1,Net Cash Flow From/(Used in) Financing Activities,,words
+7,1,10,1,NET MOVEMENT IN CASH AND CASH EQUIVALENTS,,,,words
+7,1,10,2,(173.5),-173.5,NET MOVEMENT IN CASH AND CASH EQUIVALENTS,Six months ended / 30 June,words
+7,1,10,3,(203.3),-203.3,NET MOVEMENT IN CASH AND CASH EQUIVALENTS,,words
+7,1,11,1,CASH AND CASH EQUIVALENTS AT BEGINNING OF FINANCIAL PERIOD,,,,words
+7,1,11,2,"2,847.2",2847.2,CASH AND CASH EQUIVALENTS AT BEGINNING OF FINANCIAL PERIOD,Six months ended / 30 June,words
+7,1,11,3,"3,536.6",3536.6,CASH AND CASH EQUIVALENTS AT BEGINNING OF FINANCIAL PERIOD,,words
+7,1,12,1,EFFECT OF CURRENCY TRANSLATION,,,,words
+7,1,12,2,0.3,0.3,EFFECT OF CURRENCY TRANSLATION,Six months ended / 30 June,words
+7,1,12,3,(47.7),-47.7,EFFECT OF CURRENCY TRANSLATION,,words
+7,1,13,1,CASH AND CASH EQUIVALENTS AT END OF FINANCIAL PERIOD,,,,words
+7,1,13,2,"2,674.0",2674.0,CASH AND CASH EQUIVALENTS AT END OF FINANCIAL PERIOD,Six months ended / 30 June,words
+7,1,13,3,"3,285.6",3285.6,CASH AND CASH EQUIVALENTS AT END OF FINANCIAL PERIOD,,words
+7,1,14,1,ANALYSIS OF CASH AND CASH EQUIVALENTS,,,,words
+7,1,15,1,Cash and bank balances,,,,words
+7,1,15,2,"1,876.1",1876.1,Cash and bank balances,Six months ended / 30 June,words
+7,1,15,3,"1,977.6",1977.6,Cash and bank balances,,words
+7,1,16,1,Deposits with licenced banks,,,,words
+7,1,16,2,797.9,797.9,Deposits with licenced banks,Six months ended / 30 June,words
+7,1,16,3,"1,308.0",1308.0,Deposits with licenced banks,,words
+7,1,17,1,CASH AND CASH EQUIVALENTS AT END OF FINANCIAL PERIOD,,,,words
+7,1,17,2,"2,674.0",2674.0,CASH AND CASH EQUIVALENTS AT END OF FINANCIAL PERIOD,Six months ended / 30 June,words
+7,1,17,3,"3,285.6",3285.6,CASH AND CASH EQUIVALENTS AT END OF FINANCIAL PERIOD,,words
+9,1,1,1,Total revenue,,,,words
+9,1,1,2,"3,437.1",3437.1,Total revenue,Malaysia and Egypt / RM’Mil,words
+9,1,1,3,966.9,966.9,Total revenue,United / Kingdom / Malaysia and Egypt / RM’Mil,words
+9,1,1,4,"2,228.0",2228.0,Total revenue,United States / of America / and Bahamas / RM’Mil,words
+9,1,1,5,"6,632.0",6632.0,Total revenue,Total / RM’Mil,words
+9,1,1,6,55.2,55.2,Total revenue,RM’Mil,words
+9,1,1,7,101.6,101.6,Total revenue,RM’Mil,words
+9,1,1,8,"6,788.8",6788.8,Total revenue,RM’Mil,words
+9,1,2,1,Inter segment,,,,words
+9,1,2,2,(3.1),-3.1,Inter segment,Malaysia and Egypt / RM’Mil,words
+9,1,2,3,-,,,,words
+9,1,2,4,-,,,,words
+9,1,2,5,(3.1),-3.1,Inter segment,Total / RM’Mil,words
+9,1,2,6,(4.2),-4.2,Inter segment,RM’Mil,words
+9,1,2,7,(61.3),-61.3,Inter segment,RM’Mil,words
+9,1,2,8,(68.6),-68.6,Inter segment,RM’Mil,words
+9,1,3,1,External,,,,words
+9,1,3,2,"3,434.0",3434.0,External,Malaysia and Egypt / RM’Mil,words
+9,1,3,3,966.9,966.9,External,United / Kingdom / Malaysia and Egypt / RM’Mil,words
+9,1,3,4,"2,228.0",2228.0,External,United States / of America / and Bahamas / RM’Mil,words
+9,1,3,5,"6,628.9",6628.9,External,Total / RM’Mil,words
+9,1,3,6,51.0,51.0,External,RM’Mil,words
+9,1,3,7,40.3,40.3,External,RM’Mil,words
+9,1,3,8,"6,720.2",6720.2,External,RM’Mil,words
+9,1,4,1,Adjusted EBITDA/,,,,words
+9,1,5,1,(LBITDA),,,,words
+9,1,5,2,"1,127.1",1127.1,(LBITDA),Malaysia and Egypt / RM’Mil,words
+9,1,5,3,119.7,119.7,(LBITDA),United / Kingdom / Malaysia and Egypt / RM’Mil,words
+9,1,5,4,297.1,297.1,(LBITDA),United States / of America / and Bahamas / RM’Mil,words
+9,1,5,5,"1,543.9",1543.9,(LBITDA),Total / RM’Mil,words
+9,1,5,6,7.7,7.7,(LBITDA),RM’Mil,words
+9,1,5,7,(62.9),-62.9,(LBITDA),RM’Mil,words
+9,1,5,8,"1,488.7",1488.7,(LBITDA),RM’Mil,words
+9,1,6,1,Main foreign currency,,,,words
+9,1,6,2,RM,,,,words
+9,1,6,3,GBP,,,,words
+9,1,6,4,USD,,,,words
+9,1,6,5,RM/USD,,,,words
+9,1,6,6,RM/USD,,,,words
+9,1,7,1,Exchange ratio of 1,,,,words
+9,1,8,1,unit of foreign,,,,words
+9,1,9,1,currency to RM,,,,words
+9,1,9,2,5.3540,5.354,currency to RM,United / Kingdom / Malaysia and Egypt / RM’Mil,words
+9,1,9,3,3.9867,3.9867,currency to RM,United States / of America / and Bahamas / RM’Mil,words
+9,1,9,4,3.9867,3.9867,currency to RM,RM’Mil,words
+9,1,9,5,3.9867,3.9867,currency to RM,RM’Mil,words
+10,1,1,1,Segment Assets,,,,words
+10,1,1,2,"10,672.7",10672.7,Segment Assets,Malaysia / RM’Mil,words
+10,1,1,3,"4,624.6",4624.6,Segment Assets,United / Kingdom / and / Egypt / RM’Mil,words
+10,1,1,4,"12,385.3",12385.3,Segment Assets,States / of America / and / Bahamas / RM’Mil,words
+10,1,1,5,"27,682.6",27682.6,Segment Assets,Total / RM’Mil,words
+10,1,1,6,"2,197.5",2197.5,Segment Assets,RM’Mil,words
+10,1,1,7,"2,136.6",2136.6,Segment Assets,RM’Mil,words
+10,1,1,8,"32,016.7",32016.7,Segment Assets,RM’Mil,words
+10,1,2,1,Segment Liabilities,,,,words
+10,1,2,2,"2,216.5",2216.5,Segment Liabilities,Malaysia / RM’Mil,words
+10,1,2,3,"1,667.5",1667.5,Segment Liabilities,United / Kingdom / and / Egypt / RM’Mil,words
+10,1,2,4,"1,857.6",1857.6,Segment Liabilities,States / of America / and / Bahamas / RM’Mil,words
+10,1,2,5,"5,741.6",5741.6,Segment Liabilities,Total / RM’Mil,words
+10,1,2,6,154.5,154.5,Segment Liabilities,RM’Mil,words
+10,1,2,7,95.9,95.9,Segment Liabilities,RM’Mil,words
+10,1,2,8,"5,992.0",5992.0,Segment Liabilities,RM’Mil,words
+10,1,3,1,Main foreign currency,,,,words
+10,1,3,2,RM,,,,words
+10,1,3,3,GBP,,,,words
+10,1,3,4,USD,,,,words
+10,1,3,5,RM/USD,,,,words
+10,1,3,6,RM/USD,,,,words
+10,1,4,1,Exchange ratio of 1,,,,words
+10,1,5,1,unit of foreign,,,,words
+10,1,6,1,currency to RM,,,,words
+10,1,6,2,5 . 3996,5.3996,currency to RM,United / Kingdom / and / Egypt / RM’Mil,words
+10,1,6,3,4.0795,4.0795,currency to RM,States / of America / and / Bahamas / RM’Mil,words
+10,1,6,4,4.0795,4.0795,currency to RM,RM’Mil,words
+10,1,6,5,4.0795,4.0795,currency to RM,RM’Mil,words
+12,1,1,1,operations by Genting Berhad (“GENT”) Group to the Group.,,,,words
+12,1,1,2,131.7,131.7,operations by Genting Berhad (“GENT”) Group to the Group.,Current / quarter / RM’Mil,words
+12,1,1,3,247.9,247.9,operations by Genting Berhad (“GENT”) Group to the Group.,year-to- / date / RM’Mil,words
+12,1,2,1,ii),,,,words
+12,1,2,2,"Licensing fee for the use of “Genting”, “Resorts World” and “Awana” logo",,,,words
+12,1,3,1,charged by GENT to the Group.,,,,words
+12,1,3,2,57.6,57.6,charged by GENT to the Group.,Current / quarter / RM’Mil,words
+12,1,3,3,111.5,111.5,charged by GENT to the Group.,year-to- / date / RM’Mil,words
+12,1,4,1,iii),,,,words
+12,1,4,2,Licensing fee for the use of “Resorts World” and “Genting” intellectual,,,,words
+12,1,5,1,property outside Malaysia charged by GENT Group to the Group.,,,,words
+12,1,5,2,0.3,0.3,property outside Malaysia charged by GENT Group to the Group.,Current / quarter / RM’Mil,words
+12,1,5,3,0.6,0.6,property outside Malaysia charged by GENT Group to the Group.,year-to- / date / RM’Mil,words
+12,1,6,1,iv),,,,words
+12,1,6,2,Provision of management and support services by GENT Group to the,,,,words
+12,1,7,1,Group.,,,,words
+12,1,7,2,2.4,2.4,Group.,Current / quarter / RM’Mil,words
+12,1,7,3,4.7,4.7,Group.,year-to- / date / RM’Mil,words
+12,1,8,1,v),,,,words
+12,1,8,2,Income from rental and related services provided to GENT Group.,,,,words
+12,1,8,3,1.7,1.7,v) Income from rental and related services provided to GENT Group.,Current / quarter / RM’Mil,words
+12,1,8,4,3.5,3.5,v) Income from rental and related services provided to GENT Group.,year-to- / date / RM’Mil,words
+12,1,9,1,vi),,,,words
+12,1,9,2,Licensing fee for the use of “Resorts World” and “Genting” intellectual,,,,words
+12,1,10,1,property in the United States of America and the Bahamas charged by,,,,words
+12,1,11,1,Resorts World Inc Pte Ltd (“RWI”) Group to the Group.,,,,words
+12,1,11,2,31.4,31.4,Resorts World Inc Pte Ltd (“RWI”) Group to the Group.,Current / quarter / RM’Mil,words
+12,1,11,3,51.0,51.0,Resorts World Inc Pte Ltd (“RWI”) Group to the Group.,year-to- / date / RM’Mil,words
+12,1,12,1,vii),,,,words
+12,1,12,2,"Provision of information technology consultancy, development,",,,,words
+12,1,13,1,"implementation, support and maintenance services and other management",,,,words
+12,1,14,1,services by the Group to GENT Group.,,,,words
+12,1,14,2,1.2,1.2,services by the Group to GENT Group.,Current / quarter / RM’Mil,words
+12,1,14,3,2.5,2.5,services by the Group to GENT Group.,year-to- / date / RM’Mil,words
+12,1,15,1,viii),,,,words
+12,1,15,2,"Income from rental of premises to Warisan Timah Holdings Sdn Bhd, a",,,,words
+12,1,16,1,company connected with certain directors of the Company.,,,,words
+12,1,16,2,0.6,0.6,company connected with certain directors of the Company.,Current / quarter / RM’Mil,words
+12,1,16,3,1.2,1.2,company connected with certain directors of the Company.,year-to- / date / RM’Mil,words
+12,1,17,1,ix),,,,words
+12,1,17,2,Provision of maintenance and construction services by a company,,,,words
+12,1,18,1,connected with a shareholder of BB Entertainment Ltd (“BBEL”) to the,,,,words
+12,1,19,1,Group.,,,,words
+12,1,19,2,0.8,0.8,Group.,Current / quarter / RM’Mil,words
+12,1,19,3,2.2,2.2,Group.,year-to- / date / RM’Mil,words
+12,1,20,1,x),,,,words
+12,1,20,2,Licensing fee for the use of gaming software and system charged by RWI,,,,words
+12,1,21,1,Group to the Group.,,,,words
+12,1,21,2,2.9,2.9,Group to the Group.,Current / quarter / RM’Mil,words
+12,1,21,3,5.8,5.8,Group to the Group.,year-to- / date / RM’Mil,words
+12,1,22,1,xi),,,,words
+12,1,22,2,Provision of water supply services by a company connected with a,,,,words
+12,1,23,1,shareholder of BBEL to the Group.,,,,words
+12,1,23,2,1.7,1.7,shareholder of BBEL to the Group.,Current / quarter / RM’Mil,words
+12,1,23,3,3.2,3.2,shareholder of BBEL to the Group.,year-to- / date / RM’Mil,words
+12,1,24,1,xii),,,,words
+12,1,24,2,Provision of electricity services by a company connected with a,,,,words
+12,1,25,1,shareholder of BBEL to the Group.,,,,words
+12,1,25,2,6.1,6.1,shareholder of BBEL to the Group.,Current / quarter / RM’Mil,words
+12,1,25,3,10.8,10.8,shareholder of BBEL to the Group.,year-to- / date / RM’Mil,words
+12,1,26,1,xiii),,,,words
+12,1,26,2,"Provision of food & beverage by HanBurger Sdn Bhd, a company",,,,words
+12,1,27,1,connected with certain directors of the Company.,,,,words
+12,1,27,2,0.8,0.8,connected with certain directors of the Company.,Current / quarter / RM’Mil,words
+12,1,27,3,1.5,1.5,connected with certain directors of the Company.,year-to- / date / RM’Mil,words
+12,1,28,1,xiv),,,,words
+12,1,28,2,"Provision of food & beverage by Sky Pie Sdn Bhd, a company connected",,,,words
+12,1,29,1,with certain directors of the Company.,,,,words
+12,1,29,2,0.3,0.3,with certain directors of the Company.,Current / quarter / RM’Mil,words
+12,1,29,3,0.5,0.5,with certain directors of the Company.,year-to- / date / RM’Mil,words
+12,1,30,1,xv),,,,words
+12,1,30,2,"Income from rental of premises to Stardream Ship Management Sdn Bhd,",,,,words
+12,1,31,1,a company connected with certain directors of the Company.,,,,words
+12,1,31,2,0.3,0.3,a company connected with certain directors of the Company.,Current / quarter / RM’Mil,words
+12,1,31,3,0.7,0.7,a company connected with certain directors of the Company.,year-to- / date / RM’Mil,words
+12,1,32,1,xvi),,,,words
+12,1,32,2,Provision of support and maintenance services for the use of software by,,,,words
+12,1,33,1,RWI Group to the Group.,,,,words
+12,1,33,2,0.7,0.7,RWI Group to the Group.,Current / quarter / RM’Mil,words
+12,1,33,3,1.5,1.5,RWI Group to the Group.,year-to- / date / RM’Mil,words
+12,1,34,1,xvii),,,,words
+12,1,34,2,Licensing fee for the use of “Genting” intellectual property in the United,,,,words
+12,1,35,1,Kingdom charged by RWI Group to the Group.,,,,words
+12,1,35,2,0.3,0.3,Kingdom charged by RWI Group to the Group.,Current / quarter / RM’Mil,words
+12,1,35,3,0.6,0.6,Kingdom charged by RWI Group to the Group.,year-to- / date / RM’Mil,words
+13,1,1,1,Financial assets at fair value through profit or loss,,,,words
+13,1,1,2,"1,148.3",1148.3,Financial assets at fair value through profit or loss,Level 1 / RM’Mil,words
+13,1,1,3,-,,,,words
+13,1,1,4,-,,,,words
+13,1,1,5,"1,148.3",1148.3,Financial assets at fair value through profit or loss,Total / RM’Mil,words
+13,1,2,1,Financial assets at fair value through other,,,,words
+13,1,3,1,comprehensive income,,,,words
+13,1,3,2,-,,,,words
+13,1,3,3,-,,,,words
+13,1,3,4,64.7,64.7,comprehensive income - -,Level 3 / RM’Mil,words
+13,1,3,5,64.7,64.7,comprehensive income - -,Total / RM’Mil,words
+13,1,4,1,"1,148.3",1148.3,Financial assets at fair value through other,Level 1 / RM’Mil,words
+13,1,4,2,-,,,,words
+13,1,4,3,64.7,64.7,Financial assets at fair value through other,Level 3 / RM’Mil,words
+13,1,4,4,"1,213.0",1213.0,Financial assets at fair value through other,Total / RM’Mil,words
+13,1,5,1,Financial liability,,,,words
+13,1,6,1,Derivative financial instruments,,,,words
+13,1,6,2,-,,,,words
+13,1,6,3,54.0,54.0,Derivative financial instruments -,Level 2 / RM’Mil,words
+13,1,6,4,-,,,,words
+13,1,6,5,54.0,54.0,Derivative financial instruments -,Total / RM’Mil,words
+14,1,1,1,,,,,lines
+14,1,1,2,INDIVIDUAL,,,,lines
+14,1,1,3,,,,,lines
+14,1,1,4,,,,,lines
+14,1,1,5,,,,,lines
+14,1,1,6,,,,,lines
+14,1,1,7,SIX MONTHS,,,,lines
+14,1,1,8,,,,,lines
+14,1,1,9,,,,,lines
+14,1,1,10,,,,,lines
+14,1,1,11,,,,,lines
+14,1,1,12,,,,,lines
+14,1,1,13,,,,,lines
+14,1,1,14,,,,,lines
+14,1,1,15,,,,,lines
+14,1,1,16,,,,,lines
+14,1,1,17,,,,,lines
+14,1,1,18,,,,,lines
+14,1,1,19,,,,,lines
+14,1,1,20,,,,,lines
+14,1,1,21,,,,,lines
+14,1,1,22,,,,,lines
+14,1,1,23,,,,,lines
+14,1,1,24,,,,,lines
+14,1,1,25,,,,,lines
+14,1,1,26,,,,,lines
+14,1,1,27,,,,,lines
+14,1,1,28,,,,,lines
+14,1,1,29,,,,,lines
+14,1,1,30,,,,,lines
+14,1,1,31,,,,,lines
+14,1,1,32,,,,,lines
+14,1,2,1,,,,,lines
+14,1,2,2,,,,,lines
+14,1,2,3,,,,,lines
+14,1,2,4,,,,,lines
+14,1,2,5,,,,,lines
+14,1,2,6,,,,,lines
+14,1,2,7,,,,,lines
+14,1,2,8,,,,,lines
+14,1,2,9,,,,,lines
+14,1,2,10,,,,,lines
+14,1,2,11,,,,,lines
+14,1,2,12,,,,,lines
+14,1,2,13,,,,,lines
+14,1,2,14,,,,,lines
+14,1,2,15,,,,,lines
+14,1,2,16,,,,,lines
+14,1,2,17,,,,,lines
+14,1,2,18,,,,,lines
+14,1,2,19,,,,,lines
+14,1,2,20,,,,,lines
+14,1,2,21,,,,,lines
+14,1,2,22,,,,,lines
+14,1,2,23,,,,,lines
+14,1,2,24,,,,,lines
+14,1,2,25,,,,,lines
+14,1,2,26,,,,,lines
+14,1,2,27,,,,,lines
+14,1,2,28,,,,,lines
+14,1,2,29,,,,,lines
+14,1,2,30,,,,,lines
+14,1,2,31,,,,,lines
+14,1,2,32,,,,,lines
+14,1,3,1,,,,,lines
+14,1,3,2,QUARTER,,,,lines
+14,1,3,3,,,,,lines
+14,1,3,4,,,,,lines
+14,1,3,5,,,,,lines
+14,1,3,6,,,,,lines
+14,1,3,7,ENDED 30 JUNE,,,,lines
+14,1,3,8,,,,,lines
+14,1,3,9,,,,,lines
+14,1,3,10,,,,,lines
+14,1,3,11,,,,,lines
+14,1,3,12,,,,,lines
+14,1,3,13,,,,,lines
+14,1,3,14,,,,,lines
+14,1,3,15,,,,,lines
+14,1,3,16,,,,,lines
+14,1,3,17,,,,,lines
+14,1,3,18,,,,,lines
+14,1,3,19,,,,,lines
+14,1,3,20,,,,,lines
+14,1,3,21,,,,,lines
+14,1,3,22,,,,,lines
+14,1,3,23,,,,,lines
+14,1,3,24,,,,,lines
+14,1,3,25,,,,,lines
+14,1,3,26,,,,,lines
+14,1,3,27,,,,,lines
+14,1,3,28,,,,,lines
+14,1,3,29,,,,,lines
+14,1,3,30,,,,,lines
+14,1,3,31,,,,,lines
+14,1,3,32,,,,,lines
+14,1,4,1,,,,,lines
+14,1,4,2,,,,,lines
+14,1,4,3,,,,,lines
+14,1,4,4,,,,,lines
+14,1,4,5,,,,,lines
+14,1,4,6,,,,,lines
+14,1,4,7,,,,,lines
+14,1,4,8,,,,,lines
+14,1,4,9,,,,,lines
+14,1,4,10,,,,,lines
+14,1,4,11,,,,,lines
+14,1,4,12,,,,,lines
+14,1,4,13,,,,,lines
+14,1,4,14,,,,,lines
+14,1,4,15,,,,,lines
+14,1,4,16,,,,,lines
+14,1,4,17,,,,,lines
+14,1,4,18,,,,,lines
+14,1,4,19,,,,,lines
+14,1,4,20,,,,,lines
+14,1,4,21,,,,,lines
+14,1,4,22,,,,,lines
+14,1,4,23,,,,,lines
+14,1,4,24,,,,,lines
+14,1,4,25,,,,,lines
+14,1,4,26,,,,,lines
+14,1,4,27,,,,,lines
+14,1,4,28,,,,,lines
+14,1,4,29,,,,,lines
+14,1,4,30,,,,,lines
+14,1,4,31,,,,,lines
+14,1,4,32,,,,,lines
+14,1,5,1,,,,,lines
+14,1,5,2,2Q2026,,,,lines
+14,1,5,3,2Q2025,,,,lines
+14,1,5,4,Var,,,,lines
+14,1,5,5,,,,,lines
+14,1,5,6,,,,,lines
+14,1,5,7,2026,2026.0,2Q2026 2Q2025 Var,,lines
+14,1,5,8,,,,,lines
+14,1,5,9,,,,,lines
+14,1,5,10,,,,,lines
+14,1,5,11,,,,,lines
+14,1,5,12,,,,,lines
+14,1,5,13,,,,,lines
+14,1,5,14,2025,2025.0,2Q2026 2Q2025 Var,,lines
+14,1,5,15,,,,,lines
+14,1,5,16,,,,,lines
+14,1,5,17,,,,,lines
+14,1,5,18,,,,,lines
+14,1,5,19,,,,,lines
+14,1,5,20,Var,,,,lines
+14,1,5,21,,,,,lines
+14,1,5,22,,,,,lines
+14,1,5,23,,,,,lines
+14,1,5,24,,,,,lines
+14,1,5,25,,,,,lines
+14,1,5,26,,,,,lines
+14,1,5,27,,,,,lines
+14,1,5,28,,,,,lines
+14,1,5,29,,,,,lines
+14,1,5,30,,,,,lines
+14,1,5,31,,,,,lines
+14,1,5,32,,,,,lines
+14,1,6,1,,,,,lines
+14,1,6,2,RM’Mil,,,,lines
+14,1,6,3,RM’Mil,,,,lines
+14,1,6,4,RM’Mil,,,,lines
+14,1,6,5,%,,,,lines
+14,1,6,6,,,,,lines
+14,1,6,7,RM’Mil,,,,lines
+14,1,6,8,,,,,lines
+14,1,6,9,,,,,lines
+14,1,6,10,,,,,lines
+14,1,6,11,,,,,lines
+14,1,6,12,,,,,lines
+14,1,6,13,,,,,lines
+14,1,6,14,RM’Mil,,,,lines
+14,1,6,15,,,,,lines
+14,1,6,16,,,,,lines
+14,1,6,17,,,,,lines
+14,1,6,18,,,,,lines
+14,1,6,19,,,,,lines
+14,1,6,20,RM’Mil,,,,lines
+14,1,6,21,,,,,lines
+14,1,6,22,,,,,lines
+14,1,6,23,,,,,lines
+14,1,6,24,,,,,lines
+14,1,6,25,,,,,lines
+14,1,6,26,%,,,,lines
+14,1,6,27,,,,,lines
+14,1,6,28,,,,,lines
+14,1,6,29,,,,,lines
+14,1,6,30,,,,,lines
+14,1,6,31,,,,,lines
+14,1,6,32,,,,,lines
+14,1,7,1,Revenue,,,,lines
+14,1,7,2,,,,,lines
+14,1,7,3,,,,,lines
+14,1,7,4,,,,,lines
+14,1,7,5,,,,,lines
+14,1,7,6,,,,,lines
+14,1,7,7,,,,,lines
+14,1,7,8,,,,,lines
+14,1,7,9,,,,,lines
+14,1,7,10,,,,,lines
+14,1,7,11,,,,,lines
+14,1,7,12,,,,,lines
+14,1,7,13,,,,,lines
+14,1,7,14,,,,,lines
+14,1,7,15,,,,,lines
+14,1,7,16,,,,,lines
+14,1,7,17,,,,,lines
+14,1,7,18,,,,,lines
+14,1,7,19,,,,,lines
+14,1,7,20,,,,,lines
+14,1,7,21,,,,,lines
+14,1,7,22,,,,,lines
+14,1,7,23,,,,,lines
+14,1,7,24,,,,,lines
+14,1,7,25,,,,,lines
+14,1,7,26,,,,,lines
+14,1,7,27,,,,,lines
+14,1,7,28,,,,,lines
+14,1,7,29,,,,,lines
+14,1,7,30,,,,,lines
+14,1,7,31,,,,,lines
+14,1,7,32,,,,,lines
+14,1,8,1,,,,,lines
+14,1,8,2,,,,,lines
+14,1,8,3,,,,,lines
+14,1,8,4,,,,,lines
+14,1,8,5,,,,,lines
+14,1,8,6,,,,,lines
+14,1,8,7,,,,,lines
+14,1,8,8,,,,,lines
+14,1,8,9,,,,,lines
+14,1,8,10,,,,,lines
+14,1,8,11,,,,,lines
+14,1,8,12,,,,,lines
+14,1,8,13,,,,,lines
+14,1,8,14,,,,,lines
+14,1,8,15,,,,,lines
+14,1,8,16,,,,,lines
+14,1,8,17,,,,,lines
+14,1,8,18,,,,,lines
+14,1,8,19,,,,,lines
+14,1,8,20,,,,,lines
+14,1,8,21,,,,,lines
+14,1,8,22,,,,,lines
+14,1,8,23,,,,,lines
+14,1,8,24,,,,,lines
+14,1,8,25,,,,,lines
+14,1,8,26,,,,,lines
+14,1,8,27,,,,,lines
+14,1,8,28,,,,,lines
+14,1,8,29,,,,,lines
+14,1,8,30,,,,,lines
+14,1,8,31,,,,,lines
+14,1,8,32,,,,,lines
+14,1,9,1,,,,,lines
+14,1,9,2,,,,,lines
+14,1,9,3,,,,,lines
+14,1,9,4,,,,,lines
+14,1,9,5,,,,,lines
+14,1,9,6,,,,,lines
+14,1,9,7,"3,434.0 966.9 2,228.0",,,,lines
+14,1,9,8,,,,,lines
+14,1,9,9,,,,,lines
+14,1,9,10,,,,,lines
+14,1,9,11,,,,,lines
+14,1,9,12,,,,,lines
+14,1,9,13,,,,,lines
+14,1,9,14,,,,,lines
+14,1,9,15,"3,404.0",3404.0,"3,434.0 966.9 2,228.0",,lines
+14,1,9,16,,,,,lines
+14,1,9,17,,,,,lines
+14,1,9,18,,,,,lines
+14,1,9,19,,,,,lines
+14,1,9,20,,,,,lines
+14,1,9,21,,,,,lines
+14,1,9,22,,,,,lines
+14,1,9,23,,,,,lines
+14,1,9,24,30.0,30.0,"3,434.0 966.9 2,228.0",,lines
+14,1,9,25,,,,,lines
+14,1,9,26,,,,,lines
+14,1,9,27,,,,,lines
+14,1,9,28,,,,,lines
+14,1,9,29,,,,,lines
+14,1,9,30,,,,,lines
+14,1,9,31,1%,1.0,"3,434.0 966.9 2,228.0",,lines
+14,1,9,32,,,,,lines
+14,1,10,1,,,,,lines
+14,1,10,2,,,,,lines
+14,1,10,3,,,,,lines
+14,1,10,4,,,,,lines
+14,1,10,5,,,,,lines
+14,1,10,6,,,,,lines
+14,1,10,7,,,,,lines
+14,1,10,8,,,,,lines
+14,1,10,9,,,,,lines
+14,1,10,10,,,,,lines
+14,1,10,11,,,,,lines
+14,1,10,12,,,,,lines
+14,1,10,13,,,,,lines
+14,1,10,14,,,,,lines
+14,1,10,15,,,,,lines
+14,1,10,16,,,,,lines
+14,1,10,17,924.6,924.6,,,lines
+14,1,10,18,,,,,lines
+14,1,10,19,,,,,lines
+14,1,10,20,,,,,lines
+14,1,10,21,,,,,lines
+14,1,10,22,,,,,lines
+14,1,10,23,,,,,lines
+14,1,10,24,42.3,42.3,,,lines
+14,1,10,25,,,,,lines
+14,1,10,26,,,,,lines
+14,1,10,27,,,,,lines
+14,1,10,28,,,,,lines
+14,1,10,29,,,,,lines
+14,1,10,30,,,,,lines
+14,1,10,31,5%,5.0,,,lines
+14,1,10,32,,,,,lines
+14,1,11,1,,,,,lines
+14,1,11,2,,,,,lines
+14,1,11,3,,,,,lines
+14,1,11,4,,,,,lines
+14,1,11,5,,,,,lines
+14,1,11,6,,,,,lines
+14,1,11,7,,,,,lines
+14,1,11,8,,,,,lines
+14,1,11,9,,,,,lines
+14,1,11,10,,,,,lines
+14,1,11,11,,,,,lines
+14,1,11,12,,,,,lines
+14,1,11,13,,,,,lines
+14,1,11,14,,,,,lines
+14,1,11,15,,,,,lines
+14,1,11,16,,,,,lines
+14,1,11,17,,,,,lines
+14,1,11,18,,,,,lines
+14,1,11,19,,,,,lines
+14,1,11,20,,,,,lines
+14,1,11,21,,,,,lines
+14,1,11,22,,,,,lines
+14,1,11,23,,,,,lines
+14,1,11,24,,,,,lines
+14,1,11,25,,,,,lines
+14,1,11,26,,,,,lines
+14,1,11,27,,,,,lines
+14,1,11,28,,,,,lines
+14,1,11,29,,,,,lines
+14,1,11,30,,,,,lines
+14,1,11,31,,,,,lines
+14,1,11,32,,,,,lines
+14,1,12,1,,,,,lines
+14,1,12,2,,,,,lines
+14,1,12,3,,,,,lines
+14,1,12,4,,,,,lines
+14,1,12,5,,,,,lines
+14,1,12,6,,,,,lines
+14,1,12,7,,,,,lines
+14,1,12,8,,,,,lines
+14,1,12,9,,,,,lines
+14,1,12,10,,,,,lines
+14,1,12,11,,,,,lines
+14,1,12,12,,,,,lines
+14,1,12,13,,,,,lines
+14,1,12,14,,,,,lines
+14,1,12,15,"1,077.3",1077.3,,,lines
+14,1,12,16,,,,,lines
+14,1,12,17,,,,,lines
+14,1,12,18,,,,,lines
+14,1,12,19,,,,,lines
+14,1,12,20,,,,,lines
+14,1,12,21,"1,150.7",1150.7,,,lines
+14,1,12,22,,,,,lines
+14,1,12,23,,,,,lines
+14,1,12,24,,,,,lines
+14,1,12,25,,,,,lines
+14,1,12,26,,,,,lines
+14,1,12,27,,,,,lines
+14,1,12,28,>100%,,,,lines
+14,1,12,29,,,,,lines
+14,1,12,30,,,,,lines
+14,1,12,31,,,,,lines
+14,1,12,32,,,,,lines
+14,1,13,1,,,,,lines
+14,1,13,2,,,,,lines
+14,1,13,3,,,,,lines
+14,1,13,4,,,,,lines
+14,1,13,5,,,,,lines
+14,1,13,6,,,,,lines
+14,1,13,7,,,,,lines
+14,1,13,8,"6,628.9",6628.9,,,lines
+14,1,13,9,,,,,lines
+14,1,13,10,,,,,lines
+14,1,13,11,,,,,lines
+14,1,13,12,,,,,lines
+14,1,13,13,,,,,lines
+14,1,13,14,,,,,lines
+14,1,13,15,"5,405.9",5405.9,,,lines
+14,1,13,16,,,,,lines
+14,1,13,17,,,,,lines
+14,1,13,18,,,,,lines
+14,1,13,19,,,,,lines
+14,1,13,20,,,,,lines
+14,1,13,21,"1,223.0",1223.0,,,lines
+14,1,13,22,,,,,lines
+14,1,13,23,,,,,lines
+14,1,13,24,,,,,lines
+14,1,13,25,,,,,lines
+14,1,13,26,,,,,lines
+14,1,13,27,,,,,lines
+14,1,13,28,,,,,lines
+14,1,13,29,,,,,lines
+14,1,13,30,23%,23.0,,,lines
+14,1,13,31,,,,,lines
+14,1,13,32,,,,,lines
+14,1,14,1,,,,,lines
+14,1,14,2,,,,,lines
+14,1,14,3,,,,,lines
+14,1,14,4,,,,,lines
+14,1,14,5,,,,,lines
+14,1,14,6,,,,,lines
+14,1,14,7,,,,,lines
+14,1,14,8,,,,,lines
+14,1,14,9,,,,,lines
+14,1,14,10,,,,,lines
+14,1,14,11,51.0,51.0,,,lines
+14,1,14,12,,,,,lines
+14,1,14,13,,,,,lines
+14,1,14,14,,,,,lines
+14,1,14,15,,,,,lines
+14,1,14,16,,,,,lines
+14,1,14,17,,,,,lines
+14,1,14,18,46.7,46.7,,,lines
+14,1,14,19,,,,,lines
+14,1,14,20,,,,,lines
+14,1,14,21,,,,,lines
+14,1,14,22,,,,,lines
+14,1,14,23,,,,,lines
+14,1,14,24,,,,,lines
+14,1,14,25,4.3,4.3,,,lines
+14,1,14,26,,,,,lines
+14,1,14,27,,,,,lines
+14,1,14,28,,,,,lines
+14,1,14,29,,,,,lines
+14,1,14,30,,,,,lines
+14,1,14,31,9%,9.0,,,lines
+14,1,14,32,,,,,lines
+14,1,15,1,,,,,lines
+14,1,15,2,,,,,lines
+14,1,15,3,,,,,lines
+14,1,15,4,,,,,lines
+14,1,15,5,,,,,lines
+14,1,15,6,,,,,lines
+14,1,15,7,,,,,lines
+14,1,15,8,,,,,lines
+14,1,15,9,,,,,lines
+14,1,15,10,,,,,lines
+14,1,15,11,40.3,40.3,,,lines
+14,1,15,12,,,,,lines
+14,1,15,13,,,,,lines
+14,1,15,14,,,,,lines
+14,1,15,15,,,,,lines
+14,1,15,16,,,,,lines
+14,1,15,17,,,,,lines
+14,1,15,18,61.1,61.1,,,lines
+14,1,15,19,,,,,lines
+14,1,15,20,,,,,lines
+14,1,15,21,,,,,lines
+14,1,15,22,,,,,lines
+14,1,15,23,(20.8),-20.8,,,lines
+14,1,15,24,,,,,lines
+14,1,15,25,,,,,lines
+14,1,15,26,,,,,lines
+14,1,15,27,,,,,lines
+14,1,15,28,,,,,lines
+14,1,15,29,(34%),,,,lines
+14,1,15,30,,,,,lines
+14,1,15,31,,,,,lines
+14,1,15,32,,,,,lines
+14,1,16,1,,,,,lines
+14,1,16,2,,,,,lines
+14,1,16,3,,,,,lines
+14,1,16,4,,,,,lines
+14,1,16,5,,,,,lines
+14,1,16,6,,,,,lines
+14,1,16,7,,,,,lines
+14,1,16,8,"6,720.2",6720.2,,,lines
+14,1,16,9,,,,,lines
+14,1,16,10,,,,,lines
+14,1,16,11,,,,,lines
+14,1,16,12,,,,,lines
+14,1,16,13,,,,,lines
+14,1,16,14,,,,,lines
+14,1,16,15,"5,513.7",5513.7,,,lines
+14,1,16,16,,,,,lines
+14,1,16,17,,,,,lines
+14,1,16,18,,,,,lines
+14,1,16,19,,,,,lines
+14,1,16,20,,,,,lines
+14,1,16,21,"1,206.5",1206.5,,,lines
+14,1,16,22,,,,,lines
+14,1,16,23,,,,,lines
+14,1,16,24,,,,,lines
+14,1,16,25,,,,,lines
+14,1,16,26,,,,,lines
+14,1,16,27,,,,,lines
+14,1,16,28,,,,,lines
+14,1,16,29,,,,,lines
+14,1,16,30,22%,22.0,,,lines
+14,1,16,31,,,,,lines
+14,1,16,32,,,,,lines
+14,1,17,1,,,,,lines
+14,1,17,2,,,,,lines
+14,1,17,3,,,,,lines
+14,1,17,4,,,,,lines
+14,1,17,5,,,,,lines
+14,1,17,6,,,,,lines
+14,1,17,7,,,,,lines
+14,1,17,8,,,,,lines
+14,1,17,9,,,,,lines
+14,1,17,10,,,,,lines
+14,1,17,11,,,,,lines
+14,1,17,12,,,,,lines
+14,1,17,13,,,,,lines
+14,1,17,14,,,,,lines
+14,1,17,15,,,,,lines
+14,1,17,16,,,,,lines
+14,1,17,17,,,,,lines
+14,1,17,18,,,,,lines
+14,1,17,19,,,,,lines
+14,1,17,20,,,,,lines
+14,1,17,21,,,,,lines
+14,1,17,22,,,,,lines
+14,1,17,23,,,,,lines
+14,1,17,24,,,,,lines
+14,1,17,25,,,,,lines
+14,1,17,26,,,,,lines
+14,1,17,27,,,,,lines
+14,1,17,28,,,,,lines
+14,1,17,29,,,,,lines
+14,1,17,30,,,,,lines
+14,1,17,31,,,,,lines
+14,1,17,32,,,,,lines
+14,1,18,1,,,,,lines
+14,1,18,2,,,,,lines
+14,1,18,3,,,,,lines
+14,1,18,4,,,,,lines
+14,1,18,5,,,,,lines
+14,1,18,6,,,,,lines
+14,1,18,7,,,,,lines
+14,1,18,8,,,,,lines
+14,1,18,9,,,,,lines
+14,1,18,10,,,,,lines
+14,1,18,11,,,,,lines
+14,1,18,12,,,,,lines
+14,1,18,13,,,,,lines
+14,1,18,14,,,,,lines
+14,1,18,15,,,,,lines
+14,1,18,16,,,,,lines
+14,1,18,17,,,,,lines
+14,1,18,18,,,,,lines
+14,1,18,19,,,,,lines
+14,1,18,20,,,,,lines
+14,1,18,21,,,,,lines
+14,1,18,22,,,,,lines
+14,1,18,23,,,,,lines
+14,1,18,24,,,,,lines
+14,1,18,25,,,,,lines
+14,1,18,26,,,,,lines
+14,1,18,27,,,,,lines
+14,1,18,28,,,,,lines
+14,1,18,29,,,,,lines
+14,1,18,30,,,,,lines
+14,1,18,31,,,,,lines
+14,1,18,32,,,,,lines
+14,1,19,1,,,,,lines
+14,1,19,2,,,,,lines
+14,1,19,3,,,,,lines
+14,1,19,4,,,,,lines
+14,1,19,5,,,,,lines
+14,1,19,6,,,,,lines
+14,1,19,7,,,,,lines
+14,1,19,8,,,,,lines
+14,1,19,9,,,,,lines
+14,1,19,10,,,,,lines
+14,1,19,11,,,,,lines
+14,1,19,12,,,,,lines
+14,1,19,13,,,,,lines
+14,1,19,14,,,,,lines
+14,1,19,15,,,,,lines
+14,1,19,16,,,,,lines
+14,1,19,17,,,,,lines
+14,1,19,18,,,,,lines
+14,1,19,19,,,,,lines
+14,1,19,20,,,,,lines
+14,1,19,21,,,,,lines
+14,1,19,22,,,,,lines
+14,1,19,23,,,,,lines
+14,1,19,24,,,,,lines
+14,1,19,25,,,,,lines
+14,1,19,26,,,,,lines
+14,1,19,27,,,,,lines
+14,1,19,28,,,,,lines
+14,1,19,29,,,,,lines
+14,1,19,30,,,,,lines
+14,1,19,31,,,,,lines
+14,1,19,32,,,,,lines
+14,1,20,1,,,,,lines
+14,1,20,2,,,,,lines
+14,1,20,3,,,,,lines
+14,1,20,4,,,,,lines
+14,1,20,5,,,,,lines
+14,1,20,6,,,,,lines
+14,1,20,7,"1,127.1 119.7 297.1",,,,lines
+14,1,20,8,,,,,lines
+14,1,20,9,,,,,lines
+14,1,20,10,,,,,lines
+14,1,20,11,,,,,lines
+14,1,20,12,,,,,lines
+14,1,20,13,,,,,lines
+14,1,20,14,,,,,lines
+14,1,20,15,"1,124.5",1124.5,"1,127.1 119.7 297.1",,lines
+14,1,20,16,,,,,lines
+14,1,20,17,,,,,lines
+14,1,20,18,,,,,lines
+14,1,20,19,,,,,lines
+14,1,20,20,,,,,lines
+14,1,20,21,,,,,lines
+14,1,20,22,,,,,lines
+14,1,20,23,,,,,lines
+14,1,20,24,,,,,lines
+14,1,20,25,2.6,2.6,"1,127.1 119.7 297.1",,lines
+14,1,20,26,,,,,lines
+14,1,20,27,,,,,lines
+14,1,20,28,,,,,lines
+14,1,20,29,,,,,lines
+14,1,20,30,,,,,lines
+14,1,20,31,,,,,lines
+14,1,20,32,^,,,,lines
+14,1,21,1,,,,,lines
+14,1,21,2,,,,,lines
+14,1,21,3,,,,,lines
+14,1,21,4,,,,,lines
+14,1,21,5,,,,,lines
+14,1,21,6,,,,,lines
+14,1,21,7,,,,,lines
+14,1,21,8,,,,,lines
+14,1,21,9,,,,,lines
+14,1,21,10,,,,,lines
+14,1,21,11,,,,,lines
+14,1,21,12,,,,,lines
+14,1,21,13,,,,,lines
+14,1,21,14,,,,,lines
+14,1,21,15,,,,,lines
+14,1,21,16,,,,,lines
+14,1,21,17,125.7,125.7,,,lines
+14,1,21,18,,,,,lines
+14,1,21,19,,,,,lines
+14,1,21,20,,,,,lines
+14,1,21,21,,,,,lines
+14,1,21,22,,,,,lines
+14,1,21,23,,,,,lines
+14,1,21,24,(6.0),-6.0,,,lines
+14,1,21,25,,,,,lines
+14,1,21,26,,,,,lines
+14,1,21,27,,,,,lines
+14,1,21,28,,,,,lines
+14,1,21,29,,,,,lines
+14,1,21,30,(5%),,,,lines
+14,1,21,31,,,,,lines
+14,1,21,32,,,,,lines
+14,1,22,1,,,,,lines
+14,1,22,2,,,,,lines
+14,1,22,3,,,,,lines
+14,1,22,4,,,,,lines
+14,1,22,5,,,,,lines
+14,1,22,6,,,,,lines
+14,1,22,7,,,,,lines
+14,1,22,8,,,,,lines
+14,1,22,9,,,,,lines
+14,1,22,10,,,,,lines
+14,1,22,11,,,,,lines
+14,1,22,12,,,,,lines
+14,1,22,13,,,,,lines
+14,1,22,14,,,,,lines
+14,1,22,15,,,,,lines
+14,1,22,16,,,,,lines
+14,1,22,17,,,,,lines
+14,1,22,18,,,,,lines
+14,1,22,19,,,,,lines
+14,1,22,20,,,,,lines
+14,1,22,21,,,,,lines
+14,1,22,22,,,,,lines
+14,1,22,23,,,,,lines
+14,1,22,24,,,,,lines
+14,1,22,25,,,,,lines
+14,1,22,26,,,,,lines
+14,1,22,27,,,,,lines
+14,1,22,28,,,,,lines
+14,1,22,29,,,,,lines
+14,1,22,30,,,,,lines
+14,1,22,31,,,,,lines
+14,1,22,32,,,,,lines
+14,1,23,1,,,,,lines
+14,1,23,2,,,,,lines
+14,1,23,3,,,,,lines
+14,1,23,4,,,,,lines
+14,1,23,5,,,,,lines
+14,1,23,6,,,,,lines
+14,1,23,7,,,,,lines
+14,1,23,8,,,,,lines
+14,1,23,9,,,,,lines
+14,1,23,10,,,,,lines
+14,1,23,11,,,,,lines
+14,1,23,12,,,,,lines
+14,1,23,13,,,,,lines
+14,1,23,14,,,,,lines
+14,1,23,15,,,,,lines
+14,1,23,16,,,,,lines
+14,1,23,17,237.4,237.4,,,lines
+14,1,23,18,,,,,lines
+14,1,23,19,,,,,lines
+14,1,23,20,,,,,lines
+14,1,23,21,,,,,lines
+14,1,23,22,,,,,lines
+14,1,23,23,,,,,lines
+14,1,23,24,59.7,59.7,,,lines
+14,1,23,25,,,,,lines
+14,1,23,26,,,,,lines
+14,1,23,27,,,,,lines
+14,1,23,28,,,,,lines
+14,1,23,29,,,,,lines
+14,1,23,30,25%,25.0,,,lines
+14,1,23,31,,,,,lines
+14,1,23,32,,,,,lines
+14,1,24,1,,,,,lines
+14,1,24,2,,,,,lines
+14,1,24,3,,,,,lines
+14,1,24,4,,,,,lines
+14,1,24,5,,,,,lines
+14,1,24,6,,,,,lines
+14,1,24,7,,,,,lines
+14,1,24,8,"1,543.9",1543.9,,,lines
+14,1,24,9,,,,,lines
+14,1,24,10,,,,,lines
+14,1,24,11,,,,,lines
+14,1,24,12,,,,,lines
+14,1,24,13,,,,,lines
+14,1,24,14,,,,,lines
+14,1,24,15,"1,487.6",1487.6,,,lines
+14,1,24,16,,,,,lines
+14,1,24,17,,,,,lines
+14,1,24,18,,,,,lines
+14,1,24,19,,,,,lines
+14,1,24,20,,,,,lines
+14,1,24,21,,,,,lines
+14,1,24,22,,,,,lines
+14,1,24,23,,,,,lines
+14,1,24,24,56.3,56.3,,,lines
+14,1,24,25,,,,,lines
+14,1,24,26,,,,,lines
+14,1,24,27,,,,,lines
+14,1,24,28,,,,,lines
+14,1,24,29,,,,,lines
+14,1,24,30,,,,,lines
+14,1,24,31,4%,4.0,,,lines
+14,1,24,32,,,,,lines
+14,1,25,1,,,,,lines
+14,1,25,2,,,,,lines
+14,1,25,3,,,,,lines
+14,1,25,4,,,,,lines
+14,1,25,5,,,,,lines
+14,1,25,6,,,,,lines
+14,1,25,7,,,,,lines
+14,1,25,8,,,,,lines
+14,1,25,9,,,,,lines
+14,1,25,10,,,,,lines
+14,1,25,11,,,,,lines
+14,1,25,12,7.7,7.7,,,lines
+14,1,25,13,,,,,lines
+14,1,25,14,,,,,lines
+14,1,25,15,,,,,lines
+14,1,25,16,,,,,lines
+14,1,25,17,,,,,lines
+14,1,25,18,11.4,11.4,,,lines
+14,1,25,19,,,,,lines
+14,1,25,20,,,,,lines
+14,1,25,21,,,,,lines
+14,1,25,22,,,,,lines
+14,1,25,23,,,,,lines
+14,1,25,24,(3.7),-3.7,,,lines
+14,1,25,25,,,,,lines
+14,1,25,26,,,,,lines
+14,1,25,27,,,,,lines
+14,1,25,28,,,,,lines
+14,1,25,29,(32%),,,,lines
+14,1,25,30,,,,,lines
+14,1,25,31,,,,,lines
+14,1,25,32,,,,,lines
+14,1,26,1,,,,,lines
+14,1,26,2,,,,,lines
+14,1,26,3,,,,,lines
+14,1,26,4,,,,,lines
+14,1,26,5,,,,,lines
+14,1,26,6,,,,,lines
+14,1,26,7,,,,,lines
+14,1,26,8,,,,,lines
+14,1,26,9,,,,,lines
+14,1,26,10,(62.9),-62.9,,,lines
+14,1,26,11,,,,,lines
+14,1,26,12,,,,,lines
+14,1,26,13,,,,,lines
+14,1,26,14,,,,,lines
+14,1,26,15,,,,,lines
+14,1,26,16,,,,,lines
+14,1,26,17,267.8,267.8,,,lines
+14,1,26,18,,,,,lines
+14,1,26,19,,,,,lines
+14,1,26,20,,,,,lines
+14,1,26,21,,,,,lines
+14,1,26,22,(330.7),-330.7,,,lines
+14,1,26,23,,,,,lines
+14,1,26,24,,,,,lines
+14,1,26,25,,,,,lines
+14,1,26,26,,,,,lines
+14,1,26,27,(>100%),,,,lines
+14,1,26,28,,,,,lines
+14,1,26,29,,,,,lines
+14,1,26,30,,,,,lines
+14,1,26,31,,,,,lines
+14,1,26,32,,,,,lines
+14,1,27,1,,,,,lines
+14,1,27,2,,,,,lines
+14,1,27,3,,,,,lines
+14,1,27,4,,,,,lines
+14,1,27,5,,,,,lines
+14,1,27,6,,,,,lines
+14,1,27,7,,,,,lines
+14,1,27,8,"1,488.7",1488.7,,,lines
+14,1,27,9,,,,,lines
+14,1,27,10,,,,,lines
+14,1,27,11,,,,,lines
+14,1,27,12,,,,,lines
+14,1,27,13,,,,,lines
+14,1,27,14,,,,,lines
+14,1,27,15,"1,766.8",1766.8,,,lines
+14,1,27,16,,,,,lines
+14,1,27,17,,,,,lines
+14,1,27,18,,,,,lines
+14,1,27,19,,,,,lines
+14,1,27,20,,,,,lines
+14,1,27,21,,,,,lines
+14,1,27,22,(278.1),-278.1,,,lines
+14,1,27,23,,,,,lines
+14,1,27,24,,,,,lines
+14,1,27,25,,,,,lines
+14,1,27,26,,,,,lines
+14,1,27,27,,,,,lines
+14,1,27,28,,,,,lines
+14,1,27,29,(16%),,,,lines
+14,1,27,30,,,,,lines
+14,1,27,31,,,,,lines
+14,1,27,32,,,,,lines
+14,1,28,1,,,,,lines
+14,1,28,2,,,,,lines
+14,1,28,3,,,,,lines
+14,1,28,4,,,,,lines
+14,1,28,5,,,,,lines
+14,1,28,6,,,,,lines
+14,1,28,7,,,,,lines
+14,1,28,8,,,,,lines
+14,1,28,9,,,,,lines
+14,1,28,10,,,,,lines
+14,1,28,11,,,,,lines
+14,1,28,12,,,,,lines
+14,1,28,13,,,,,lines
+14,1,28,14,,,,,lines
+14,1,28,15,,,,,lines
+14,1,28,16,,,,,lines
+14,1,28,17,,,,,lines
+14,1,28,18,,,,,lines
+14,1,28,19,,,,,lines
+14,1,28,20,,,,,lines
+14,1,28,21,,,,,lines
+14,1,28,22,,,,,lines
+14,1,28,23,,,,,lines
+14,1,28,24,,,,,lines
+14,1,28,25,,,,,lines
+14,1,28,26,,,,,lines
+14,1,28,27,,,,,lines
+14,1,28,28,,,,,lines
+14,1,28,29,,,,,lines
+14,1,28,30,,,,,lines
+14,1,28,31,,,,,lines
+14,1,28,32,,,,,lines
+14,1,29,1,,,,,lines
+14,1,29,2,,,,,lines
+14,1,29,3,,,,,lines
+14,1,29,4,,,,,lines
+14,1,29,5,,,,,lines
+14,1,29,6,,,,,lines
+14,1,29,7,,,,,lines
+14,1,29,8,,,,,lines
+14,1,29,9,,,,,lines
+14,1,29,10,(93.8),-93.8,,,lines
+14,1,29,11,,,,,lines
+14,1,29,12,,,,,lines
+14,1,29,13,,,,,lines
+14,1,29,14,,,,,lines
+14,1,29,15,,,,,lines
+14,1,29,16,,,,,lines
+14,1,29,17,(60.2),-60.2,,,lines
+14,1,29,18,,,,,lines
+14,1,29,19,,,,,lines
+14,1,29,20,,,,,lines
+14,1,29,21,,,,,lines
+14,1,29,22,,,,,lines
+14,1,29,23,(33.6),-33.6,,,lines
+14,1,29,24,,,,,lines
+14,1,29,25,,,,,lines
+14,1,29,26,,,,,lines
+14,1,29,27,,,,,lines
+14,1,29,28,,,,,lines
+14,1,29,29,(56%),,,,lines
+14,1,29,30,,,,,lines
+14,1,29,31,,,,,lines
+14,1,29,32,,,,,lines
+14,1,30,1,,,,,lines
+14,1,30,2,,,,,lines
+14,1,30,3,,,,,lines
+14,1,30,4,,,,,lines
+14,1,30,5,,,,,lines
+14,1,30,6,,,,,lines
+14,1,30,7,,,,,lines
+14,1,30,8,,,,,lines
+14,1,30,9,,,,,lines
+14,1,30,10,,,,,lines
+14,1,30,11,,,,,lines
+14,1,30,12,,,,,lines
+14,1,30,13,,,,,lines
+14,1,30,14,,,,,lines
+14,1,30,15,,,,,lines
+14,1,30,16,,,,,lines
+14,1,30,17,,,,,lines
+14,1,30,18,,,,,lines
+14,1,30,19,,,,,lines
+14,1,30,20,,,,,lines
+14,1,30,21,,,,,lines
+14,1,30,22,,,,,lines
+14,1,30,23,,,,,lines
+14,1,30,24,,,,,lines
+14,1,30,25,,,,,lines
+14,1,30,26,,,,,lines
+14,1,30,27,,,,,lines
+14,1,30,28,,,,,lines
+14,1,30,29,,,,,lines
+14,1,30,30,,,,,lines
+14,1,30,31,,,,,lines
+14,1,30,32,,,,,lines
+14,1,31,1,,,,,lines
+14,1,31,2,,,,,lines
+14,1,31,3,,,,,lines
+14,1,31,4,,,,,lines
+14,1,31,5,,,,,lines
+14,1,31,6,,,,,lines
+14,1,31,7,,,,,lines
+14,1,31,8,,,,,lines
+14,1,31,9,,,,,lines
+14,1,31,10,,,,,lines
+14,1,31,11,(5.2),-5.2,,,lines
+14,1,31,12,,,,,lines
+14,1,31,13,,,,,lines
+14,1,31,14,,,,,lines
+14,1,31,15,,,,,lines
+14,1,31,16,,,,,lines
+14,1,31,17,(22.6),-22.6,,,lines
+14,1,31,18,,,,,lines
+14,1,31,19,,,,,lines
+14,1,31,20,,,,,lines
+14,1,31,21,,,,,lines
+14,1,31,22,,,,,lines
+14,1,31,23,,,,,lines
+14,1,31,24,17.4,17.4,,,lines
+14,1,31,25,,,,,lines
+14,1,31,26,,,,,lines
+14,1,31,27,,,,,lines
+14,1,31,28,,,,,lines
+14,1,31,29,,,,,lines
+14,1,31,30,77%,77.0,,,lines
+14,1,31,31,,,,,lines
+14,1,31,32,,,,,lines
+14,1,32,1,,,,,lines
+14,1,32,2,,,,,lines
+14,1,32,3,,,,,lines
+14,1,32,4,,,,,lines
+14,1,32,5,,,,,lines
+14,1,32,6,,,,,lines
+14,1,32,7,,,,,lines
+14,1,32,8,,,,,lines
+14,1,32,9,,,,,lines
+14,1,32,10,,,,,lines
+14,1,32,11,(2.1),-2.1,,,lines
+14,1,32,12,,,,,lines
+14,1,32,13,,,,,lines
+14,1,32,14,,,,,lines
+14,1,32,15,,,,,lines
+14,1,32,16,,,,,lines
+14,1,32,17,(29.1),-29.1,,,lines
+14,1,32,18,,,,,lines
+14,1,32,19,,,,,lines
+14,1,32,20,,,,,lines
+14,1,32,21,,,,,lines
+14,1,32,22,,,,,lines
+14,1,32,23,,,,,lines
+14,1,32,24,27.0,27.0,,,lines
+14,1,32,25,,,,,lines
+14,1,32,26,,,,,lines
+14,1,32,27,,,,,lines
+14,1,32,28,,,,,lines
+14,1,32,29,,,,,lines
+14,1,32,30,93%,93.0,,,lines
+14,1,32,31,,,,,lines
+14,1,32,32,,,,,lines
+14,1,33,1,,,,,lines
+14,1,33,2,,,,,lines
+14,1,33,3,,,,,lines
+14,1,33,4,,,,,lines
+14,1,33,5,,,,,lines
+14,1,33,6,,,,,lines
+14,1,33,7,,,,,lines
+14,1,33,8,,,,,lines
+14,1,33,9,,,,,lines
+14,1,33,10,,,,,lines
+14,1,33,11,,,,,lines
+14,1,33,12,,,,,lines
+14,1,33,13,,,,,lines
+14,1,33,14,,,,,lines
+14,1,33,15,,,,,lines
+14,1,33,16,,,,,lines
+14,1,33,17,,,,,lines
+14,1,33,18,,,,,lines
+14,1,33,19,,,,,lines
+14,1,33,20,,,,,lines
+14,1,33,21,,,,,lines
+14,1,33,22,,,,,lines
+14,1,33,23,,,,,lines
+14,1,33,24,,,,,lines
+14,1,33,25,,,,,lines
+14,1,33,26,,,,,lines
+14,1,33,27,,,,,lines
+14,1,33,28,,,,,lines
+14,1,33,29,,,,,lines
+14,1,33,30,,,,,lines
+14,1,33,31,,,,,lines
+14,1,33,32,,,,,lines
+14,1,34,1,,,,,lines
+14,1,34,2,,,,,lines
+14,1,34,3,,,,,lines
+14,1,34,4,,,,,lines
+14,1,34,5,,,,,lines
+14,1,34,6,,,,,lines
+14,1,34,7,,,,,lines
+14,1,34,8,,,,,lines
+14,1,34,9,,,,,lines
+14,1,34,10,,,,,lines
+14,1,34,11,(1.4),-1.4,,,lines
+14,1,34,12,,,,,lines
+14,1,34,13,,,,,lines
+14,1,34,14,,,,,lines
+14,1,34,15,,,,,lines
+14,1,34,16,,,,,lines
+14,1,34,17,,,,,lines
+14,1,34,18,,,,,lines
+14,1,34,19,-,,,,lines
+14,1,34,20,,,,,lines
+14,1,34,21,,,,,lines
+14,1,34,22,,,,,lines
+14,1,34,23,,,,,lines
+14,1,34,24,(1.4),-1.4,,,lines
+14,1,34,25,,,,,lines
+14,1,34,26,,,,,lines
+14,1,34,27,,,,,lines
+14,1,34,28,,,,,lines
+14,1,34,29,,,,,lines
+14,1,34,30,,,,,lines
+14,1,34,31,NC,,,,lines
+14,1,34,32,,,,,lines
+14,1,35,1,,,,,lines
+14,1,35,2,,,,,lines
+14,1,35,3,,,,,lines
+14,1,35,4,,,,,lines
+14,1,35,5,,,,,lines
+14,1,35,6,,,,,lines
+14,1,35,7,,,,,lines
+14,1,35,8,,,,,lines
+14,1,35,9,,,,,lines
+14,1,35,10,,,,,lines
+14,1,35,11,,,,,lines
+14,1,35,12,,,,,lines
+14,1,35,13,,,,,lines
+14,1,35,14,,,,,lines
+14,1,35,15,,,,,lines
+14,1,35,16,,,,,lines
+14,1,35,17,,,,,lines
+14,1,35,18,,,,,lines
+14,1,35,19,,,,,lines
+14,1,35,20,,,,,lines
+14,1,35,21,,,,,lines
+14,1,35,22,,,,,lines
+14,1,35,23,,,,,lines
+14,1,35,24,,,,,lines
+14,1,35,25,,,,,lines
+14,1,35,26,,,,,lines
+14,1,35,27,,,,,lines
+14,1,35,28,,,,,lines
+14,1,35,29,,,,,lines
+14,1,35,30,,,,,lines
+14,1,35,31,,,,,lines
+14,1,35,32,,,,,lines
+14,1,36,1,,,,,lines
+14,1,36,2,,,,,lines
+14,1,36,3,,,,,lines
+14,1,36,4,,,,,lines
+14,1,36,5,,,,,lines
+14,1,36,6,,,,,lines
+14,1,36,7,,,,,lines
+14,1,36,8,,,,,lines
+14,1,36,9,,,,,lines
+14,1,36,10,,,,,lines
+14,1,36,11,,,,,lines
+14,1,36,12,,,,,lines
+14,1,36,13,-,,,,lines
+14,1,36,14,,,,,lines
+14,1,36,15,,,,,lines
+14,1,36,16,,,,,lines
+14,1,36,17,(13.3),-13.3,-,,lines
+14,1,36,18,,,,,lines
+14,1,36,19,,,,,lines
+14,1,36,20,,,,,lines
+14,1,36,21,,,,,lines
+14,1,36,22,,,,,lines
+14,1,36,23,,,,,lines
+14,1,36,24,13.3,13.3,-,,lines
+14,1,36,25,,,,,lines
+14,1,36,26,,,,,lines
+14,1,36,27,,,,,lines
+14,1,36,28,,,,,lines
+14,1,36,29,100%,100.0,-,,lines
+14,1,36,30,,,,,lines
+14,1,36,31,,,,,lines
+14,1,36,32,,,,,lines
+14,1,37,1,,,,,lines
+14,1,37,2,,,,,lines
+14,1,37,3,,,,,lines
+14,1,37,4,,,,,lines
+14,1,37,5,,,,,lines
+14,1,37,6,,,,,lines
+14,1,37,7,,,,,lines
+14,1,37,8,,,,,lines
+14,1,37,9,,,,,lines
+14,1,37,10,,,,,lines
+14,1,37,11,,,,,lines
+14,1,37,12,,,,,lines
+14,1,37,13,,,,,lines
+14,1,37,14,,,,,lines
+14,1,37,15,,,,,lines
+14,1,37,16,,,,,lines
+14,1,37,17,,,,,lines
+14,1,37,18,,,,,lines
+14,1,37,19,,,,,lines
+14,1,37,20,,,,,lines
+14,1,37,21,,,,,lines
+14,1,37,22,,,,,lines
+14,1,37,23,,,,,lines
+14,1,37,24,,,,,lines
+14,1,37,25,,,,,lines
+14,1,37,26,,,,,lines
+14,1,37,27,,,,,lines
+14,1,37,28,,,,,lines
+14,1,37,29,,,,,lines
+14,1,37,30,,,,,lines
+14,1,37,31,,,,,lines
+14,1,37,32,,,,,lines
+14,1,38,1,,,,,lines
+14,1,38,2,,,,,lines
+14,1,38,3,,,,,lines
+14,1,38,4,,,,,lines
+14,1,38,5,,,,,lines
+14,1,38,6,,,,,lines
+14,1,38,7,,,,,lines
+14,1,38,8,,,,,lines
+14,1,38,9,,,,,lines
+14,1,38,10,,,,,lines
+14,1,38,11,,,,,lines
+14,1,38,12,,,,,lines
+14,1,38,13,-,,,,lines
+14,1,38,14,,,,,lines
+14,1,38,15,,,,,lines
+14,1,38,16,,,,,lines
+14,1,38,17,,,,,lines
+14,1,38,18,77.1,77.1,-,,lines
+14,1,38,19,,,,,lines
+14,1,38,20,,,,,lines
+14,1,38,21,,,,,lines
+14,1,38,22,,,,,lines
+14,1,38,23,(77.1),-77.1,-,,lines
+14,1,38,24,,,,,lines
+14,1,38,25,,,,,lines
+14,1,38,26,,,,,lines
+14,1,38,27,,,,,lines
+14,1,38,28,(100%),,,,lines
+14,1,38,29,,,,,lines
+14,1,38,30,,,,,lines
+14,1,38,31,,,,,lines
+14,1,38,32,,,,,lines
+14,1,39,1,,,,,lines
+14,1,39,2,,,,,lines
+14,1,39,3,,,,,lines
+14,1,39,4,,,,,lines
+14,1,39,5,,,,,lines
+14,1,39,6,,,,,lines
+14,1,39,7,,,,,lines
+14,1,39,8,,,,,lines
+14,1,39,9,,,,,lines
+14,1,39,10,,,,,lines
+14,1,39,11,(2.0),-2.0,,,lines
+14,1,39,12,,,,,lines
+14,1,39,13,,,,,lines
+14,1,39,14,,,,,lines
+14,1,39,15,,,,,lines
+14,1,39,16,,,,,lines
+14,1,39,17,,,,,lines
+14,1,39,18,(0.4),-0.4,,,lines
+14,1,39,19,,,,,lines
+14,1,39,20,,,,,lines
+14,1,39,21,,,,,lines
+14,1,39,22,,,,,lines
+14,1,39,23,,,,,lines
+14,1,39,24,(1.6),-1.6,,,lines
+14,1,39,25,,,,,lines
+14,1,39,26,,,,,lines
+14,1,39,27,(>100%),,,,lines
+14,1,39,28,,,,,lines
+14,1,39,29,,,,,lines
+14,1,39,30,,,,,lines
+14,1,39,31,,,,,lines
+14,1,39,32,,,,,lines
+14,1,40,1,,,,,lines
+14,1,40,2,,,,,lines
+14,1,40,3,,,,,lines
+14,1,40,4,,,,,lines
+14,1,40,5,,,,,lines
+14,1,40,6,,,,,lines
+14,1,40,7,,,,,lines
+14,1,40,8,"1,384.2",1384.2,,,lines
+14,1,40,9,,,,,lines
+14,1,40,10,,,,,lines
+14,1,40,11,,,,,lines
+14,1,40,12,,,,,lines
+14,1,40,13,,,,,lines
+14,1,40,14,,,,,lines
+14,1,40,15,"1,718.3",1718.3,,,lines
+14,1,40,16,,,,,lines
+14,1,40,17,,,,,lines
+14,1,40,18,,,,,lines
+14,1,40,19,,,,,lines
+14,1,40,20,,,,,lines
+14,1,40,21,,,,,lines
+14,1,40,22,(334.1),-334.1,,,lines
+14,1,40,23,,,,,lines
+14,1,40,24,,,,,lines
+14,1,40,25,,,,,lines
+14,1,40,26,,,,,lines
+14,1,40,27,,,,,lines
+14,1,40,28,,,,,lines
+14,1,40,29,(19%),,,,lines
+14,1,40,30,,,,,lines
+14,1,40,31,,,,,lines
+14,1,40,32,,,,,lines
+14,1,41,1,,,,,lines
+14,1,41,2,,,,,lines
+14,1,41,3,,,,,lines
+14,1,41,4,,,,,lines
+14,1,41,5,,,,,lines
+14,1,41,6,,,,,lines
+14,1,41,7,,,,,lines
+14,1,41,8,,,,,lines
+14,1,41,9,,,,,lines
+14,1,41,10,,,,,lines
+14,1,41,11,,,,,lines
+14,1,41,12,,,,,lines
+14,1,41,13,,,,,lines
+14,1,41,14,,,,,lines
+14,1,41,15,,,,,lines
+14,1,41,16,,,,,lines
+14,1,41,17,,,,,lines
+14,1,41,18,,,,,lines
+14,1,41,19,,,,,lines
+14,1,41,20,,,,,lines
+14,1,41,21,,,,,lines
+14,1,41,22,,,,,lines
+14,1,41,23,,,,,lines
+14,1,41,24,,,,,lines
+14,1,41,25,,,,,lines
+14,1,41,26,,,,,lines
+14,1,41,27,,,,,lines
+14,1,41,28,,,,,lines
+14,1,41,29,,,,,lines
+14,1,41,30,,,,,lines
+14,1,41,31,,,,,lines
+14,1,41,32,,,,,lines
+14,1,42,1,,,,,lines
+14,1,42,2,,,,,lines
+14,1,42,3,,,,,lines
+14,1,42,4,,,,,lines
+14,1,42,5,,,,,lines
+14,1,42,6,,,,,lines
+14,1,42,7,,,,,lines
+14,1,42,8,,,,,lines
+14,1,42,9,(687.9),-687.9,,,lines
+14,1,42,10,,,,,lines
+14,1,42,11,,,,,lines
+14,1,42,12,,,,,lines
+14,1,42,13,,,,,lines
+14,1,42,14,,,,,lines
+14,1,42,15,,,,,lines
+14,1,42,16,(609.3),-609.3,,,lines
+14,1,42,17,,,,,lines
+14,1,42,18,,,,,lines
+14,1,42,19,,,,,lines
+14,1,42,20,,,,,lines
+14,1,42,21,,,,,lines
+14,1,42,22,,,,,lines
+14,1,42,23,(78.6),-78.6,,,lines
+14,1,42,24,,,,,lines
+14,1,42,25,,,,,lines
+14,1,42,26,,,,,lines
+14,1,42,27,,,,,lines
+14,1,42,28,,,,,lines
+14,1,42,29,(13%),,,,lines
+14,1,42,30,,,,,lines
+14,1,42,31,,,,,lines
+14,1,42,32,,,,,lines
+14,1,43,1,,,,,lines
+14,1,43,2,,,,,lines
+14,1,43,3,,,,,lines
+14,1,43,4,,,,,lines
+14,1,43,5,,,,,lines
+14,1,43,6,,,,,lines
+14,1,43,7,,,,,lines
+14,1,43,8,,,,,lines
+14,1,43,9,,,,,lines
+14,1,43,10,,,,,lines
+14,1,43,11,25.8,25.8,,,lines
+14,1,43,12,,,,,lines
+14,1,43,13,,,,,lines
+14,1,43,14,,,,,lines
+14,1,43,15,,,,,lines
+14,1,43,16,,,,,lines
+14,1,43,17,,,,,lines
+14,1,43,18,68.3,68.3,,,lines
+14,1,43,19,,,,,lines
+14,1,43,20,,,,,lines
+14,1,43,21,,,,,lines
+14,1,43,22,,,,,lines
+14,1,43,23,(42.5),-42.5,,,lines
+14,1,43,24,,,,,lines
+14,1,43,25,,,,,lines
+14,1,43,26,,,,,lines
+14,1,43,27,,,,,lines
+14,1,43,28,,,,,lines
+14,1,43,29,(62%),,,,lines
+14,1,43,30,,,,,lines
+14,1,43,31,,,,,lines
+14,1,43,32,,,,,lines
+14,1,44,1,,,,,lines
+14,1,44,2,,,,,lines
+14,1,44,3,,,,,lines
+14,1,44,4,,,,,lines
+14,1,44,5,,,,,lines
+14,1,44,6,,,,,lines
+14,1,44,7,,,,,lines
+14,1,44,8,,,,,lines
+14,1,44,9,(527.7),-527.7,,,lines
+14,1,44,10,,,,,lines
+14,1,44,11,,,,,lines
+14,1,44,12,,,,,lines
+14,1,44,13,,,,,lines
+14,1,44,14,,,,,lines
+14,1,44,15,,,,,lines
+14,1,44,16,(380.2),-380.2,,,lines
+14,1,44,17,,,,,lines
+14,1,44,18,,,,,lines
+14,1,44,19,,,,,lines
+14,1,44,20,,,,,lines
+14,1,44,21,,,,,lines
+14,1,44,22,(147.5),-147.5,,,lines
+14,1,44,23,,,,,lines
+14,1,44,24,,,,,lines
+14,1,44,25,,,,,lines
+14,1,44,26,,,,,lines
+14,1,44,27,,,,,lines
+14,1,44,28,,,,,lines
+14,1,44,29,(39%),,,,lines
+14,1,44,30,,,,,lines
+14,1,44,31,,,,,lines
+14,1,44,32,,,,,lines
+14,1,45,1,,,,,lines
+14,1,45,2,,,,,lines
+14,1,45,3,,,,,lines
+14,1,45,4,,,,,lines
+14,1,45,5,,,,,lines
+14,1,45,6,,,,,lines
+14,1,45,7,,,,,lines
+14,1,45,8,,,,,lines
+14,1,45,9,,,,,lines
+14,1,45,10,,,,,lines
+14,1,45,11,,,,,lines
+14,1,45,12,,,,,lines
+14,1,45,13,,,,,lines
+14,1,45,14,,,,,lines
+14,1,45,15,,,,,lines
+14,1,45,16,,,,,lines
+14,1,45,17,,,,,lines
+14,1,45,18,,,,,lines
+14,1,45,19,,,,,lines
+14,1,45,20,,,,,lines
+14,1,45,21,,,,,lines
+14,1,45,22,,,,,lines
+14,1,45,23,,,,,lines
+14,1,45,24,,,,,lines
+14,1,45,25,,,,,lines
+14,1,45,26,,,,,lines
+14,1,45,27,,,,,lines
+14,1,45,28,,,,,lines
+14,1,45,29,,,,,lines
+14,1,45,30,,,,,lines
+14,1,45,31,,,,,lines
+14,1,45,32,,,,,lines
+14,1,46,1,,,,,lines
+14,1,46,2,,,,,lines
+14,1,46,3,,,,,lines
+14,1,46,4,,,,,lines
+14,1,46,5,,,,,lines
+14,1,46,6,,,,,lines
+14,1,46,7,,,,,lines
+14,1,46,8,,,,,lines
+14,1,46,9,,,,,lines
+14,1,46,10,,,,,lines
+14,1,46,11,(7.5),-7.5,,,lines
+14,1,46,12,,,,,lines
+14,1,46,13,,,,,lines
+14,1,46,14,,,,,lines
+14,1,46,15,,,,,lines
+14,1,46,16,(109.8),-109.8,,,lines
+14,1,46,17,,,,,lines
+14,1,46,18,,,,,lines
+14,1,46,19,,,,,lines
+14,1,46,20,,,,,lines
+14,1,46,21,,,,,lines
+14,1,46,22,,,,,lines
+14,1,46,23,102.3,102.3,,,lines
+14,1,46,24,,,,,lines
+14,1,46,25,,,,,lines
+14,1,46,26,,,,,lines
+14,1,46,27,,,,,lines
+14,1,46,28,,,,,lines
+14,1,46,29,,,,,lines
+14,1,46,30,93%,93.0,,,lines
+14,1,46,31,,,,,lines
+14,1,46,32,,,,,lines
+14,1,47,1,,,,,lines
+14,1,47,2,,,,,lines
+14,1,47,3,,,,,lines
+14,1,47,4,,,,,lines
+14,1,47,5,,,,,lines
+14,1,47,6,,,,,lines
+14,1,47,7,,,,,lines
+14,1,47,8,,,,,lines
+14,1,47,9,,,,,lines
+14,1,47,10,186.9,186.9,,,lines
+14,1,47,11,,,,,lines
+14,1,47,12,,,,,lines
+14,1,47,13,,,,,lines
+14,1,47,14,,,,,lines
+14,1,47,15,,,,,lines
+14,1,47,16,,,,,lines
+14,1,47,17,687.3,687.3,,,lines
+14,1,47,18,,,,,lines
+14,1,47,19,,,,,lines
+14,1,47,20,,,,,lines
+14,1,47,21,,,,,lines
+14,1,47,22,(500.4),-500.4,,,lines
+14,1,47,23,,,,,lines
+14,1,47,24,,,,,lines
+14,1,47,25,,,,,lines
+14,1,47,26,,,,,lines
+14,1,47,27,,,,,lines
+14,1,47,28,,,,,lines
+14,1,47,29,(73%),,,,lines
+14,1,47,30,,,,,lines
+14,1,47,31,,,,,lines
+14,1,47,32,,,,,lines
+14,2,1,1,"1,765.4 1,781.9 506.2 511.2 1,533.6 576.0",,,,lines
+14,2,1,2,,,,,lines
+14,2,1,3,,,,,lines
+14,2,1,4,,,,,lines
+14,2,1,5,"1,781.9",1781.9,"1,765.4 1,781.9 506.2 511.2 1,533.6 576.0",,lines
+14,2,1,6,,,,,lines
+14,2,1,7,,,,,lines
+14,2,2,1,,,,,lines
+14,2,2,2,,,,,lines
+14,2,2,3,,,,,lines
+14,2,2,4,,,,,lines
+14,2,2,5,,,,,lines
+14,2,2,6,511.2,511.2,,,lines
+14,2,2,7,,,,,lines
+14,2,3,1,,,,,lines
+14,2,3,2,"1,533.6",1533.6,,,lines
+14,2,3,3,,,,,lines
+14,2,3,4,,,,,lines
+14,2,3,5,,,,,lines
+14,2,3,6,576.0,576.0,,,lines
+14,2,3,7,,,,,lines
+14,2,4,1,,,,,lines
+14,2,4,2,"3,805.2",3805.2,,,lines
+14,2,4,3,,,,,lines
+14,2,4,4,"2,869.1 22.6 26.8",,,,lines
+14,2,4,5,"2,869.1",2869.1,,,lines
+14,2,4,6,,,,,lines
+14,2,4,7,,,,,lines
+14,2,5,1,,,,,lines
+14,2,5,2,,,,,lines
+14,2,5,3,25.5,25.5,,,lines
+14,2,5,4,,,,,lines
+14,2,5,5,,,,,lines
+14,2,5,6,,,,,lines
+14,2,5,7,22.6,22.6,,,lines
+14,2,6,1,,,,,lines
+14,2,6,2,,,,,lines
+14,2,6,3,22.6,22.6,,,lines
+14,2,6,4,,,,,lines
+14,2,6,5,,,,,lines
+14,2,6,6,,,,,lines
+14,2,6,7,26.8,26.8,,,lines
+14,2,7,1,,,,,lines
+14,2,7,2,"3,853.3",3853.3,,,lines
+14,2,7,3,,,,,lines
+14,2,7,4,,,,,lines
+14,2,7,5,"2,918.5",2918.5,,,lines
+14,2,7,6,,,,,lines
+14,2,7,7,,,,,lines
+14,3,1,1,"1,765.4",1765.4,,,lines
+14,3,1,2,,,,,lines
+14,3,2,1,,,,,lines
+14,3,2,2,506.2,506.2,,,lines
+14,4,1,1,615.0 606.3 68.8 70.2 216.6 118.4,,,,lines
+14,4,1,2,,,,,lines
+14,4,1,3,,,,,lines
+14,4,1,4,,,,,lines
+14,4,1,5,,,,,lines
+14,4,1,6,606.3,606.3,615.0 606.3 68.8 70.2 216.6 118.4,,lines
+14,4,1,7,,,,,lines
+14,4,1,8,,,,,lines
+14,4,2,1,,,,,lines
+14,4,2,2,,,,,lines
+14,4,2,3,,,,,lines
+14,4,2,4,,,,,lines
+14,4,2,5,,,,,lines
+14,4,2,6,,,,,lines
+14,4,2,7,70.2,70.2,,,lines
+14,4,2,8,,,,,lines
+14,4,3,1,,,,,lines
+14,4,3,2,216.6,216.6,,,lines
+14,4,3,3,,,,,lines
+14,4,3,4,,,,,lines
+14,4,3,5,,,,,lines
+14,4,3,6,118.4,118.4,,,lines
+14,4,3,7,,,,,lines
+14,4,3,8,,,,,lines
+14,4,4,1,,,,,lines
+14,4,4,2,900.4,900.4,,,lines
+14,4,4,3,,,,,lines
+14,4,4,4,794.9 4.5 230.2,,,,lines
+14,4,4,5,,,,,lines
+14,4,4,6,794.9,794.9,,,lines
+14,4,4,7,,,,,lines
+14,4,4,8,,,,,lines
+14,4,5,1,,,,,lines
+14,4,5,2,,,,,lines
+14,4,5,3,(1.3),-1.3,,,lines
+14,4,5,4,,,,,lines
+14,4,5,5,,,,,lines
+14,4,5,6,,,,,lines
+14,4,5,7,,,,,lines
+14,4,5,8,4.5,4.5,,,lines
+14,4,6,1,,,,,lines
+14,4,6,2,(55.1),-55.1,,,lines
+14,4,6,3,,,,,lines
+14,4,6,4,,,,,lines
+14,4,6,5,,,,,lines
+14,4,6,6,230.2,230.2,,,lines
+14,4,6,7,,,,,lines
+14,4,6,8,,,,,lines
+14,4,7,1,,,,,lines
+14,4,7,2,844.0,844.0,,,lines
+14,4,7,3,,,,,lines
+14,4,7,4,,,,,lines
+14,4,7,5,"1,029.6",1029.6,,,lines
+14,4,7,6,,,,,lines
+14,4,7,7,,,,,lines
+14,4,7,8,,,,,lines
+14,5,1,1,615.0,615.0,,,lines
+14,5,1,2,,,,,lines
+14,5,2,1,,,,,lines
+14,5,2,2,68.8,68.8,,,lines
+14,6,1,1,,,,,lines
+14,6,1,2,,,,,lines
+14,6,1,3,-,,,,lines
+14,6,2,1,,,,,lines
+14,6,2,2,(2.7),-2.7,-,,lines
+14,6,2,3,,,,,lines
+14,6,3,1,767.7,767.7,-,,lines
+14,6,3,2,,,,,lines
+14,6,3,3,,,,,lines
+14,7,1,1,,,,,lines
+14,7,1,2,77.1,77.1,,,lines
+14,7,2,1,,,,,lines
+14,7,2,2,(1.0),-1.0,,,lines
+14,7,3,1,"1,013.2",1013.2,,,lines
+14,7,3,2,,,,,lines
+14,8,1,1,(77.1),-77.1,,,lines
+14,8,1,2,,,,,lines
+14,8,2,1,,,,,lines
+14,8,2,2,(1.7),-1.7,,,lines
+14,9,1,1,(350.0),-350.0,,,lines
+14,9,1,2,,,,,lines
+14,9,2,1,,,,,lines
+14,9,2,2,12.5,12.5,,,lines
+14,9,3,1,(281.0),-281.0,,,lines
+14,9,3,2,,,,,lines
+14,10,1,1,(313.5),-313.5,,,lines
+14,10,1,2,,,,,lines
+14,10,2,1,,,,,lines
+14,10,2,2,41.8,41.8,,,lines
+14,10,3,1,(196.0),-196.0,,,lines
+14,10,3,2,,,,,lines
+14,11,1,1,,,,,lines
+14,11,1,2,,,,,lines
+14,11,1,3,,,,,lines
+14,11,1,4,(5.4),-5.4,,,lines
+14,11,1,5,,,,,lines
+14,11,1,6,(42.2),-42.2,,,lines
+14,11,2,1,Profit before taxation,,,,lines
+14,11,2,2,,,,,lines
+14,11,2,3,143.8,143.8,Profit before taxation,,lines
+14,11,2,4,,,,,lines
+14,11,2,5,,,,,lines
+14,11,2,6,503.3,503.3,Profit before taxation,,lines
+15,1,1,1,"1,765.4 1,668.6 506.2 460.7 1,533.6 694.4",,,,lines
+15,1,1,2,"1,668.6",1668.6,"1,765.4 1,668.6 506.2 460.7 1,533.6 694.4",,lines
+15,1,1,3,,,,,lines
+15,1,2,1,,,,,lines
+15,1,2,2,,,,,lines
+15,1,2,3,694.4,694.4,,,lines
+15,1,3,1,,,,,lines
+15,1,3,2,"2,823.7",2823.7,,,lines
+15,1,3,3,,,,,lines
+15,2,1,1,,,,,lines
+15,2,1,2,22.6,22.6,,,lines
+15,2,1,3,,,,,lines
+15,2,1,4,,,,,lines
+15,2,1,5,17.7,17.7,,,lines
+15,2,2,1,"3,853.3",3853.3,,,lines
+15,2,2,2,,,,,lines
+15,2,2,3,,,,,lines
+15,2,2,4,"2,866.9",2866.9,,,lines
+15,2,2,5,,,,,lines
+15,3,1,1,615.0 512.1 68.8 50.9 216.6 80.5,,,,lines
+15,3,1,2,512.1,512.1,615.0 512.1 68.8 50.9 216.6 80.5,,lines
+15,3,1,3,,,,,lines
+15,3,2,1,,,,,lines
+15,3,2,2,,,,,lines
+15,3,2,3,50.9,50.9,,,lines
+15,3,3,1,,,,,lines
+15,3,3,2,,,,,lines
+15,3,3,3,80.5,80.5,,,lines
+15,3,4,1,,,,,lines
+15,3,4,2,643.5,643.5,,,lines
+15,3,4,3,,,,,lines
+15,4,1,1,615.0,615.0,,,lines
+15,4,1,2,,,,,lines
+15,4,2,1,,,,,lines
+15,4,2,2,68.8,68.8,,,lines
+15,4,3,1,216.6,216.6,,,lines
+15,4,3,2,,,,,lines
+15,4,4,1,900.4,900.4,,,lines
+15,4,4,2,,,,,lines
+15,5,1,1,,,,,lines
+15,5,1,2,(7.8),-7.8,,,lines
+15,5,2,1,644.7,644.7,,,lines
+15,5,2,2,,,,,lines
+15,6,1,1,(67.0),-67.0,,,lines
+15,6,1,2,,,,,lines
+15,6,2,1,,,,,lines
+15,6,2,2,(4.5),-4.5,,,lines
+15,6,3,1,,,,,lines
+15,6,3,2,(0.7),-0.7,,,lines
+15,6,4,1,,,,,lines
+15,6,4,2,(1.4),-1.4,,,lines
+15,6,5,1,,,,,lines
+15,6,5,2,(2.7),-2.7,,,lines
+15,6,6,1,767.7,767.7,,,lines
+15,6,6,2,,,,,lines
+15,7,1,1,(26.8),-26.8,,,lines
+15,7,1,2,,,,,lines
+15,7,1,3,,,,,lines
+15,7,1,4,,,,,lines
+15,7,2,1,,,,,lines
+15,7,2,2,(0.7),-0.7,,,lines
+15,7,2,3,,,,,lines
+15,7,2,4,,,,,lines
+15,7,3,1,,,,,lines
+15,7,3,2,(1.4),-1.4,,,lines
+15,7,3,3,,,,,lines
+15,7,3,4,,,,,lines
+15,7,4,1,,,,,lines
+15,7,4,2,,,,,lines
+15,7,4,3,,,,,lines
+15,7,4,4,-,,,,lines
+15,7,5,1,,,,,lines
+15,7,5,2,,,,,lines
+15,7,5,3,0.7,0.7,-,,lines
+15,7,5,4,,,,,lines
+15,7,6,1,616.5,616.5,-,,lines
+15,7,6,2,,,,,lines
+15,7,6,3,,,,,lines
+15,7,6,4,,,,,lines
+15,8,1,1,,,,,lines
+15,8,1,2,,,,,lines
+15,8,1,3,(350.0),-350.0,,,lines
+15,8,1,4,,,,,lines
+15,8,1,5,,,,,lines
+15,8,1,6,,,,,lines
+15,8,1,7,(337.9),-337.9,,,lines
+15,8,1,8,,,,,lines
+15,8,2,1,,,,,lines
+15,8,2,2,,,,,lines
+15,8,2,3,,,,,lines
+15,8,2,4,,,,,lines
+15,8,2,5,12.5,12.5,,,lines
+15,8,2,6,,,,,lines
+15,8,2,7,,,,,lines
+15,8,2,8,13.3,13.3,,,lines
+15,8,3,1,,,,,lines
+15,8,3,2,,,,,lines
+15,8,3,3,(281.0),-281.0,,,lines
+15,8,3,4,,,,,lines
+15,8,3,5,,,,,lines
+15,8,3,6,,,,,lines
+15,8,3,7,(246.7),-246.7,,,lines
+15,8,3,8,,,,,lines
+15,8,4,1,,,,,lines
+15,8,4,2,,,,,lines
+15,8,4,3,,,,,lines
+15,8,4,4,,,,,lines
+15,8,4,5,(5.4),-5.4,,,lines
+15,8,4,6,,,,,lines
+15,8,4,7,,,,,lines
+15,8,4,8,(2.1),-2.1,,,lines
+15,8,5,1,Profit before taxation,,,,lines
+15,8,5,2,,,,,lines
+15,8,5,3,,,,,lines
+15,8,5,4,143.8,143.8,Profit before taxation,,lines
+15,8,5,5,,,,,lines
+15,8,5,6,,,,,lines
+15,8,5,7,,,,,lines
+15,8,5,8,43.1,43.1,Profit before taxation,,lines
+20,1,1,1,,,,,lines
+20,1,1,2,5.7,5.7,,,lines
+20,1,2,1,90.8,90.8,,,lines
+20,1,2,2,,,,,lines
+20,2,1,1,,,,,lines
+20,2,1,2,8.4,8.4,,,lines
+20,2,2,1,171.6,171.6,,,lines
+20,2,2,2,,,,,lines
+20,3,1,1,,,,,lines
+20,3,1,2,26.0,26.0,,,lines
+20,3,2,1,116.8,116.8,,,lines
+20,3,2,2,,,,,lines
+20,4,1,1,,,,,lines
+20,4,1,2,22.1,22.1,,,lines
+20,4,2,1,193.7,193.7,,,lines
+20,4,2,2,,,,,lines
+20,5,1,1,,,,,lines
+20,5,1,2,(8.6,8.6,,,lines
+20,5,2,1,185.1,185.1,,,lines
+20,5,2,2,,,,,lines
+21,1,1,1,,,,,lines
+21,1,1,2,As at 30.06.2026,,,,lines
+21,1,1,3,,,,,lines
+21,1,1,4,,,,,lines
+21,1,1,5,,,,,lines
+21,1,1,6,As at 31.12.2025,,,,lines
+21,1,2,1,,,,,lines
+21,1,2,2,Secured/ Unsecured,,,,lines
+21,1,2,3,Foreign Currency ’Mil,,,,lines
+21,1,2,4,,,,,lines
+21,1,2,5,RM Equivalent ’Mil,,,,lines
+21,1,2,6,RM Equivalent ’Mil,,,,lines
+21,1,3,1,Short term borrowings,,,,lines
+21,1,3,2,Secured Unsecured Unsecured Unsecured,,,,lines
+21,1,3,3,USD USD GBP RM,,,,lines
+21,1,3,4,302.7 18.6 0.1 N/A,,,,lines
+21,1,3,5,"1,234.8 75.8 0.6 1,158.5",,,,lines
+21,1,3,6,"1,225.3 142.2 0.6 59.6",,,,lines
+21,1,4,1,,,,,lines
+21,1,4,2,,,,,lines
+21,1,4,3,,,,,lines
+21,1,4,4,,,,,lines
+21,1,4,5,"2,469.7",2469.7,"Short term borrowings Secured Unsecured Unsecured Unsecured USD USD GBP RM 302.7 18.6 0.1 N/A 1,234.8 75.8 0.6 1,158.5 1,225.3 142.2 0.6 59.6",,lines
+21,1,4,6,"1,427.7",1427.7,"Short term borrowings Secured Unsecured Unsecured Unsecured USD USD GBP RM 302.7 18.6 0.1 N/A 1,234.8 75.8 0.6 1,158.5 1,225.3 142.2 0.6 59.6",,lines
+21,1,5,1,Long term borrowings,,,,lines
+21,1,5,2,Secured Unsecured Unsecured Unsecured,,,,lines
+21,1,5,3,USD USD GBP RM,,,,lines
+21,1,5,4,"737.5 1,612.7 0.5 N/A",,,,lines
+21,1,5,5,"3,008.6 6,578.8 2.5 3,643.5",,,,lines
+21,1,5,6,"- 6,542.5 2.9 4,742.9",,,,lines
+21,1,6,1,,,,,lines
+21,1,6,2,,,,,lines
+21,1,6,3,,,,,lines
+21,1,6,4,,,,,lines
+21,1,6,5,"13,233.4",13233.4,"Long term borrowings Secured Unsecured Unsecured Unsecured USD USD GBP RM 737.5 1,612.7 0.5 N/A 3,008.6 6,578.8 2.5 3,643.5 - 6,542.5 2.9 4,742.9",,lines
+21,1,6,6,"11,288.3",11288.3,"Long term borrowings Secured Unsecured Unsecured Unsecured USD USD GBP RM 737.5 1,612.7 0.5 N/A 3,008.6 6,578.8 2.5 3,643.5 - 6,542.5 2.9 4,742.9",,lines
+21,1,7,1,Total borrowings,,,,lines
+21,1,7,2,Secured Unsecured Unsecured Unsecured,,,,lines
+21,1,7,3,USD USD GBP RM,,,,lines
+21,1,7,4,"1,040.2 1,631.3 0.6 N/A",,,,lines
+21,1,7,5,"4,243.4 6,654.6 3.1 4,802.0",,,,lines
+21,1,7,6,"1,225.3 6,684.7 3.5 4,802.5",,,,lines
+21,1,8,1,,,,,lines
+21,1,8,2,,,,,lines
+21,1,8,3,,,,,lines
+21,1,8,4,,,,,lines
+21,1,8,5,"15,703.1",15703.1,"Total borrowings Secured Unsecured Unsecured Unsecured USD USD GBP RM 1,040.2 1,631.3 0.6 N/A 4,243.4 6,654.6 3.1 4,802.0 1,225.3 6,684.7 3.5 4,802.5",,lines
+21,1,8,6,"12,716.0",12716.0,"Total borrowings Secured Unsecured Unsecured Unsecured USD USD GBP RM 1,040.2 1,631.3 0.6 N/A 4,243.4 6,654.6 3.1 4,802.0 1,225.3 6,684.7 3.5 4,802.5",,lines
+21,2,1,1,Types of Derivative,,,,lines
+21,2,1,2,Contract/Notional Value RM’Mil,,,,lines
+21,2,1,3,Fair Value Liabilities RM’Mil,,,,lines
+21,2,2,1,Cross-currency interest rate swaps USD - More than five years,,,,lines
+21,2,2,2,"1,798.6",1798.6,Cross-currency interest rate swaps USD - More than five years,,lines
+21,2,2,3,54.0,54.0,Cross-currency interest rate swaps USD - More than five years,,lines
+21,2,3,1,,,,,lines
+21,2,3,2,,,,,lines
+21,2,3,3,,,,,lines
+23,1,1,1,Depreciation and amortisation,,,,words
+23,1,1,2,350.0,350.0,Depreciation and amortisation,Current / quarter ended / 30 June 2026 / RM’Mil,words
+23,1,1,3,687.9,687.9,Depreciation and amortisation,Six months / ended / 30 June 2026 / RM’Mil,words
+23,1,2,1,"Property, plant and equipment written off",,,,words
+23,1,2,2,4.5,4.5,"Property, plant and equipment written off",Current / quarter ended / 30 June 2026 / RM’Mil,words
+23,1,2,3,5.2,5.2,"Property, plant and equipment written off",Six months / ended / 30 June 2026 / RM’Mil,words
+23,1,3,1,Finance costs:,,,,words
+23,1,4,1,- Interest on borrowings,,,,words
+23,1,4,2,212.9,212.9,- Interest on borrowings,Current / quarter ended / 30 June 2026 / RM’Mil,words
+23,1,4,3,413.8,413.8,- Interest on borrowings,Six months / ended / 30 June 2026 / RM’Mil,words
+23,1,5,1,- Other finance costs,,,,words
+23,1,5,2,69.2,69.2,- Other finance costs,Current / quarter ended / 30 June 2026 / RM’Mil,words
+23,1,5,3,117.1,117.1,- Other finance costs,Six months / ended / 30 June 2026 / RM’Mil,words
+23,1,6,1,- Less: capitalised costs,,,,words
+23,1,6,2,(1.1),-1.1,- Less: capitalised costs,Current / quarter ended / 30 June 2026 / RM’Mil,words
+23,1,6,3,(3.2),-3.2,- Less: capitalised costs,Six months / ended / 30 June 2026 / RM’Mil,words
+23,1,7,1,Finance costs charged to income statements,,,,words
+23,1,7,2,281.0,281.0,Finance costs charged to income statements,Current / quarter ended / 30 June 2026 / RM’Mil,words
+23,1,7,3,527.7,527.7,Finance costs charged to income statements,Six months / ended / 30 June 2026 / RM’Mil,words
+23,1,8,1,Loss on liquidation of a subsidiary,,,,words
+23,1,8,2,1.4,1.4,Loss on liquidation of a subsidiary,Current / quarter ended / 30 June 2026 / RM’Mil,words
+23,1,8,3,1.4,1.4,Loss on liquidation of a subsidiary,Six months / ended / 30 June 2026 / RM’Mil,words
+23,1,9,1,Credits:,,,,words
+23,1,10,1,Fair value gain on financial assets at fair value through profit or loss,,,,words
+23,1,10,2,2.1,2.1,Fair value gain on financial assets at fair value through profit or loss,Current / quarter ended / 30 June 2026 / RM’Mil,words
+23,1,10,3,4.1,4.1,Fair value gain on financial assets at fair value through profit or loss,Six months / ended / 30 June 2026 / RM’Mil,words
+23,1,11,1,Net foreign currency exchange (losses)/gains,,,,words
+23,1,11,2,(8.2),-8.2,Net foreign currency exchange (losses)/gains,Current / quarter ended / 30 June 2026 / RM’Mil,words
+23,1,11,3,6.0,6.0,Net foreign currency exchange (losses)/gains,Six months / ended / 30 June 2026 / RM’Mil,words
+23,1,12,1,Interest income,,,,words
+23,1,12,2,12.5,12.5,Interest income,Current / quarter ended / 30 June 2026 / RM’Mil,words
+23,1,12,3,25.8,25.8,Interest income,Six months / ended / 30 June 2026 / RM’Mil,words
+23,1,13,1,Investment income,,,,words
+23,1,13,2,7.0,7.0,Investment income,Current / quarter ended / 30 June 2026 / RM’Mil,words
+23,1,13,3,13.4,13.4,Investment income,Six months / ended / 30 June 2026 / RM’Mil,words
+23,1,14,1,Deferred income recognised for government grant,,,,words
+23,1,14,2,8.5,8.5,Deferred income recognised for government grant,Current / quarter ended / 30 June 2026 / RM’Mil,words
+23,1,14,3,35.1,35.1,Deferred income recognised for government grant,Six months / ended / 30 June 2026 / RM’Mil,words
+28,1,1,1,- M a l a y s i a,,,,words
+28,1,1,2,"1 , 7 6 5 . 4",1765.4,- M a l a y s i a,R M ' M i l,words
+28,1,1,3,"1 , 7 8 1 . 9",1781.9,- M a l a y s i a,R M ' M i l,words
+28,1,1,4,- 1 6 . 5,-16.5,- M a l a y s i a,R M ' M i l,words
+28,1,1,5,- 1 %,-1.0,- M a l a y s i a,%,words
+28,1,1,6,"3 , 4 3 4 . 0",3434.0,- M a l a y s i a,R M ' M i l,words
+28,1,1,7,"3 , 4 0 4 . 0",3404.0,- M a l a y s i a,R M ' M i l,words
+28,1,1,8,3 0 . 0,30.0,- M a l a y s i a,R M ' M i l,words
+28,1,1,9,1 %,1.0,- M a l a y s i a,%,words
+28,1,2,1,- U n i t e d K i n g d o m a n d E g y p t,,,,words
+28,1,2,2,5 0 6 . 2,506.2,- U n i t e d K i n g d o m a n d E g y p t,R M ' M i l,words
+28,1,2,3,5 1 1 . 2,511.2,- U n i t e d K i n g d o m a n d E g y p t,R M ' M i l,words
+28,1,2,4,- 5 . 0,-5.0,- U n i t e d K i n g d o m a n d E g y p t,R M ' M i l,words
+28,1,2,5,- 1 %,-1.0,- U n i t e d K i n g d o m a n d E g y p t,%,words
+28,1,2,6,9 6 6 . 9,966.9,- U n i t e d K i n g d o m a n d E g y p t,R M ' M i l,words
+28,1,2,7,9 2 4 . 6,924.6,- U n i t e d K i n g d o m a n d E g y p t,R M ' M i l,words
+28,1,2,8,4 2 . 3,42.3,- U n i t e d K i n g d o m a n d E g y p t,R M ' M i l,words
+28,1,2,9,5 %,5.0,- U n i t e d K i n g d o m a n d E g y p t,%,words
+28,1,3,1,- U n i t e d S t a t e s o f A m e r i c a a n d B a h a m a s,,,,words
+28,1,3,2,"1 , 5 3 3 . 6",1533.6,- U n i t e d S t a t e s o f A m e r i c a a n d B a h a m a s,R M ' M i l,words
+28,1,3,3,5 7 6 . 0,576.0,- U n i t e d S t a t e s o f A m e r i c a a n d B a h a m a s,R M ' M i l,words
+28,1,3,4,9 5 7 . 6,957.6,- U n i t e d S t a t e s o f A m e r i c a a n d B a h a m a s,R M ' M i l,words
+28,1,3,5,> 1 0 0 %,,,,words
+28,1,3,6,"2 , 2 2 8 . 0",2228.0,- U n i t e d S t a t e s o f A m e r i c a a n d B a h a m a s,R M ' M i l,words
+28,1,3,7,"1 , 0 7 7 . 3",1077.3,- U n i t e d S t a t e s o f A m e r i c a a n d B a h a m a s,R M ' M i l,words
+28,1,3,8,"1 , 1 5 0 . 7",1150.7,- U n i t e d S t a t e s o f A m e r i c a a n d B a h a m a s,R M ' M i l,words
+28,1,3,9,> 1 0 0 %,,,,words
+28,1,4,1,"3 , 8 0 5 . 2",3805.2,,R M ' M i l,words
+28,1,4,2,"2 , 8 6 9 . 1",2869.1,,R M ' M i l,words
+28,1,4,3,9 3 6 . 1,936.1,,R M ' M i l,words
+28,1,4,4,3 3 %,33.0,,%,words
+28,1,4,5,"6 , 6 2 8 . 9",6628.9,,R M ' M i l,words
+28,1,4,6,"5 , 4 0 5 . 9",5405.9,,R M ' M i l,words
+28,1,4,7,"1 , 2 2 3 . 0",1223.0,,R M ' M i l,words
+28,1,4,8,2 3 %,23.0,,%,words
+28,1,5,1,P r o p e r t y,,,,words
+28,1,5,2,2 5 . 5,25.5,P r o p e r t y,R M ' M i l,words
+28,1,5,3,2 2 . 6,22.6,P r o p e r t y,R M ' M i l,words
+28,1,5,4,2 . 9,2.9,P r o p e r t y,R M ' M i l,words
+28,1,5,5,1 3 %,13.0,P r o p e r t y,%,words
+28,1,5,6,5 1 . 0,51.0,P r o p e r t y,R M ' M i l,words
+28,1,5,7,4 6 . 7,46.7,P r o p e r t y,R M ' M i l,words
+28,1,5,8,4 . 3,4.3,P r o p e r t y,R M ' M i l,words
+28,1,5,9,9 %,9.0,P r o p e r t y,%,words
+28,1,6,1,I n v e s t m e n t s & o t h e r s,,,,words
+28,1,6,2,2 2 . 6,22.6,I n v e s t m e n t s & o t h e r s,R M ' M i l,words
+28,1,6,3,2 6 . 8,26.8,I n v e s t m e n t s & o t h e r s,R M ' M i l,words
+28,1,6,4,- 4 . 2,-4.2,I n v e s t m e n t s & o t h e r s,R M ' M i l,words
+28,1,6,5,- 1 6 %,-16.0,I n v e s t m e n t s & o t h e r s,%,words
+28,1,6,6,4 0 . 3,40.3,I n v e s t m e n t s & o t h e r s,R M ' M i l,words
+28,1,6,7,6 1 . 1,61.1,I n v e s t m e n t s & o t h e r s,R M ' M i l,words
+28,1,6,8,- 2 0 . 8,-20.8,I n v e s t m e n t s & o t h e r s,R M ' M i l,words
+28,1,6,9,- 3 4 %,-34.0,I n v e s t m e n t s & o t h e r s,%,words
+28,1,7,1,"3 , 8 5 3 . 3",3853.3,,R M ' M i l,words
+28,1,7,2,"2 , 9 1 8 . 5",2918.5,,R M ' M i l,words
+28,1,7,3,9 3 4 . 8,934.8,,R M ' M i l,words
+28,1,7,4,3 2 %,32.0,,%,words
+28,1,7,5,"6 , 7 2 0 . 2",6720.2,,R M ' M i l,words
+28,1,7,6,"5 , 5 1 3 . 7",5513.7,,R M ' M i l,words
+28,1,7,7,"1 , 2 0 6 . 5",1206.5,,R M ' M i l,words
+28,1,7,8,2 2 %,22.0,,%,words
+28,1,8,1,A d j u s t e d E B I T D A / ( L B I T D A ),,,,words
+28,1,9,1,L e i s u r e & H o s p i t a l i t y,,,,words
+28,1,10,1,- M a l a y s i a,,,,words
+28,1,10,2,6 1 5 . 0,615.0,- M a l a y s i a,R M ' M i l,words
+28,1,10,3,6 0 6 . 3,606.3,- M a l a y s i a,R M ' M i l,words
+28,1,10,4,8 . 7,8.7,- M a l a y s i a,R M ' M i l,words
+28,1,10,5,1 %,1.0,- M a l a y s i a,%,words
+28,1,10,6,"1 , 1 2 7 . 1",1127.1,- M a l a y s i a,R M ' M i l,words
+28,1,10,7,"1 , 1 2 4 . 5",1124.5,- M a l a y s i a,R M ' M i l,words
+28,1,10,8,2 . 6,2.6,- M a l a y s i a,R M ' M i l,words
+28,1,10,9,^,,,,words
+28,1,11,1,- U n i t e d K i n g d o m a n d E g y p t,,,,words
+28,1,11,2,6 8 . 8,68.8,- U n i t e d K i n g d o m a n d E g y p t,R M ' M i l,words
+28,1,11,3,7 0 . 2,70.2,- U n i t e d K i n g d o m a n d E g y p t,R M ' M i l,words
+28,1,11,4,- 1 . 4,-1.4,- U n i t e d K i n g d o m a n d E g y p t,R M ' M i l,words
+28,1,11,5,- 2 %,-2.0,- U n i t e d K i n g d o m a n d E g y p t,%,words
+28,1,11,6,1 1 9 . 7,119.7,- U n i t e d K i n g d o m a n d E g y p t,R M ' M i l,words
+28,1,11,7,1 2 5 . 7,125.7,- U n i t e d K i n g d o m a n d E g y p t,R M ' M i l,words
+28,1,11,8,- 6 . 0,-6.0,- U n i t e d K i n g d o m a n d E g y p t,R M ' M i l,words
+28,1,11,9,- 5 %,-5.0,- U n i t e d K i n g d o m a n d E g y p t,%,words
+28,1,12,1,- U n i t e d S t a t e s o f A m e r i c a a n d B a h a m a s,,,,words
+28,1,12,2,2 1 6 . 6,216.6,- U n i t e d S t a t e s o f A m e r i c a a n d B a h a m a s,R M ' M i l,words
+28,1,12,3,1 1 8 . 4,118.4,- U n i t e d S t a t e s o f A m e r i c a a n d B a h a m a s,R M ' M i l,words
+28,1,12,4,9 8 . 2,98.2,- U n i t e d S t a t e s o f A m e r i c a a n d B a h a m a s,R M ' M i l,words
+28,1,12,5,8 3 %,83.0,- U n i t e d S t a t e s o f A m e r i c a a n d B a h a m a s,%,words
+28,1,12,6,2 9 7 . 1,297.1,- U n i t e d S t a t e s o f A m e r i c a a n d B a h a m a s,R M ' M i l,words
+28,1,12,7,2 3 7 . 4,237.4,- U n i t e d S t a t e s o f A m e r i c a a n d B a h a m a s,R M ' M i l,words
+28,1,12,8,5 9 . 7,59.7,- U n i t e d S t a t e s o f A m e r i c a a n d B a h a m a s,R M ' M i l,words
+28,1,12,9,2 5 %,25.0,- U n i t e d S t a t e s o f A m e r i c a a n d B a h a m a s,%,words
+28,1,13,1,9 0 0 . 4,900.4,L e i s u r e & H o s p i t a l i t y,R M ' M i l,words
+28,1,13,2,7 9 4 . 9,794.9,L e i s u r e & H o s p i t a l i t y,R M ' M i l,words
+28,1,13,3,1 0 5 . 5,105.5,L e i s u r e & H o s p i t a l i t y,R M ' M i l,words
+28,1,13,4,1 3 %,13.0,L e i s u r e & H o s p i t a l i t y,%,words
+28,1,13,5,"1 , 5 4 3 . 9",1543.9,L e i s u r e & H o s p i t a l i t y,R M ' M i l,words
+28,1,13,6,"1 , 4 8 7 . 6",1487.6,L e i s u r e & H o s p i t a l i t y,R M ' M i l,words
+28,1,13,7,5 6 . 3,56.3,L e i s u r e & H o s p i t a l i t y,R M ' M i l,words
+28,1,13,8,4 %,4.0,L e i s u r e & H o s p i t a l i t y,%,words
+28,1,14,1,P r o p e r t y,,,,words
+28,1,14,2,( 1 . 3 ),-1.3,P r o p e r t y,R M ' M i l,words
+28,1,14,3,4 . 5,4.5,P r o p e r t y,R M ' M i l,words
+28,1,14,4,- 5 . 8,-5.8,P r o p e r t y,R M ' M i l,words
+28,1,14,5,- > 1 0 0 %,,,,words
+28,1,14,6,7 . 7,7.7,P r o p e r t y,R M ' M i l,words
+28,1,14,7,1 1 . 4,11.4,P r o p e r t y,R M ' M i l,words
+28,1,14,8,- 3 . 7,-3.7,P r o p e r t y,R M ' M i l,words
+28,1,14,9,- 3 2 %,-32.0,P r o p e r t y,%,words
+28,1,15,1,I n v e s t m e n t s & o t h e r s,,,,words
+28,1,15,2,( 5 5 . 1 ),-55.1,I n v e s t m e n t s & o t h e r s,R M ' M i l,words
+28,1,15,3,2 3 0 . 2,230.2,I n v e s t m e n t s & o t h e r s,R M ' M i l,words
+28,1,15,4,- 2 8 5 . 3,-285.3,I n v e s t m e n t s & o t h e r s,R M ' M i l,words
+28,1,15,5,- > 1 0 0 %,,,,words
+28,1,15,6,( 6 2 . 9 ),-62.9,I n v e s t m e n t s & o t h e r s,R M ' M i l,words
+28,1,15,7,2 6 7 . 8,267.8,I n v e s t m e n t s & o t h e r s,R M ' M i l,words
+28,1,15,8,- 3 3 0 . 7,-330.7,I n v e s t m e n t s & o t h e r s,R M ' M i l,words
+28,1,15,9,- > 1 0 0 %,,,,words
+28,1,16,1,A d j u s t e d E B I T D A,,,,words
+28,1,16,2,8 4 4 . 0,844.0,A d j u s t e d E B I T D A,R M ' M i l,words
+28,1,16,3,"1 , 0 2 9 . 6",1029.6,A d j u s t e d E B I T D A,R M ' M i l,words
+28,1,16,4,- 1 8 5 . 6,-185.6,A d j u s t e d E B I T D A,R M ' M i l,words
+28,1,16,5,- 1 8 %,-18.0,A d j u s t e d E B I T D A,%,words
+28,1,16,6,"1 , 4 8 8 . 7",1488.7,A d j u s t e d E B I T D A,R M ' M i l,words
+28,1,16,7,"1 , 7 6 6 . 8",1766.8,A d j u s t e d E B I T D A,R M ' M i l,words
+28,1,16,8,- 2 7 8 . 1,-278.1,A d j u s t e d E B I T D A,R M ' M i l,words
+28,1,16,9,- 1 6 %,-16.0,A d j u s t e d E B I T D A,%,words
+28,1,17,1,P r e - o p e r a t i n g e x p e n s e s,,,,words
+28,1,17,2,( 6 7 . 0 ),-67.0,P r e - o p e r a t i n g e x p e n s e s,R M ' M i l,words
+28,1,17,3,( 3 1 . 2 ),-31.2,P r e - o p e r a t i n g e x p e n s e s,R M ' M i l,words
+28,1,17,4,- 3 5 . 8,-35.8,P r e - o p e r a t i n g e x p e n s e s,R M ' M i l,words
+28,1,17,5,- > 1 0 0 %,,,,words
+28,1,17,6,( 9 3 . 8 ),-93.8,P r e - o p e r a t i n g e x p e n s e s,R M ' M i l,words
+28,1,17,7,( 6 0 . 2 ),-60.2,P r e - o p e r a t i n g e x p e n s e s,R M ' M i l,words
+28,1,17,8,- 3 3 . 6,-33.6,P r e - o p e r a t i n g e x p e n s e s,R M ' M i l,words
+28,1,17,9,- 5 6 %,-56.0,P r e - o p e r a t i n g e x p e n s e s,%,words
+28,1,18,1,"P r o p e r t y , p l a n t a n d e q u i p m e n t",,,,words
+28,1,19,1,w r i t t e n o f f,,,,words
+28,1,19,2,( 4 . 5 ),-4.5,w r i t t e n o f f,R M ' M i l,words
+28,1,19,3,( 2 2 . 5 ),-22.5,w r i t t e n o f f,R M ' M i l,words
+28,1,19,4,1 8 . 0,18.0,w r i t t e n o f f,R M ' M i l,words
+28,1,19,5,8 0 %,80.0,w r i t t e n o f f,%,words
+28,1,19,6,( 5 . 2 ),-5.2,w r i t t e n o f f,R M ' M i l,words
+28,1,19,7,( 2 2 . 6 ),-22.6,w r i t t e n o f f,R M ' M i l,words
+28,1,19,8,1 7 . 4,17.4,w r i t t e n o f f,R M ' M i l,words
+28,1,19,9,7 7 %,77.0,w r i t t e n o f f,%,words
+28,1,20,1,R e d u n d a n c y c o s t s,,,,words
+28,1,20,2,( 0 . 7 ),-0.7,R e d u n d a n c y c o s t s,R M ' M i l,words
+28,1,20,3,( 2 5 . 5 ),-25.5,R e d u n d a n c y c o s t s,R M ' M i l,words
+28,1,20,4,2 4 . 8,24.8,R e d u n d a n c y c o s t s,R M ' M i l,words
+28,1,20,5,9 7 %,97.0,R e d u n d a n c y c o s t s,%,words
+28,1,20,6,( 2 . 1 ),-2.1,R e d u n d a n c y c o s t s,R M ' M i l,words
+28,1,20,7,( 2 9 . 1 ),-29.1,R e d u n d a n c y c o s t s,R M ' M i l,words
+28,1,20,8,2 7 . 0,27.0,R e d u n d a n c y c o s t s,R M ' M i l,words
+28,1,20,9,9 3 %,93.0,R e d u n d a n c y c o s t s,%,words
+28,1,21,1,L o s s o n l i q u i d a t i o n o f a s u b s i d i a r y,,,,words
+28,1,21,2,( 1 . 4 ),-1.4,L o s s o n l i q u i d a t i o n o f a s u b s i d i a r y,R M ' M i l,words
+28,1,21,3,-,,,,words
+28,1,21,4,- 1 . 4,-1.4,L o s s o n l i q u i d a t i o n o f a s u b s i d i a r y,R M ' M i l,words
+28,1,21,5,N C,,,,words
+28,1,21,6,( 1 . 4 ),-1.4,L o s s o n l i q u i d a t i o n o f a s u b s i d i a r y,R M ' M i l,words
+28,1,21,7,-,,,,words
+28,1,21,8,- 1 . 4,-1.4,L o s s o n l i q u i d a t i o n o f a s u b s i d i a r y,R M ' M i l,words
+28,1,21,9,N C,,,,words
+28,1,22,1,N e t l o s s o n r e m e a s u r e m e n t o f p r e v i o u s l y h e l d,,,,words
+28,1,23,1,e q u i t y i n t e r e s t i n a s s o c i a t e s t o f a i r v a l u e,,,,words
+28,1,23,2,-,,,,words
+28,1,23,3,( 1 3 . 3 ),-13.3,e q u i t y i n t e r e s t i n a s s o c i a t e s t o f a i r v a l u e -,R M ' M i l,words
+28,1,23,4,1 3 . 3,13.3,e q u i t y i n t e r e s t i n a s s o c i a t e s t o f a i r v a l u e -,R M ' M i l,words
+28,1,23,5,1 0 0 %,100.0,e q u i t y i n t e r e s t i n a s s o c i a t e s t o f a i r v a l u e -,%,words
+28,1,23,6,-,,,,words
+28,1,23,7,( 1 3 . 3 ),-13.3,e q u i t y i n t e r e s t i n a s s o c i a t e s t o f a i r v a l u e -,R M ' M i l,words
+28,1,23,8,1 3 . 3,13.3,e q u i t y i n t e r e s t i n a s s o c i a t e s t o f a i r v a l u e -,R M ' M i l,words
+28,1,23,9,1 0 0 %,100.0,e q u i t y i n t e r e s t i n a s s o c i a t e s t o f a i r v a l u e -,%,words
+28,1,24,1,G a i n o n d i s p o s a l o f a s s e t h e l d f o r s a l e,,,,words
+28,1,24,2,-,,,,words
+28,1,24,3,7 7 . 1,77.1,G a i n o n d i s p o s a l o f a s s e t h e l d f o r s a l e -,R M ' M i l,words
+28,1,24,4,- 7 7 . 1,-77.1,G a i n o n d i s p o s a l o f a s s e t h e l d f o r s a l e -,R M ' M i l,words
+28,1,24,5,- 1 0 0 %,-100.0,G a i n o n d i s p o s a l o f a s s e t h e l d f o r s a l e -,%,words
+28,1,24,6,-,,,,words
+28,1,24,7,7 7 . 1,77.1,G a i n o n d i s p o s a l o f a s s e t h e l d f o r s a l e -,R M ' M i l,words
+28,1,24,8,- 7 7 . 1,-77.1,G a i n o n d i s p o s a l o f a s s e t h e l d f o r s a l e -,R M ' M i l,words
+28,1,24,9,- 1 0 0 %,-100.0,G a i n o n d i s p o s a l o f a s s e t h e l d f o r s a l e -,%,words
+28,1,25,1,O t h e r s,,,,words
+28,1,25,2,( 2 . 7 ),-2.7,O t h e r s,R M ' M i l,words
+28,1,25,3,( 1 . 0 ),-1.0,O t h e r s,R M ' M i l,words
+28,1,25,4,- 1 . 7,-1.7,O t h e r s,R M ' M i l,words
+28,1,25,5,- > 1 0 0 %,,,,words
+28,1,25,6,( 2 . 0 ),-2.0,O t h e r s,R M ' M i l,words
+28,1,25,7,( 0 . 4 ),-0.4,O t h e r s,R M ' M i l,words
+28,1,25,8,- 1 . 6,-1.6,O t h e r s,R M ' M i l,words
+28,1,25,9,- > 1 0 0 %,,,,words
+28,1,26,1,E B I T D A,,,,words
+28,1,26,2,7 6 7 . 7,767.7,E B I T D A,R M ' M i l,words
+28,1,26,3,"1 , 0 1 3 . 2",1013.2,E B I T D A,R M ' M i l,words
+28,1,26,4,- 2 4 5 . 5,-245.5,E B I T D A,R M ' M i l,words
+28,1,26,5,- 2 4 %,-24.0,E B I T D A,%,words
+28,1,26,6,"1 , 3 8 4 . 2",1384.2,E B I T D A,R M ' M i l,words
+28,1,26,7,"1 , 7 1 8 . 3",1718.3,E B I T D A,R M ' M i l,words
+28,1,26,8,- 3 3 4 . 1,-334.1,E B I T D A,R M ' M i l,words
+28,1,26,9,- 1 9 %,-19.0,E B I T D A,%,words
+28,1,27,1,D e p r e c i a t i o n a n d a m o r t i s a t i o n,,,,words
+28,1,27,2,( 3 5 0 . 0 ),-350.0,D e p r e c i a t i o n a n d a m o r t i s a t i o n,R M ' M i l,words
+28,1,27,3,( 3 1 3 . 5 ),-313.5,D e p r e c i a t i o n a n d a m o r t i s a t i o n,R M ' M i l,words
+28,1,27,4,- 3 6 . 5,-36.5,D e p r e c i a t i o n a n d a m o r t i s a t i o n,R M ' M i l,words
+28,1,27,5,- 1 2 %,-12.0,D e p r e c i a t i o n a n d a m o r t i s a t i o n,%,words
+28,1,27,6,( 6 8 7 . 9 ),-687.9,D e p r e c i a t i o n a n d a m o r t i s a t i o n,R M ' M i l,words
+28,1,27,7,( 6 0 9 . 3 ),-609.3,D e p r e c i a t i o n a n d a m o r t i s a t i o n,R M ' M i l,words
+28,1,27,8,- 7 8 . 6,-78.6,D e p r e c i a t i o n a n d a m o r t i s a t i o n,R M ' M i l,words
+28,1,27,9,- 1 3 %,-13.0,D e p r e c i a t i o n a n d a m o r t i s a t i o n,%,words
+28,1,28,1,I n t e r e s t i n c o m e,,,,words
+28,1,28,2,1 2 . 5,12.5,I n t e r e s t i n c o m e,R M ' M i l,words
+28,1,28,3,4 1 . 8,41.8,I n t e r e s t i n c o m e,R M ' M i l,words
+28,1,28,4,- 2 9 . 3,-29.3,I n t e r e s t i n c o m e,R M ' M i l,words
+28,1,28,5,- 7 0 %,-70.0,I n t e r e s t i n c o m e,%,words
+28,1,28,6,2 5 . 8,25.8,I n t e r e s t i n c o m e,R M ' M i l,words
+28,1,28,7,6 8 . 3,68.3,I n t e r e s t i n c o m e,R M ' M i l,words
+28,1,28,8,- 4 2 . 5,-42.5,I n t e r e s t i n c o m e,R M ' M i l,words
+28,1,28,9,- 6 2 %,-62.0,I n t e r e s t i n c o m e,%,words
+28,1,29,1,F i n a n c e c o s t s,,,,words
+28,1,29,2,( 2 8 1 . 0 ),-281.0,F i n a n c e c o s t s,R M ' M i l,words
+28,1,29,3,( 1 9 6 . 0 ),-196.0,F i n a n c e c o s t s,R M ' M i l,words
+28,1,29,4,- 8 5 . 0,-85.0,F i n a n c e c o s t s,R M ' M i l,words
+28,1,29,5,- 4 3 %,-43.0,F i n a n c e c o s t s,%,words
+28,1,29,6,( 5 2 7 . 7 ),-527.7,F i n a n c e c o s t s,R M ' M i l,words
+28,1,29,7,( 3 8 0 . 2 ),-380.2,F i n a n c e c o s t s,R M ' M i l,words
+28,1,29,8,- 1 4 7 . 5,-147.5,F i n a n c e c o s t s,R M ' M i l,words
+28,1,29,9,- 3 9 %,-39.0,F i n a n c e c o s t s,%,words
+28,1,30,1,S h a r e o f r e s u l t s i n a s s o c i a t e s a n d a j o i n t v e n t u r e,,,,words
+28,1,30,2,( 5 . 4 ),-5.4,S h a r e o f r e s u l t s i n a s s o c i a t e s a n d a j o i n t v e n t u r e,R M ' M i l,words
+28,1,30,3,( 4 2 . 2 ),-42.2,S h a r e o f r e s u l t s i n a s s o c i a t e s a n d a j o i n t v e n t u r e,R M ' M i l,words
+28,1,30,4,3 6 . 8,36.8,S h a r e o f r e s u l t s i n a s s o c i a t e s a n d a j o i n t v e n t u r e,R M ' M i l,words
+28,1,30,5,8 7 %,87.0,S h a r e o f r e s u l t s i n a s s o c i a t e s a n d a j o i n t v e n t u r e,%,words
+28,1,30,6,( 7 . 5 ),-7.5,S h a r e o f r e s u l t s i n a s s o c i a t e s a n d a j o i n t v e n t u r e,R M ' M i l,words
+28,1,30,7,( 1 0 9 . 8 ),-109.8,S h a r e o f r e s u l t s i n a s s o c i a t e s a n d a j o i n t v e n t u r e,R M ' M i l,words
+28,1,30,8,1 0 2 . 3,102.3,S h a r e o f r e s u l t s i n a s s o c i a t e s a n d a j o i n t v e n t u r e,R M ' M i l,words
+28,1,30,9,9 3 %,93.0,S h a r e o f r e s u l t s i n a s s o c i a t e s a n d a j o i n t v e n t u r e,%,words
+28,1,31,1,P r o f i t b e f o r e t a x a t i o n,,,,words
+28,1,31,2,1 4 3 . 8,143.8,P r o f i t b e f o r e t a x a t i o n,R M ' M i l,words
+28,1,31,3,5 0 3 . 3,503.3,P r o f i t b e f o r e t a x a t i o n,R M ' M i l,words
+28,1,31,4,- 3 5 9 . 5,-359.5,P r o f i t b e f o r e t a x a t i o n,R M ' M i l,words
+28,1,31,5,- 7 1 %,-71.0,P r o f i t b e f o r e t a x a t i o n,%,words
+28,1,31,6,1 8 6 . 9,186.9,P r o f i t b e f o r e t a x a t i o n,R M ' M i l,words
+28,1,31,7,6 8 7 . 3,687.3,P r o f i t b e f o r e t a x a t i o n,R M ' M i l,words
+28,1,31,8,- 5 0 0 . 4,-500.4,P r o f i t b e f o r e t a x a t i o n,R M ' M i l,words
+28,1,31,9,- 7 3 %,-73.0,P r o f i t b e f o r e t a x a t i o n,%,words
+28,1,32,1,T a x a t i o n,,,,words
+28,1,32,2,( 1 1 6 . 8 ),-116.8,T a x a t i o n,R M ' M i l,words
+28,1,32,3,( 1 0 5 . 2 ),-105.2,T a x a t i o n,R M ' M i l,words
+28,1,32,4,- 1 1 . 6,-11.6,T a x a t i o n,R M ' M i l,words
+28,1,32,5,- 1 1 %,-11.0,T a x a t i o n,%,words
+28,1,32,6,( 1 8 5 . 1 ),-185.1,T a x a t i o n,R M ' M i l,words
+28,1,32,7,( 2 3 7 . 2 ),-237.2,T a x a t i o n,R M ' M i l,words
+28,1,32,8,5 2 . 1,52.1,T a x a t i o n,R M ' M i l,words
+28,1,32,9,2 2 %,22.0,T a x a t i o n,%,words
+28,1,33,1,P r o f i t f o r t h e f i n a n c i a l p e r i o d,,,,words
+28,1,33,2,2 7 . 0,27.0,P r o f i t f o r t h e f i n a n c i a l p e r i o d,R M ' M i l,words
+28,1,33,3,3 9 8 . 1,398.1,P r o f i t f o r t h e f i n a n c i a l p e r i o d,R M ' M i l,words
+28,1,33,4,- 3 7 1 . 1,-371.1,P r o f i t f o r t h e f i n a n c i a l p e r i o d,R M ' M i l,words
+28,1,33,5,- 9 3 %,-93.0,P r o f i t f o r t h e f i n a n c i a l p e r i o d,%,words
+28,1,33,6,1 . 8,1.8,P r o f i t f o r t h e f i n a n c i a l p e r i o d,R M ' M i l,words
+28,1,33,7,4 5 0 . 1,450.1,P r o f i t f o r t h e f i n a n c i a l p e r i o d,R M ' M i l,words
+28,1,33,8,- 4 4 8 . 3,-448.3,P r o f i t f o r t h e f i n a n c i a l p e r i o d,R M ' M i l,words
+28,1,33,9,- 1 0 0 %,-100.0,P r o f i t f o r t h e f i n a n c i a l p e r i o d,%,words
+28,1,34,1,B a s i c e a r n i n g s p e r s h a r e ( s e n ),,,,words
+28,1,34,2,0 . 8 4,0.84,B a s i c e a r n i n g s p e r s h a r e ( s e n ),R M ' M i l,words
+28,1,34,3,7 . 3 5,7.35,B a s i c e a r n i n g s p e r s h a r e ( s e n ),R M ' M i l,words
+28,1,34,4,- 6 . 5,-6.5,B a s i c e a r n i n g s p e r s h a r e ( s e n ),R M ' M i l,words
+28,1,34,5,- 8 9 %,-89.0,B a s i c e a r n i n g s p e r s h a r e ( s e n ),%,words
+28,1,34,6,0 . 7 7,0.77,B a s i c e a r n i n g s p e r s h a r e ( s e n ),R M ' M i l,words
+28,1,34,7,8 . 6 3,8.63,B a s i c e a r n i n g s p e r s h a r e ( s e n ),R M ' M i l,words
+28,1,34,8,- 7 . 9,-7.9,B a s i c e a r n i n g s p e r s h a r e ( s e n ),R M ' M i l,words
+28,1,34,9,- 9 1 %,-91.0,B a s i c e a r n i n g s p e r s h a r e ( s e n ),%,words
+28,1,35,1,D i l u t e d e a r n i n g s p e r s h a r e ( s e n ),,,,words
+28,1,35,2,0 . 8 4,0.84,D i l u t e d e a r n i n g s p e r s h a r e ( s e n ),R M ' M i l,words
+28,1,35,3,7 . 3 5,7.35,D i l u t e d e a r n i n g s p e r s h a r e ( s e n ),R M ' M i l,words
+28,1,35,4,- 6 . 5,-6.5,D i l u t e d e a r n i n g s p e r s h a r e ( s e n ),R M ' M i l,words
+28,1,35,5,- 8 9 %,-89.0,D i l u t e d e a r n i n g s p e r s h a r e ( s e n ),%,words
+28,1,35,6,0 . 7 7,0.77,D i l u t e d e a r n i n g s p e r s h a r e ( s e n ),R M ' M i l,words
+28,1,35,7,8 . 6 3,8.63,D i l u t e d e a r n i n g s p e r s h a r e ( s e n ),R M ' M i l,words
+28,1,35,8,- 7 . 9,-7.9,D i l u t e d e a r n i n g s p e r s h a r e ( s e n ),R M ' M i l,words
+28,1,35,9,- 9 1 %,-91.0,D i l u t e d e a r n i n g s p e r s h a r e ( s e n ),%,words

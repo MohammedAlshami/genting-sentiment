@@ -1,0 +1,44 @@
+{
+ "income_statement": [
+  3,
+  13
+ ],
+ "financial_position": [
+  5
+ ],
+ "cash_flow": [
+  8
+ ],
+ "changes_in_equity": [
+  6,
+  7
+ ],
+ "segment": [
+  11,
+  12,
+  13
+ ],
+ "borrowings": [
+  5,
+  8,
+  23,
+  24
+ ],
+ "dividends": [
+  5,
+  6,
+  7,
+  8,
+  11,
+  26,
+  30
+ ],
+ "major_shareholders": [],
+ "directors": [
+  27
+ ],
+ "related_party": [
+  16
+ ],
+ "five_year": []
+}

@@ -1,0 +1,1181 @@
+page,table_index,row,col,value_text,value_number,row_label,col_label,strategy
+1,1,1,1,Revenue,,,,words
+1,1,1,2,"4,421,054",4421054.0,Revenue,Current / Year / Quarter / 31/03/2012 / RM’000,words
+1,1,1,3,"4,889,158",4889158.0,Revenue,Year / Corresponding / Quarter / 31/03/2011 / RM’000,words
+1,1,1,4,"4,421,054",4421054.0,Revenue,Current / Year / To-Date / 31/03/2012 / RM’000,words
+1,1,1,5,"4,889,158",4889158.0,Revenue,Year / Corresponding / Period / 31/03/2011 / RM’000,words
+1,1,2,1,Cost of sales,,,,words
+1,1,2,2,"(2,668,471)",-2668471.0,Cost of sales,Current / Year / Quarter / 31/03/2012 / RM’000,words
+1,1,2,3,"(2,615,822)",-2615822.0,Cost of sales,Year / Corresponding / Quarter / 31/03/2011 / RM’000,words
+1,1,2,4,"(2,668,471)",-2668471.0,Cost of sales,Current / Year / To-Date / 31/03/2012 / RM’000,words
+1,1,2,5,"(2,615,822)",-2615822.0,Cost of sales,Year / Corresponding / Period / 31/03/2011 / RM’000,words
+1,1,3,1,Gross profit,,,,words
+1,1,3,2,"1,752,583",1752583.0,Gross profit,Current / Year / Quarter / 31/03/2012 / RM’000,words
+1,1,3,3,"2,273,336",2273336.0,Gross profit,Year / Corresponding / Quarter / 31/03/2011 / RM’000,words
+1,1,3,4,"1,752,583",1752583.0,Gross profit,Current / Year / To-Date / 31/03/2012 / RM’000,words
+1,1,3,5,"2,273,336",2273336.0,Gross profit,Year / Corresponding / Period / 31/03/2011 / RM’000,words
+1,1,4,1,Other income,,,,words
+1,1,5,1,-,,,,words
+1,1,5,2,gain on disposal of subsidiaries,,,,words
+1,1,5,3,"174,298",174298.0,- gain on disposal of subsidiaries,Current / Year / Quarter / 31/03/2012 / RM’000,words
+1,1,5,4,-,,,,words
+1,1,5,5,"174,298",174298.0,- gain on disposal of subsidiaries,Current / Year / To-Date / 31/03/2012 / RM’000,words
+1,1,5,6,-,,,,words
+1,1,6,1,-,,,,words
+1,1,6,2,others,,,,words
+1,1,6,3,"126,970",126970.0,- others,Current / Year / Quarter / 31/03/2012 / RM’000,words
+1,1,6,4,"137,948",137948.0,- others,Year / Corresponding / Quarter / 31/03/2011 / RM’000,words
+1,1,6,5,"126,970",126970.0,- others,Current / Year / To-Date / 31/03/2012 / RM’000,words
+1,1,6,6,"137,948",137948.0,- others,Year / Corresponding / Period / 31/03/2011 / RM’000,words
+1,1,7,1,Net fair value (loss)/gain on derivative,,,,words
+1,1,8,1,financial instruments,,,,words
+1,1,8,2,"(15,246)",-15246.0,financial instruments,Current / Year / Quarter / 31/03/2012 / RM’000,words
+1,1,8,3,"2,743",2743.0,financial instruments,Year / Corresponding / Quarter / 31/03/2011 / RM’000,words
+1,1,8,4,"(15,246)",-15246.0,financial instruments,Current / Year / To-Date / 31/03/2012 / RM’000,words
+1,1,8,5,"2,743",2743.0,financial instruments,Year / Corresponding / Period / 31/03/2011 / RM’000,words
+1,1,9,1,Impairment losses,,,,words
+1,1,9,2,"(2,822)",-2822.0,Impairment losses,Current / Year / Quarter / 31/03/2012 / RM’000,words
+1,1,9,3,"(3,863)",-3863.0,Impairment losses,Year / Corresponding / Quarter / 31/03/2011 / RM’000,words
+1,1,9,4,"(2,822)",-2822.0,Impairment losses,Current / Year / To-Date / 31/03/2012 / RM’000,words
+1,1,9,5,"(3,863)",-3863.0,Impairment losses,Year / Corresponding / Period / 31/03/2011 / RM’000,words
+1,1,10,1,Other expenses,,,,words
+1,1,10,2,"(473,296)",-473296.0,Other expenses,Current / Year / Quarter / 31/03/2012 / RM’000,words
+1,1,10,3,"(371,421)",-371421.0,Other expenses,Year / Corresponding / Quarter / 31/03/2011 / RM’000,words
+1,1,10,4,"(473,296)",-473296.0,Other expenses,Current / Year / To-Date / 31/03/2012 / RM’000,words
+1,1,10,5,"(371,421)",-371421.0,Other expenses,Year / Corresponding / Period / 31/03/2011 / RM’000,words
+1,1,11,1,Finance cost,,,,words
+1,1,11,2,"(111,443)",-111443.0,Finance cost,Current / Year / Quarter / 31/03/2012 / RM’000,words
+1,1,11,3,"(148,952)",-148952.0,Finance cost,Year / Corresponding / Quarter / 31/03/2011 / RM’000,words
+1,1,11,4,"(111,443)",-111443.0,Finance cost,Current / Year / To-Date / 31/03/2012 / RM’000,words
+1,1,11,5,"(148,952)",-148952.0,Finance cost,Year / Corresponding / Period / 31/03/2011 / RM’000,words
+1,1,12,1,Share of results in jointly,,,,words
+1,1,13,1,controlled entities and associates,,,,words
+1,1,13,2,"5,896",5896.0,controlled entities and associates,Current / Year / Quarter / 31/03/2012 / RM’000,words
+1,1,13,3,858,858.0,controlled entities and associates,Year / Corresponding / Quarter / 31/03/2011 / RM’000,words
+1,1,13,4,"5,896",5896.0,controlled entities and associates,Current / Year / To-Date / 31/03/2012 / RM’000,words
+1,1,13,5,858,858.0,controlled entities and associates,Year / Corresponding / Period / 31/03/2011 / RM’000,words
+1,1,14,1,Profit before taxation,,,,words
+1,1,14,2,"1,456,940",1456940.0,Profit before taxation,Current / Year / Quarter / 31/03/2012 / RM’000,words
+1,1,14,3,"1,890,649",1890649.0,Profit before taxation,Year / Corresponding / Quarter / 31/03/2011 / RM’000,words
+1,1,14,4,"1,456,940",1456940.0,Profit before taxation,Current / Year / To-Date / 31/03/2012 / RM’000,words
+1,1,14,5,"1,890,649",1890649.0,Profit before taxation,Year / Corresponding / Period / 31/03/2011 / RM’000,words
+1,1,15,1,Taxation,,,,words
+1,1,15,2,"(313,437)",-313437.0,Taxation,Current / Year / Quarter / 31/03/2012 / RM’000,words
+1,1,15,3,"(444,599)",-444599.0,Taxation,Year / Corresponding / Quarter / 31/03/2011 / RM’000,words
+1,1,15,4,"(313,437)",-313437.0,Taxation,Current / Year / To-Date / 31/03/2012 / RM’000,words
+1,1,15,5,"(444,599)",-444599.0,Taxation,Year / Corresponding / Period / 31/03/2011 / RM’000,words
+1,1,16,1,Profit for the period,,,,words
+1,1,16,2,"1,143,503",1143503.0,Profit for the period,Current / Year / Quarter / 31/03/2012 / RM’000,words
+1,1,16,3,"1,446,050",1446050.0,Profit for the period,Year / Corresponding / Quarter / 31/03/2011 / RM’000,words
+1,1,16,4,"1,143,503",1143503.0,Profit for the period,Current / Year / To-Date / 31/03/2012 / RM’000,words
+1,1,16,5,"1,446,050",1446050.0,Profit for the period,Year / Corresponding / Period / 31/03/2011 / RM’000,words
+1,1,17,1,Profit attributable to:,,,,words
+1,1,18,1,Equity holders of the Company,,,,words
+1,1,18,2,"693,633",693633.0,Equity holders of the Company,Current / Year / Quarter / 31/03/2012 / RM’000,words
+1,1,18,3,"824,176",824176.0,Equity holders of the Company,Year / Corresponding / Quarter / 31/03/2011 / RM’000,words
+1,1,18,4,"693,633",693633.0,Equity holders of the Company,Current / Year / To-Date / 31/03/2012 / RM’000,words
+1,1,18,5,"824,176",824176.0,Equity holders of the Company,Year / Corresponding / Period / 31/03/2011 / RM’000,words
+1,1,19,1,Holders of perpetual capital securities,,,,words
+1,1,20,1,of a subsidiary,,,,words
+1,1,20,2,"12,327",12327.0,of a subsidiary,Current / Year / Quarter / 31/03/2012 / RM’000,words
+1,1,20,3,-,,,,words
+1,1,20,4,"12,327",12327.0,of a subsidiary,Current / Year / To-Date / 31/03/2012 / RM’000,words
+1,1,20,5,-,,,,words
+1,1,21,1,Non-controlling interests,,,,words
+1,1,21,2,"437,543",437543.0,Non-controlling interests,Current / Year / Quarter / 31/03/2012 / RM’000,words
+1,1,21,3,"621,874",621874.0,Non-controlling interests,Year / Corresponding / Quarter / 31/03/2011 / RM’000,words
+1,1,21,4,"437,543",437543.0,Non-controlling interests,Current / Year / To-Date / 31/03/2012 / RM’000,words
+1,1,21,5,"621,874",621874.0,Non-controlling interests,Year / Corresponding / Period / 31/03/2011 / RM’000,words
+1,1,22,1,"1,143,503",1143503.0,Holders of perpetual capital securities,Current / Year / Quarter / 31/03/2012 / RM’000,words
+1,1,22,2,"1,446,050",1446050.0,Holders of perpetual capital securities,Year / Corresponding / Quarter / 31/03/2011 / RM’000,words
+1,1,22,3,"1,143,503",1143503.0,Holders of perpetual capital securities,Current / Year / To-Date / 31/03/2012 / RM’000,words
+1,1,22,4,"1,446,050",1446050.0,Holders of perpetual capital securities,Year / Corresponding / Period / 31/03/2011 / RM’000,words
+1,1,23,1,Earnings per share (sen) for profit,,,,words
+1,1,24,1,attributable to equity holders of the,,,,words
+1,1,25,1,Company:,,,,words
+1,1,26,1,-,,,,words
+1,1,26,2,Basic,,,,words
+1,1,26,3,18.79,18.79,- Basic,Current / Year / Quarter / 31/03/2012 / RM’000,words
+1,1,26,4,22.25,22.25,- Basic,Year / Corresponding / Quarter / 31/03/2011 / RM’000,words
+1,1,26,5,18.79,18.79,- Basic,Current / Year / To-Date / 31/03/2012 / RM’000,words
+1,1,26,6,22.25,22.25,- Basic,Year / Corresponding / Period / 31/03/2011 / RM’000,words
+1,1,27,1,-,,,,words
+1,1,27,2,Diluted,,,,words
+1,1,27,3,18.73,18.73,- Diluted,Current / Year / Quarter / 31/03/2012 / RM’000,words
+1,1,27,4,22.14,22.14,- Diluted,Year / Corresponding / Quarter / 31/03/2011 / RM’000,words
+1,1,27,5,18.73,18.73,- Diluted,Current / Year / To-Date / 31/03/2012 / RM’000,words
+1,1,27,6,22.14,22.14,- Diluted,Year / Corresponding / Period / 31/03/2011 / RM’000,words
+2,1,1,1,Profit for the period,,,,words
+2,1,1,2,"1,143,503",1143503.0,Profit for the period,Year / Quarter / 31/03/2012 / RM’000,words
+2,1,1,3,"1,446,050",1446050.0,Profit for the period,Corresponding / Quarter / 31/03/2011 / RM’000,words
+2,1,1,4,"1,143,503",1143503.0,Profit for the period,Year / To-Date / 31/03/2012 / RM’000,words
+2,1,1,5,"1,446,050",1446050.0,Profit for the period,Corresponding / Period / 31/03/2011 / RM’000,words
+2,1,2,1,Other comprehensive income/(loss):,,,,words
+2,1,3,1,Cash flow hedges,,,,words
+2,1,4,1,-,,,,words
+2,1,4,2,Fair value loss,,,,words
+2,1,4,3,"(5,255)",-5255.0,- Fair value loss,Year / Quarter / 31/03/2012 / RM’000,words
+2,1,4,4,(428),-428.0,- Fair value loss,Corresponding / Quarter / 31/03/2011 / RM’000,words
+2,1,4,5,"(5,255)",-5255.0,- Fair value loss,Year / To-Date / 31/03/2012 / RM’000,words
+2,1,4,6,(428),-428.0,- Fair value loss,Corresponding / Period / 31/03/2011 / RM’000,words
+2,1,5,1,-,,,,words
+2,1,5,2,Reclassifications,,,,words
+2,1,5,3,"1,210",1210.0,- Reclassifications,Year / Quarter / 31/03/2012 / RM’000,words
+2,1,5,4,"25,265",25265.0,- Reclassifications,Corresponding / Quarter / 31/03/2011 / RM’000,words
+2,1,5,5,"1,210",1210.0,- Reclassifications,Year / To-Date / 31/03/2012 / RM’000,words
+2,1,5,6,"25,265",25265.0,- Reclassifications,Corresponding / Period / 31/03/2011 / RM’000,words
+2,1,6,1,Available-for-sale financial assets,,,,words
+2,1,7,1,-,,,,words
+2,1,7,2,Fair value gain/(loss),,,,words
+2,1,7,3,"660,305",660305.0,- Fair value gain/(loss),Year / Quarter / 31/03/2012 / RM’000,words
+2,1,7,4,"(65,180)",-65180.0,- Fair value gain/(loss),Corresponding / Quarter / 31/03/2011 / RM’000,words
+2,1,7,5,"660,305",660305.0,- Fair value gain/(loss),Year / To-Date / 31/03/2012 / RM’000,words
+2,1,7,6,"(65,180)",-65180.0,- Fair value gain/(loss),Corresponding / Period / 31/03/2011 / RM’000,words
+2,1,8,1,-,,,,words
+2,1,8,2,Reclassified to profit or loss upon,,,,words
+2,1,9,1,disposal,,,,words
+2,1,9,2,(673),-673.0,disposal,Year / Quarter / 31/03/2012 / RM’000,words
+2,1,9,3,-,,,,words
+2,1,9,4,(673),-673.0,disposal,Year / To-Date / 31/03/2012 / RM’000,words
+2,1,9,5,-,,,,words
+2,1,10,1,Share of other comprehensive loss,,,,words
+2,1,11,1,of jointly controlled entities and,,,,words
+2,1,12,1,associates,,,,words
+2,1,12,2,"(5,744)",-5744.0,associates,Year / Quarter / 31/03/2012 / RM’000,words
+2,1,12,3,(6),-6.0,associates,Corresponding / Quarter / 31/03/2011 / RM’000,words
+2,1,12,4,"(5,744)",-5744.0,associates,Year / To-Date / 31/03/2012 / RM’000,words
+2,1,12,5,(6),-6.0,associates,Corresponding / Period / 31/03/2011 / RM’000,words
+2,1,13,1,Net foreign currency exchange,,,,words
+2,1,14,1,differences,,,,words
+2,1,14,2,"(210,470)",-210470.0,differences,Year / Quarter / 31/03/2012 / RM’000,words
+2,1,14,3,"(142,404)",-142404.0,differences,Corresponding / Quarter / 31/03/2011 / RM’000,words
+2,1,14,4,"(210,470)",-210470.0,differences,Year / To-Date / 31/03/2012 / RM’000,words
+2,1,14,5,"(142,404)",-142404.0,differences,Corresponding / Period / 31/03/2011 / RM’000,words
+2,1,15,1,Other comprehensive income/(loss),,,,words
+2,1,16,1,"for the period, net of tax",,,,words
+2,1,16,2,"439,373",439373.0,"for the period, net of tax",Year / Quarter / 31/03/2012 / RM’000,words
+2,1,16,3,"(182,753)",-182753.0,"for the period, net of tax",Corresponding / Quarter / 31/03/2011 / RM’000,words
+2,1,16,4,"439,373",439373.0,"for the period, net of tax",Year / To-Date / 31/03/2012 / RM’000,words
+2,1,16,5,"(182,753)",-182753.0,"for the period, net of tax",Corresponding / Period / 31/03/2011 / RM’000,words
+2,1,17,1,Total comprehensive income for,,,,words
+2,1,18,1,the period,,,,words
+2,1,18,2,"1,582,876",1582876.0,the period,Year / Quarter / 31/03/2012 / RM’000,words
+2,1,18,3,"1,263,297",1263297.0,the period,Corresponding / Quarter / 31/03/2011 / RM’000,words
+2,1,18,4,"1,582,876",1582876.0,the period,Year / To-Date / 31/03/2012 / RM’000,words
+2,1,18,5,"1,263,297",1263297.0,the period,Corresponding / Period / 31/03/2011 / RM’000,words
+2,1,19,1,Total comprehensive income,,,,words
+2,1,20,1,attributable to:,,,,words
+2,1,21,1,Equity holders of the Company,,,,words
+2,1,21,2,"935,785",935785.0,Equity holders of the Company,Year / Quarter / 31/03/2012 / RM’000,words
+2,1,21,3,"752,876",752876.0,Equity holders of the Company,Corresponding / Quarter / 31/03/2011 / RM’000,words
+2,1,21,4,"935,785",935785.0,Equity holders of the Company,Year / To-Date / 31/03/2012 / RM’000,words
+2,1,21,5,"752,876",752876.0,Equity holders of the Company,Corresponding / Period / 31/03/2011 / RM’000,words
+2,1,22,1,Holders of perpetual capital securities,,,,words
+2,1,23,1,of a subsidiary,,,,words
+2,1,23,2,"12,327",12327.0,of a subsidiary,Year / Quarter / 31/03/2012 / RM’000,words
+2,1,23,3,-,,,,words
+2,1,23,4,"12,327",12327.0,of a subsidiary,Year / To-Date / 31/03/2012 / RM’000,words
+2,1,23,5,-,,,,words
+2,1,24,1,Non-controlling interests,,,,words
+2,1,24,2,"634,764",634764.0,Non-controlling interests,Year / Quarter / 31/03/2012 / RM’000,words
+2,1,24,3,"510,421",510421.0,Non-controlling interests,Corresponding / Quarter / 31/03/2011 / RM’000,words
+2,1,24,4,"634,764",634764.0,Non-controlling interests,Year / To-Date / 31/03/2012 / RM’000,words
+2,1,24,5,"510,421",510421.0,Non-controlling interests,Corresponding / Period / 31/03/2011 / RM’000,words
+2,1,25,1,"1,582,876",1582876.0,Holders of perpetual capital securities,Year / Quarter / 31/03/2012 / RM’000,words
+2,1,25,2,"1,263,297",1263297.0,Holders of perpetual capital securities,Corresponding / Quarter / 31/03/2011 / RM’000,words
+2,1,25,3,"1,582,876",1582876.0,Holders of perpetual capital securities,Year / To-Date / 31/03/2012 / RM’000,words
+2,1,25,4,"1,263,297",1263297.0,Holders of perpetual capital securities,Corresponding / Period / 31/03/2011 / RM’000,words
+3,1,1,1,"Property, plant and equipment",,,,words
+3,1,1,2,"22,124,455",22124455.0,"Property, plant and equipment",As At / 31 Mar 2012 / RM’000,words
+3,1,1,3,"21,629,650",21629650.0,"Property, plant and equipment",As At / 31 Dec 2011 / RM’000,words
+3,1,2,1,Land held for property development,,,,words
+3,1,2,2,"531,509",531509.0,Land held for property development,As At / 31 Mar 2012 / RM’000,words
+3,1,2,3,"539,738",539738.0,Land held for property development,As At / 31 Dec 2011 / RM’000,words
+3,1,3,1,Investment properties,,,,words
+3,1,3,2,"1,247,843",1247843.0,Investment properties,As At / 31 Mar 2012 / RM’000,words
+3,1,3,3,"1,306,094",1306094.0,Investment properties,As At / 31 Dec 2011 / RM’000,words
+3,1,4,1,Plantation development,,,,words
+3,1,4,2,"1,020,941",1020941.0,Plantation development,As At / 31 Mar 2012 / RM’000,words
+3,1,4,3,"1,007,644",1007644.0,Plantation development,As At / 31 Dec 2011 / RM’000,words
+3,1,5,1,Leasehold land use rights,,,,words
+3,1,5,2,"158,826",158826.0,Leasehold land use rights,As At / 31 Mar 2012 / RM’000,words
+3,1,5,3,"161,154",161154.0,Leasehold land use rights,As At / 31 Dec 2011 / RM’000,words
+3,1,6,1,Intangible assets,,,,words
+3,1,6,2,"6,379,031",6379031.0,Intangible assets,As At / 31 Mar 2012 / RM’000,words
+3,1,6,3,"6,504,457",6504457.0,Intangible assets,As At / 31 Dec 2011 / RM’000,words
+3,1,7,1,Exploration costs,,,,words
+3,1,7,2,"955,802",955802.0,Exploration costs,As At / 31 Mar 2012 / RM’000,words
+3,1,7,3,"890,047",890047.0,Exploration costs,As At / 31 Dec 2011 / RM’000,words
+3,1,8,1,Jointly controlled entities,,,,words
+3,1,8,2,"152,518",152518.0,Jointly controlled entities,As At / 31 Mar 2012 / RM’000,words
+3,1,8,3,"149,573",149573.0,Jointly controlled entities,As At / 31 Dec 2011 / RM’000,words
+3,1,9,1,Associates,,,,words
+3,1,9,2,"812,886",812886.0,Associates,As At / 31 Mar 2012 / RM’000,words
+3,1,9,3,"811,323",811323.0,Associates,As At / 31 Dec 2011 / RM’000,words
+3,1,10,1,Available-for-sale financial assets,,,,words
+3,1,10,2,"2,456,008",2456008.0,Available-for-sale financial assets,As At / 31 Mar 2012 / RM’000,words
+3,1,10,3,"1,913,390",1913390.0,Available-for-sale financial assets,As At / 31 Dec 2011 / RM’000,words
+3,1,11,1,Derivative financial instruments,,,,words
+3,1,11,2,"52,628",52628.0,Derivative financial instruments,As At / 31 Mar 2012 / RM’000,words
+3,1,11,3,"69,810",69810.0,Derivative financial instruments,As At / 31 Dec 2011 / RM’000,words
+3,1,12,1,Deferred tax assets,,,,words
+3,1,12,2,"145,560",145560.0,Deferred tax assets,As At / 31 Mar 2012 / RM’000,words
+3,1,12,3,"146,545",146545.0,Deferred tax assets,As At / 31 Dec 2011 / RM’000,words
+3,1,13,1,Other non-current assets,,,,words
+3,1,13,2,"396,080",396080.0,Other non-current assets,As At / 31 Mar 2012 / RM’000,words
+3,1,13,3,"386,098",386098.0,Other non-current assets,As At / 31 Dec 2011 / RM’000,words
+3,1,14,1,"36,434,087",36434087.0,,As At / 31 Mar 2012 / RM’000,words
+3,1,14,2,"35,515,523",35515523.0,,As At / 31 Dec 2011 / RM’000,words
+3,1,15,1,CURRENT ASSETS,,,,words
+3,1,16,1,Property development costs,,,,words
+3,1,16,2,"20,625",20625.0,Property development costs,As At / 31 Mar 2012 / RM’000,words
+3,1,16,3,"18,316",18316.0,Property development costs,As At / 31 Dec 2011 / RM’000,words
+3,1,17,1,Inventories,,,,words
+3,1,17,2,"519,161",519161.0,Inventories,As At / 31 Mar 2012 / RM’000,words
+3,1,17,3,"539,037",539037.0,Inventories,As At / 31 Dec 2011 / RM’000,words
+3,1,18,1,Trade and other receivables,,,,words
+3,1,18,2,"2,758,793",2758793.0,Trade and other receivables,As At / 31 Mar 2012 / RM’000,words
+3,1,18,3,"2,804,642",2804642.0,Trade and other receivables,As At / 31 Dec 2011 / RM’000,words
+3,1,19,1,Amounts due from jointly controlled entities and associates,,,,words
+3,1,19,2,"7,261",7261.0,Amounts due from jointly controlled entities and associates,As At / 31 Mar 2012 / RM’000,words
+3,1,19,3,"14,489",14489.0,Amounts due from jointly controlled entities and associates,As At / 31 Dec 2011 / RM’000,words
+3,1,20,1,Financial assets at fair value through profit or loss,,,,words
+3,1,20,2,"69,431",69431.0,Financial assets at fair value through profit or loss,As At / 31 Mar 2012 / RM’000,words
+3,1,20,3,"65,043",65043.0,Financial assets at fair value through profit or loss,As At / 31 Dec 2011 / RM’000,words
+3,1,21,1,Available-for-sale financial assets,,,,words
+3,1,21,2,"806,936",806936.0,Available-for-sale financial assets,As At / 31 Mar 2012 / RM’000,words
+3,1,21,3,"696,002",696002.0,Available-for-sale financial assets,As At / 31 Dec 2011 / RM’000,words
+3,1,22,1,Derivative financial instruments,,,,words
+3,1,22,2,766,766.0,Derivative financial instruments,As At / 31 Mar 2012 / RM’000,words
+3,1,22,3,409,409.0,Derivative financial instruments,As At / 31 Dec 2011 / RM’000,words
+3,1,23,1,Restricted cash,,,,words
+3,1,23,2,"419,894",419894.0,Restricted cash,As At / 31 Mar 2012 / RM’000,words
+3,1,23,3,"1,124,606",1124606.0,Restricted cash,As At / 31 Dec 2011 / RM’000,words
+3,1,24,1,Cash and cash equivalents,,,,words
+3,1,24,2,"17,419,002",17419002.0,Cash and cash equivalents,As At / 31 Mar 2012 / RM’000,words
+3,1,24,3,"13,235,748",13235748.0,Cash and cash equivalents,As At / 31 Dec 2011 / RM’000,words
+3,1,25,1,"22,021,869",22021869.0,CURRENT ASSETS,As At / 31 Mar 2012 / RM’000,words
+3,1,25,2,"18,498,292",18498292.0,CURRENT ASSETS,As At / 31 Dec 2011 / RM’000,words
+3,1,26,1,Assets classified as held for sale,,,,words
+3,1,26,2,"86,924",86924.0,Assets classified as held for sale,As At / 31 Mar 2012 / RM’000,words
+3,1,26,3,"330,853",330853.0,Assets classified as held for sale,As At / 31 Dec 2011 / RM’000,words
+3,1,27,1,"22,108,793",22108793.0,CURRENT ASSETS,As At / 31 Mar 2012 / RM’000,words
+3,1,27,2,"18,829,145",18829145.0,CURRENT ASSETS,As At / 31 Dec 2011 / RM’000,words
+3,1,28,1,TOTAL ASSETS,,,,words
+3,1,28,2,"58,542,880",58542880.0,TOTAL ASSETS,As At / 31 Mar 2012 / RM’000,words
+3,1,28,3,"54,344,668",54344668.0,TOTAL ASSETS,As At / 31 Dec 2011 / RM’000,words
+3,1,29,1,EQUITY AND LIABILITIES,,,,words
+3,1,30,1,Equity attributable to equity holders of the Company,,,,words
+3,1,31,1,Share capital,,,,words
+3,1,31,2,"371,809",371809.0,Share capital,As At / 31 Mar 2012 / RM’000,words
+3,1,31,3,"371,566",371566.0,Share capital,As At / 31 Dec 2011 / RM’000,words
+3,1,32,1,Treasury shares,,,,words
+3,1,32,2,"(209,869)",-209869.0,Treasury shares,As At / 31 Mar 2012 / RM’000,words
+3,1,32,3,"(209,585)",-209585.0,Treasury shares,As At / 31 Dec 2011 / RM’000,words
+3,1,33,1,Reserves,,,,words
+3,1,33,2,"18,397,275",18397275.0,Reserves,As At / 31 Mar 2012 / RM’000,words
+3,1,33,3,"17,456,793",17456793.0,Reserves,As At / 31 Dec 2011 / RM’000,words
+3,1,34,1,"18,559,215",18559215.0,Equity attributable to equity holders of the Company,As At / 31 Mar 2012 / RM’000,words
+3,1,34,2,"17,618,774",17618774.0,Equity attributable to equity holders of the Company,As At / 31 Dec 2011 / RM’000,words
+3,1,35,1,Non-controlling interests,,,,words
+3,1,35,2,"16,193,635",16193635.0,Non-controlling interests,As At / 31 Mar 2012 / RM’000,words
+3,1,35,3,"15,548,169",15548169.0,Non-controlling interests,As At / 31 Dec 2011 / RM’000,words
+3,1,36,1,TOTAL EQUITY,,,,words
+3,1,36,2,"39,106,605",39106605.0,TOTAL EQUITY,As At / 31 Mar 2012 / RM’000,words
+3,1,36,3,"33,166,943",33166943.0,TOTAL EQUITY,As At / 31 Dec 2011 / RM’000,words
+3,1,37,1,NON-CURRENT LIABILITIES,,,,words
+3,1,38,1,Long term borrowings,,,,words
+3,1,38,2,"11,333,588",11333588.0,Long term borrowings,As At / 31 Mar 2012 / RM’000,words
+3,1,38,3,"11,651,973",11651973.0,Long term borrowings,As At / 31 Dec 2011 / RM’000,words
+3,1,39,1,Deferred tax liabilities,,,,words
+3,1,39,2,"1,920,516",1920516.0,Deferred tax liabilities,As At / 31 Mar 2012 / RM’000,words
+3,1,39,3,"1,940,110",1940110.0,Deferred tax liabilities,As At / 31 Dec 2011 / RM’000,words
+3,1,40,1,Derivative financial instruments,,,,words
+3,1,40,2,"11,532",11532.0,Derivative financial instruments,As At / 31 Mar 2012 / RM’000,words
+3,1,40,3,"9,365",9365.0,Derivative financial instruments,As At / 31 Dec 2011 / RM’000,words
+3,1,41,1,Other non-current liabilities,,,,words
+3,1,41,2,"340,369",340369.0,Other non-current liabilities,As At / 31 Mar 2012 / RM’000,words
+3,1,41,3,"332,955",332955.0,Other non-current liabilities,As At / 31 Dec 2011 / RM’000,words
+3,1,42,1,"13,606,005",13606005.0,NON-CURRENT LIABILITIES,As At / 31 Mar 2012 / RM’000,words
+3,1,42,2,"13,934,403",13934403.0,NON-CURRENT LIABILITIES,As At / 31 Dec 2011 / RM’000,words
+3,1,43,1,CURRENT LIABILITIES,,,,words
+3,1,44,1,Trade and other payables,,,,words
+3,1,44,2,"3,645,918",3645918.0,Trade and other payables,As At / 31 Mar 2012 / RM’000,words
+3,1,44,3,"4,376,660",4376660.0,Trade and other payables,As At / 31 Dec 2011 / RM’000,words
+3,1,45,1,Amount due to jointly controlled entities and associates,,,,words
+3,1,45,2,"15,496",15496.0,Amount due to jointly controlled entities and associates,As At / 31 Mar 2012 / RM’000,words
+3,1,45,3,"10,548",10548.0,Amount due to jointly controlled entities and associates,As At / 31 Dec 2011 / RM’000,words
+3,1,46,1,Short term borrowings,,,,words
+3,1,46,2,"1,727,484",1727484.0,Short term borrowings,As At / 31 Mar 2012 / RM’000,words
+3,1,46,3,"2,514,659",2514659.0,Short term borrowings,As At / 31 Dec 2011 / RM’000,words
+3,1,47,1,Derivative financial instruments,,,,words
+3,1,47,2,"19,684",19684.0,Derivative financial instruments,As At / 31 Mar 2012 / RM’000,words
+3,1,47,3,"21,835",21835.0,Derivative financial instruments,As At / 31 Dec 2011 / RM’000,words
+3,1,48,1,Taxation,,,,words
+3,1,48,2,"421,688",421688.0,Taxation,As At / 31 Mar 2012 / RM’000,words
+3,1,48,3,"311,063",311063.0,Taxation,As At / 31 Dec 2011 / RM’000,words
+3,1,49,1,"5,830,270",5830270.0,CURRENT LIABILITIES,As At / 31 Mar 2012 / RM’000,words
+3,1,49,2,"7,234,765",7234765.0,CURRENT LIABILITIES,As At / 31 Dec 2011 / RM’000,words
+3,1,50,1,"5,830,270",5830270.0,CURRENT LIABILITIES,As At / 31 Mar 2012 / RM’000,words
+3,1,50,2,"7,243,322",7243322.0,CURRENT LIABILITIES,As At / 31 Dec 2011 / RM’000,words
+3,1,51,1,TOTAL LIABILITIES,,,,words
+3,1,51,2,"19,436,275",19436275.0,TOTAL LIABILITIES,As At / 31 Mar 2012 / RM’000,words
+3,1,51,3,"21,177,725",21177725.0,TOTAL LIABILITIES,As At / 31 Dec 2011 / RM’000,words
+3,1,52,1,TOTAL EQUITY AND LIABILITIES,,,,words
+3,1,52,2,"58,542,880",58542880.0,TOTAL EQUITY AND LIABILITIES,As At / 31 Mar 2012 / RM’000,words
+3,1,52,3,"54,344,668",54344668.0,TOTAL EQUITY AND LIABILITIES,As At / 31 Dec 2011 / RM’000,words
+3,1,53,1,NET ASSETS PER SHARE (RM),,,,words
+3,1,53,2,5.03,5.03,NET ASSETS PER SHARE (RM),As At / 31 Mar 2012 / RM’000,words
+3,1,53,3,4.77,4.77,NET ASSETS PER SHARE (RM),As At / 31 Dec 2011 / RM’000,words
+4,1,1,1,At 1 January 2012,,,,words
+4,1,1,2,"371,566",371566.0,At 1 January 2012,Share / Capital / RM’000,words
+4,1,1,3,"1,184,934",1184934.0,At 1 January 2012,Share / Premium / RM’000,words
+4,1,1,4,"313,744",313744.0,At 1 January 2012,Revaluation / Reserve / RM’000,words
+4,1,1,5,"679,838",679838.0,At 1 January 2012,Fair / Value / Reserve / RM’000,words
+4,1,1,6,"(5,076)",-5076.0,At 1 January 2012,Cash Flow / Hedge / Reserve / RM’000,words
+4,1,1,7,"(935,572)",-935572.0,At 1 January 2012,Other / Reserves / RM’000,words
+4,1,1,8,"16,218,925",16218925.0,At 1 January 2012,Retained / Earnings / RM’000,words
+4,1,1,9,"(209,585)",-209585.0,At 1 January 2012,Treasury / Shares / RM’000,words
+4,1,1,10,"17,618,774",17618774.0,At 1 January 2012,Total / RM’000,words
+4,1,1,11,-,,,,words
+4,1,1,12,"15,548,169",15548169.0,At 1 January 2012,Non-controlling / Interests / RM’000,words
+4,1,1,13,"33,166,943",33166943.0,At 1 January 2012,Total / Equity / RM’000,words
+4,1,2,1,Profit for the period,,,,words
+4,1,2,2,-,,,,words
+4,1,2,3,-,,,,words
+4,1,2,4,-,,,,words
+4,1,2,5,-,,,,words
+4,1,2,6,-,,,,words
+4,1,2,7,-,,,,words
+4,1,2,8,"693,633",693633.0,Profit for the period - - - - - -,Retained / Earnings / RM’000,words
+4,1,2,9,-,,,,words
+4,1,2,10,"693,633",693633.0,Profit for the period - - - - - -,Total / RM’000,words
+4,1,2,11,"12,327",12327.0,Profit for the period - - - - - -,Perpetual / Capital / Securities of / a Subsidiary / RM’000,words
+4,1,2,12,"437,543",437543.0,Profit for the period - - - - - -,Non-controlling / Interests / RM’000,words
+4,1,2,13,"1,143,503",1143503.0,Profit for the period - - - - - -,Total / Equity / RM’000,words
+4,1,3,1,Other comprehensive income/(loss),,,,words
+4,1,3,2,-,,,,words
+4,1,3,3,-,,,,words
+4,1,3,4,-,,,,words
+4,1,3,5,"389,474",389474.0,Other comprehensive income/(loss) - - -,Fair / Value / Reserve / RM’000,words
+4,1,3,6,"(2,112)",-2112.0,Other comprehensive income/(loss) - - -,Cash Flow / Hedge / Reserve / RM’000,words
+4,1,3,7,"(145,190)",-145190.0,Other comprehensive income/(loss) - - -,Other / Reserves / RM’000,words
+4,1,3,8,(20),-20.0,Other comprehensive income/(loss) - - -,Retained / Earnings / RM’000,words
+4,1,3,9,-,,,,words
+4,1,3,10,"242,152",242152.0,Other comprehensive income/(loss) - - -,Total / RM’000,words
+4,1,3,11,-,,,,words
+4,1,3,12,"197,221",197221.0,Other comprehensive income/(loss) - - -,Non-controlling / Interests / RM’000,words
+4,1,3,13,"439,373",439373.0,Other comprehensive income/(loss) - - -,Total / Equity / RM’000,words
+4,1,4,1,Total comprehensive,,,,words
+4,1,5,1,income/(loss) for the period,,,,words
+4,1,5,2,-,,,,words
+4,1,5,3,-,,,,words
+4,1,5,4,-,,,,words
+4,1,5,5,"389,474",389474.0,income/(loss) for the period - - -,Fair / Value / Reserve / RM’000,words
+4,1,5,6,"(2,112)",-2112.0,income/(loss) for the period - - -,Cash Flow / Hedge / Reserve / RM’000,words
+4,1,5,7,"(145,190)",-145190.0,income/(loss) for the period - - -,Other / Reserves / RM’000,words
+4,1,5,8,"693,613",693613.0,income/(loss) for the period - - -,Retained / Earnings / RM’000,words
+4,1,5,9,-,,,,words
+4,1,5,10,"935,785",935785.0,income/(loss) for the period - - -,Total / RM’000,words
+4,1,5,11,"12,327",12327.0,income/(loss) for the period - - -,Perpetual / Capital / Securities of / a Subsidiary / RM’000,words
+4,1,5,12,"634,764",634764.0,income/(loss) for the period - - -,Non-controlling / Interests / RM’000,words
+4,1,5,13,"1,582,876",1582876.0,income/(loss) for the period - - -,Total / Equity / RM’000,words
+4,1,6,1,Transfer due to realisation of,,,,words
+4,1,7,1,revaluation reserve,,,,words
+4,1,7,2,-,,,,words
+4,1,7,3,-,,,,words
+4,1,7,4,(454),-454.0,revaluation reserve - -,Revaluation / Reserve / RM’000,words
+4,1,7,5,-,,,,words
+4,1,7,6,-,,,,words
+4,1,7,7,-,,,,words
+4,1,7,8,454,454.0,revaluation reserve - -,Retained / Earnings / RM’000,words
+4,1,7,9,-,,,,words
+4,1,7,10,-,,,,words
+4,1,7,11,-,,,,words
+4,1,7,12,-,,,,words
+4,1,7,13,-,,,,words
+4,1,8,1,Effects arising from changes in,,,,words
+4,1,9,1,composition of the Group,,,,words
+4,1,9,2,-,,,,words
+4,1,9,3,-,,,,words
+4,1,9,4,-,,,,words
+4,1,9,5,-,,,,words
+4,1,9,6,-,,,,words
+4,1,9,7,-,,,,words
+4,1,9,8,"(2,033)",-2033.0,composition of the Group - - - - - -,Retained / Earnings / RM’000,words
+4,1,9,9,-,,,,words
+4,1,9,10,"(2,033)",-2033.0,composition of the Group - - - - - -,Total / RM’000,words
+4,1,9,11,-,,,,words
+4,1,9,12,24,24.0,composition of the Group - - - - - -,Non-controlling / Interests / RM’000,words
+4,1,9,13,"(2,009)",-2009.0,composition of the Group - - - - - -,Total / Equity / RM’000,words
+4,1,10,1,Effects of share-based payment,,,,words
+4,1,10,2,-,,,,words
+4,1,10,3,-,,,,words
+4,1,10,4,-,,,,words
+4,1,10,5,-,,,,words
+4,1,10,6,-,,,,words
+4,1,10,7,-,,,,words
+4,1,10,8,-,,,,words
+4,1,10,9,-,,,,words
+4,1,10,10,-,,,,words
+4,1,10,11,-,,,,words
+4,1,10,12,"14,927",14927.0,Effects of share-based payment - - - - - - - - - -,Non-controlling / Interests / RM’000,words
+4,1,10,13,"14,927",14927.0,Effects of share-based payment - - - - - - - - - -,Total / Equity / RM’000,words
+4,1,11,1,Effects of issue of shares by subsidiaries,,,,words
+4,1,11,2,-,,,,words
+4,1,11,3,-,,,,words
+4,1,11,4,-,,,,words
+4,1,11,5,-,,,,words
+4,1,11,6,-,,,,words
+4,1,11,7,-,,,,words
+4,1,11,8,-,,,,words
+4,1,11,9,-,,,,words
+4,1,11,10,-,,,,words
+4,1,11,11,-,,,,words
+4,1,11,12,"11,989",11989.0,Effects of issue of shares by subsidiaries - - - - - - - - - -,Non-controlling / Interests / RM’000,words
+4,1,11,13,"11,989",11989.0,Effects of issue of shares by subsidiaries - - - - - - - - - -,Total / Equity / RM’000,words
+4,1,12,1,Issuance of perpetual capital securities,,,,words
+4,1,13,1,by a subsidiary,,,,words
+4,1,13,2,-,,,,words
+4,1,13,3,-,,,,words
+4,1,13,4,-,,,,words
+4,1,13,5,-,,,,words
+4,1,13,6,-,,,,words
+4,1,13,7,-,,,,words
+4,1,13,8,-,,,,words
+4,1,13,9,-,,,,words
+4,1,13,10,-,,,,words
+4,1,13,11,"4,341,428",4341428.0,by a subsidiary - - - - - - - - -,Perpetual / Capital / Securities of / a Subsidiary / RM’000,words
+4,1,13,12,-,,,,words
+4,1,13,13,"4,341,428",4341428.0,by a subsidiary - - - - - - - - -,Total / Equity / RM’000,words
+4,1,14,1,Issue of shares,,,,words
+4,1,14,2,243,243.0,Issue of shares,Share / Capital / RM’000,words
+4,1,14,3,"6,730",6730.0,Issue of shares,Share / Premium / RM’000,words
+4,1,14,4,-,,,,words
+4,1,14,5,-,,,,words
+4,1,14,6,-,,,,words
+4,1,14,7,-,,,,words
+4,1,14,8,-,,,,words
+4,1,14,9,-,,,,words
+4,1,14,10,"6,973",6973.0,Issue of shares,Total / RM’000,words
+4,1,14,11,-,,,,words
+4,1,14,12,-,,,,words
+4,1,14,13,"6,973",6973.0,Issue of shares,Total / Equity / RM’000,words
+4,1,15,1,Buy-back of shares by the Company,,,,words
+4,1,16,1,and subsidiaries,,,,words
+4,1,16,2,-,,,,words
+4,1,16,3,-,,,,words
+4,1,16,4,-,,,,words
+4,1,16,5,-,,,,words
+4,1,16,6,-,,,,words
+4,1,16,7,-,,,,words
+4,1,16,8,-,,,,words
+4,1,16,9,(284),-284.0,and subsidiaries - - - - - - -,Treasury / Shares / RM’000,words
+4,1,16,10,(284),-284.0,and subsidiaries - - - - - - -,Total / RM’000,words
+4,1,16,11,-,,,,words
+4,1,16,12,(84),-84.0,and subsidiaries - - - - - - -,Non-controlling / Interests / RM’000,words
+4,1,16,13,(368),-368.0,and subsidiaries - - - - - - -,Total / Equity / RM’000,words
+4,1,17,1,Dividends to non-controlling interests,,,,words
+4,1,17,2,-,,,,words
+4,1,17,3,-,,,,words
+4,1,17,4,-,,,,words
+4,1,17,5,-,,,,words
+4,1,17,6,-,,,,words
+4,1,17,7,-,,,,words
+4,1,17,8,-,,,,words
+4,1,17,9,-,,,,words
+4,1,17,10,-,,,,words
+4,1,17,11,-,,,,words
+4,1,17,12,"(16,154)",-16154.0,Dividends to non-controlling interests - - - - - - - - - -,Non-controlling / Interests / RM’000,words
+4,1,17,13,"(16,154)",-16154.0,Dividends to non-controlling interests - - - - - - - - - -,Total / Equity / RM’000,words
+4,1,18,1,"371,809",371809.0,Buy-back of shares by the Company,Share / Capital / RM’000,words
+4,1,18,2,"1,191,664",1191664.0,Buy-back of shares by the Company,Share / Premium / RM’000,words
+4,1,18,3,"313,290",313290.0,Buy-back of shares by the Company,Revaluation / Reserve / RM’000,words
+4,1,18,4,"1,069,312",1069312.0,Buy-back of shares by the Company,Fair / Value / Reserve / RM’000,words
+4,1,18,5,"(7,188)",-7188.0,Buy-back of shares by the Company,Cash Flow / Hedge / Reserve / RM’000,words
+4,1,18,6,"(1,080,762)",-1080762.0,Buy-back of shares by the Company,Other / Reserves / RM’000,words
+4,1,18,7,"16,910,959",16910959.0,Buy-back of shares by the Company,Retained / Earnings / RM’000,words
+4,1,18,8,"(209,869)",-209869.0,Buy-back of shares by the Company,Treasury / Shares / RM’000,words
+4,1,18,9,"18,559,215",18559215.0,Buy-back of shares by the Company,Total / RM’000,words
+4,1,18,10,"4,353,755",4353755.0,Buy-back of shares by the Company,Perpetual / Capital / Securities of / a Subsidiary / RM’000,words
+4,1,18,11,"16,193,635",16193635.0,Buy-back of shares by the Company,Non-controlling / Interests / RM’000,words
+4,1,18,12,"39,106,605",39106605.0,Buy-back of shares by the Company,Total / Equity / RM’000,words
+5,1,1,1,At 1 January 2011,,,,words
+5,1,1,2,"371,356",371356.0,At 1 January 2011,Share / Capital / RM’000,words
+5,1,1,3,"1,179,121",1179121.0,At 1 January 2011,Share / Premium / RM’000,words
+5,1,1,4,"315,083",315083.0,At 1 January 2011,Revaluation / Reserve / RM’000,words
+5,1,1,5,"1,079,850",1079850.0,At 1 January 2011,Fair / Value / Reserve / RM’000,words
+5,1,1,6,"(16,228)",-16228.0,At 1 January 2011,Cash Flow / Hedge / Reserve / RM’000,words
+5,1,1,7,"(1,187,597)",-1187597.0,At 1 January 2011,Other / Reserves / RM’000,words
+5,1,1,8,"13,799,067",13799067.0,At 1 January 2011,Retained / Earnings / RM’000,words
+5,1,1,9,"(43,194)",-43194.0,At 1 January 2011,Treasury / Shares / RM’000,words
+5,1,1,10,"15,497,458",15497458.0,At 1 January 2011,Total / RM’000,words
+5,1,1,11,"13,949,034",13949034.0,At 1 January 2011,Non-controlling / Interests / RM’000,words
+5,1,1,12,"29,446,492",29446492.0,At 1 January 2011,Total / Equity / RM’000,words
+5,1,2,1,Profit for the period,,,,words
+5,1,2,2,-,,,,words
+5,1,2,3,-,,,,words
+5,1,2,4,-,,,,words
+5,1,2,5,-,,,,words
+5,1,2,6,-,,,,words
+5,1,2,7,-,,,,words
+5,1,2,8,"824,176",824176.0,Profit for the period - - - - - -,Retained / Earnings / RM’000,words
+5,1,2,9,-,,,,words
+5,1,2,10,"824,176",824176.0,Profit for the period - - - - - -,Total / RM’000,words
+5,1,2,11,"621,874",621874.0,Profit for the period - - - - - -,Non-controlling / Interests / RM’000,words
+5,1,2,12,"1,446,050",1446050.0,Profit for the period - - - - - -,Total / Equity / RM’000,words
+5,1,3,1,Other comprehensive income/(loss),,,,words
+5,1,3,2,-,,,,words
+5,1,3,3,-,,,,words
+5,1,3,4,-,,,,words
+5,1,3,5,"(2,242)",-2242.0,Other comprehensive income/(loss) - - -,Fair / Value / Reserve / RM’000,words
+5,1,3,6,"15,929",15929.0,Other comprehensive income/(loss) - - -,Cash Flow / Hedge / Reserve / RM’000,words
+5,1,3,7,"(84,987)",-84987.0,Other comprehensive income/(loss) - - -,Other / Reserves / RM’000,words
+5,1,3,8,-,,,,words
+5,1,3,9,-,,,,words
+5,1,3,10,"(71,300)",-71300.0,Other comprehensive income/(loss) - - -,Total / RM’000,words
+5,1,3,11,"(111,453)",-111453.0,Other comprehensive income/(loss) - - -,Non-controlling / Interests / RM’000,words
+5,1,3,12,"(182,753)",-182753.0,Other comprehensive income/(loss) - - -,Total / Equity / RM’000,words
+5,1,4,1,Total comprehensive,,,,words
+5,1,5,1,income/(loss) for the period,,,,words
+5,1,5,2,-,,,,words
+5,1,5,3,-,,,,words
+5,1,5,4,-,,,,words
+5,1,5,5,"(2,242)",-2242.0,income/(loss) for the period - - -,Fair / Value / Reserve / RM’000,words
+5,1,5,6,"15,929",15929.0,income/(loss) for the period - - -,Cash Flow / Hedge / Reserve / RM’000,words
+5,1,5,7,"(84,987)",-84987.0,income/(loss) for the period - - -,Other / Reserves / RM’000,words
+5,1,5,8,"824,176",824176.0,income/(loss) for the period - - -,Retained / Earnings / RM’000,words
+5,1,5,9,-,,,,words
+5,1,5,10,"752,876",752876.0,income/(loss) for the period - - -,Total / RM’000,words
+5,1,5,11,"510,421",510421.0,income/(loss) for the period - - -,Non-controlling / Interests / RM’000,words
+5,1,5,12,"1,263,297",1263297.0,income/(loss) for the period - - -,Total / Equity / RM’000,words
+5,1,6,1,Transfer due to realisation of,,,,words
+5,1,7,1,revaluation reserve,,,,words
+5,1,7,2,-,,,,words
+5,1,7,3,-,,,,words
+5,1,7,4,(336),-336.0,revaluation reserve - -,Revaluation / Reserve / RM’000,words
+5,1,7,5,-,,,,words
+5,1,7,6,-,,,,words
+5,1,7,7,-,,,,words
+5,1,7,8,336,336.0,revaluation reserve - -,Retained / Earnings / RM’000,words
+5,1,7,9,-,,,,words
+5,1,7,10,-,,,,words
+5,1,7,11,-,,,,words
+5,1,7,12,-,,,,words
+5,1,8,1,Effects arising from changes,,,,words
+5,1,9,1,in composition of the Group,,,,words
+5,1,9,2,-,,,,words
+5,1,9,3,-,,,,words
+5,1,9,4,-,,,,words
+5,1,9,5,-,,,,words
+5,1,9,6,-,,,,words
+5,1,9,7,-,,,,words
+5,1,9,8,"(109,377)",-109377.0,in composition of the Group - - - - - -,Retained / Earnings / RM’000,words
+5,1,9,9,-,,,,words
+5,1,9,10,"(109,377)",-109377.0,in composition of the Group - - - - - -,Total / RM’000,words
+5,1,9,11,"(15,639)",-15639.0,in composition of the Group - - - - - -,Non-controlling / Interests / RM’000,words
+5,1,9,12,"(125,016)",-125016.0,in composition of the Group - - - - - -,Total / Equity / RM’000,words
+5,1,10,1,Effects of share-based payment,,,,words
+5,1,10,2,-,,,,words
+5,1,10,3,-,,,,words
+5,1,10,4,-,,,,words
+5,1,10,5,-,,,,words
+5,1,10,6,-,,,,words
+5,1,10,7,-,,,,words
+5,1,10,8,-,,,,words
+5,1,10,9,-,,,,words
+5,1,10,10,-,,,,words
+5,1,10,11,"10,305",10305.0,Effects of share-based payment - - - - - - - - -,Non-controlling / Interests / RM’000,words
+5,1,10,12,"10,305",10305.0,Effects of share-based payment - - - - - - - - -,Total / Equity / RM’000,words
+5,1,11,1,Effects of issue of shares by,,,,words
+5,1,12,1,subsidiaries,,,,words
+5,1,12,2,-,,,,words
+5,1,12,3,-,,,,words
+5,1,12,4,-,,,,words
+5,1,12,5,-,,,,words
+5,1,12,6,-,,,,words
+5,1,12,7,-,,,,words
+5,1,12,8,-,,,,words
+5,1,12,9,-,,,,words
+5,1,12,10,-,,,,words
+5,1,12,11,"8,589",8589.0,subsidiaries - - - - - - - - -,Non-controlling / Interests / RM’000,words
+5,1,12,12,"8,589",8589.0,subsidiaries - - - - - - - - -,Total / Equity / RM’000,words
+5,1,13,1,Issue of shares,,,,words
+5,1,13,2,31,31.0,Issue of shares,Share / Capital / RM’000,words
+5,1,13,3,855,855.0,Issue of shares,Share / Premium / RM’000,words
+5,1,13,4,-,,,,words
+5,1,13,5,-,,,,words
+5,1,13,6,-,,,,words
+5,1,13,7,-,,,,words
+5,1,13,8,-,,,,words
+5,1,13,9,-,,,,words
+5,1,13,10,886,886.0,Issue of shares,Total / RM’000,words
+5,1,13,11,-,,,,words
+5,1,13,12,886,886.0,Issue of shares,Total / Equity / RM’000,words
+5,1,14,1,Buy-back of shares by the Company,,,,words
+5,1,15,1,and subsidiaries,,,,words
+5,1,15,2,-,,,,words
+5,1,15,3,-,,,,words
+5,1,15,4,-,,,,words
+5,1,15,5,-,,,,words
+5,1,15,6,-,,,,words
+5,1,15,7,-,,,,words
+5,1,15,8,-,,,,words
+5,1,15,9,(204),-204.0,and subsidiaries - - - - - - -,Treasury / Shares / RM’000,words
+5,1,15,10,(204),-204.0,and subsidiaries - - - - - - -,Total / RM’000,words
+5,1,15,11,"(19,160)",-19160.0,and subsidiaries - - - - - - -,Non-controlling / Interests / RM’000,words
+5,1,15,12,"(19,364)",-19364.0,and subsidiaries - - - - - - -,Total / Equity / RM’000,words
+5,1,16,1,Dividends to non-controlling,,,,words
+5,1,17,1,interests,,,,words
+5,1,17,2,-,,,,words
+5,1,17,3,-,,,,words
+5,1,17,4,-,,,,words
+5,1,17,5,-,,,,words
+5,1,17,6,-,,,,words
+5,1,17,7,-,,,,words
+5,1,17,8,-,,,,words
+5,1,17,9,-,,,,words
+5,1,17,10,-,,,,words
+5,1,17,11,"(12,226)",-12226.0,interests - - - - - - - - -,Non-controlling / Interests / RM’000,words
+5,1,17,12,"(12,226)",-12226.0,interests - - - - - - - - -,Total / Equity / RM’000,words
+5,1,18,1,Balance at 31 March 2011,,,,words
+5,1,18,2,"371,387",371387.0,Balance at 31 March 2011,Share / Capital / RM’000,words
+5,1,18,3,"1,179,976",1179976.0,Balance at 31 March 2011,Share / Premium / RM’000,words
+5,1,18,4,"314,747",314747.0,Balance at 31 March 2011,Revaluation / Reserve / RM’000,words
+5,1,18,5,"1,077,608",1077608.0,Balance at 31 March 2011,Fair / Value / Reserve / RM’000,words
+5,1,18,6,(299),-299.0,Balance at 31 March 2011,Cash Flow / Hedge / Reserve / RM’000,words
+5,1,18,7,"(1,272,584)",-1272584.0,Balance at 31 March 2011,Other / Reserves / RM’000,words
+5,1,18,8,"14,514,202",14514202.0,Balance at 31 March 2011,Retained / Earnings / RM’000,words
+5,1,18,9,"(43,398)",-43398.0,Balance at 31 March 2011,Treasury / Shares / RM’000,words
+5,1,18,10,"16,141,639",16141639.0,Balance at 31 March 2011,Total / RM’000,words
+5,1,18,11,"14,431,324",14431324.0,Balance at 31 March 2011,Non-controlling / Interests / RM’000,words
+5,1,18,12,"30,572,963",30572963.0,Balance at 31 March 2011,Total / Equity / RM’000,words
+6,1,1,1,Profit before taxation,,,,words
+6,1,1,2,"1,456,940",1456940.0,Profit before taxation,Current / Year-To-Date / RM’000,words
+6,1,1,3,"1,890,649",1890649.0,Profit before taxation,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,2,1,Adjustments for:,,,,words
+6,1,3,1,Depreciation and amortisation,,,,words
+6,1,3,2,"407,048",407048.0,Depreciation and amortisation,Current / Year-To-Date / RM’000,words
+6,1,3,3,"324,748",324748.0,Depreciation and amortisation,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,4,1,Finance cost,,,,words
+6,1,4,2,"111,443",111443.0,Finance cost,Current / Year-To-Date / RM’000,words
+6,1,4,3,"148,952",148952.0,Finance cost,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,5,1,Impairment loss and write off of receivables,,,,words
+6,1,5,2,"89,336",89336.0,Impairment loss and write off of receivables,Current / Year-To-Date / RM’000,words
+6,1,5,3,"58,780",58780.0,Impairment loss and write off of receivables,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,6,1,Construction loss/(profit),,,,words
+6,1,6,2,"48,150",48150.0,Construction loss/(profit),Current / Year-To-Date / RM’000,words
+6,1,6,3,"(13,400)",-13400.0,Construction loss/(profit),Preceding / Year / Corresponding / Period / RM’000,words
+6,1,7,1,Net fair value loss/(gain) on derivative financial instruments,,,,words
+6,1,7,2,"15,246",15246.0,Net fair value loss/(gain) on derivative financial instruments,Current / Year-To-Date / RM’000,words
+6,1,7,3,"(2,743)",-2743.0,Net fair value loss/(gain) on derivative financial instruments,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,8,1,Impairment losses,,,,words
+6,1,8,2,"2,822",2822.0,Impairment losses,Current / Year-To-Date / RM’000,words
+6,1,8,3,"3,863",3863.0,Impairment losses,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,9,1,Interest income,,,,words
+6,1,9,2,"(44,752)",-44752.0,Interest income,Current / Year-To-Date / RM’000,words
+6,1,9,3,"(37,105)",-37105.0,Interest income,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,10,1,Share of results in jointly controlled entities and associates,,,,words
+6,1,10,2,"(5,896)",-5896.0,Share of results in jointly controlled entities and associates,Current / Year-To-Date / RM’000,words
+6,1,10,3,(858),-858.0,Share of results in jointly controlled entities and associates,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,11,1,Other non-cash items,,,,words
+6,1,11,2,"(30,831)",-30831.0,Other non-cash items,Current / Year-To-Date / RM’000,words
+6,1,11,3,"16,376",16376.0,Other non-cash items,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,12,1,"418,268",418268.0,Adjustments for:,Current / Year-To-Date / RM’000,words
+6,1,12,2,"498,613",498613.0,Adjustments for:,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,13,1,Operating profit before changes in working capital,,,,words
+6,1,13,2,"1,875,208",1875208.0,Operating profit before changes in working capital,Current / Year-To-Date / RM’000,words
+6,1,13,3,"2,389,262",2389262.0,Operating profit before changes in working capital,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,14,1,Net change in current assets,,,,words
+6,1,14,2,"(178,598)",-178598.0,Net change in current assets,Current / Year-To-Date / RM’000,words
+6,1,14,3,"(448,546)",-448546.0,Net change in current assets,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,15,1,Net change in current liabilities,,,,words
+6,1,15,2,"(544,995)",-544995.0,Net change in current liabilities,Current / Year-To-Date / RM’000,words
+6,1,15,3,"(85,862)",-85862.0,Net change in current liabilities,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,16,1,"(723,593)",-723593.0,Adjustments for:,Current / Year-To-Date / RM’000,words
+6,1,16,2,"(534,408)",-534408.0,Adjustments for:,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,17,1,Cash generated from operations,,,,words
+6,1,17,2,"1,151,615",1151615.0,Cash generated from operations,Current / Year-To-Date / RM’000,words
+6,1,17,3,"1,854,854",1854854.0,Cash generated from operations,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,18,1,Taxation paid,,,,words
+6,1,18,2,"(248,404)",-248404.0,Taxation paid,Current / Year-To-Date / RM’000,words
+6,1,18,3,"(180,721)",-180721.0,Taxation paid,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,19,1,Retirement gratuities paid,,,,words
+6,1,19,2,"(2,697)",-2697.0,Retirement gratuities paid,Current / Year-To-Date / RM’000,words
+6,1,19,3,"(2,205)",-2205.0,Retirement gratuities paid,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,20,1,Other net operating receipt,,,,words
+6,1,20,2,"5,112",5112.0,Other net operating receipt,Current / Year-To-Date / RM’000,words
+6,1,20,3,"7,668",7668.0,Other net operating receipt,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,21,1,"(245,989)",-245989.0,Adjustments for:,Current / Year-To-Date / RM’000,words
+6,1,21,2,"(175,258)",-175258.0,Adjustments for:,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,22,1,NET CASH INFLOW FROM OPERATING ACTIVITIES,,,,words
+6,1,22,2,"905,626",905626.0,NET CASH INFLOW FROM OPERATING ACTIVITIES,Current / Year-To-Date / RM’000,words
+6,1,22,3,"1,679,596",1679596.0,NET CASH INFLOW FROM OPERATING ACTIVITIES,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,23,1,CASH FLOWS FROM INVESTING ACTIVITIES,,,,words
+6,1,24,1,"Purchase of property, plant and equipment",,,,words
+6,1,24,2,"(936,334)",-936334.0,"Purchase of property, plant and equipment",Current / Year-To-Date / RM’000,words
+6,1,24,3,"(1,167,101)",-1167101.0,"Purchase of property, plant and equipment",Preceding / Year / Corresponding / Period / RM’000,words
+6,1,25,1,"Increase in investments, intangible assets and other long term",,,,words
+6,1,26,1,financial assets,,,,words
+6,1,26,2,"(189,712)",-189712.0,financial assets,Current / Year-To-Date / RM’000,words
+6,1,26,3,"(215,327)",-215327.0,financial assets,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,27,1,Interest received,,,,words
+6,1,27,2,"47,359",47359.0,Interest received,Current / Year-To-Date / RM’000,words
+6,1,27,3,"35,454",35454.0,Interest received,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,28,1,Other investing activities,,,,words
+6,1,28,2,"20,364",20364.0,Other investing activities,Current / Year-To-Date / RM’000,words
+6,1,28,3,"6,136",6136.0,Other investing activities,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,29,1,NET CASH USED IN INVESTING ACTIVITIES,,,,words
+6,1,29,2,"(637,629)",-637629.0,NET CASH USED IN INVESTING ACTIVITIES,Current / Year-To-Date / RM’000,words
+6,1,29,3,"(1,340,838)",-1340838.0,NET CASH USED IN INVESTING ACTIVITIES,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,30,1,CASH FLOWS FROM FINANCING ACTIVITIES,,,,words
+6,1,31,1,Repayment of borrowings and transaction costs,,,,words
+6,1,31,2,"(1,139,152)",-1139152.0,Repayment of borrowings and transaction costs,Current / Year-To-Date / RM’000,words
+6,1,31,3,"(8,621,904)",-8621904.0,Repayment of borrowings and transaction costs,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,32,1,Finance cost paid,,,,words
+6,1,32,2,"(104,517)",-104517.0,Finance cost paid,Current / Year-To-Date / RM’000,words
+6,1,32,3,"(79,823)",-79823.0,Finance cost paid,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,33,1,Dividends paid to non-controlling interests,,,,words
+6,1,33,2,"(16,154)",-16154.0,Dividends paid to non-controlling interests,Current / Year-To-Date / RM’000,words
+6,1,33,3,"(12,226)",-12226.0,Dividends paid to non-controlling interests,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,34,1,Buy-back of shares by the Company and subsidiaries,,,,words
+6,1,34,2,(368),-368.0,Buy-back of shares by the Company and subsidiaries,Current / Year-To-Date / RM’000,words
+6,1,34,3,"(19,364)",-19364.0,Buy-back of shares by the Company and subsidiaries,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,35,1,Restricted cash (deposits pledged as borrowings and interest payments),,,,words
+6,1,35,2,"623,705",623705.0,Restricted cash (deposits pledged as borrowings and interest payments),Current / Year-To-Date / RM’000,words
+6,1,35,3,"(3,647)",-3647.0,Restricted cash (deposits pledged as borrowings and interest payments),Preceding / Year / Corresponding / Period / RM’000,words
+6,1,36,1,Proceeds from bank borrowings,,,,words
+6,1,36,2,"198,914",198914.0,Proceeds from bank borrowings,Current / Year-To-Date / RM’000,words
+6,1,36,3,"8,442,607",8442607.0,Proceeds from bank borrowings,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,37,1,Other financing activities,,,,words
+6,1,37,2,"16,977",16977.0,Other financing activities,Current / Year-To-Date / RM’000,words
+6,1,37,3,"(18,991)",-18991.0,Other financing activities,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,38,1,NET CASH FROM/(USED IN) FINANCING ACTIVITIES,,,,words
+6,1,38,2,"3,969,022",3969022.0,NET CASH FROM/(USED IN) FINANCING ACTIVITIES,Current / Year-To-Date / RM’000,words
+6,1,38,3,"(313,348)",-313348.0,NET CASH FROM/(USED IN) FINANCING ACTIVITIES,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,39,1,NET INCREASE IN CASH AND CASH EQUIVALENTS,,,,words
+6,1,39,2,"4,237,019",4237019.0,NET INCREASE IN CASH AND CASH EQUIVALENTS,Current / Year-To-Date / RM’000,words
+6,1,39,3,"25,410",25410.0,NET INCREASE IN CASH AND CASH EQUIVALENTS,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,40,1,CASH AND CASH EQUIVALENTS AT BEGINNING OF FINANCIAL PERIOD,,,,words
+6,1,40,2,"13,235,748",13235748.0,CASH AND CASH EQUIVALENTS AT BEGINNING OF FINANCIAL PERIOD,Current / Year-To-Date / RM’000,words
+6,1,40,3,"14,548,553",14548553.0,CASH AND CASH EQUIVALENTS AT BEGINNING OF FINANCIAL PERIOD,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,41,1,EFFECTS OF CURRENCY TRANSLATION,,,,words
+6,1,41,2,"(53,765)",-53765.0,EFFECTS OF CURRENCY TRANSLATION,Current / Year-To-Date / RM’000,words
+6,1,41,3,"17,287",17287.0,EFFECTS OF CURRENCY TRANSLATION,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,42,1,CASH AND CASH EQUIVALENTS AT END OF FINANCIAL PERIOD,,,,words
+6,1,42,2,"17,419,002",17419002.0,CASH AND CASH EQUIVALENTS AT END OF FINANCIAL PERIOD,Current / Year-To-Date / RM’000,words
+6,1,42,3,"14,591,250",14591250.0,CASH AND CASH EQUIVALENTS AT END OF FINANCIAL PERIOD,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,43,1,ANALYSIS OF CASH AND CASH EQUIVALENTS,,,,words
+6,1,44,1,Bank balances and deposits,,,,words
+6,1,44,2,"15,886,440",15886440.0,Bank balances and deposits,Current / Year-To-Date / RM’000,words
+6,1,44,3,"12,316,035",12316035.0,Bank balances and deposits,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,45,1,Money market instruments,,,,words
+6,1,45,2,"1,532,562",1532562.0,Money market instruments,Current / Year-To-Date / RM’000,words
+6,1,45,3,"2,275,215",2275215.0,Money market instruments,Preceding / Year / Corresponding / Period / RM’000,words
+6,1,46,1,"17,419,002",17419002.0,ANALYSIS OF CASH AND CASH EQUIVALENTS,Current / Year-To-Date / RM’000,words
+6,1,46,2,"14,591,250",14591250.0,ANALYSIS OF CASH AND CASH EQUIVALENTS,Preceding / Year / Corresponding / Period / RM’000,words
+10,1,1,1,Total revenue,,,,words
+10,1,1,2,"1,553.5",1553.5,Total revenue,Malaysia Singapore,words
+10,1,1,3,"1,903.4",1903.4,Total revenue,Malaysia Singapore,words
+10,1,1,4,343.3,343.3,Total revenue,United / Kingdom,words
+10,1,1,5,218.4,218.4,Total revenue,United States / of America,words
+10,1,1,6,"4,018.6",4018.6,Total revenue,Total,words
+10,1,1,7,341.7,341.7,Total revenue,,words
+10,1,1,8,248.4,248.4,Total revenue,,words
+10,1,1,9,42.4,42.4,Total revenue,,words
+10,1,1,10,2.6,2.6,Total revenue,,words
+10,1,1,11,18.5,18.5,Total revenue,,words
+10,1,1,12,"4,672.2",4672.2,Total revenue,,words
+10,1,2,1,Inter segment,,,,words
+10,1,2,2,(243.0),-243.0,Inter segment,Malaysia Singapore,words
+10,1,2,3,(0.1),-0.1,Inter segment,Malaysia Singapore,words
+10,1,2,4,(1.3),-1.3,Inter segment,United / Kingdom,words
+10,1,2,5,-,,,,words
+10,1,2,6,(244.4),-244.4,Inter segment,Total,words
+10,1,2,7,-,,,,words
+10,1,2,8,-,,,,words
+10,1,2,9,(1.8),-1.8,Inter segment,,words
+10,1,2,10,(2.6),-2.6,Inter segment,,words
+10,1,2,11,(2.3),-2.3,Inter segment,,words
+10,1,2,12,(251.1),-251.1,Inter segment,,words
+10,1,3,1,External,,,,words
+10,1,3,2,"1,310.5",1310.5,External,Malaysia Singapore,words
+10,1,3,3,"1,903.3",1903.3,External,Malaysia Singapore,words
+10,1,3,4,342.0,342.0,External,United / Kingdom,words
+10,1,3,5,218.4,218.4,External,United States / of America,words
+10,1,3,6,"3,774.2",3774.2,External,Total,words
+10,1,3,7,341.7,341.7,External,,words
+10,1,3,8,248.4,248.4,External,,words
+10,1,3,9,40.6,40.6,External,,words
+10,1,3,10,-,,,,words
+10,1,3,11,16.2,16.2,External,,words
+10,1,3,12,"4,421.1",4421.1,External,,words
+10,1,4,1,Adjusted EBITDA,,,,words
+10,1,4,2,586.8,586.8,Adjusted EBITDA,Malaysia Singapore,words
+10,1,4,3,930.8,930.8,Adjusted EBITDA,Malaysia Singapore,words
+10,1,4,4,34.4,34.4,Adjusted EBITDA,United / Kingdom,words
+10,1,4,5,1.3,1.3,Adjusted EBITDA,United States / of America,words
+10,1,4,6,"1,553.3",1553.3,Adjusted EBITDA,Total,words
+10,1,4,7,125.3,125.3,Adjusted EBITDA,,words
+10,1,4,8,98.5,98.5,Adjusted EBITDA,,words
+10,1,4,9,20.3,20.3,Adjusted EBITDA,,words
+10,1,4,10,(14.8),-14.8,Adjusted EBITDA,,words
+10,1,4,11,15.7,15.7,Adjusted EBITDA,,words
+10,1,4,12,"1,798.3",1798.3,Adjusted EBITDA,,words
+10,1,5,1,Segment Assets,,,,words
+10,1,5,2,"4,172.9",4172.9,Segment Assets,Malaysia Singapore,words
+10,1,5,3,"19,861.5",19861.5,Segment Assets,Malaysia Singapore,words
+10,1,5,4,"3,311.3",3311.3,Segment Assets,United / Kingdom,words
+10,1,5,5,"2,726.9",2726.9,Segment Assets,United States / of America,words
+10,1,5,6,"30,072.6",30072.6,Segment Assets,Total,words
+10,1,5,7,"3,036.4",3036.4,Segment Assets,,words
+10,1,5,8,"2,157.0",2157.0,Segment Assets,,words
+10,1,5,9,"2,268.5",2268.5,Segment Assets,,words
+10,1,5,10,949.4,949.4,Segment Assets,,words
+10,1,5,11,"4,421.7",4421.7,Segment Assets,,words
+10,1,5,12,"42,905.6",42905.6,Segment Assets,,words
+15,1,1,1,2012,2012.0,,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,1,2,2011,2011.0,,,words
+15,1,1,3,%,,,,words
+15,1,1,4,4Q 2011,,,,words
+15,1,1,5,%,,,,words
+15,1,2,1,RM’million,,,,words
+15,1,2,2,RM’million,,,,words
+15,1,2,3,+/-,,,,words
+15,1,2,4,RM’million,,,,words
+15,1,2,5,+/-,,,,words
+15,1,3,1,Revenue,,,,words
+15,1,4,1,Leisure & Hospitality,,,,words
+15,1,5,1,-,,,,words
+15,1,5,2,Malaysia,,,,words
+15,1,5,3,"1,310.5",1310.5,- Malaysia,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,5,4,"1,322.8",1322.8,- Malaysia,,words
+15,1,5,5,-1,-1.0,- Malaysia,,words
+15,1,5,6,"1,377.2",1377.2,- Malaysia,Preceding / Quarter,words
+15,1,5,7,-5,-5.0,- Malaysia,,words
+15,1,6,1,-,,,,words
+15,1,6,2,Singapore,,,,words
+15,1,6,3,"1,903.3",1903.3,- Singapore,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,6,4,"2,184.8",2184.8,- Singapore,,words
+15,1,6,5,-13,-13.0,- Singapore,,words
+15,1,6,6,"1,922.6",1922.6,- Singapore,Preceding / Quarter,words
+15,1,6,7,-1,-1.0,- Singapore,,words
+15,1,7,1,-,,,,words
+15,1,7,2,United Kingdom,,,,words
+15,1,7,3,342.0,342.0,- United Kingdom,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,7,4,346.7,346.7,- United Kingdom,,words
+15,1,7,5,-1,-1.0,- United Kingdom,,words
+15,1,7,6,282.7,282.7,- United Kingdom,Preceding / Quarter,words
+15,1,7,7,+21,21.0,- United Kingdom,,words
+15,1,8,1,-,,,,words
+15,1,8,2,United States,,,,words
+15,1,9,1,of America,,,,words
+15,1,9,2,218.4,218.4,of America,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,9,3,264.6,264.6,of America,,words
+15,1,9,4,-17,-17.0,of America,,words
+15,1,9,5,642.2,642.2,of America,Preceding / Quarter,words
+15,1,9,6,-66,-66.0,of America,,words
+15,1,10,1,"3,774.2",3774.2,- United States,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,10,2,"4,118.9",4118.9,- United States,,words
+15,1,10,3,-8,-8.0,- United States,,words
+15,1,10,4,"4,224.7",4224.7,- United States,Preceding / Quarter,words
+15,1,10,5,-11,-11.0,- United States,,words
+15,1,11,1,Power,,,,words
+15,1,11,2,341.7,341.7,Power,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,11,3,482.3,482.3,Power,,words
+15,1,11,4,-29,-29.0,Power,,words
+15,1,11,5,457.9,457.9,Power,Preceding / Quarter,words
+15,1,11,6,-25,-25.0,Power,,words
+15,1,12,1,Plantation,,,,words
+15,1,12,2,248.4,248.4,Plantation,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,12,3,253.6,253.6,Plantation,,words
+15,1,12,4,-2,-2.0,Plantation,,words
+15,1,12,5,290.5,290.5,Plantation,Preceding / Quarter,words
+15,1,12,6,-14,-14.0,Plantation,,words
+15,1,13,1,Property,,,,words
+15,1,13,2,40.6,40.6,Property,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,13,3,21.6,21.6,Property,,words
+15,1,13,4,+88,88.0,Property,,words
+15,1,13,5,74.8,74.8,Property,Preceding / Quarter,words
+15,1,13,6,-46,-46.0,Property,,words
+15,1,14,1,Oil & Gas,,,,words
+15,1,14,2,-,,,,words
+15,1,14,3,-,,,,words
+15,1,14,4,-,,,,words
+15,1,14,5,-,,,,words
+15,1,14,6,-,,,,words
+15,1,15,1,Investments & Others,,,,words
+15,1,15,2,16.2,16.2,Investments & Others,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,15,3,12.8,12.8,Investments & Others,,words
+15,1,15,4,+27,27.0,Investments & Others,,words
+15,1,15,5,15.2,15.2,Investments & Others,Preceding / Quarter,words
+15,1,15,6,+7,7.0,Investments & Others,,words
+15,1,16,1,"4,421.1",4421.1,Oil & Gas - - - - -,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,16,2,"4,889.2",4889.2,Oil & Gas - - - - -,,words
+15,1,16,3,-10,-10.0,Oil & Gas - - - - -,,words
+15,1,16,4,"5,063.1",5063.1,Oil & Gas - - - - -,Preceding / Quarter,words
+15,1,16,5,-13,-13.0,Oil & Gas - - - - -,,words
+15,1,17,1,Profit before tax,,,,words
+15,1,18,1,Leisure & Hospitality,,,,words
+15,1,19,1,-,,,,words
+15,1,19,2,Malaysia,,,,words
+15,1,19,3,586.8,586.8,- Malaysia,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,19,4,663.1,663.1,- Malaysia,,words
+15,1,19,5,-12,-12.0,- Malaysia,,words
+15,1,19,6,687.4,687.4,- Malaysia,Preceding / Quarter,words
+15,1,19,7,-15,-15.0,- Malaysia,,words
+15,1,20,1,-,,,,words
+15,1,20,2,Singapore,,,,words
+15,1,20,3,930.8,930.8,- Singapore,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,20,4,"1,283.4",1283.4,- Singapore,,words
+15,1,20,5,-27,-27.0,- Singapore,,words
+15,1,20,6,974.2,974.2,- Singapore,Preceding / Quarter,words
+15,1,20,7,-4,-4.0,- Singapore,,words
+15,1,21,1,-,,,,words
+15,1,21,2,United Kingdom,,,,words
+15,1,21,3,34.4,34.4,- United Kingdom,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,21,4,75.8,75.8,- United Kingdom,,words
+15,1,21,5,-55,-55.0,- United Kingdom,,words
+15,1,21,6,60.1,60.1,- United Kingdom,Preceding / Quarter,words
+15,1,21,7,-43,-43.0,- United Kingdom,,words
+15,1,22,1,-,,,,words
+15,1,22,2,United States,,,,words
+15,1,23,1,of America,,,,words
+15,1,23,2,1.3,1.3,of America,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,23,3,13.4,13.4,of America,,words
+15,1,23,4,-90,-90.0,of America,,words
+15,1,23,5,(17.3),-17.3,of America,Preceding / Quarter,words
+15,1,23,6,>100,,,,words
+15,1,24,1,"1,553.3",1553.3,- United States,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,24,2,"2,035.7",2035.7,- United States,,words
+15,1,24,3,-24,-24.0,- United States,,words
+15,1,24,4,"1,704.4",1704.4,- United States,Preceding / Quarter,words
+15,1,24,5,-9,-9.0,- United States,,words
+15,1,25,1,Power,,,,words
+15,1,25,2,125.3,125.3,Power,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,25,3,210.4,210.4,Power,,words
+15,1,25,4,-40,-40.0,Power,,words
+15,1,25,5,157.1,157.1,Power,Preceding / Quarter,words
+15,1,25,6,-20,-20.0,Power,,words
+15,1,26,1,Plantation,,,,words
+15,1,26,2,98.5,98.5,Plantation,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,26,3,136.4,136.4,Plantation,,words
+15,1,26,4,-28,-28.0,Plantation,,words
+15,1,26,5,124.1,124.1,Plantation,Preceding / Quarter,words
+15,1,26,6,-21,-21.0,Plantation,,words
+15,1,27,1,Property,,,,words
+15,1,27,2,20.3,20.3,Property,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,27,3,6.0,6.0,Property,,words
+15,1,27,4,>100,,,,words
+15,1,27,5,16.3,16.3,Property,Preceding / Quarter,words
+15,1,27,6,+25,25.0,Property,,words
+15,1,28,1,Oil & Gas,,,,words
+15,1,28,2,(14.8),-14.8,Oil & Gas,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,28,3,(24.4),-24.4,Oil & Gas,,words
+15,1,28,4,-39,-39.0,Oil & Gas,,words
+15,1,28,5,(22.5),-22.5,Oil & Gas,Preceding / Quarter,words
+15,1,28,6,-34,-34.0,Oil & Gas,,words
+15,1,29,1,Investments & Others,,,,words
+15,1,29,2,15.7,15.7,Investments & Others,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,29,3,42.5,42.5,Investments & Others,,words
+15,1,29,4,-63,-63.0,Investments & Others,,words
+15,1,29,5,(22.3),-22.3,Investments & Others,Preceding / Quarter,words
+15,1,29,6,>100,,,,words
+15,1,30,1,Adjusted EBITDA,,,,words
+15,1,30,2,"1,798.3",1798.3,Adjusted EBITDA,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,30,3,"2,406.6",2406.6,Adjusted EBITDA,,words
+15,1,30,4,-25,-25.0,Adjusted EBITDA,,words
+15,1,30,5,"1,957.1",1957.1,Adjusted EBITDA,Preceding / Quarter,words
+15,1,30,6,-8,-8.0,Adjusted EBITDA,,words
+15,1,31,1,Net fair value (loss)/gain,,,,words
+15,1,32,1,on derivative financial,,,,words
+15,1,33,1,instruments,,,,words
+15,1,33,2,(15.2),-15.2,instruments,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,33,3,2.7,2.7,instruments,,words
+15,1,33,4,>100,,,,words
+15,1,33,5,64.4,64.4,instruments,Preceding / Quarter,words
+15,1,33,6,>100,,,,words
+15,1,34,1,Net fair value gain/(loss),,,,words
+15,1,35,1,on financial assets,,,,words
+15,1,36,1,at fair value through,,,,words
+15,1,37,1,profit or loss,,,,words
+15,1,37,2,5.9,5.9,profit or loss,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,37,3,(2.2),-2.2,profit or loss,,words
+15,1,37,4,>100,,,,words
+15,1,37,5,4.3,4.3,profit or loss,Preceding / Quarter,words
+15,1,37,6,+37,37.0,profit or loss,,words
+15,1,38,1,Gain on disposal of available-,,,,words
+15,1,39,1,for-sale financial assets,,,,words
+15,1,39,2,0.7,0.7,for-sale financial assets,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,39,3,-,,,,words
+15,1,39,4,NM,,,,words
+15,1,39,5,5.2,5.2,for-sale financial assets,Preceding / Quarter,words
+15,1,39,6,-87,-87.0,for-sale financial assets,,words
+15,1,40,1,Reversal of previously,,,,words
+15,1,41,1,recognised impairment loss,,,,words
+15,1,41,2,-,,,,words
+15,1,41,3,-,,,,words
+15,1,41,4,-,,,,words
+15,1,41,5,308.6,308.6,recognised impairment loss - - -,Preceding / Quarter,words
+15,1,41,6,-100,-100.0,recognised impairment loss - - -,,words
+15,1,42,1,Impairment losses,,,,words
+15,1,42,2,(2.8),-2.8,Impairment losses,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,42,3,(3.9),-3.9,Impairment losses,,words
+15,1,42,4,-28,-28.0,Impairment losses,,words
+15,1,42,5,(9.9),-9.9,Impairment losses,Preceding / Quarter,words
+15,1,42,6,-72,-72.0,Impairment losses,,words
+15,1,43,1,Others,,,,words
+15,1,43,2,(36.5),-36.5,Others,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,43,3,(76.9),-76.9,Others,,words
+15,1,43,4,-53,-53.0,Others,,words
+15,1,43,5,(59.3),-59.3,Others,Preceding / Quarter,words
+15,1,43,6,-38,-38.0,Others,,words
+15,1,44,1,EBITDA,,,,words
+15,1,44,2,"1,924.7",1924.7,EBITDA,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,44,3,"2,326.3",2326.3,EBITDA,,words
+15,1,44,4,-17,-17.0,EBITDA,,words
+15,1,44,5,"2,270.4",2270.4,EBITDA,Preceding / Quarter,words
+15,1,44,6,-15,-15.0,EBITDA,,words
+15,1,45,1,Depreciation and,,,,words
+15,1,46,1,amortisation,,,,words
+15,1,46,2,(407.1),-407.1,amortisation,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,46,3,(324.7),-324.7,amortisation,,words
+15,1,46,4,+25,25.0,amortisation,,words
+15,1,46,5,(374.4),-374.4,amortisation,Preceding / Quarter,words
+15,1,46,6,+9,9.0,amortisation,,words
+15,1,47,1,Interest income,,,,words
+15,1,47,2,44.8,44.8,Interest income,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,47,3,37.1,37.1,Interest income,,words
+15,1,47,4,+21,21.0,Interest income,,words
+15,1,47,5,49.4,49.4,Interest income,Preceding / Quarter,words
+15,1,47,6,-9,-9.0,Interest income,,words
+15,1,48,1,Finance cost,,,,words
+15,1,48,2,(111.4),-111.4,Finance cost,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,48,3,(149.0),-149.0,Finance cost,,words
+15,1,48,4,-25,-25.0,Finance cost,,words
+15,1,48,5,(116.0),-116.0,Finance cost,Preceding / Quarter,words
+15,1,48,6,-4,-4.0,Finance cost,,words
+15,1,49,1,Share of results in,,,,words
+15,1,50,1,jointly controlled,,,,words
+15,1,51,1,entities and associates,,,,words
+15,1,51,2,5.9,5.9,entities and associates,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,51,3,0.9,0.9,entities and associates,,words
+15,1,51,4,>100,,,,words
+15,1,51,5,(27.0),-27.0,entities and associates,Preceding / Quarter,words
+15,1,51,6,>100,,,,words
+15,1,52,1,Profit before tax,,,,words
+15,1,52,2,"1,456.9",1456.9,Profit before tax,The comparison of the results are tabulated below: / Current Quarter,words
+15,1,52,3,"1,890.6",1890.6,Profit before tax,,words
+15,1,52,4,-23,-23.0,Profit before tax,,words
+15,1,52,5,"1,802.4",1802.4,Profit before tax,Preceding / Quarter,words
+15,1,52,6,-19,-19.0,Profit before tax,,words
+20,1,1,1,Short term borrowings,,,,words
+20,1,1,2,Secured,,,,words
+20,1,1,3,SGD,,,,words
+20,1,1,4,451.8,451.8,Short term borrowings Secured SGD,,words
+20,1,1,5,"1,101.6",1101.6,Short term borrowings Secured SGD,RM / Equivalent / ’million,words
+20,1,2,1,Secured,,,,words
+20,1,2,2,RMB,,,,words
+20,1,2,3,359.0,359.0,Secured RMB,,words
+20,1,2,4,175.2,175.2,Secured RMB,RM / Equivalent / ’million,words
+20,1,3,1,Secured,,,,words
+20,1,3,2,USD,,,,words
+20,1,3,3,46.0,46.0,Secured USD,,words
+20,1,3,4,141.6,141.6,Secured USD,RM / Equivalent / ’million,words
+20,1,4,1,Secured,,,,words
+20,1,4,2,GBP,,,,words
+20,1,4,3,0.1,0.1,Secured GBP,,words
+20,1,4,4,0.2,0.2,Secured GBP,RM / Equivalent / ’million,words
+20,1,5,1,Secured,,,,words
+20,1,5,2,IDR,,,,words
+20,1,5,3,551.8,551.8,Secured IDR,,words
+20,1,5,4,0.2,0.2,Secured IDR,RM / Equivalent / ’million,words
+20,1,6,1,Unsecured,,,,words
+20,1,6,2,SGD,,,,words
+20,1,6,3,110.0,110.0,Unsecured SGD,,words
+20,1,6,4,268.2,268.2,Unsecured SGD,RM / Equivalent / ’million,words
+20,1,7,1,Unsecured,,,,words
+20,1,7,2,GBP,,,,words
+20,1,7,3,8.3,8.3,Unsecured GBP,,words
+20,1,7,4,40.5,40.5,Unsecured GBP,RM / Equivalent / ’million,words
+20,1,8,1,Long term borrowings,,,,words
+20,1,8,2,Secured,,,,words
+20,1,8,3,SGD,,,,words
+20,1,8,4,"2,578.2",2578.2,Long term borrowings Secured SGD,,words
+20,1,8,5,"6,287.4",6287.4,Long term borrowings Secured SGD,RM / Equivalent / ’million,words
+20,1,9,1,Secured,,,,words
+20,1,9,2,USD,,,,words
+20,1,9,3,468.5,468.5,Secured USD,,words
+20,1,9,4,"1,441.4",1441.4,Secured USD,RM / Equivalent / ’million,words
+20,1,10,1,Secured,,,,words
+20,1,10,2,RMB,,,,words
+20,1,10,3,"1,357.2",1357.2,Secured RMB,,words
+20,1,10,4,662.2,662.2,Secured RMB,RM / Equivalent / ’million,words
+20,1,11,1,Secured,,,,words
+20,1,11,2,GBP,,,,words
+20,1,11,3,0.1,0.1,Secured GBP,,words
+20,1,11,4,0.7,0.7,Secured GBP,RM / Equivalent / ’million,words
+20,1,12,1,Unsecured,,,,words
+20,1,12,2,USD,,,,words
+20,1,12,3,296.3,296.3,Unsecured USD,,words
+20,1,12,4,911.7,911.7,Unsecured USD,RM / Equivalent / ’million,words
+20,1,13,1,Unsecured,,,,words
+20,1,13,2,GBP,,,,words
+20,1,13,3,36.4,36.4,Unsecured GBP,,words
+20,1,13,4,177.8,177.8,Unsecured GBP,RM / Equivalent / ’million,words
+20,1,14,1,Unsecured,,,,words
+20,1,14,2,RMB,,,,words
+20,1,14,3,300.0,300.0,Unsecured RMB,,words
+20,1,14,4,146.4,146.4,Unsecured RMB,RM / Equivalent / ’million,words
+20,1,15,1,Unsecured,,,,words
+20,1,15,2,SGD,,,,words
+20,1,15,3,43.7,43.7,Unsecured SGD,,words
+20,1,15,4,106.5,106.5,Unsecured SGD,RM / Equivalent / ’million,words
+22,1,1,1,Type of financial liability,,,,lines
+22,1,1,2,Current quarter fair value gain RM’million,,,,lines
+22,1,1,3,Basis of fair value measurement,,,,lines
+22,1,1,4,Reasons for the gain,,,,lines
+22,1,2,1,Interest Rate Swaps,,,,lines
+22,1,2,2,1.8,1.8,Interest Rate Swaps,,lines
+22,1,2,3,Interest rate differential between the fixed contracted rate and the current market fixing rate,,,,lines
+22,1,2,4,The interest rates differential between the contracted rate and the market rate up to the respective maturity dates of the contracts have moved favourably for the Group,,,,lines
+22,1,3,1,Forward Foreign Currency Exchange Contracts,,,,lines
+22,1,3,2,0.7,0.7,Forward Foreign Currency Exchange Contracts,,lines
+22,1,3,3,Foreign exchange differential between the contracted rate and the market forward rate,,,,lines
+22,1,3,4,The foreign exchange rates differential between the contracted rate and the market forward rate from the last measurement date or contract date up to the respective maturity dates of the forward contracts have moved favourably for the Group,,,,lines
+24,1,1,1,-,,,,words
+24,1,1,2,Realised,,,,words
+24,1,1,3,"24,953.2",24953.2,- Realised,current quarter / RM’million,words
+24,1,1,4,"24,117.3",24117.3,- Realised,year / RM’million,words
+24,1,2,1,-,,,,words
+24,1,2,2,Unrealised,,,,words
+24,1,2,3,"(1,626.2)",-1626.2,- Unrealised,current quarter / RM’million,words
+24,1,2,4,"(1,594.8)",-1594.8,- Unrealised,year / RM’million,words
+24,1,3,1,"23,327.0",23327.0,,current quarter / RM’million,words
+24,1,3,2,"22,522.5",22522.5,,year / RM’million,words
+24,1,4,1,Total share of retained profits/,,,,words
+24,1,5,1,(accumulated losses) from associated,,,,words
+24,1,6,1,companies:,,,,words
+24,1,7,1,-,,,,words
+24,1,7,2,Realised,,,,words
+24,1,7,3,376.0,376.0,- Realised,current quarter / RM’million,words
+24,1,7,4,383.0,383.0,- Realised,year / RM’million,words
+24,1,8,1,-,,,,words
+24,1,8,2,Unrealised,,,,words
+24,1,8,3,(17.0),-17.0,- Unrealised,current quarter / RM’million,words
+24,1,8,4,(30.2),-30.2,- Unrealised,year / RM’million,words
+24,1,9,1,Total share of accumulated losses from,,,,words
+24,1,10,1,jointly controlled entities:,,,,words
+24,1,11,1,-,,,,words
+24,1,11,2,Realised,,,,words
+24,1,11,3,(48.5),-48.5,- Realised,current quarter / RM’million,words
+24,1,11,4,(52.7),-52.7,- Realised,year / RM’million,words
+24,1,12,1,"23,637.5",23637.5,jointly controlled entities:,current quarter / RM’million,words
+24,1,12,2,"22,822.6",22822.6,jointly controlled entities:,year / RM’million,words
+24,1,13,1,Less: Consolidation adjustments,,,,words
+24,1,13,2,"(6,726.5)",-6726.5,Less: Consolidation adjustments,current quarter / RM’million,words
+24,1,13,3,"(6,603.7)",-6603.7,Less: Consolidation adjustments,year / RM’million,words
+24,1,14,1,Total Group retained profits as per,,,,words
+24,1,15,1,consolidated accounts,,,,words
+24,1,15,2,"16,911.0",16911.0,consolidated accounts,current quarter / RM’million,words
+24,1,15,3,"16,218.9",16218.9,consolidated accounts,year / RM’million,words

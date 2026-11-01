@@ -1,0 +1,37 @@
+{
+  "records": 563,
+  "by_ticker": {
+    "GENM": 370,
+    "GENTING": 193
+  },
+  "by_source": {
+    "bursa_filing": 563
+  },
+  "by_category": {
+    "Change in the Interest of Substantial Shareholder Pursuant to Section 138 of CA 2016": 249,
+    "Changes in Director's Interest Pursuant to Section 219 of CA 2016": 99,
+    "General Announcement for PLC": 91,
+    "Dealings in Listed Securities (Chapter 14 of Listing Requirements)": 43,
+    "Financial Results": 16,
+    "Document Submission": 13,
+    "Listing Circular": 10,
+    "General Meeting": 8,
+    "Change in Risk Committee": 7,
+    "Change in Boardroom": 5,
+    "Change in Remuneration Committee": 5,
+    "Change in Audit Committee": 5,
+    "Entitlement(Notice of Book Closure)": 4,
+    "Change in Principal Officer": 2,
+    "Immediate Announcement on Shares Buy Back": 2,
+    "Notice of Shares Buy Back by a Company Pursuant to Section 127 (16) of CA 2016": 2,
+    "Take-over Offer": 1,
+    "Change in Nomination Committee": 1
+  },
+  "with_attachments": 67,
+  "attachment_count": 94,
+  "duplicate_native_ids": {},
+  "errors": [],
+  "date_min": "2024-11-25",
+  "date_max": "2026-10-26",
+  "body_chars": 992517
+}

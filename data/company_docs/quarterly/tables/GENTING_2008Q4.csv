@@ -1,0 +1,1224 @@
+page,table_index,row,col,value_text,value_number,row_label,col_label,strategy
+1,1,1,1,Revenue,,,,words
+1,1,1,2,"2,390,173",2390173.0,Revenue,YEAR / QUARTER / 31/12/2008 / RM’000,words
+1,1,1,3,"2,249,584",2249584.0,Revenue,PONDING / QUARTER / 31/12/2007 / RM’000,words
+1,1,1,4,"9,082,508",9082508.0,Revenue,YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+1,1,1,5,"8,483,821",8483821.0,Revenue,PONDING / PERIOD / 31/12/2007 / RM’000,words
+1,1,2,1,Cost of sales,,,,words
+1,1,2,2,"(1,481,812)",-1481812.0,Cost of sales,YEAR / QUARTER / 31/12/2008 / RM’000,words
+1,1,2,3,"(1,318,877)",-1318877.0,Cost of sales,PONDING / QUARTER / 31/12/2007 / RM’000,words
+1,1,2,4,"(5,537,940)",-5537940.0,Cost of sales,YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+1,1,2,5,"(5,005,447)",-5005447.0,Cost of sales,PONDING / PERIOD / 31/12/2007 / RM’000,words
+1,1,3,1,Gross profit,,,,words
+1,1,3,2,"908,361",908361.0,Gross profit,YEAR / QUARTER / 31/12/2008 / RM’000,words
+1,1,3,3,"930,707",930707.0,Gross profit,PONDING / QUARTER / 31/12/2007 / RM’000,words
+1,1,3,4,"3,544,568",3544568.0,Gross profit,YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+1,1,3,5,"3,478,374",3478374.0,Gross profit,PONDING / PERIOD / 31/12/2007 / RM’000,words
+1,1,4,1,Other income,,,,words
+1,1,5,1,- net gain on deemed disposal/,,,,words
+1,1,6,1,dilution of shareholdings,,,,words
+1,1,6,2,-,,,,words
+1,1,6,3,"43,461",43461.0,dilution of shareholdings -,PONDING / QUARTER / 31/12/2007 / RM’000,words
+1,1,6,4,"45,143",45143.0,dilution of shareholdings -,YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+1,1,6,5,"989,290",989290.0,dilution of shareholdings -,PONDING / PERIOD / 31/12/2007 / RM’000,words
+1,1,7,1,- gain on disposal of investment,,,,words
+1,1,8,1,- others,,,,words
+1,1,8,2,"103,456",103456.0,- others,YEAR / QUARTER / 31/12/2008 / RM’000,words
+1,1,8,3,"209,936",209936.0,- others,PONDING / QUARTER / 31/12/2007 / RM’000,words
+1,1,8,4,"373,344",373344.0,- others,YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+1,1,8,5,"561,559",561559.0,- others,PONDING / PERIOD / 31/12/2007 / RM’000,words
+1,1,9,1,Other expenses,,,,words
+1,1,9,2,"(283,658)",-283658.0,Other expenses,YEAR / QUARTER / 31/12/2008 / RM’000,words
+1,1,9,3,"(230,627)",-230627.0,Other expenses,PONDING / QUARTER / 31/12/2007 / RM’000,words
+1,1,9,4,"(855,141)",-855141.0,Other expenses,YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+1,1,9,5,"(620,339)",-620339.0,Other expenses,PONDING / PERIOD / 31/12/2007 / RM’000,words
+1,1,10,1,Profit from operations before,,,,words
+1,1,11,1,impairment losses,,,,words
+1,1,11,2,"728,159",728159.0,impairment losses,YEAR / QUARTER / 31/12/2008 / RM’000,words
+1,1,11,3,"953,477",953477.0,impairment losses,PONDING / QUARTER / 31/12/2007 / RM’000,words
+1,1,11,4,"3,107,914",3107914.0,impairment losses,YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+1,1,11,5,"4,745,945",4745945.0,impairment losses,PONDING / PERIOD / 31/12/2007 / RM’000,words
+1,1,12,1,Impairment losses (See Note (c) in,,,,words
+1,1,13,1,Part I of interim announcement),,,,words
+1,1,13,2,"(781,502)",-781502.0,Part I of interim announcement),YEAR / QUARTER / 31/12/2008 / RM’000,words
+1,1,13,3,-,,,,words
+1,1,13,4,"(1,178,028)",-1178028.0,Part I of interim announcement),YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+1,1,13,5,"(1,016,133)",-1016133.0,Part I of interim announcement),PONDING / PERIOD / 31/12/2007 / RM’000,words
+1,1,14,1,(Loss)/profit from operations,,,,words
+1,1,14,2,"(53,343)",-53343.0,(Loss)/profit from operations,YEAR / QUARTER / 31/12/2008 / RM’000,words
+1,1,14,3,"953,477",953477.0,(Loss)/profit from operations,PONDING / QUARTER / 31/12/2007 / RM’000,words
+1,1,14,4,"1,929,886",1929886.0,(Loss)/profit from operations,YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+1,1,14,5,"3,729,812",3729812.0,(Loss)/profit from operations,PONDING / PERIOD / 31/12/2007 / RM’000,words
+1,1,15,1,Finance cost,,,,words
+1,1,15,2,"(64,247)",-64247.0,Finance cost,YEAR / QUARTER / 31/12/2008 / RM’000,words
+1,1,15,3,"(76,272)",-76272.0,Finance cost,PONDING / QUARTER / 31/12/2007 / RM’000,words
+1,1,15,4,"(269,399)",-269399.0,Finance cost,YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+1,1,15,5,"(395,419)",-395419.0,Finance cost,PONDING / PERIOD / 31/12/2007 / RM’000,words
+1,1,16,1,Share of results in jointly,,,,words
+1,1,17,1,controlled entities and associates,,,,words
+1,1,17,2,"8,656",8656.0,controlled entities and associates,YEAR / QUARTER / 31/12/2008 / RM’000,words
+1,1,17,3,"32,400",32400.0,controlled entities and associates,PONDING / QUARTER / 31/12/2007 / RM’000,words
+1,1,17,4,"74,307",74307.0,controlled entities and associates,YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+1,1,17,5,"(20,865)",-20865.0,controlled entities and associates,PONDING / PERIOD / 31/12/2007 / RM’000,words
+2,1,1,1,before taxation,,,,words
+2,1,1,2,"(108,934)",-108934.0,before taxation,YEAR / QUARTER / 31/12/2008 / RM’000,words
+2,1,1,3,"909,605",909605.0,before taxation,PONDING / QUARTER / 31/12/2007 / RM’000,words
+2,1,1,4,"1,734,794",1734794.0,before taxation,YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+2,1,1,5,"3,394,509",3394509.0,before taxation,PONDING / PERIOD / 31/12/2007 / RM’000,words
+2,1,2,1,Taxation,,,,words
+2,1,2,2,"(190,937)",-190937.0,Taxation,YEAR / QUARTER / 31/12/2008 / RM’000,words
+2,1,2,3,"(147,730)",-147730.0,Taxation,PONDING / QUARTER / 31/12/2007 / RM’000,words
+2,1,2,4,"(751,375)",-751375.0,Taxation,YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+2,1,2,5,"(662,163)",-662163.0,Taxation,PONDING / PERIOD / 31/12/2007 / RM’000,words
+2,1,3,1,(Loss)/profit for the period from,,,,words
+2,1,4,1,continuing operations,,,,words
+2,1,4,2,"(299,871)",-299871.0,continuing operations,YEAR / QUARTER / 31/12/2008 / RM’000,words
+2,1,4,3,"761,875",761875.0,continuing operations,PONDING / QUARTER / 31/12/2007 / RM’000,words
+2,1,4,4,"983,419",983419.0,continuing operations,YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+2,1,4,5,"2,732,346",2732346.0,continuing operations,PONDING / PERIOD / 31/12/2007 / RM’000,words
+2,1,5,1,Discontinued operations:,,,,words
+2,1,6,1,Loss for the period from,,,,words
+2,1,7,1,discontinued operations,,,,words
+2,1,7,2,-,,,,words
+2,1,7,3,(555),-555.0,discontinued operations -,PONDING / QUARTER / 31/12/2007 / RM’000,words
+2,1,7,4,-,,,,words
+2,1,7,5,"(170,053)",-170053.0,discontinued operations -,PONDING / PERIOD / 31/12/2007 / RM’000,words
+2,1,8,1,(Loss)/profit for the period,,,,words
+2,1,8,2,"(299,871)",-299871.0,(Loss)/profit for the period,YEAR / QUARTER / 31/12/2008 / RM’000,words
+2,1,8,3,"761,320",761320.0,(Loss)/profit for the period,PONDING / QUARTER / 31/12/2007 / RM’000,words
+2,1,8,4,"983,419",983419.0,(Loss)/profit for the period,YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+2,1,8,5,"2,562,293",2562293.0,(Loss)/profit for the period,PONDING / PERIOD / 31/12/2007 / RM’000,words
+2,1,9,1,Attributable to:,,,,words
+2,1,10,1,Equity holders of the Company,,,,words
+2,1,10,2,"(120,784)",-120784.0,Equity holders of the Company,YEAR / QUARTER / 31/12/2008 / RM’000,words
+2,1,10,3,"514,442",514442.0,Equity holders of the Company,PONDING / QUARTER / 31/12/2007 / RM’000,words
+2,1,10,4,"569,296",569296.0,Equity holders of the Company,YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+2,1,10,5,"1,988,865",1988865.0,Equity holders of the Company,PONDING / PERIOD / 31/12/2007 / RM’000,words
+2,1,11,1,Minority interests,,,,words
+2,1,11,2,"(179,087)",-179087.0,Minority interests,YEAR / QUARTER / 31/12/2008 / RM’000,words
+2,1,11,3,"246,878",246878.0,Minority interests,PONDING / QUARTER / 31/12/2007 / RM’000,words
+2,1,11,4,"414,123",414123.0,Minority interests,YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+2,1,11,5,"573,428",573428.0,Minority interests,PONDING / PERIOD / 31/12/2007 / RM’000,words
+2,1,12,1,"(299,871)",-299871.0,Attributable to:,YEAR / QUARTER / 31/12/2008 / RM’000,words
+2,1,12,2,"761,320",761320.0,Attributable to:,PONDING / QUARTER / 31/12/2007 / RM’000,words
+2,1,12,3,"983,419",983419.0,Attributable to:,YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+2,1,12,4,"2,562,293",2562293.0,Attributable to:,PONDING / PERIOD / 31/12/2007 / RM’000,words
+2,1,13,1,Basic (loss)/earnings per share (sen),,,,words
+2,1,14,1,- from continuing operations,,,,words
+2,1,14,2,(3.27),-3.27,- from continuing operations,YEAR / QUARTER / 31/12/2008 / RM’000,words
+2,1,14,3,13.92,13.92,- from continuing operations,PONDING / QUARTER / 31/12/2007 / RM’000,words
+2,1,14,4,15.38,15.38,- from continuing operations,YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+2,1,14,5,58.30,58.3,- from continuing operations,PONDING / PERIOD / 31/12/2007 / RM’000,words
+2,1,15,1,- from discontinued operations,,,,words
+2,1,15,2,-,,,,words
+2,1,15,3,(0.01),-0.01,- from discontinued operations -,PONDING / QUARTER / 31/12/2007 / RM’000,words
+2,1,15,4,-,,,,words
+2,1,15,5,(4.49),-4.49,- from discontinued operations -,PONDING / PERIOD / 31/12/2007 / RM’000,words
+2,1,16,1,(3.27),-3.27,Basic (loss)/earnings per share (sen),YEAR / QUARTER / 31/12/2008 / RM’000,words
+2,1,16,2,13.91,13.91,Basic (loss)/earnings per share (sen),PONDING / QUARTER / 31/12/2007 / RM’000,words
+2,1,16,3,15.38,15.38,Basic (loss)/earnings per share (sen),YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+2,1,16,4,53.81,53.81,Basic (loss)/earnings per share (sen),PONDING / PERIOD / 31/12/2007 / RM’000,words
+2,1,17,1,Diluted (loss)/earnings per share (sen),,,,words
+2,1,18,1,- from continuing operations,,,,words
+2,1,18,2,(3.27),-3.27,- from continuing operations,YEAR / QUARTER / 31/12/2008 / RM’000,words
+2,1,18,3,13.84,13.84,- from continuing operations,PONDING / QUARTER / 31/12/2007 / RM’000,words
+2,1,18,4,15.32,15.32,- from continuing operations,YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+2,1,18,5,58.09,58.09,- from continuing operations,PONDING / PERIOD / 31/12/2007 / RM’000,words
+2,1,19,1,- from discontinued operations,,,,words
+2,1,19,2,-,,,,words
+2,1,19,3,(0.01),-0.01,- from discontinued operations -,PONDING / QUARTER / 31/12/2007 / RM’000,words
+2,1,19,4,-,,,,words
+2,1,19,5,(4.49),-4.49,- from discontinued operations -,PONDING / PERIOD / 31/12/2007 / RM’000,words
+2,1,20,1,(3.27),-3.27,Diluted (loss)/earnings per share (sen),YEAR / QUARTER / 31/12/2008 / RM’000,words
+2,1,20,2,13.83,13.83,Diluted (loss)/earnings per share (sen),PONDING / QUARTER / 31/12/2007 / RM’000,words
+2,1,20,3,15.32,15.32,Diluted (loss)/earnings per share (sen),YEAR- / TO-DATE / 31/12/2008 / RM’000,words
+2,1,20,4,53.60,53.6,Diluted (loss)/earnings per share (sen),PONDING / PERIOD / 31/12/2007 / RM’000,words
+3,1,1,1,"Property, plant and equipment",,,,words
+3,1,1,2,"10,691,610",10691610.0,"Property, plant and equipment",AS AT / 31 DEC 2008 / RM’000,words
+3,1,1,3,"8,903,018",8903018.0,"Property, plant and equipment",AS AT / 31 DEC 2007 / RM’000,words
+3,1,2,1,Land held for property development,,,,words
+3,1,2,2,"579,867",579867.0,Land held for property development,AS AT / 31 DEC 2008 / RM’000,words
+3,1,2,3,"495,299",495299.0,Land held for property development,AS AT / 31 DEC 2007 / RM’000,words
+3,1,3,1,Investment properties,,,,words
+3,1,3,2,"25,970",25970.0,Investment properties,AS AT / 31 DEC 2008 / RM’000,words
+3,1,3,3,"26,099",26099.0,Investment properties,AS AT / 31 DEC 2007 / RM’000,words
+3,1,4,1,Plantation development,,,,words
+3,1,4,2,"518,312",518312.0,Plantation development,AS AT / 31 DEC 2008 / RM’000,words
+3,1,4,3,"469,510",469510.0,Plantation development,AS AT / 31 DEC 2007 / RM’000,words
+3,1,5,1,Leasehold land use rights,,,,words
+3,1,5,2,"1,850,863",1850863.0,Leasehold land use rights,AS AT / 31 DEC 2008 / RM’000,words
+3,1,5,3,"1,767,864",1767864.0,Leasehold land use rights,AS AT / 31 DEC 2007 / RM’000,words
+3,1,6,1,Intangible assets,,,,words
+3,1,6,2,"3,523,099",3523099.0,Intangible assets,AS AT / 31 DEC 2008 / RM’000,words
+3,1,6,3,"4,689,416",4689416.0,Intangible assets,AS AT / 31 DEC 2007 / RM’000,words
+3,1,7,1,Exploration costs,,,,words
+3,1,7,2,"420,022",420022.0,Exploration costs,AS AT / 31 DEC 2008 / RM’000,words
+3,1,7,3,"312,500",312500.0,Exploration costs,AS AT / 31 DEC 2007 / RM’000,words
+3,1,8,1,Jointly controlled entities,,,,words
+3,1,8,2,"71,202",71202.0,Jointly controlled entities,AS AT / 31 DEC 2008 / RM’000,words
+3,1,8,3,"15,388",15388.0,Jointly controlled entities,AS AT / 31 DEC 2007 / RM’000,words
+3,1,9,1,Available-for-sale financial asset,,,,words
+3,1,9,2,"415,040",415040.0,Available-for-sale financial asset,AS AT / 31 DEC 2008 / RM’000,words
+3,1,9,3,"1,505,362",1505362.0,Available-for-sale financial asset,AS AT / 31 DEC 2007 / RM’000,words
+3,1,10,1,Associates,,,,words
+3,1,10,2,"622,134",622134.0,Associates,AS AT / 31 DEC 2008 / RM’000,words
+3,1,10,3,"575,189",575189.0,Associates,AS AT / 31 DEC 2007 / RM’000,words
+3,1,11,1,Other long term assets,,,,words
+3,1,11,2,"537,581",537581.0,Other long term assets,AS AT / 31 DEC 2008 / RM’000,words
+3,1,11,3,"396,116",396116.0,Other long term assets,AS AT / 31 DEC 2007 / RM’000,words
+3,1,12,1,Deferred tax assets,,,,words
+3,1,12,2,"61,683",61683.0,Deferred tax assets,AS AT / 31 DEC 2008 / RM’000,words
+3,1,12,3,"23,878",23878.0,Deferred tax assets,AS AT / 31 DEC 2007 / RM’000,words
+3,1,13,1,"19,317,383",19317383.0,,AS AT / 31 DEC 2008 / RM’000,words
+3,1,13,2,"19,179,639",19179639.0,,AS AT / 31 DEC 2007 / RM’000,words
+3,1,14,1,CURRENT ASSETS,,,,words
+3,1,15,1,Property development costs,,,,words
+3,1,15,2,"53,986",53986.0,Property development costs,AS AT / 31 DEC 2008 / RM’000,words
+3,1,15,3,"111,150",111150.0,Property development costs,AS AT / 31 DEC 2007 / RM’000,words
+3,1,16,1,Inventories,,,,words
+3,1,16,2,"376,075",376075.0,Inventories,AS AT / 31 DEC 2008 / RM’000,words
+3,1,16,3,"311,424",311424.0,Inventories,AS AT / 31 DEC 2007 / RM’000,words
+3,1,17,1,Trade and other receivables,,,,words
+3,1,17,2,"1,089,956",1089956.0,Trade and other receivables,AS AT / 31 DEC 2008 / RM’000,words
+3,1,17,3,"829,555",829555.0,Trade and other receivables,AS AT / 31 DEC 2007 / RM’000,words
+3,1,18,1,Amount due from jointly controlled entities and associates,,,,words
+3,1,18,2,"11,300",11300.0,Amount due from jointly controlled entities and associates,AS AT / 31 DEC 2008 / RM’000,words
+3,1,18,3,"1,776",1776.0,Amount due from jointly controlled entities and associates,AS AT / 31 DEC 2007 / RM’000,words
+3,1,19,1,Restricted cash,,,,words
+3,1,19,2,"135,421",135421.0,Restricted cash,AS AT / 31 DEC 2008 / RM’000,words
+3,1,19,3,"155,314",155314.0,Restricted cash,AS AT / 31 DEC 2007 / RM’000,words
+3,1,20,1,Short term investments,,,,words
+3,1,20,2,"2,529,386",2529386.0,Short term investments,AS AT / 31 DEC 2008 / RM’000,words
+3,1,20,3,"1,789,138",1789138.0,Short term investments,AS AT / 31 DEC 2007 / RM’000,words
+3,1,21,1,Bank balances and deposits,,,,words
+3,1,21,2,"6,937,177",6937177.0,Bank balances and deposits,AS AT / 31 DEC 2008 / RM’000,words
+3,1,21,3,"7,800,851",7800851.0,Bank balances and deposits,AS AT / 31 DEC 2007 / RM’000,words
+3,1,22,1,"11,133,301",11133301.0,CURRENT ASSETS,AS AT / 31 DEC 2008 / RM’000,words
+3,1,22,2,"10,999,208",10999208.0,CURRENT ASSETS,AS AT / 31 DEC 2007 / RM’000,words
+3,1,23,1,Total Assets,,,,words
+3,1,23,2,"30,450,684",30450684.0,Total Assets,AS AT / 31 DEC 2008 / RM’000,words
+3,1,23,3,"30,178,847",30178847.0,Total Assets,AS AT / 31 DEC 2007 / RM’000,words
+3,1,24,1,EQUITY AND LIABILITIES,,,,words
+3,1,25,1,Equity attributable to equity holders of the Company,,,,words
+3,1,26,1,Share capital,,,,words
+3,1,26,2,"370,382",370382.0,Share capital,AS AT / 31 DEC 2008 / RM’000,words
+3,1,26,3,"370,356",370356.0,Share capital,AS AT / 31 DEC 2007 / RM’000,words
+3,1,27,1,Reserves,,,,words
+3,1,27,2,"12,113,933",12113933.0,Reserves,AS AT / 31 DEC 2008 / RM’000,words
+3,1,27,3,"11,991,815",11991815.0,Reserves,AS AT / 31 DEC 2007 / RM’000,words
+3,1,28,1,Treasury shares,,,,words
+3,1,28,2,"(42,296)",-42296.0,Treasury shares,AS AT / 31 DEC 2008 / RM’000,words
+3,1,28,3,"(7,222)",-7222.0,Treasury shares,AS AT / 31 DEC 2007 / RM’000,words
+3,1,29,1,"12,442,019",12442019.0,Equity attributable to equity holders of the Company,AS AT / 31 DEC 2008 / RM’000,words
+3,1,29,2,"12,354,949",12354949.0,Equity attributable to equity holders of the Company,AS AT / 31 DEC 2007 / RM’000,words
+3,1,30,1,Minority interests,,,,words
+3,1,30,2,"8,971,360",8971360.0,Minority interests,AS AT / 31 DEC 2008 / RM’000,words
+3,1,30,3,"9,182,307",9182307.0,Minority interests,AS AT / 31 DEC 2007 / RM’000,words
+3,1,31,1,Total equity,,,,words
+3,1,31,2,"21,413,379",21413379.0,Total equity,AS AT / 31 DEC 2008 / RM’000,words
+3,1,31,3,"21,537,256",21537256.0,Total equity,AS AT / 31 DEC 2007 / RM’000,words
+3,1,32,1,NON-CURRENT LIABILITIES,,,,words
+3,1,33,1,Long term borrowings,,,,words
+3,1,33,2,"5,414,288",5414288.0,Long term borrowings,AS AT / 31 DEC 2008 / RM’000,words
+3,1,33,3,"4,029,373",4029373.0,Long term borrowings,AS AT / 31 DEC 2007 / RM’000,words
+3,1,34,1,Other long term liabilities,,,,words
+3,1,34,2,"190,857",190857.0,Other long term liabilities,AS AT / 31 DEC 2008 / RM’000,words
+3,1,34,3,"146,551",146551.0,Other long term liabilities,AS AT / 31 DEC 2007 / RM’000,words
+3,1,35,1,Deferred tax liabilities,,,,words
+3,1,35,2,"1,226,568",1226568.0,Deferred tax liabilities,AS AT / 31 DEC 2008 / RM’000,words
+3,1,35,3,"1,545,734",1545734.0,Deferred tax liabilities,AS AT / 31 DEC 2007 / RM’000,words
+3,1,36,1,"6,831,713",6831713.0,NON-CURRENT LIABILITIES,AS AT / 31 DEC 2008 / RM’000,words
+3,1,36,2,"5,721,658",5721658.0,NON-CURRENT LIABILITIES,AS AT / 31 DEC 2007 / RM’000,words
+3,1,37,1,CURRENT LIABILITIES,,,,words
+3,1,38,1,Trade and other payables,,,,words
+3,1,38,2,"1,512,157",1512157.0,Trade and other payables,AS AT / 31 DEC 2008 / RM’000,words
+3,1,38,3,"1,369,144",1369144.0,Trade and other payables,AS AT / 31 DEC 2007 / RM’000,words
+3,1,39,1,Short term borrowings,,,,words
+3,1,39,2,"442,335",442335.0,Short term borrowings,AS AT / 31 DEC 2008 / RM’000,words
+3,1,39,3,"1,292,713",1292713.0,Short term borrowings,AS AT / 31 DEC 2007 / RM’000,words
+3,1,40,1,Taxation,,,,words
+3,1,40,2,"251,100",251100.0,Taxation,AS AT / 31 DEC 2008 / RM’000,words
+3,1,40,3,"258,076",258076.0,Taxation,AS AT / 31 DEC 2007 / RM’000,words
+3,1,41,1,"2,205,592",2205592.0,CURRENT LIABILITIES,AS AT / 31 DEC 2008 / RM’000,words
+3,1,41,2,"2,919,933",2919933.0,CURRENT LIABILITIES,AS AT / 31 DEC 2007 / RM’000,words
+3,1,42,1,Total liabilities,,,,words
+3,1,42,2,"9,037,305",9037305.0,Total liabilities,AS AT / 31 DEC 2008 / RM’000,words
+3,1,42,3,"8,641,591",8641591.0,Total liabilities,AS AT / 31 DEC 2007 / RM’000,words
+3,1,43,1,TOTAL EQUITY AND LIABILITIES,,,,words
+3,1,43,2,"30,450,684",30450684.0,TOTAL EQUITY AND LIABILITIES,AS AT / 31 DEC 2008 / RM’000,words
+3,1,43,3,"30,178,847",30178847.0,TOTAL EQUITY AND LIABILITIES,AS AT / 31 DEC 2007 / RM’000,words
+3,1,44,1,NET ASSETS PER SHARE (RM),,,,words
+3,1,44,2,3.37,3.37,NET ASSETS PER SHARE (RM),AS AT / 31 DEC 2008 / RM’000,words
+3,1,44,3,3.34,3.34,NET ASSETS PER SHARE (RM),AS AT / 31 DEC 2007 / RM’000,words
+4,1,1,1,At 1 January 2008,,,,words
+4,1,1,2,"370,356",370356.0,At 1 January 2008,Share / Capital / RM’000,words
+4,1,1,3,"1,151,428",1151428.0,At 1 January 2008,Share / Premium / RM’000,words
+4,1,1,4,"305,620",305620.0,At 1 January 2008,Attributable to equity holders of the Company / Revaluation / Reserve / RM’000,words
+4,1,1,5,"170,279",170279.0,At 1 January 2008,Attributable to equity holders of the Company / Fair Value / Reserve / RM’000,words
+4,1,1,6,"(142,989)",-142989.0,At 1 January 2008,Attributable to equity holders of the Company / Other / Reserves / RM’000,words
+4,1,1,7,"10,507,477",10507477.0,At 1 January 2008,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+4,1,1,8,"(7,222)",-7222.0,At 1 January 2008,Treasury / Shares / RM’000,words
+4,1,1,9,"12,354,949",12354949.0,At 1 January 2008,Total / RM’000,words
+4,1,1,10,"9,182,307",9182307.0,At 1 January 2008,Minority / Interests / RM’000,words
+4,1,1,11,"21,537,256",21537256.0,At 1 January 2008,Total / Equity / RM’000,words
+4,1,2,1,Foreign exchange differences,,,,words
+4,1,3,1,recognised directly in equity,,,,words
+4,1,3,2,-,,,,words
+4,1,3,3,-,,,,words
+4,1,3,4,-,,,,words
+4,1,3,5,-,,,,words
+4,1,3,6,"(230,387)",-230387.0,recognised directly in equity - - - -,Attributable to equity holders of the Company / Other / Reserves / RM’000,words
+4,1,3,7,-,,,,words
+4,1,3,8,-,,,,words
+4,1,3,9,"(230,387)",-230387.0,recognised directly in equity - - - -,Total / RM’000,words
+4,1,3,10,"(261,814)",-261814.0,recognised directly in equity - - - -,Minority / Interests / RM’000,words
+4,1,3,11,"(492,201)",-492201.0,recognised directly in equity - - - -,Total / Equity / RM’000,words
+4,1,4,1,Effects arising from changes in composition of,,,,words
+4,1,5,1,the Group recognised directly in equity,,,,words
+4,1,5,2,-,,,,words
+4,1,5,3,-,,,,words
+4,1,5,4,-,,,,words
+4,1,5,5,-,,,,words
+4,1,5,6,"(23,662)",-23662.0,the Group recognised directly in equity - - - -,Attributable to equity holders of the Company / Other / Reserves / RM’000,words
+4,1,5,7,"184,681",184681.0,the Group recognised directly in equity - - - -,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+4,1,5,8,-,,,,words
+4,1,5,9,"161,019",161019.0,the Group recognised directly in equity - - - -,Total / RM’000,words
+4,1,5,10,"72,266",72266.0,the Group recognised directly in equity - - - -,Minority / Interests / RM’000,words
+4,1,5,11,"233,285",233285.0,the Group recognised directly in equity - - - -,Total / Equity / RM’000,words
+4,1,6,1,Available-for-sale financial asset,,,,words
+4,1,7,1,- effects of shareholding and,,,,words
+4,1,8,1,fair value movements,,,,words
+4,1,8,2,-,,,,words
+4,1,8,3,-,,,,words
+4,1,8,4,-,,,,words
+4,1,8,5,"(548,758)",-548758.0,fair value movements - - -,Attributable to equity holders of the Company / Fair Value / Reserve / RM’000,words
+4,1,8,6,-,,,,words
+4,1,8,7,-,,,,words
+4,1,8,8,-,,,,words
+4,1,8,9,"(548,758)",-548758.0,fair value movements - - -,Total / RM’000,words
+4,1,8,10,"(582,248)",-582248.0,fair value movements - - -,Minority / Interests / RM’000,words
+4,1,8,11,"(1,131,006)",-1131006.0,fair value movements - - -,Total / Equity / RM’000,words
+4,1,9,1,Changes in share of associates’ reserves,,,,words
+4,1,9,2,-,,,,words
+4,1,9,3,-,,,,words
+4,1,9,4,-,,,,words
+4,1,9,5,-,,,,words
+4,1,9,6,-,,,,words
+4,1,9,7,719,719.0,Changes in share of associates’ reserves - - - - -,Retained / Earnings / RM’000,words
+4,1,9,8,-,,,,words
+4,1,9,9,719,719.0,Changes in share of associates’ reserves - - - - -,Total / RM’000,words
+4,1,9,10,-,,,,words
+4,1,9,11,719,719.0,Changes in share of associates’ reserves - - - - -,Total / Equity / RM’000,words
+4,1,10,1,Others,,,,words
+4,1,10,2,-,,,,words
+4,1,10,3,-,,,,words
+4,1,10,4,"(2,222)",-2222.0,Others - -,Attributable to equity holders of the Company / Revaluation / Reserve / RM’000,words
+4,1,10,5,-,,,,words
+4,1,10,6,-,,,,words
+4,1,10,7,"(6,940)",-6940.0,Others - -,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+4,1,10,8,-,,,,words
+4,1,10,9,"(9,162)",-9162.0,Others - -,Total / RM’000,words
+4,1,10,10,"(7,668)",-7668.0,Others - -,Minority / Interests / RM’000,words
+4,1,10,11,"(16,830)",-16830.0,Others - -,Total / Equity / RM’000,words
+4,1,11,1,Net income/(expenses) recognised,,,,words
+4,1,12,1,directly in equity,,,,words
+4,1,12,2,-,,,,words
+4,1,12,3,-,,,,words
+4,1,12,4,"(2,222)",-2222.0,directly in equity - -,Attributable to equity holders of the Company / Revaluation / Reserve / RM’000,words
+4,1,12,5,"(548,758)",-548758.0,directly in equity - -,Attributable to equity holders of the Company / Fair Value / Reserve / RM’000,words
+4,1,12,6,"(254,049)",-254049.0,directly in equity - -,Attributable to equity holders of the Company / Other / Reserves / RM’000,words
+4,1,12,7,"178,460",178460.0,directly in equity - -,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+4,1,12,8,-,,,,words
+4,1,12,9,"(626,569)",-626569.0,directly in equity - -,Total / RM’000,words
+4,1,12,10,"(779,464)",-779464.0,directly in equity - -,Minority / Interests / RM’000,words
+4,1,12,11,"(1,406,033)",-1406033.0,directly in equity - -,Total / Equity / RM’000,words
+4,1,13,1,Profit for the financial year,,,,words
+4,1,13,2,-,,,,words
+4,1,13,3,-,,,,words
+4,1,13,4,-,,,,words
+4,1,13,5,-,,,,words
+4,1,13,6,-,,,,words
+4,1,13,7,"569,296",569296.0,Profit for the financial year - - - - -,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+4,1,13,8,-,,,,words
+4,1,13,9,"569,296",569296.0,Profit for the financial year - - - - -,Total / RM’000,words
+4,1,13,10,"414,123",414123.0,Profit for the financial year - - - - -,Minority / Interests / RM’000,words
+4,1,13,11,"983,419",983419.0,Profit for the financial year - - - - -,Total / Equity / RM’000,words
+4,1,14,1,Impairment loss charged to income statement,,,,words
+4,1,14,2,-,,,,words
+4,1,14,3,-,,,,words
+4,1,14,4,-,,,,words
+4,1,14,5,"378,479",378479.0,Impairment loss charged to income statement - - -,Attributable to equity holders of the Company / Fair Value / Reserve / RM’000,words
+4,1,14,6,-,,,,words
+4,1,14,7,-,,,,words
+4,1,14,8,-,,,,words
+4,1,14,9,"378,479",378479.0,Impairment loss charged to income statement - - -,Total / RM’000,words
+4,1,14,10,"403,023",403023.0,Impairment loss charged to income statement - - -,Minority / Interests / RM’000,words
+4,1,14,11,"781,502",781502.0,Impairment loss charged to income statement - - -,Total / Equity / RM’000,words
+4,1,15,1,Total recognised income and expense,,,,words
+4,1,16,1,for the financial year,,,,words
+4,1,16,2,-,,,,words
+4,1,16,3,-,,,,words
+4,1,16,4,"(2,222)",-2222.0,for the financial year - -,Attributable to equity holders of the Company / Revaluation / Reserve / RM’000,words
+4,1,16,5,"(170,279)",-170279.0,for the financial year - -,Attributable to equity holders of the Company / Fair Value / Reserve / RM’000,words
+4,1,16,6,"(254,049)",-254049.0,for the financial year - -,Attributable to equity holders of the Company / Other / Reserves / RM’000,words
+4,1,16,7,"747,756",747756.0,for the financial year - -,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+4,1,16,8,-,,,,words
+4,1,16,9,"321,206",321206.0,for the financial year - -,Total / RM’000,words
+4,1,16,10,"37,682",37682.0,for the financial year - -,Minority / Interests / RM’000,words
+4,1,16,11,"358,888",358888.0,for the financial year - -,Total / Equity / RM’000,words
+4,1,17,1,Effects arising from changes in composition of,,,,words
+4,1,18,1,the Group recognised in the income statement,,,,words
+4,1,18,2,-,,,,words
+4,1,18,3,-,,,,words
+4,1,18,4,-,,,,words
+4,1,18,5,-,,,,words
+4,1,18,6,-,,,,words
+4,1,18,7,-,,,,words
+4,1,18,8,-,,,,words
+4,1,18,9,-,,,,words
+4,1,18,10,"35,453",35453.0,the Group recognised in the income statement - - - - - - - -,Minority / Interests / RM’000,words
+4,1,18,11,"35,453",35453.0,the Group recognised in the income statement - - - - - - - -,Total / Equity / RM’000,words
+4,1,19,1,Effects of share-based payment,,,,words
+4,1,19,2,-,,,,words
+4,1,19,3,-,,,,words
+4,1,19,4,-,,,,words
+4,1,19,5,-,,,,words
+4,1,19,6,-,,,,words
+4,1,19,7,-,,,,words
+4,1,19,8,-,,,,words
+4,1,19,9,-,,,,words
+4,1,19,10,"5,265",5265.0,Effects of share-based payment - - - - - - - -,Minority / Interests / RM’000,words
+4,1,19,11,"5,265",5265.0,Effects of share-based payment - - - - - - - -,Total / Equity / RM’000,words
+4,1,20,1,Effects of issue of shares by subsidiaries,,,,words
+4,1,20,2,-,,,,words
+4,1,20,3,-,,,,words
+4,1,20,4,-,,,,words
+4,1,20,5,-,,,,words
+4,1,20,6,-,,,,words
+4,1,20,7,-,,,,words
+4,1,20,8,-,,,,words
+4,1,20,9,-,,,,words
+4,1,20,10,"155,012",155012.0,Effects of issue of shares by subsidiaries - - - - - - - -,Minority / Interests / RM’000,words
+4,1,20,11,"155,012",155012.0,Effects of issue of shares by subsidiaries - - - - - - - -,Total / Equity / RM’000,words
+4,1,21,1,Issue of shares,,,,words
+4,1,21,2,26,26.0,Issue of shares,Share / Capital / RM’000,words
+4,1,21,3,731,731.0,Issue of shares,Share / Premium / RM’000,words
+4,1,21,4,-,,,,words
+4,1,21,5,-,,,,words
+4,1,21,6,-,,,,words
+4,1,21,7,-,,,,words
+4,1,21,8,-,,,,words
+4,1,21,9,757,757.0,Issue of shares,Total / RM’000,words
+4,1,21,10,-,,,,words
+4,1,21,11,757,757.0,Issue of shares,Total / Equity / RM’000,words
+4,1,22,1,Buy-back of shares,,,,words
+4,1,22,2,-,,,,words
+4,1,22,3,-,,,,words
+4,1,22,4,-,,,,words
+4,1,22,5,-,,,,words
+4,1,22,6,-,,,,words
+4,1,22,7,-,,,,words
+4,1,22,8,"(35,074)",-35074.0,Buy-back of shares - - - - - -,Treasury / Shares / RM’000,words
+4,1,22,9,"(35,074)",-35074.0,Buy-back of shares - - - - - -,Total / RM’000,words
+4,1,22,10,"(120,515)",-120515.0,Buy-back of shares - - - - - -,Minority / Interests / RM’000,words
+4,1,22,11,"(155,589)",-155589.0,Buy-back of shares - - - - - -,Total / Equity / RM’000,words
+4,1,23,1,Dividends to minority shareholders,,,,words
+4,1,23,2,-,,,,words
+4,1,23,3,-,,,,words
+4,1,23,4,-,,,,words
+4,1,23,5,-,,,,words
+4,1,23,6,-,,,,words
+4,1,23,7,-,,,,words
+4,1,23,8,-,,,,words
+4,1,23,9,-,,,,words
+4,1,23,10,"(323,844)",-323844.0,Dividends to minority shareholders - - - - - - - -,Minority / Interests / RM’000,words
+4,1,23,11,"(323,844)",-323844.0,Dividends to minority shareholders - - - - - - - -,Total / Equity / RM’000,words
+4,1,24,1,Appropriation:,,,,words
+4,1,25,1,Final dividend paid for financial year,,,,words
+4,1,26,1,ended 31 December 2007,,,,words
+4,1,26,2,-,,,,words
+4,1,26,3,-,,,,words
+4,1,26,4,-,,,,words
+4,1,26,5,-,,,,words
+4,1,26,6,-,,,,words
+4,1,26,7,"(117,701)",-117701.0,ended 31 December 2007 - - - - -,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+4,1,26,8,-,,,,words
+4,1,26,9,"(117,701)",-117701.0,ended 31 December 2007 - - - - -,Total / RM’000,words
+4,1,26,10,-,,,,words
+4,1,26,11,"(117,701)",-117701.0,ended 31 December 2007 - - - - -,Total / Equity / RM’000,words
+4,1,27,1,Interim dividend paid for financial year,,,,words
+4,1,28,1,ended 31 December 2008,,,,words
+4,1,28,2,-,,,,words
+4,1,28,3,-,,,,words
+4,1,28,4,-,,,,words
+4,1,28,5,-,,,,words
+4,1,28,6,-,,,,words
+4,1,28,7,"(82,118)",-82118.0,ended 31 December 2008 - - - - -,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+4,1,28,8,-,,,,words
+4,1,28,9,"(82,118)",-82118.0,ended 31 December 2008 - - - - -,Total / RM’000,words
+4,1,28,10,-,,,,words
+4,1,28,11,"(82,118)",-82118.0,ended 31 December 2008 - - - - -,Total / Equity / RM’000,words
+4,1,29,1,Balance at 31 December 2008,,,,words
+4,1,29,2,"370,382",370382.0,Balance at 31 December 2008,Share / Capital / RM’000,words
+4,1,29,3,"1,152,159",1152159.0,Balance at 31 December 2008,Share / Premium / RM’000,words
+4,1,29,4,"303,398",303398.0,Balance at 31 December 2008,Attributable to equity holders of the Company / Revaluation / Reserve / RM’000,words
+4,1,29,5,-,,,,words
+4,1,29,6,"(397,038)",-397038.0,Balance at 31 December 2008,Attributable to equity holders of the Company / Other / Reserves / RM’000,words
+4,1,29,7,"11,055,414",11055414.0,Balance at 31 December 2008,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+4,1,29,8,"(42,296)",-42296.0,Balance at 31 December 2008,Treasury / Shares / RM’000,words
+4,1,29,9,"12,442,019",12442019.0,Balance at 31 December 2008,Total / RM’000,words
+4,1,29,10,"8,971,360",8971360.0,Balance at 31 December 2008,Minority / Interests / RM’000,words
+4,1,29,11,"21,413,379",21413379.0,Balance at 31 December 2008,Total / Equity / RM’000,words
+5,1,1,1,At 1 January 2007,,,,words
+5,1,1,2,"369,417",369417.0,At 1 January 2007,Share / Capital / RM’000,words
+5,1,1,3,"1,125,473",1125473.0,At 1 January 2007,Share / Premium / RM’000,words
+5,1,1,4,"307,024",307024.0,At 1 January 2007,Attributable to equity holders of the Company / Revaluation / Reserve / RM’000,words
+5,1,1,5,-,,,,words
+5,1,1,6,"(31,452)",-31452.0,At 1 January 2007,Attributable to equity holders of the Company / Other / Reserves / RM’000,words
+5,1,1,7,"9,524,198",9524198.0,At 1 January 2007,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+5,1,1,8,-,,,,words
+5,1,1,9,"11,294,660",11294660.0,At 1 January 2007,Total / RM’000,words
+5,1,1,10,"5,372,217",5372217.0,At 1 January 2007,Minority / Interest / RM’000,words
+5,1,1,11,"16,666,877",16666877.0,At 1 January 2007,Total / Equity / RM’000,words
+5,1,2,1,Foreign exchange differences,,,,words
+5,1,3,1,recognised directly in equity,,,,words
+5,1,3,2,-,,,,words
+5,1,3,3,-,,,,words
+5,1,3,4,-,,,,words
+5,1,3,5,-,,,,words
+5,1,3,6,"(102,461)",-102461.0,recognised directly in equity - - - -,Attributable to equity holders of the Company / Other / Reserves / RM’000,words
+5,1,3,7,-,,,,words
+5,1,3,8,-,,,,words
+5,1,3,9,"(102,461)",-102461.0,recognised directly in equity - - - -,Total / RM’000,words
+5,1,3,10,"(104,270)",-104270.0,recognised directly in equity - - - -,Minority / Interest / RM’000,words
+5,1,3,11,"(206,731)",-206731.0,recognised directly in equity - - - -,Total / Equity / RM’000,words
+5,1,4,1,Available-for-sale financial asset,,,,words
+5,1,5,1,- measurement at date of designation,,,,words
+5,1,5,2,-,,,,words
+5,1,5,3,-,,,,words
+5,1,5,4,-,,,,words
+5,1,5,5,"730,442",730442.0,- measurement at date of designation - - -,Attributable to equity holders of the Company / Fair Value / Reserve / RM’000,words
+5,1,5,6,-,,,,words
+5,1,5,7,-,,,,words
+5,1,5,8,-,,,,words
+5,1,5,9,"730,442",730442.0,- measurement at date of designation - - -,Total / RM’000,words
+5,1,5,10,"743,519",743519.0,- measurement at date of designation - - -,Minority / Interest / RM’000,words
+5,1,5,11,"1,473,961",1473961.0,- measurement at date of designation - - -,Total / Equity / RM’000,words
+5,1,6,1,- effects of shareholding movement,,,,words
+5,1,6,2,-,,,,words
+5,1,6,3,-,,,,words
+5,1,6,4,-,,,,words
+5,1,6,5,"(12,324)",-12324.0,- effects of shareholding movement - - -,Attributable to equity holders of the Company / Fair Value / Reserve / RM’000,words
+5,1,6,6,-,,,,words
+5,1,6,7,-,,,,words
+5,1,6,8,-,,,,words
+5,1,6,9,"(12,324)",-12324.0,- effects of shareholding movement - - -,Total / RM’000,words
+5,1,6,10,"12,324",12324.0,- effects of shareholding movement - - -,Minority / Interest / RM’000,words
+5,1,6,11,-,,,,words
+5,1,7,1,- fair value movement,,,,words
+5,1,7,2,-,,,,words
+5,1,7,3,-,,,,words
+5,1,7,4,-,,,,words
+5,1,7,5,"(547,839)",-547839.0,- fair value movement - - -,Attributable to equity holders of the Company / Fair Value / Reserve / RM’000,words
+5,1,7,6,-,,,,words
+5,1,7,7,-,,,,words
+5,1,7,8,-,,,,words
+5,1,7,9,"(547,839)",-547839.0,- fair value movement - - -,Total / RM’000,words
+5,1,7,10,"(576,618)",-576618.0,- fair value movement - - -,Minority / Interest / RM’000,words
+5,1,7,11,"(1,124,457)",-1124457.0,- fair value movement - - -,Total / Equity / RM’000,words
+5,1,8,1,Changes in share of associates’ reserves,,,,words
+5,1,8,2,-,,,,words
+5,1,8,3,-,,,,words
+5,1,8,4,-,,,,words
+5,1,8,5,-,,,,words
+5,1,8,6,"(9,076)",-9076.0,Changes in share of associates’ reserves - - - -,Attributable to equity holders of the Company / Other / Reserves / RM’000,words
+5,1,8,7,"13,397",13397.0,Changes in share of associates’ reserves - - - -,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+5,1,8,8,-,,,,words
+5,1,8,9,"4,321",4321.0,Changes in share of associates’ reserves - - - -,Total / RM’000,words
+5,1,8,10,"(4,645)",-4645.0,Changes in share of associates’ reserves - - - -,Minority / Interest / RM’000,words
+5,1,8,11,(324),-324.0,Changes in share of associates’ reserves - - - -,Total / Equity / RM’000,words
+5,1,9,1,Others,,,,words
+5,1,9,2,-,,,,words
+5,1,9,3,-,,,,words
+5,1,9,4,"(1,404)",-1404.0,Others - -,Attributable to equity holders of the Company / Revaluation / Reserve / RM’000,words
+5,1,9,5,-,,,,words
+5,1,9,6,-,,,,words
+5,1,9,7,"1,404",1404.0,Others - -,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+5,1,9,8,-,,,,words
+5,1,9,9,-,,,,words
+5,1,9,10,-,,,,words
+5,1,9,11,-,,,,words
+5,1,10,1,Net income/(expenses) recognised,,,,words
+5,1,11,1,directly in equity,,,,words
+5,1,11,2,-,,,,words
+5,1,11,3,-,,,,words
+5,1,11,4,"(1,404)",-1404.0,directly in equity - -,Attributable to equity holders of the Company / Revaluation / Reserve / RM’000,words
+5,1,11,5,"170,279",170279.0,directly in equity - -,Attributable to equity holders of the Company / Fair Value / Reserve / RM’000,words
+5,1,11,6,"(111,537)",-111537.0,directly in equity - -,Attributable to equity holders of the Company / Other / Reserves / RM’000,words
+5,1,11,7,"14,801",14801.0,directly in equity - -,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+5,1,11,8,-,,,,words
+5,1,11,9,"72,139",72139.0,directly in equity - -,Total / RM’000,words
+5,1,11,10,"70,310",70310.0,directly in equity - -,Minority / Interest / RM’000,words
+5,1,11,11,"142,449",142449.0,directly in equity - -,Total / Equity / RM’000,words
+5,1,12,1,Profit for the financial year,,,,words
+5,1,12,2,-,,,,words
+5,1,12,3,-,,,,words
+5,1,12,4,-,,,,words
+5,1,12,5,-,,,,words
+5,1,12,6,-,,,,words
+5,1,12,7,"1,988,865",1988865.0,Profit for the financial year - - - - -,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+5,1,12,8,-,,,,words
+5,1,12,9,"1,988,865",1988865.0,Profit for the financial year - - - - -,Total / RM’000,words
+5,1,12,10,"573,428",573428.0,Profit for the financial year - - - - -,Minority / Interest / RM’000,words
+5,1,12,11,"2,562,293",2562293.0,Profit for the financial year - - - - -,Total / Equity / RM’000,words
+5,1,13,1,Total recognised income and expense,,,,words
+5,1,14,1,for the financial year,,,,words
+5,1,14,2,-,,,,words
+5,1,14,3,-,,,,words
+5,1,14,4,"(1,404)",-1404.0,for the financial year - -,Attributable to equity holders of the Company / Revaluation / Reserve / RM’000,words
+5,1,14,5,"170,279",170279.0,for the financial year - -,Attributable to equity holders of the Company / Fair Value / Reserve / RM’000,words
+5,1,14,6,"(111,537)",-111537.0,for the financial year - -,Attributable to equity holders of the Company / Other / Reserves / RM’000,words
+5,1,14,7,"2,003,666",2003666.0,for the financial year - -,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+5,1,14,8,-,,,,words
+5,1,14,9,"2,061,004",2061004.0,for the financial year - -,Total / RM’000,words
+5,1,14,10,"643,738",643738.0,for the financial year - -,Minority / Interest / RM’000,words
+5,1,14,11,"2,704,742",2704742.0,for the financial year - -,Total / Equity / RM’000,words
+5,1,15,1,Effects arising from changes in composition of,,,,words
+5,1,16,1,the Group,,,,words
+5,1,16,2,-,,,,words
+5,1,16,3,-,,,,words
+5,1,16,4,-,,,,words
+5,1,16,5,-,,,,words
+5,1,16,6,-,,,,words
+5,1,16,7,-,,,,words
+5,1,16,8,-,,,,words
+5,1,16,9,-,,,,words
+5,1,16,10,"54,077",54077.0,the Group - - - - - - - -,Minority / Interest / RM’000,words
+5,1,16,11,"54,077",54077.0,the Group - - - - - - - -,Total / Equity / RM’000,words
+5,1,17,1,Effects of share-based payment,,,,words
+5,1,17,2,-,,,,words
+5,1,17,3,-,,,,words
+5,1,17,4,-,,,,words
+5,1,17,5,-,,,,words
+5,1,17,6,-,,,,words
+5,1,17,7,-,,,,words
+5,1,17,8,-,,,,words
+5,1,17,9,-,,,,words
+5,1,17,10,"1,498",1498.0,Effects of share-based payment - - - - - - - -,Minority / Interest / RM’000,words
+5,1,17,11,"1,498",1498.0,Effects of share-based payment - - - - - - - -,Total / Equity / RM’000,words
+5,1,18,1,Effects of issue of shares by subsidiaries,,,,words
+5,1,18,2,-,,,,words
+5,1,18,3,-,,,,words
+5,1,18,4,-,,,,words
+5,1,18,5,-,,,,words
+5,1,18,6,-,,,,words
+5,1,18,7,"(28,759)",-28759.0,Effects of issue of shares by subsidiaries - - - - -,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+5,1,18,8,-,,,,words
+5,1,18,9,"(28,759)",-28759.0,Effects of issue of shares by subsidiaries - - - - -,Total / RM’000,words
+5,1,18,10,"3,759,362",3759362.0,Effects of issue of shares by subsidiaries - - - - -,Minority / Interest / RM’000,words
+5,1,18,11,"3,730,603",3730603.0,Effects of issue of shares by subsidiaries - - - - -,Total / Equity / RM’000,words
+5,1,19,1,Issue of shares,,,,words
+5,1,19,2,939,939.0,Issue of shares,Share / Capital / RM’000,words
+5,1,19,3,"25,955",25955.0,Issue of shares,Share / Premium / RM’000,words
+5,1,19,4,-,,,,words
+5,1,19,5,-,,,,words
+5,1,19,6,-,,,,words
+5,1,19,7,-,,,,words
+5,1,19,8,-,,,,words
+5,1,19,9,"26,894",26894.0,Issue of shares,Total / RM’000,words
+5,1,19,10,-,,,,words
+5,1,19,11,"26,894",26894.0,Issue of shares,Total / Equity / RM’000,words
+5,1,20,1,Buy-back of shares,,,,words
+5,1,20,2,-,,,,words
+5,1,20,3,-,,,,words
+5,1,20,4,-,,,,words
+5,1,20,5,-,,,,words
+5,1,20,6,-,,,,words
+5,1,20,7,-,,,,words
+5,1,20,8,"(7,222)",-7222.0,Buy-back of shares - - - - - -,Treasury / Shares / RM’000,words
+5,1,20,9,"(7,222)",-7222.0,Buy-back of shares - - - - - -,Total / RM’000,words
+5,1,20,10,"(324,472)",-324472.0,Buy-back of shares - - - - - -,Minority / Interest / RM’000,words
+5,1,20,11,"(331,694)",-331694.0,Buy-back of shares - - - - - -,Total / Equity / RM’000,words
+5,1,21,1,Dividend paid to minority shareholders,,,,words
+5,1,21,2,-,,,,words
+5,1,21,3,-,,,,words
+5,1,21,4,-,,,,words
+5,1,21,5,-,,,,words
+5,1,21,6,-,,,,words
+5,1,21,7,-,,,,words
+5,1,21,8,-,,,,words
+5,1,21,9,-,,,,words
+5,1,21,10,"(324,113)",-324113.0,Dividend paid to minority shareholders - - - - - - - -,Minority / Interest / RM’000,words
+5,1,21,11,"(324,113)",-324113.0,Dividend paid to minority shareholders - - - - - - - -,Total / Equity / RM’000,words
+5,1,22,1,Appropriation:,,,,words
+5,1,23,1,Final dividend paid for financial year ended 31,,,,words
+5,1,24,1,December 2006,,,,words
+5,1,24,2,-,,,,words
+5,1,24,3,-,,,,words
+5,1,24,4,-,,,,words
+5,1,24,5,-,,,,words
+5,1,24,6,-,,,,words
+5,1,24,7,"(107,939)",-107939.0,December 2006 - - - - -,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+5,1,24,8,-,,,,words
+5,1,24,9,"(107,939)",-107939.0,December 2006 - - - - -,Total / RM’000,words
+5,1,24,10,-,,,,words
+5,1,24,11,"(107,939)",-107939.0,December 2006 - - - - -,Total / Equity / RM’000,words
+5,1,25,1,Interim dividend paid for financial,,,,words
+5,1,26,1,year ended 31 December 2007,,,,words
+5,1,26,2,-,,,,words
+5,1,26,3,-,,,,words
+5,1,26,4,-,,,,words
+5,1,26,5,-,,,,words
+5,1,26,6,-,,,,words
+5,1,26,7,"(72,844)",-72844.0,year ended 31 December 2007 - - - - -,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+5,1,26,8,-,,,,words
+5,1,26,9,"(72,844)",-72844.0,year ended 31 December 2007 - - - - -,Total / RM’000,words
+5,1,26,10,-,,,,words
+5,1,26,11,"(72,844)",-72844.0,year ended 31 December 2007 - - - - -,Total / Equity / RM’000,words
+5,1,27,1,Special dividend paid,,,,words
+5,1,27,2,-,,,,words
+5,1,27,3,-,,,,words
+5,1,27,4,-,,,,words
+5,1,27,5,-,,,,words
+5,1,27,6,-,,,,words
+5,1,27,7,"(810,845)",-810845.0,Special dividend paid - - - - -,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+5,1,27,8,-,,,,words
+5,1,27,9,"(810,845)",-810845.0,Special dividend paid - - - - -,Total / RM’000,words
+5,1,27,10,-,,,,words
+5,1,27,11,"(810,845)",-810845.0,Special dividend paid - - - - -,Total / Equity / RM’000,words
+5,1,28,1,Balance at 31 December 2007,,,,words
+5,1,28,2,"370,356",370356.0,Balance at 31 December 2007,Share / Capital / RM’000,words
+5,1,28,3,"1,151,428",1151428.0,Balance at 31 December 2007,Share / Premium / RM’000,words
+5,1,28,4,"305,620",305620.0,Balance at 31 December 2007,Attributable to equity holders of the Company / Revaluation / Reserve / RM’000,words
+5,1,28,5,"170,279",170279.0,Balance at 31 December 2007,Attributable to equity holders of the Company / Fair Value / Reserve / RM’000,words
+5,1,28,6,"(142,989)",-142989.0,Balance at 31 December 2007,Attributable to equity holders of the Company / Other / Reserves / RM’000,words
+5,1,28,7,"10,507,477",10507477.0,Balance at 31 December 2007,Attributable to equity holders of the Company / Retained / Earnings / RM’000,words
+5,1,28,8,"(7,222)",-7222.0,Balance at 31 December 2007,Treasury / Shares / RM’000,words
+5,1,28,9,"12,354,949",12354949.0,Balance at 31 December 2007,Total / RM’000,words
+5,1,28,10,"9,182,307",9182307.0,Balance at 31 December 2007,Minority / Interest / RM’000,words
+5,1,28,11,"21,537,256",21537256.0,Balance at 31 December 2007,Total / Equity / RM’000,words
+6,1,1,1,Profit from ordinary activities before taxation,,,,words
+6,1,1,2,"1,734,794",1734794.0,Profit from ordinary activities before taxation,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,1,3,"3,394,509",3394509.0,Profit from ordinary activities before taxation,PERIOD / 31/12/2007 / RM’000,words
+6,1,2,1,Adjustments for:,,,,words
+6,1,3,1,Impairment losses,,,,words
+6,1,3,2,"1,178,028",1178028.0,Impairment losses,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,3,3,"1,016,133",1016133.0,Impairment losses,PERIOD / 31/12/2007 / RM’000,words
+6,1,4,1,"Depreciation of property, plant and equipment (“PPE”)",,,,words
+6,1,4,2,"624,516",624516.0,"Depreciation of property, plant and equipment (“PPE”)",YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,4,3,"583,802",583802.0,"Depreciation of property, plant and equipment (“PPE”)",PERIOD / 31/12/2007 / RM’000,words
+6,1,5,1,Finance cost,,,,words
+6,1,5,2,"269,399",269399.0,Finance cost,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,5,3,"395,419",395419.0,Finance cost,PERIOD / 31/12/2007 / RM’000,words
+6,1,6,1,Allowance for diminution in value of short term investment,,,,words
+6,1,6,2,"62,073",62073.0,Allowance for diminution in value of short term investment,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,6,3,"9,647",9647.0,Allowance for diminution in value of short term investment,PERIOD / 31/12/2007 / RM’000,words
+6,1,7,1,Net bad debts written off/(recovered),,,,words
+6,1,7,2,"52,234",52234.0,Net bad debts written off/(recovered),YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,7,3,(124),-124.0,Net bad debts written off/(recovered),PERIOD / 31/12/2007 / RM’000,words
+6,1,8,1,PPE written off,,,,words
+6,1,8,2,"10,331",10331.0,PPE written off,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,8,3,"1,661",1661.0,PPE written off,PERIOD / 31/12/2007 / RM’000,words
+6,1,9,1,Provision for retirement gratuities,,,,words
+6,1,9,2,"6,435",6435.0,Provision for retirement gratuities,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,9,3,"22,012",22012.0,Provision for retirement gratuities,PERIOD / 31/12/2007 / RM’000,words
+6,1,10,1,Interest income,,,,words
+6,1,10,2,"(215,540)",-215540.0,Interest income,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,10,3,"(289,405)",-289405.0,Interest income,PERIOD / 31/12/2007 / RM’000,words
+6,1,11,1,Share of results in jointly controlled entities and associates,,,,words
+6,1,11,2,"(74,307)",-74307.0,Share of results in jointly controlled entities and associates,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,11,3,"20,865",20865.0,Share of results in jointly controlled entities and associates,PERIOD / 31/12/2007 / RM’000,words
+6,1,12,1,Net gain on deemed disposal/dilution of shareholdings,,,,words
+6,1,12,2,"(45,143)",-45143.0,Net gain on deemed disposal/dilution of shareholdings,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,12,3,"(989,290)",-989290.0,Net gain on deemed disposal/dilution of shareholdings,PERIOD / 31/12/2007 / RM’000,words
+6,1,13,1,Other non-cash items,,,,words
+6,1,13,2,"75,136",75136.0,Other non-cash items,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,13,3,"(46,261)",-46261.0,Other non-cash items,PERIOD / 31/12/2007 / RM’000,words
+6,1,14,1,"1,943,162",1943162.0,Adjustments for:,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,14,2,"306,417",306417.0,Adjustments for:,PERIOD / 31/12/2007 / RM’000,words
+6,1,15,1,Operating profit before changes in working capital,,,,words
+6,1,15,2,"3,677,956",3677956.0,Operating profit before changes in working capital,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,15,3,"3,700,926",3700926.0,Operating profit before changes in working capital,PERIOD / 31/12/2007 / RM’000,words
+6,1,16,1,Net change in current assets,,,,words
+6,1,16,2,"(412,312)",-412312.0,Net change in current assets,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,16,3,"(194,466)",-194466.0,Net change in current assets,PERIOD / 31/12/2007 / RM’000,words
+6,1,17,1,Net change in current liabilities,,,,words
+6,1,17,2,"126,001",126001.0,Net change in current liabilities,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,17,3,"23,020",23020.0,Net change in current liabilities,PERIOD / 31/12/2007 / RM’000,words
+6,1,18,1,"(286,311)",-286311.0,Adjustments for:,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,18,2,"(171,446)",-171446.0,Adjustments for:,PERIOD / 31/12/2007 / RM’000,words
+6,1,19,1,Cash generated from operations,,,,words
+6,1,19,2,"3,391,645",3391645.0,Cash generated from operations,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,19,3,"3,529,480",3529480.0,Cash generated from operations,PERIOD / 31/12/2007 / RM’000,words
+6,1,20,1,Taxation paid,,,,words
+6,1,20,2,"(885,852)",-885852.0,Taxation paid,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,20,3,"(705,609)",-705609.0,Taxation paid,PERIOD / 31/12/2007 / RM’000,words
+6,1,21,1,Retirement gratuities paid,,,,words
+6,1,21,2,"(11,685)",-11685.0,Retirement gratuities paid,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,21,3,"(5,891)",-5891.0,Retirement gratuities paid,PERIOD / 31/12/2007 / RM’000,words
+6,1,22,1,Other net operating receipts,,,,words
+6,1,22,2,"23,942",23942.0,Other net operating receipts,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,22,3,"26,149",26149.0,Other net operating receipts,PERIOD / 31/12/2007 / RM’000,words
+6,1,23,1,"(873,595)",-873595.0,Adjustments for:,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,23,2,"(685,351)",-685351.0,Adjustments for:,PERIOD / 31/12/2007 / RM’000,words
+6,1,24,1,NET CASH INFLOW FROM OPERATING ACTIVITIES,,,,words
+6,1,24,2,"2,518,050",2518050.0,NET CASH INFLOW FROM OPERATING ACTIVITIES,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+6,1,24,3,"2,844,129",2844129.0,NET CASH INFLOW FROM OPERATING ACTIVITIES,PERIOD / 31/12/2007 / RM’000,words
+7,1,1,1,Purchase of PPE,,,,words
+7,1,1,2,"(2,500,208)",-2500208.0,Purchase of PPE,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,1,3,"(1,320,526)",-1320526.0,Purchase of PPE,PERIOD / 31/12/2007 / RM’000,words
+7,1,2,1,Increase in investments and other long term assets,,,,words
+7,1,2,2,"(525,887)",-525887.0,Increase in investments and other long term assets,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,2,3,"(1,880,833)",-1880833.0,Increase in investments and other long term assets,PERIOD / 31/12/2007 / RM’000,words
+7,1,3,1,Investment in jointly controlled entities,,,,words
+7,1,3,2,"(60,828)",-60828.0,Investment in jointly controlled entities,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,3,3,"(1,901)",-1901.0,Investment in jointly controlled entities,PERIOD / 31/12/2007 / RM’000,words
+7,1,4,1,Investment in associate,,,,words
+7,1,4,2,"(8,686)",-8686.0,Investment in associate,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,4,3,"(71,990)",-71990.0,Investment in associate,PERIOD / 31/12/2007 / RM’000,words
+7,1,5,1,Interest received,,,,words
+7,1,5,2,"222,258",222258.0,Interest received,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,5,3,"283,562",283562.0,Interest received,PERIOD / 31/12/2007 / RM’000,words
+7,1,6,1,Proceeds from disposal of PPE,,,,words
+7,1,6,2,"44,859",44859.0,Proceeds from disposal of PPE,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,6,3,"12,454",12454.0,Proceeds from disposal of PPE,PERIOD / 31/12/2007 / RM’000,words
+7,1,7,1,Other net receipts from investing activities,,,,words
+7,1,7,2,"43,049",43049.0,Other net receipts from investing activities,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,7,3,"34,710",34710.0,Other net receipts from investing activities,PERIOD / 31/12/2007 / RM’000,words
+7,1,8,1,NET CASH USED IN INVESTING ACTIVITIES,,,,words
+7,1,8,2,"(2,623,292)",-2623292.0,NET CASH USED IN INVESTING ACTIVITIES,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,8,3,"(1,669,155)",-1669155.0,NET CASH USED IN INVESTING ACTIVITIES,PERIOD / 31/12/2007 / RM’000,words
+7,1,9,1,CASH FLOWS FROM FINANCING ACTIVITIES,,,,words
+7,1,10,1,Repayment of borrowings,,,,words
+7,1,10,2,"(1,587,567)",-1587567.0,Repayment of borrowings,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,10,3,"(2,154,505)",-2154505.0,Repayment of borrowings,PERIOD / 31/12/2007 / RM’000,words
+7,1,11,1,Finance cost paid,,,,words
+7,1,11,2,"(406,615)",-406615.0,Finance cost paid,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,11,3,"(308,516)",-308516.0,Finance cost paid,PERIOD / 31/12/2007 / RM’000,words
+7,1,12,1,Dividends paid to minority shareholders,,,,words
+7,1,12,2,"(323,844)",-323844.0,Dividends paid to minority shareholders,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,12,3,"(324,113)",-324113.0,Dividends paid to minority shareholders,PERIOD / 31/12/2007 / RM’000,words
+7,1,13,1,Dividends paid,,,,words
+7,1,13,2,"(199,819)",-199819.0,Dividends paid,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,13,3,"(991,628)",-991628.0,Dividends paid,PERIOD / 31/12/2007 / RM’000,words
+7,1,14,1,Buy-back of shares,,,,words
+7,1,14,2,"(185,460)",-185460.0,Buy-back of shares,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,14,3,"(484,407)",-484407.0,Buy-back of shares,PERIOD / 31/12/2007 / RM’000,words
+7,1,15,1,Proceeds from bank borrowings,,,,words
+7,1,15,2,"2,663,310",2663310.0,Proceeds from bank borrowings,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,15,3,"130,207",130207.0,Proceeds from bank borrowings,PERIOD / 31/12/2007 / RM’000,words
+7,1,16,1,Proceeds from issue of shares to minority shareholders,,,,words
+7,1,16,2,"11,038",11038.0,Proceeds from issue of shares to minority shareholders,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,16,3,"2,477,496",2477496.0,Proceeds from issue of shares to minority shareholders,PERIOD / 31/12/2007 / RM’000,words
+7,1,17,1,Other net receipts from financing activities,,,,words
+7,1,17,2,757,757.0,Other net receipts from financing activities,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,17,3,"26,894",26894.0,Other net receipts from financing activities,PERIOD / 31/12/2007 / RM’000,words
+7,1,18,1,NET CASH (USED IN)/ INFLOW FROM,,,,words
+7,1,19,1,FINANCING ACTIVITIES,,,,words
+7,1,19,2,"(166,988)",-166988.0,FINANCING ACTIVITIES,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,19,3,"280,354",280354.0,FINANCING ACTIVITIES,PERIOD / 31/12/2007 / RM’000,words
+7,1,20,1,NET (DECREASE)/INCREASE IN CASH AND CASH,,,,words
+7,1,21,1,EQUIVALENTS FROM CONTINUING OPERATIONS,,,,words
+7,1,21,2,"(272,230)",-272230.0,EQUIVALENTS FROM CONTINUING OPERATIONS,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,21,3,"1,455,328",1455328.0,EQUIVALENTS FROM CONTINUING OPERATIONS,PERIOD / 31/12/2007 / RM’000,words
+7,1,22,1,CASH AND CASH EQUIVALENTS AT BEGINNING OF,,,,words
+7,1,23,1,FINANCIAL YEAR,,,,words
+7,1,23,2,"9,312,189",9312189.0,FINANCIAL YEAR,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,23,3,"7,927,138",7927138.0,FINANCIAL YEAR,PERIOD / 31/12/2007 / RM’000,words
+7,1,24,1,EFFECT OF CURRENCY TRANSLATION,,,,words
+7,1,24,2,"263,316",263316.0,EFFECT OF CURRENCY TRANSLATION,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,24,3,"(70,277)",-70277.0,EFFECT OF CURRENCY TRANSLATION,PERIOD / 31/12/2007 / RM’000,words
+7,1,25,1,CASH AND CASH EQUIVALENTS AT END OF,,,,words
+7,1,26,1,FINANCIAL YEAR,,,,words
+7,1,26,2,"9,303,275",9303275.0,FINANCIAL YEAR,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+7,1,26,3,"9,312,189",9312189.0,FINANCIAL YEAR,PERIOD / 31/12/2007 / RM’000,words
+8,1,1,1,Bank balances and deposits,,,,words
+8,1,1,2,"6,937,177",6937177.0,Bank balances and deposits,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+8,1,1,3,"7,800,851",7800851.0,Bank balances and deposits,PERIOD / 31/12/2007 / RM’000,words
+8,1,2,1,Money market instruments (included in Short term investments),,,,words
+8,1,2,2,"2,366,098",2366098.0,Money market instruments (included in Short term investments),YEAR-TO-DATE / 31/12/2008 / RM’000,words
+8,1,2,3,"1,511,338",1511338.0,Money market instruments (included in Short term investments),PERIOD / 31/12/2007 / RM’000,words
+8,1,3,1,"9,303,275",9303275.0,,YEAR-TO-DATE / 31/12/2008 / RM’000,words
+8,1,3,2,"9,312,189",9312189.0,,PERIOD / 31/12/2007 / RM’000,words
+13,1,1,1,External,,,,words
+13,1,1,2,"6,251,021",6251021.0,External,Leisure & / Hospitality / RM’000,words
+13,1,1,3,"936,524",936524.0,External,Plantation / RM’000,words
+13,1,1,4,"117,556",117556.0,External,Property / RM’000,words
+13,1,1,5,"182,738",182738.0,External,Oil & Gas / RM’000,words
+13,1,1,6,"1,563,985",1563985.0,External,Power / RM’000,words
+13,1,1,7,"30,684",30684.0,External,Others / RM’000,words
+13,1,1,8,-,,,,words
+13,1,1,9,"9,082,508",9082508.0,External,Total / RM’000,words
+13,1,2,1,Inter segment,,,,words
+13,1,2,2,"3,882",3882.0,Inter segment,Leisure & / Hospitality / RM’000,words
+13,1,2,3,-,,,,words
+13,1,2,4,"17,590",17590.0,Inter segment,Property / RM’000,words
+13,1,2,5,-,,,,words
+13,1,2,6,-,,,,words
+13,1,2,7,"77,893",77893.0,Inter segment,Others / RM’000,words
+13,1,2,8,"(99,365)",-99365.0,Inter segment,Eliminations / RM’000,words
+13,1,2,9,-,,,,words
+13,1,3,1,"6,254,903",6254903.0,,Leisure & / Hospitality / RM’000,words
+13,1,3,2,"936,524",936524.0,,Plantation / RM’000,words
+13,1,3,3,"135,146",135146.0,,Property / RM’000,words
+13,1,3,4,"182,738",182738.0,,Oil & Gas / RM’000,words
+13,1,3,5,"1,563,985",1563985.0,,Power / RM’000,words
+13,1,3,6,"108,577",108577.0,,Others / RM’000,words
+13,1,3,7,"(99,365)",-99365.0,,Eliminations / RM’000,words
+13,1,3,8,"9,082,508",9082508.0,,Total / RM’000,words
+13,1,4,1,Results,,,,words
+13,1,5,1,Segment profit/(loss),,,,words
+13,1,5,2,"2,229,320",2229320.0,Segment profit/(loss),Leisure & / Hospitality / RM’000,words
+13,1,5,3,"458,393",458393.0,Segment profit/(loss),Plantation / RM’000,words
+13,1,5,4,"25,941",25941.0,Segment profit/(loss),Property / RM’000,words
+13,1,5,5,"73,492",73492.0,Segment profit/(loss),Oil & Gas / RM’000,words
+13,1,5,6,"193,559",193559.0,Segment profit/(loss),Power / RM’000,words
+13,1,5,7,"(57,432)",-57432.0,Segment profit/(loss),Others / RM’000,words
+13,1,5,8,"(76,042)",-76042.0,Segment profit/(loss),Eliminations / RM’000,words
+13,1,5,9,"2,847,231",2847231.0,Segment profit/(loss),Total / RM’000,words
+16,1,1,1,2008,2008.0,,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,1,2,2007,2007.0,,The comparison of the quarterly results are tabulated below:,words
+16,1,1,3,%,,,,words
+16,1,1,4,3Q 2008,,,,words
+16,1,1,5,%,,,,words
+16,1,1,6,2008,2008.0,,Financial Year-to-date,words
+16,1,1,7,2007,2007.0,,Financial Year-to-date,words
+16,1,1,8,%,,,,words
+16,1,2,1,RM’million,,,,words
+16,1,2,2,RM’million,,,,words
+16,1,2,3,+/-,,,,words
+16,1,2,4,RM’million,,,,words
+16,1,2,5,+/-,,,,words
+16,1,2,6,RM’million,,,,words
+16,1,2,7,RM’million,,,,words
+16,1,2,8,+/-,,,,words
+16,1,3,1,Revenue,,,,words
+16,1,4,1,Leisure,,,,words
+16,1,5,1,& Hospitality,,,,words
+16,1,5,2,"1,704.3",1704.3,& Hospitality,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,5,3,"1,504.9",1504.9,& Hospitality,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,5,4,+13,13.0,& Hospitality,The comparison of the quarterly results are tabulated below:,words
+16,1,5,5,"1,610.3",1610.3,& Hospitality,Preceding / Quarter,words
+16,1,5,6,+6,6.0,& Hospitality,,words
+16,1,5,7,"6,251.0",6251.0,& Hospitality,Financial Year-to-date,words
+16,1,5,8,"5,889.0",5889.0,& Hospitality,Financial Year-to-date,words
+16,1,5,9,+6,6.0,& Hospitality,,words
+16,1,6,1,Plantation,,,,words
+16,1,6,2,138.2,138.2,Plantation,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,6,3,289.9,289.9,Plantation,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,6,4,-52,-52.0,Plantation,The comparison of the quarterly results are tabulated below:,words
+16,1,6,5,261.4,261.4,Plantation,Preceding / Quarter,words
+16,1,6,6,-47,-47.0,Plantation,,words
+16,1,6,7,936.5,936.5,Plantation,Financial Year-to-date,words
+16,1,6,8,845.7,845.7,Plantation,Financial Year-to-date,words
+16,1,6,9,+11,11.0,Plantation,,words
+16,1,7,1,Property,,,,words
+16,1,7,2,20.6,20.6,Property,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,7,3,19.2,19.2,Property,The comparison of the quarterly results are tabulated below:,words
+16,1,7,4,+7,7.0,Property,The comparison of the quarterly results are tabulated below:,words
+16,1,7,5,29.3,29.3,Property,Preceding / Quarter,words
+16,1,7,6,-30,-30.0,Property,,words
+16,1,7,7,117.6,117.6,Property,Financial Year-to-date,words
+16,1,7,8,81.7,81.7,Property,Financial Year-to-date,words
+16,1,7,9,+44,44.0,Property,,words
+16,1,8,1,Power,,,,words
+16,1,8,2,471.1,471.1,Power,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,8,3,390.0,390.0,Power,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,8,4,+21,21.0,Power,The comparison of the quarterly results are tabulated below:,words
+16,1,8,5,414.2,414.2,Power,Preceding / Quarter,words
+16,1,8,6,+14,14.0,Power,,words
+16,1,8,7,"1,564.0",1564.0,Power,Financial Year-to-date,words
+16,1,8,8,"1,491.6",1491.6,Power,Financial Year-to-date,words
+16,1,8,9,+5,5.0,Power,,words
+16,1,9,1,Oil & Gas,,,,words
+16,1,9,2,51.0,51.0,Oil & Gas,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,9,3,41.3,41.3,Oil & Gas,The comparison of the quarterly results are tabulated below:,words
+16,1,9,4,+23,23.0,Oil & Gas,The comparison of the quarterly results are tabulated below:,words
+16,1,9,5,49.1,49.1,Oil & Gas,Preceding / Quarter,words
+16,1,9,6,+4,4.0,Oil & Gas,,words
+16,1,9,7,182.7,182.7,Oil & Gas,Financial Year-to-date,words
+16,1,9,8,142.9,142.9,Oil & Gas,Financial Year-to-date,words
+16,1,9,9,+28,28.0,Oil & Gas,,words
+16,1,10,1,Others,,,,words
+16,1,10,2,5.0,5.0,Others,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,10,3,4.3,4.3,Others,The comparison of the quarterly results are tabulated below:,words
+16,1,10,4,+16,16.0,Others,The comparison of the quarterly results are tabulated below:,words
+16,1,10,5,4.5,4.5,Others,Preceding / Quarter,words
+16,1,10,6,+11,11.0,Others,,words
+16,1,10,7,30.7,30.7,Others,Financial Year-to-date,words
+16,1,10,8,32.9,32.9,Others,Financial Year-to-date,words
+16,1,10,9,-7,-7.0,Others,,words
+16,1,11,1,"2,390.2",2390.2,Leisure,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,11,2,"2,249.6",2249.6,Leisure,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,11,3,+6,6.0,Leisure,The comparison of the quarterly results are tabulated below:,words
+16,1,11,4,"2,368.8",2368.8,Leisure,Preceding / Quarter,words
+16,1,11,5,+1,1.0,Leisure,,words
+16,1,11,6,"9,082.5",9082.5,Leisure,Financial Year-to-date,words
+16,1,11,7,"8,483.8",8483.8,Leisure,Financial Year-to-date,words
+16,1,11,8,+7,7.0,Leisure,,words
+16,1,12,1,Profit/(loss),,,,words
+16,1,13,1,before tax,,,,words
+16,1,14,1,Leisure,,,,words
+16,1,15,1,& Hospitality,,,,words
+16,1,15,2,688.0,688.0,& Hospitality,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,15,3,520.6,520.6,& Hospitality,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,15,4,+32,32.0,& Hospitality,The comparison of the quarterly results are tabulated below:,words
+16,1,15,5,501.9,501.9,& Hospitality,Preceding / Quarter,words
+16,1,15,6,+37,37.0,& Hospitality,,words
+16,1,15,7,"2,229.3",2229.3,& Hospitality,Financial Year-to-date,words
+16,1,15,8,"2,019.2",2019.2,& Hospitality,Financial Year-to-date,words
+16,1,15,9,+10,10.0,& Hospitality,,words
+16,1,16,1,Plantation,,,,words
+16,1,16,2,40.4,40.4,Plantation,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,16,3,152.9,152.9,Plantation,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,16,4,-74,-74.0,Plantation,The comparison of the quarterly results are tabulated below:,words
+16,1,16,5,130.8,130.8,Plantation,Preceding / Quarter,words
+16,1,16,6,-69,-69.0,Plantation,,words
+16,1,16,7,458.4,458.4,Plantation,Financial Year-to-date,words
+16,1,16,8,431.0,431.0,Plantation,Financial Year-to-date,words
+16,1,16,9,+6,6.0,Plantation,,words
+16,1,17,1,Property,,,,words
+16,1,17,2,3.4,3.4,Property,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,17,3,5.4,5.4,Property,The comparison of the quarterly results are tabulated below:,words
+16,1,17,4,-37,-37.0,Property,The comparison of the quarterly results are tabulated below:,words
+16,1,17,5,8.5,8.5,Property,Preceding / Quarter,words
+16,1,17,6,-60,-60.0,Property,,words
+16,1,17,7,25.9,25.9,Property,Financial Year-to-date,words
+16,1,17,8,23.0,23.0,Property,Financial Year-to-date,words
+16,1,17,9,+13,13.0,Property,,words
+16,1,18,1,Power,,,,words
+16,1,18,2,(20.5),-20.5,Power,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,18,3,126.7,126.7,Power,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,18,4,>100,,,,words
+16,1,18,5,5.5,5.5,Power,Preceding / Quarter,words
+16,1,18,6,>100,,,,words
+16,1,18,7,193.6,193.6,Power,Financial Year-to-date,words
+16,1,18,8,505.9,505.9,Power,Financial Year-to-date,words
+16,1,18,9,-62,-62.0,Power,,words
+16,1,19,1,Oil & Gas,,,,words
+16,1,19,2,22.8,22.8,Oil & Gas,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,19,3,17.7,17.7,Oil & Gas,The comparison of the quarterly results are tabulated below:,words
+16,1,19,4,+29,29.0,Oil & Gas,The comparison of the quarterly results are tabulated below:,words
+16,1,19,5,15.3,15.3,Oil & Gas,Preceding / Quarter,words
+16,1,19,6,+49,49.0,Oil & Gas,,words
+16,1,19,7,73.5,73.5,Oil & Gas,Financial Year-to-date,words
+16,1,19,8,49.0,49.0,Oil & Gas,Financial Year-to-date,words
+16,1,19,9,+50,50.0,Oil & Gas,,words
+16,1,20,1,Others,,,,words
+16,1,20,2,(54.9),-54.9,Others,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,20,3,10.7,10.7,Others,The comparison of the quarterly results are tabulated below:,words
+16,1,20,4,>100,,,,words
+16,1,20,5,(71.4),-71.4,Others,Preceding / Quarter,words
+16,1,20,6,-23,-23.0,Others,,words
+16,1,20,7,(133.5),-133.5,Others,Financial Year-to-date,words
+16,1,20,8,102.0,102.0,Others,Financial Year-to-date,words
+16,1,20,9,>100,,,,words
+16,1,21,1,679.2,679.2,Leisure,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,21,2,834.0,834.0,Leisure,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,21,3,-19,-19.0,Leisure,The comparison of the quarterly results are tabulated below:,words
+16,1,21,4,590.6,590.6,Leisure,Preceding / Quarter,words
+16,1,21,5,+15,15.0,Leisure,,words
+16,1,21,6,"2,847.2",2847.2,Leisure,Financial Year-to-date,words
+16,1,21,7,"3,130.1",3130.1,Leisure,Financial Year-to-date,words
+16,1,21,8,-9,-9.0,Leisure,,words
+16,1,22,1,Net gain on deemed,,,,words
+16,1,23,1,disposal/dilution,,,,words
+16,1,24,1,of shareholdings,,,,words
+16,1,24,2,-,,,,words
+16,1,24,3,43.5,43.5,of shareholdings -,The comparison of the quarterly results are tabulated below:,words
+16,1,24,4,-100,-100.0,of shareholdings -,The comparison of the quarterly results are tabulated below:,words
+16,1,24,5,13.7,13.7,of shareholdings -,Preceding / Quarter,words
+16,1,24,6,-100,-100.0,of shareholdings -,,words
+16,1,24,7,45.1,45.1,of shareholdings -,Financial Year-to-date,words
+16,1,24,8,989.3,989.3,of shareholdings -,Financial Year-to-date,words
+16,1,24,9,-95,-95.0,of shareholdings -,,words
+16,1,25,1,Gain on disposal of,,,,words
+16,1,26,1,investment in,,,,words
+16,1,27,1,Impairment losses,,,,words
+16,1,27,2,(781.5),-781.5,Impairment losses,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,27,3,-,,,,words
+16,1,27,4,>100,,,,words
+16,1,27,5,(396.3),-396.3,Impairment losses,Preceding / Quarter,words
+16,1,27,6,+97,97.0,Impairment losses,,words
+16,1,27,7,"(1,178.0)",-1178.0,Impairment losses,Financial Year-to-date,words
+16,1,27,8,"(1,016.1)",-1016.1,Impairment losses,Financial Year-to-date,words
+16,1,27,9,+16,16.0,Impairment losses,,words
+16,1,28,1,Interest income,,,,words
+16,1,28,2,49.0,49.0,Interest income,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,28,3,76.0,76.0,Interest income,The comparison of the quarterly results are tabulated below:,words
+16,1,28,4,-36,-36.0,Interest income,The comparison of the quarterly results are tabulated below:,words
+16,1,28,5,57.9,57.9,Interest income,Preceding / Quarter,words
+16,1,28,6,-15,-15.0,Interest income,,words
+16,1,28,7,215.6,215.6,Interest income,Financial Year-to-date,words
+16,1,28,8,289.4,289.4,Interest income,Financial Year-to-date,words
+16,1,28,9,-26,-26.0,Interest income,,words
+16,1,29,1,Finance cost,,,,words
+16,1,29,2,(64.3),-64.3,Finance cost,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,29,3,(76.3),-76.3,Finance cost,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,29,4,-16,-16.0,Finance cost,The comparison of the quarterly results are tabulated below:,words
+16,1,29,5,(69.2),-69.2,Finance cost,Preceding / Quarter,words
+16,1,29,6,-7,-7.0,Finance cost,,words
+16,1,29,7,(269.4),-269.4,Finance cost,Financial Year-to-date,words
+16,1,29,8,(395.4),-395.4,Finance cost,Financial Year-to-date,words
+16,1,29,9,-32,-32.0,Finance cost,,words
+16,1,30,1,Share of results,,,,words
+16,1,31,1,in jointly controlled,,,,words
+16,1,32,1,entities and,,,,words
+16,1,33,1,associates,,,,words
+16,1,33,2,8.7,8.7,associates,The comparison of the quarterly results are tabulated below: / Current Quarter,words
+16,1,33,3,32.4,32.4,associates,The comparison of the quarterly results are tabulated below:,words
+16,1,33,4,-73,-73.0,associates,The comparison of the quarterly results are tabulated below:,words
+16,1,33,5,23.0,23.0,associates,Preceding / Quarter,words
+16,1,33,6,-62,-62.0,associates,,words
+16,1,33,7,74.3,74.3,associates,Financial Year-to-date,words
+16,1,33,8,(20.9),-20.9,associates,Financial Year-to-date,words
+16,1,33,9,>100,,,,words
+19,1,1,1,Malaysian income tax charge,,,,words
+19,1,1,2,"200,591",200591.0,Malaysian income tax charge,Current / quarter / RM’000,words
+19,1,1,3,"816,107",816107.0,Malaysian income tax charge,Current / Financial / Year-to-date / RM’000,words
+19,1,2,1,Foreign income tax charge,,,,words
+19,1,2,2,"20,256",20256.0,Foreign income tax charge,Current / quarter / RM’000,words
+19,1,2,3,"43,888",43888.0,Foreign income tax charge,Current / Financial / Year-to-date / RM’000,words
+19,1,3,1,"220,847",220847.0,,Current / quarter / RM’000,words
+19,1,3,2,"859,995",859995.0,,Current / Financial / Year-to-date / RM’000,words
+19,1,4,1,Deferred tax credit,,,,words
+19,1,4,2,"(30,050)",-30050.0,Deferred tax credit,Current / quarter / RM’000,words
+19,1,4,3,"(100,601)",-100601.0,Deferred tax credit,Current / Financial / Year-to-date / RM’000,words
+19,1,5,1,"190,797",190797.0,,Current / quarter / RM’000,words
+19,1,5,2,"759,394",759394.0,,Current / Financial / Year-to-date / RM’000,words
+19,1,6,1,Prior period taxation,,,,words
+19,1,7,1,Income tax under/(over) provided,,,,words
+19,1,7,2,64,64.0,Income tax under/(over) provided,Current / quarter / RM’000,words
+19,1,7,3,"(15,183)",-15183.0,Income tax under/(over) provided,Current / Financial / Year-to-date / RM’000,words
+19,1,8,1,Deferred tax under provided,,,,words
+19,1,8,2,76,76.0,Deferred tax under provided,Current / quarter / RM’000,words
+19,1,8,3,"7,164",7164.0,Deferred tax under provided,Current / Financial / Year-to-date / RM’000,words
+19,1,9,1,Taxation charge,,,,words
+19,1,9,2,"190,937",190937.0,Taxation charge,Current / quarter / RM’000,words
+19,1,9,3,"751,375",751375.0,Taxation charge,Current / Financial / Year-to-date / RM’000,words
+20,1,1,1,,,,,lines
+20,1,1,2,Current quarter RM’000,,,,lines
+20,1,1,3,Current Financial Year-to-date RM’000,,,,lines
+20,1,2,1,Total purchases at cost,,,,lines
+20,1,2,2,"5,422",5422.0,Total purchases at cost,,lines
+20,1,2,3,"29,161",29161.0,Total purchases at cost,,lines
+20,1,3,1,Total disposal proceeds,,,,lines
+20,1,3,2,-,,,,lines
+20,1,3,3,"18,080",18080.0,Total disposal proceeds -,,lines
+20,1,4,1,Total gain on disposal,,,,lines
+20,1,4,2,-,,,,lines
+20,1,4,3,"5,457",5457.0,Total gain on disposal -,,lines
+20,2,1,1,,,,,lines
+20,2,1,2,RM’000,,,,lines
+20,2,2,1,Total investments at cost,,,,lines
+20,2,2,2,"1,541,109",1541109.0,Total investments at cost,,lines
+20,2,3,1,Total investments at book value,,,,lines
+20,2,3,2,"694,820",694820.0,Total investments at book value,,lines
+20,2,4,1,Total investments at market value,,,,lines
+20,2,4,2,"625,581",625581.0,Total investments at market value,,lines
+21,1,1,1,Short term borrowings,,,,words
+21,1,1,2,Secured,,,,words
+21,1,1,3,RMB,,,,words
+21,1,1,4,"498,936",498936.0,Short term borrowings Secured RMB,,words
+21,1,1,5,"252,978",252978.0,Short term borrowings Secured RMB,RM / Equivalent / ’000,words
+21,1,2,1,Secured,,,,words
+21,1,2,2,GBP,,,,words
+21,1,2,3,187,187.0,Secured GBP,,words
+21,1,2,4,929,929.0,Secured GBP,RM / Equivalent / ’000,words
+21,1,3,1,Secured,,,,words
+21,1,3,2,USD,,,,words
+21,1,3,3,152,152.0,Secured USD,,words
+21,1,3,4,527,527.0,Secured USD,RM / Equivalent / ’000,words
+21,1,4,1,Secured,,,,words
+21,1,4,2,IDR,,,,words
+21,1,4,3,"509,777",509777.0,Secured IDR,,words
+21,1,4,4,162,162.0,Secured IDR,RM / Equivalent / ’000,words
+21,1,5,1,Secured,,,,words
+21,1,5,2,SGD,,,,words
+21,1,5,3,63,63.0,Secured SGD,,words
+21,1,5,4,151,151.0,Secured SGD,RM / Equivalent / ’000,words
+21,1,6,1,Secured,,,,words
+21,1,6,2,HKD,,,,words
+21,1,6,3,7,7.0,Secured HKD,,words
+21,1,6,4,3,3.0,Secured HKD,RM / Equivalent / ’000,words
+21,1,7,1,Unsecured,,,,words
+21,1,7,2,USD,,,,words
+21,1,7,3,"30,000",30000.0,Unsecured USD,,words
+21,1,7,4,"104,115",104115.0,Unsecured USD,RM / Equivalent / ’000,words
+21,1,8,1,Unsecured,,,,words
+21,1,8,2,GBP,,,,words
+21,1,8,3,"8,307",8307.0,Unsecured GBP,,words
+21,1,8,4,"41,263",41263.0,Unsecured GBP,RM / Equivalent / ’000,words
+21,1,9,1,Unsecured,,,,words
+21,1,9,2,SGD,,,,words
+21,1,9,3,"9,968",9968.0,Unsecured SGD,,words
+21,1,9,4,"23,879",23879.0,Unsecured SGD,RM / Equivalent / ’000,words
+21,1,10,1,Unsecured,,,,words
+21,1,10,2,IDR,,,,words
+21,1,10,3,"57,828,436",57828436.0,Unsecured IDR,Foreign / Currency,words
+21,1,10,4,"18,328",18328.0,Unsecured IDR,RM / Equivalent / ’000,words
+21,1,11,1,Long term borrowings,,,,words
+21,1,11,2,Secured,,,,words
+21,1,11,3,RMB,,,,words
+21,1,11,4,"2,242,937",2242937.0,Long term borrowings Secured RMB,,words
+21,1,11,5,"1,137,247",1137247.0,Long term borrowings Secured RMB,RM / Equivalent / ’000,words
+21,1,12,1,Secured,,,,words
+21,1,12,2,GBP,,,,words
+21,1,12,3,"5,300",5300.0,Secured GBP,,words
+21,1,12,4,"26,329",26329.0,Secured GBP,RM / Equivalent / ’000,words
+21,1,13,1,Secured,,,,words
+21,1,13,2,SGD,,,,words
+21,1,13,3,"526,531",526531.0,Secured SGD,,words
+21,1,13,4,"1,261,312",1261312.0,Secured SGD,RM / Equivalent / ’000,words
+21,1,14,1,Secured,,,,words
+21,1,14,2,USD,,,,words
+21,1,14,3,297,297.0,Secured USD,,words
+21,1,14,4,"1,029",1029.0,Secured USD,RM / Equivalent / ’000,words
+21,1,15,1,Secured,,,,words
+21,1,15,2,IDR,,,,words
+21,1,15,3,"616,668",616668.0,Secured IDR,,words
+21,1,15,4,196,196.0,Secured IDR,RM / Equivalent / ’000,words
+21,1,16,1,Secured,,,,words
+21,1,16,2,HKD,,,,words
+21,1,16,3,21,21.0,Secured HKD,,words
+21,1,16,4,9,9.0,Secured HKD,RM / Equivalent / ’000,words
+21,1,17,1,Unsecured,,,,words
+21,1,17,2,USD,,,,words
+21,1,17,3,"292,163",292163.0,Unsecured USD,,words
+21,1,17,4,"1,013,953",1013953.0,Unsecured USD,RM / Equivalent / ’000,words
+21,1,18,1,Unsecured,,,,words
+21,1,18,2,GBP,,,,words
+21,1,18,3,"111,323",111323.0,Unsecured GBP,,words
+21,1,18,4,"552,995",552995.0,Unsecured GBP,RM / Equivalent / ’000,words
+21,1,19,1,Unsecured,,,,words
+21,1,19,2,SGD,,,,words
+21,1,19,3,"593,283",593283.0,Unsecured SGD,,words
+21,1,19,4,"1,421,218",1421218.0,Unsecured SGD,RM / Equivalent / ’000,words
+22,1,1,1,Transaction Date,,,,lines
+22,1,1,2,Effective Date of Commencement,,,,lines
+22,1,1,3,Maturity Dates,,,,lines
+22,1,1,4,Outstanding Contract Amounts SGD’000,,,,lines
+22,1,2,1,20 March 2008,,,,lines
+22,1,2,2,30 September 2008,,,,lines
+22,1,2,3,28/02/2009 to 31/12/2011,,,,lines
+22,1,2,4,"1,500,000",1500000.0,20 March 2008 30 September 2008 28/02/2009 to 31/12/2011,,lines
+22,1,3,1,02 June 2008,,,,lines
+22,1,3,2,30 September 2008,,,,lines
+22,1,3,3,28/02/2009 to 31/12/2011,,,,lines
+22,1,3,4,"200,000",200000.0,02 June 2008 30 September 2008 28/02/2009 to 31/12/2011,,lines
+22,1,4,1,09 June 2008,,,,lines
+22,1,4,2,30 September 2008,,,,lines
+22,1,4,3,28/02/2009 to 31/12/2011,,,,lines
+22,1,4,4,"500,000",500000.0,09 June 2008 30 September 2008 28/02/2009 to 31/12/2011,,lines
+22,1,5,1,15 July 2008,,,,lines
+22,1,5,2,30 September 2008,,,,lines
+22,1,5,3,28/02/2009 to 31/12/2011,,,,lines
+22,1,5,4,"300,000",300000.0,15 July 2008 30 September 2008 28/02/2009 to 31/12/2011,,lines
+22,1,6,1,04 August 2008,,,,lines
+22,1,6,2,30 September 2008,,,,lines
+22,1,6,3,28/02/2009 to 31/12/2011,,,,lines
+22,1,6,4,"500,000",500000.0,04 August 2008 30 September 2008 28/02/2009 to 31/12/2011,,lines
+22,1,7,1,Total,,,,lines
+22,1,7,2,,,,,lines
+22,1,7,3,,,,,lines
+22,1,7,4,"3,000,000",3000000.0,Total,,lines

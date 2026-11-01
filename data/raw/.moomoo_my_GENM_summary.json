@@ -1,0 +1,14 @@
+{
+  "ticker": "GENM",
+  "posts": 537,
+  "replies": 1230,
+  "records": 1767,
+  "feed_pages": 28,
+  "requests": 0,
+  "comment_requests": 0,
+  "detail_requests": 0,
+  "errors": [],
+  "output": "/home/shami/projects/genting/data/raw/moomoo_my_GENM.jsonl",
+  "min_ts": 1762132607,
+  "max_ts": 1793550027
+}
