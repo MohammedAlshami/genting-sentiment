@@ -2,7 +2,7 @@
 """Backfill i3investor forum threads for GENTING (3182) and GENM (4715).
 
 Covers the eight-year window 2 Nov 2016 00:00 MYT -> 1 Nov 2024 23:59:59 MYT.
-The existing 2024-2026 files are read-only inputs and are never overwritten by
+The existing 2024-2026 files are left untouched and are never overwritten by
 this script.
 
 Timestamp handling is identical to scripts/collect_i3investor.py: absolute
@@ -285,7 +285,17 @@ class Client:
                     except Exception as exc:  # noqa: BLE001
                         print(f"    proxy fallback failed: {exc}", file=sys.stderr)
                     continue
-                if r.status_code in (429, 500, 502, 503, 504):
+                if r.status_code == 429:
+                    # Cloudflare's soft rate limit: pause direct access and use
+                    # a proxy for the next pages, then probe direct again.
+                    self.direct_blocked_until = time.monotonic() + 120.0
+                    print(f"    HTTP 429 for {url}; 120s proxy cooldown", file=sys.stderr)
+                    try:
+                        return None, self._proxy_get(url)
+                    except Exception as exc:  # noqa: BLE001
+                        print(f"    proxy fallback failed: {exc}", file=sys.stderr)
+                    continue
+                if r.status_code in (500, 502, 503, 504):
                     print(f"    HTTP {r.status_code} for {url}", file=sys.stderr)
                     self._sleep_backoff(attempt)
                     attempt += 1
@@ -773,7 +783,7 @@ def main(argv: list[str] | None = None) -> int:
         "--proxy-mode",
         choices=["auto", "google", "allorigins", "direct"],
         default="auto",
-        help="auto: direct first then proxy on 403; google/allorigins: force that proxy",
+        help="auto: direct first, proxy on 403/429; google/allorigins: force that proxy",
     )
     ap.add_argument(
         "--refetch-proxy",

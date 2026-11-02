@@ -1,8 +1,8 @@
 # LLM sentiment classification
 
 ## Coverage
-- Replies in the corpus: **217,451**
-- Replies classified by the LLM: **9,015** (4.1%)
+- Replies in the corpus: **293,601**
+- Replies classified by the LLM: **9,015** (3.1%)
 - Months covered: **2016-11 → 2026-11** (119 months)
 - Labels: bullish 2,504, bearish 2,586, neutral 3,925
 - Confidence: high 4,805, medium 3,950, low 260

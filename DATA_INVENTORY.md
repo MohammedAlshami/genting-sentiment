@@ -8,7 +8,7 @@ restores to the same numbers.
 
 | Dataset | Count |
 |---|---:|
-| Conversation replies / comments | **217,451** |
+| Conversation replies / comments | **293,601** |
 | Conversation posts / videos / threads | **6,990** |
 | Full news articles | **864** |
 | Daily price bars | **4,917** (GENTING 2,459 + GENM 2,458) |
@@ -23,7 +23,7 @@ restores to the same numbers.
 | Source | Posts / items | Replies | Date range (UTC) | Authors | Usable for sentiment? | Caveats |
 |---|---:|---:|---|---:|---|---|
 | **KLSE Screener** | 2 threads | **118,886** | 2018-03-06 → 2026-11-01 | 6,179 | Yes | Public archive starts Mar 2018; no 2016–2018 |
-| **i3investor** | 2 threads | **74,143** | 2016-11-02 → 2026-11-01 | 2,563 | Yes | 4,150 replies carry relative timestamps; full crawl still running |
+| **i3investor** | 2 threads | **150,293** | 2016-11-02 → 2026-11-01 | 4,760 | Yes | 4,150 replies carry relative timestamps; full 2016–2024 crawl complete |
 | **YouTube** | 812 videos | **12,628** | 2017-05-17 → 2026-11-01 | 6,587 | Yes, with timestamp caveat | 4,148 comments are relative-time estimates; many are about the video, not the stock |
 | **Moomoo Malaysia** | 4,782 feed posts | **8,657** | 2024-11-06 → 2026-11-01 | 2,047 | Replies yes; posts need filtering | See moomoo section below |
 | **TikTok** | 84 videos | **1,145** | 2024-11-28 → 2026-11-01 | 889 | Yes, short-form | Short/emoji comments; platform only has recent years |
@@ -128,7 +128,7 @@ The 482 company PDFs and extracted text are in the **`data-v1` release**
 | Cari | 12 | 0.500 | 0% | 0% | 100% |
 | i3 blogs | 2 | 0.600 | 50% | 0% | 50% |
 
-This is a **stratified sample**, not all 217,451 replies. The website shows the
+This is a **stratified sample**, not all 293,601 replies. The website shows the
 sample size for every month.
 
 ## Analysis files
@@ -158,7 +158,7 @@ sample size for every month.
 
 ## Raw files
 
-- 50 JSONL files, **239 MB** (excluding the 308 MB transient HTML cache, not shipped).
+- 52 JSONL files, **319 MB** (excluding the 308 MB transient HTML cache, not shipped).
 - 385 LLM audit batch files, **3.1 MB**.
-- `data/genting.sql.gz`, **25 MB** compressed, restores to 217,451 replies.
+- `data/genting.sql.gz`, **32 MB** compressed, restores to 293,601 replies.
 - `data/company_docs/`, 848 MB, in the `data-v1` release.

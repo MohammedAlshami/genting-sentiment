@@ -16,7 +16,7 @@ export type HistoryPoint = {
 };
 
 export const corpusStats = {
-  "replies": 217451,
+  "replies": 293601,
   "classified": 9015,
   "articles": 864,
   "months": 120,

@@ -10,7 +10,7 @@ The website is the story. This repository is the evidence: every collector, ever
 
 | Item | Value |
 |---|---:|
-| Replies / comments | **217,451** |
+| Replies / comments | **293,601** |
 | Full news articles | **864** |
 | Company documents archived | **2,972** (482 PDFs) |
 | Daily price bars | **2,459** GENTING / **2,458** GENM (2016-10-31 → 2026-10-30) |
@@ -44,7 +44,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 
-# restore the database (25 MB compressed, ~165 MB on disk)
+# restore the database (32 MB compressed, ~223 MB on disk)
 gunzip -c data/genting.sql.gz | sqlite3 data/genting.db
 
 # coverage report
@@ -90,7 +90,7 @@ Stored score = `level / 10`, so **0 = maximally bearish, 0.5 = neutral, 1 = maxi
 
 Each request includes the ticker, date, thread title, parent comment and the comment itself, so short replies (“agree”, “sell”, “2.35 lowball”) are scored in context. Full rubric, special cases and confidence scale are in the prompt.
 
-The site uses a **stratified sample of 9,015 replies** across every month and source. The data appendix on the website shows the sample size `n` for each month; months without a sample are interpolated and marked `*`. The full 217k corpus has not been LLM-scored yet.
+The site uses a **stratified sample of 9,015 replies** across every month and source. The data appendix on the website shows the sample size `n` for each month; months without a sample are interpolated and marked `*`. The full 293k corpus has not been LLM-scored yet.
 
 ## Price and event data
 
@@ -137,7 +137,7 @@ The repository keeps the annual-report manifest, facts and index files needed to
 ## Known gaps
 
 - KLSE Screener’s public archive starts March 2018, so 2016–2018 has no KLSE records.
-- The full i3investor 2016–2024 crawl is still proxy-limited; the cached partial (47,912 replies) is in the database and covers the window.
+- i3investor 2016–2024 is complete: 124,062 replies with 100% absolute page timestamps.
 - YouTube comments use relative timestamps; `time_confidence="relative"` and the original interval are preserved.
 - Facebook groups, X/Twitter search and Xiaohongshu are login-walled and not included.
 - Full-corpus LLM scoring is incomplete by design; the site uses the sample and reports `n`.

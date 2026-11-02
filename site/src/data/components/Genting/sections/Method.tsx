@@ -124,8 +124,8 @@ export function MethodSection() {
             <p className="mt-2 text-[12px] leading-relaxed text-black/45">
               LLM sample, not the full {corpusStats.replies.toLocaleString()} replies.
               The corpus also holds {corpusStats.articles.toLocaleString()} full news
-              articles (2016–2024 backfill included). i3investor 2016–2024 comes from
-              cached thread pages; the full crawl continues. YouTube timestamps are
+              articles (2016–2024 backfill included). i3investor 2016–2024 is the full
+              crawl (124,062 replies, absolute timestamps). YouTube timestamps are
               month-level. Not investment advice.
             </p>
           </div>
